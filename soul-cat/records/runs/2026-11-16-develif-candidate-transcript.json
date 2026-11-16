@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-11-16T21:31:20+08:00",
+  "source": "Root and /root/new20_candidates read-only official findings; records agent did not browse.",
+  "domain": "develif.com",
+  "platform_url": "https://develif.com/",
+  "official_sources": [
+    "https://develif.com/",
+    "https://develif.com/terms",
+    "https://develif.com/features"
+  ],
+  "free_evidence": "Root and candidate-agent official-source research reported homepage FAQ: permanently free/no account, accepted submission immediately public with dofollow. Only URL/email/name/description/category; no CAPTCHA/badge/terms checkbox observed in HTML. Terms/features permit legitimate agent submission. Actual receipt still required.",
+  "submitted": false,
+  "counted": false
+}

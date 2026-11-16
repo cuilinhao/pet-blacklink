@@ -1,0 +1,52 @@
+diff --git a/src/components/soulpaw/shell.tsx b/src/components/soulpaw/shell.tsx
+--- a/src/components/soulpaw/shell.tsx
++++ b/src/components/soulpaw/shell.tsx
+@@ -61,7 +61,11 @@
+     </header>
+   );
+ }
+-export function PettenderlyFooter() {
++export function PettenderlyFooter({
++  showStremitBadge = false,
++}: {
++  showStremitBadge?: boolean;
++}) {
+   const copy = useSiteText();
+   return (
+     <footer className="sp-footer">
+@@ -69,6 +73,23 @@
+         <Brand />
+         <p>{copy('Little moments. Lasting memories.')}</p>
+         <a href="mailto:support@soulpaw.art">support@soulpaw.art</a>
++        {showStremitBadge && (
++          <a
++            href="https://stremit.io"
++            target="_blank"
++            rel="noopener"
++            className="inline-flex max-w-full"
++          >
++            <img
++              src="https://stremit.io/static/img/badges/featured-on-stremit.png"
++              alt="Featured on Stremit"
++              width={240}
++              height={89}
++              loading="lazy"
++              style={{ maxWidth: '100%', height: 'auto' }}
++            />
++          </a>
++        )}
+       </div>
+       <div>
+         <strong>{copy('Create')}</strong>
+diff --git a/src/app/[locale]/(marketing)/layout.tsx b/src/app/[locale]/(marketing)/layout.tsx
+--- a/src/app/[locale]/(marketing)/layout.tsx
++++ b/src/app/[locale]/(marketing)/layout.tsx
+@@ -8,7 +8,7 @@
+       <ScrollToAnchor />
+       <PettenderlyNav />
+       <main className="flex-1">{children}</main>
+-      <PettenderlyFooter />
++      <PettenderlyFooter showStremitBadge />
+     </div>
+   );
+ }

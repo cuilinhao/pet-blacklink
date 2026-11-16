@@ -1,0 +1,377 @@
+{
+  "finalized_at": "2026-11-16T21:58:44+08:00",
+  "website": "Pettenderly",
+  "requested_date": "2026-11-16",
+  "goal": "Neeed baseline1 plus20 new",
+  "today_counted": 21,
+  "additional_counted": 20,
+  "additional_unique_platforms": 20,
+  "additional_public_count": 7,
+  "additional_pending_review_count": 13,
+  "baseline": {
+    "source_key": "success-1104-daohang-613-final.csv::neeed.directory::neeed.directory",
+    "csv": "success-1104-daohang-613-final.csv",
+    "platform": "neeed.directory",
+    "platform_url": "https://neeed.directory",
+    "last_status": "submitted",
+    "last_attempted": "2026-11-16 20:15",
+    "evidence_url": "https://neeed.directory/products/pettenderly",
+    "receipt_artifacts": [
+      "records/evidence/2026-11-16-neeed-root-cua-receipt.json"
+    ]
+  },
+  "baseline_public_page_verified": true,
+  "additional_public": [
+    {
+      "source_key": "success-1104-daohang-613-final.csv::ainave.com::ainave.com",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "ainave.com",
+      "platform_url": "https://ainave.com",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 20:47",
+      "evidence_url": "https://ainave.com/products/pettenderly",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-ainave-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "aisotools.com",
+      "platform_url": "https://aisotools.com/",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 20:50",
+      "evidence_url": "https://aisotools.com/tool/pettenderly",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-aisotools-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::develif.com::develif.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "develif.com",
+      "platform_url": "https://develif.com/",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 21:32",
+      "evidence_url": "https://develif.com/s/pettenderly",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-develif-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::listedstartups.com::listedstartups.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "listedstartups.com",
+      "platform_url": "https://listedstartups.com/",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 21:39",
+      "evidence_url": "https://listedstartups.com/products/pettenderly",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-listedstartups-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::techtools.cz::techtools.cz",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "techtools.cz",
+      "platform_url": "https://techtools.cz/",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 21:52",
+      "evidence_url": "https://techtools.cz/tools/launchpad/?tool=10682",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-techtools-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::canopystack.dev::canopystack.dev",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "canopystack.dev",
+      "platform_url": "https://canopystack.dev/",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 21:54",
+      "evidence_url": "https://canopystack.dev/launches/0z3e1q1z0t",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-canopy-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::nothumansearch.ai::nothumansearch.ai",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "nothumansearch.ai",
+      "platform_url": "https://nothumansearch.ai",
+      "last_status": "public",
+      "last_attempted": "2026-11-16 21:58",
+      "evidence_url": "https://nothumansearch.ai/site/pettenderly.com",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-nothumansearch-public-receipt.json"
+      ]
+    }
+  ],
+  "additional_pending_review": [
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aiunicorn.lol::aiunicorn.lol",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "aiunicorn.lol",
+      "platform_url": "https://aiunicorn.lol/submit/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 20:45",
+      "evidence_url": "https://aiunicorn.lol/my-tools/?owner=submitted",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-aiunicorn-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolscapital.com::aitoolscapital.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "aitoolscapital.com",
+      "platform_url": "https://aitoolscapital.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 20:55",
+      "evidence_url": "https://aitoolscapital.com/submit-tool/",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-aitoolscapital-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "thenextai.com",
+      "platform_url": "https://thenextai.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:17",
+      "evidence_url": "https://www.thenextai.com/submit-ai-tool/",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-thenextai-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "prother.dev",
+      "platform_url": "https://prother.dev/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 20:59",
+      "evidence_url": "https://prother.dev/submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-prother-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "toolsbot.com",
+      "platform_url": "https://toolsbot.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:00",
+      "evidence_url": "https://toolsbot.com/submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-toolsbot-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "aiappdrop.com",
+      "platform_url": "https://aiappdrop.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:03",
+      "evidence_url": "https://aiappdrop.com/submit/",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-aiappdrop-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::apprater.net::apprater.net",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "apprater.net",
+      "platform_url": "https://apprater.net",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:23",
+      "evidence_url": "https://apprater.net/#submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-apprater-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::intelligenttools.co::intelligenttools.co",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "intelligenttools.co",
+      "platform_url": "https://intelligenttools.co/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:22",
+      "evidence_url": "https://intelligenttools.co/submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-intelligenttools-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::bytaskai.com::bytaskai.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "bytaskai.com",
+      "platform_url": "https://bytaskai.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:25",
+      "evidence_url": "https://bytaskai.com/submit/",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-bytaskai-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::findtoolz.com::findtoolz.com",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "findtoolz.com",
+      "platform_url": "https://findtoolz.com",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:28",
+      "evidence_url": "https://findtoolz.com/submit-tool/",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-findtoolz-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolpromote.com::toolpromote.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "toolpromote.com",
+      "platform_url": "https://toolpromote.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:35",
+      "evidence_url": "https://toolpromote.com/submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-toolpromote-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::asiolaunch.com::asiolaunch.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "asiolaunch.com",
+      "platform_url": "https://asiolaunch.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:40",
+      "evidence_url": "https://asiolaunch.com/submit",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-asiolaunch-root-cua-receipt.json"
+      ]
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::conversiongems.com::conversiongems.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "conversiongems.com",
+      "platform_url": "https://conversiongems.com/",
+      "last_status": "pending review",
+      "last_attempted": "2026-11-16 21:44",
+      "evidence_url": "https://conversiongems.com/submit-your-tool",
+      "receipt_artifacts": [
+        "records/evidence/2026-11-16-conversiongems-root-cua-receipt.json"
+      ]
+    }
+  ],
+  "uncounted_today": [
+    {
+      "source_key": "success-1104-daohang-613-final.csv::yo.directory::yo.directory",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "yo.directory",
+      "platform_url": "https://yo.directory",
+      "last_status": "not-relevant",
+      "last_attempted": "2026-11-16 09:09",
+      "evidence_url": "https://yo.directory/terms",
+      "receipt_artifacts": [],
+      "state": "terminal",
+      "notes": "本轮按免费直出优先检查，无历史重复，站内搜索无Pettenderly。登录魔法链接请求已发送但未登录/填写/提交产品。官方Using the site条款明确禁止automated,fake or bulk submissions，故不代发，留作人工提交候选，不计数。未安装互链。"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::tooltrove.net::tooltrove.net",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "tooltrove.net",
+      "platform_url": "https://tooltrove.net/",
+      "last_status": "deferred",
+      "last_attempted": "2026-11-16 21:07",
+      "evidence_url": "https://tooltrove.net/submit",
+      "receipt_artifacts": [],
+      "state": "deferred",
+      "notes": "[priority-20261116] prioritized_reason=用户2026-11-16本轮要求：优先免费、能直接公开的站；已经提交过的不要重复。这是明确优先分支，普通队列游标保持不变。 Observed: Root原生CUA观察转录：单次最终提交后Almost there, check your email，需邮件确认后才入reviewqueue；logo和2截图已上传。email_verification_required，未确认不计数。默认Gmail in:anywhere tooltrove无结果，support邮箱路由调查中。仅允许恢复确认这次submission，不重填/重发。 Artifact: records/evidence/2026-11-16-tooltrove-root-cua-checkpoint.json 后续：用户明确已确认邮件，email_confirmation=user_reported；root只读原tab仍显示Almost there/check email，未见新确认页或reviewqueue回执。记录用户确认，不反推平台入队、不加数、不重发、不要求用户重复确认。"
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::listyourtool.com::listyourtool.com",
+      "csv": "success-1104-daohang-613-final.csv",
+      "platform": "listyourtool.com",
+      "platform_url": "https://listyourtool.com/",
+      "last_status": "deferred",
+      "last_attempted": "2026-11-16 21:11",
+      "evidence_url": "https://www.listyourtool.com/submit-tool",
+      "receipt_artifacts": [],
+      "state": "deferred",
+      "notes": "[priority-20261116] prioritized_reason=用户2026-11-16本轮要求：优先免费、能直接公开的站；已经提交过的不要重复。这是明确优先分支，普通队列游标保持不变。 Observed: Root原生CUA观察转录：资料填好，AI Photo & Image Generator标签button及checkbox1曾读回，One Time Payment/$4.99；单次Submit Tool for Review后焦点在Price，无Submitting/回执；随后Return一次移除tag并出现Please select at least1。UI_form_validation_unresolved，submitted_unconfirmed；服务器是否收到未知，无成功证据、不计数，保留草稿禁止自动重发。 Artifact: records/evidence/2026-11-16-listyourtool-root-cua-checkpoint.json"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::shareyourstartup.com::shareyourstartup.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "shareyourstartup.com",
+      "platform_url": "https://shareyourstartup.com/",
+      "last_status": "deferred",
+      "last_attempted": "2026-11-16 21:27",
+      "evidence_url": "https://shareyourstartup.com/submit.html",
+      "receipt_artifacts": [],
+      "state": "deferred",
+      "notes": "[priority-20261116] prioritized_reason=用户2026-11-16本轮要求：优先免费、能直接公开的站；已经提交过的不要重复。这是明确优先分支，普通队列游标保持不变。 Observed: Root原生CUA观察转录：name/URL/short/category/535字描述/email填好读回，营销checkboxoff；Turnstile自动Success无交互，但Post it始终disabled且仍提示完成check。一次安全刷新（无Submit）后恢复完整表单，自动Success仍disabled。verification_callback_ui_blocked；未点disabled/未绕验证，零提交、不计数。 Artifact: records/evidence/2026-11-16-shareyourstartup-root-cua-checkpoint.json"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::promoteindex.com::promoteindex.com",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "promoteindex.com",
+      "platform_url": "https://promoteindex.com/",
+      "last_status": "deferred",
+      "last_attempted": "2026-11-16 21:30",
+      "evidence_url": "https://promoteindex.com/submit",
+      "receipt_artifacts": [],
+      "state": "deferred",
+      "notes": "[priority-20261116] prioritized_reason=用户2026-11-16本轮要求：优先免费、能直接公开的站；已经提交过的不要重复。这是明确优先分支，普通队列游标保持不变。 Observed: Root原生CUA观察转录：完整表单读回，own/represent1、Paid/Design & Creative、name/URL/short68/desc535/tags/email；AIAGENT/Codex提交身份，Built With Codex有实际开发部署证据而非仅由提交代理推断。Normal Free；LIST IT未点，零提交。By listing agree Terms https://promoteindex.com/terms，待root合并具体checkpoint询问（尚未问）。pending_user_terms，非失败、不计数；获确认后只恢复原表单。 Artifact: records/evidence/2026-11-16-promoteindex-root-cua-checkpoint.json"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolgpt.co::toolgpt.co",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "platform": "toolgpt.co",
+      "platform_url": "https://www.toolgpt.co/",
+      "last_status": "deferred",
+      "last_attempted": "2026-11-16 21:50",
+      "evidence_url": "https://toolgpt.co/submit/listing",
+      "receipt_artifacts": [],
+      "state": "deferred",
+      "notes": "[priority-20261116] prioritized_reason=用户2026-11-16本轮要求：优先免费、能直接公开的站；已经提交过的不要重复。这是明确优先分支，普通队列游标保持不变。 Observed: Root原生CUA观察转录：Pettenderly/URL/short68/about385/support完整读回，AI Image Generation与Web蓝色选中。单次Submit for review->disabled Submitting后错误Something broke on our end，建议email info@calbotservice.com人工添加；按钮恢复，无成功或公开证据。server_error_submission_unconfirmed，1次提交、0重试、未发邮件、不计数，禁止自动重发。 Artifact: records/evidence/2026-11-16-toolgpt-root-cua-checkpoint.json"
+    }
+  ],
+  "ordinary_queue": {
+    "RESUME_GATE": "PASS",
+    "website": "Pettenderly",
+    "active_csv": "success-1104-daohang-613-final.csv",
+    "queue_mode": "standard-platform",
+    "progress_schema": "canonical",
+    "progress_rows": "367",
+    "historical_counted_rows": "130",
+    "active_total_rows": "596",
+    "active_handled_rows": "190",
+    "active_remaining_rows": "406",
+    "next_platform": "somuch.com",
+    "next_url": "https://somuch.com",
+    "next_source_key": "success-1104-daohang-613-final.csv::somuch.com::somuch.com"
+  },
+  "supplemental_queue": {
+    "csv": "supplemental-free-2026-11-16.csv",
+    "candidate_rows": 26,
+    "handled_rows": 18,
+    "remaining_rows": 8
+  },
+  "original_files_sha256_verified_unchanged": true,
+  "counted_receipts_exist": true,
+  "browser_cleanup": "Owned by root; not performed or assumed by records agent.",
+  "limit_notes": [
+    "AISO anonymous web-reader check failed; native live page/direct link verified.",
+    "ListedStartups independentGET403 and native full Website href truncated; public page and domain label observed.",
+    "DevElif description server-truncated to500 characters; no repeat submission.",
+    "TechTools nofollow evidence from published client rendering template; public API and native target href separately verified.",
+    "Canopy public detail page native verified; earlier independentGET403, no forced retry.",
+    "NHS public detail page200 with target backlink, internal search results still0.",
+    "TopFreeAITools historical support notice bounced550; historical platform Pending receipt preserved, no resend or new count.",
+    "NHS root native detail also verified target href and score30/100. Crawled llms.txt says launchedAugust2025, conflicting with user-confirmed2026-10; upstream metadata mismatch recorded, no website change/resubmission."
+  ],
+  "main_ledger_writes_stopped": true
+}

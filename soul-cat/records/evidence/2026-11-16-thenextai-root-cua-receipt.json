@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-11-16T21:17:38+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA first-hand observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+  "platform": "thenextai.com",
+  "original_csv_url": "https://thenextai.com/",
+  "observed_receipt_url": "https://www.thenextai.com/submit-ai-tool/",
+  "resumes_checkpoint": "records/evidence/2026-11-16-thenextai-root-cua-checkpoint.json",
+  "confirmation_record": "records/runs/2026-11-16-user-confirmations.json",
+  "confirmation_id": "thenextai-current-quickcheck-submit-20261116",
+  "resumed_existing_form": true,
+  "pre_submit_fields_read_back": [
+    "Pettenderly",
+    "https://pettenderly.com/",
+    "Paid",
+    "Image Generation",
+    "support@soulpaw.art"
+  ],
+  "verification_action": "Current5+5 answer entered and read back after the recorded user confirmation.",
+  "observed_transition": [
+    "Single Submit Free Listing",
+    "Submitting",
+    "New H3 Tool Submitted!"
+  ],
+  "observed_message": "Thanks for submitting your tool to The Next AI. Our team will review it within24–48 hours. Once approved it goes live and we'll email you!",
+  "directory_price": "$0",
+  "payment_made": false,
+  "actual_final_submission_attempts": 1,
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 8,
+  "screenshots": []
+}

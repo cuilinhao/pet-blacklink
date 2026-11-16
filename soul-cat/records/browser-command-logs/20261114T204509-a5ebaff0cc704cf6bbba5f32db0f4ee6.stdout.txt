@@ -1,0 +1,358 @@
+URL: https://auraplusplus.com/pricing
+
+url: https://auraplusplus.com/pricing
+title: Launch Pricing | Aura++
+viewport: 1504x757
+page_scroll: 0↑ 8↓
+---
+<body />
+  <div />
+    <nav />
+      <div />
+        <div />
+          [1]<a title=Aura++ href=/ />
+            <span>Aura++</span>
+          <nav aria-label=Main />
+            <div />
+              <ul />
+                <li />
+                  [3]<button id=radix-_R_ipjdlb_-trigger-radix-_R_bipjdlb_ aria-expanded=false />
+                    <div>Browse</div>
+                    [2]<svg />
+                <li />
+                  [5]<button id=radix-_R_ipjdlb_-trigger-radix-_R_jipjdlb_ aria-expanded=false />
+                    <div>Submit</div>
+                    [4]<svg />
+                <li />
+                  [6]<a title=Bids Hot href=/bid />
+                    <span />
+                      Bids
+                      <span>Hot</span>
+                <li />
+                  [7]<a title=Launches href=/launches />
+                    <span>Launches</span>
+                <li />
+                  [8]<a title=Pricing href=/pricing />
+                    <span>Pricing</span>
+                <li />
+                  [10]<button id=radix-_R_ipjdlb_-trigger-radix-_R_1jipjdlb_ aria-expanded=false />
+                    <div>More</div>
+                    [9]<svg />
+        <div />
+          [12]<button aria-label=Search Aura++ />
+            [11]<svg />
+            <span>Search...</span>
+            <kbd />
+              K
+              <span>⌘</span>
+          [15]<button />
+            [13]<svg />
+            [14]<svg />
+          [16]<a title=Sign in href=/sign-in>Sign in</a>
+          [17]<a title=Sign up href=/sign-up>Sign up</a>
+        <div />
+          [22]<button aria-label=Search Aura++ />
+            [18]<svg />
+            [19]<span>Search...</span>
+            [21]<kbd />
+              K
+              [20]<span>⌘</span>
+          [23]<a title=Sign up href=/sign-up>Sign up</a>
+          [25]<a title=Sign in href=/sign-in />
+            Sign in
+            [24]<svg />
+          [27]<button aria-label=Open navigation menu aria-haspopup=dialog aria-expanded=false />
+            [26]<svg />
+    <main id=main-content />
+      <nav aria-label=Pricing sections />
+        <div />
+          [28]<a title=Launch plans href=/#launch-plans>Launch plans</a>
+          [29]<a title=How it works href=/#how-it-works>How it works</a>
+          [30]<a title=Compare href=/#compare>Compare</a>
+          [31]<a title=Testimonials href=/#testimonials>Testimonials</a>
+          [32]<a title=Add-ons href=/#add-ons>Add-ons</a>
+          [33]<a title=FAQ href=/#faq>FAQ</a>
+      <div />
+        <div />
+          <h1>Choose Your Launch Plan</h1>
+          <p>Launch to 40k+ monthly traffic and a focused founder audience — not a crowded feed. Pick free or premium, get homepage v…</p>
+        <section />
+          <div />
+            <div />
+              <div />
+                <div />
+                  <svg />
+                <div />
+                  <p>DR 74 domain</p>
+                  <p>High-authority backlinks that keep working after launch day.</p>
+            <div />
+              <div />
+                <div />
+                  <svg />
+                <div />
+                  <p>Limited daily slots</p>
+                  <p>Every launch gets homepage visibility — not lost in a crowded feed.</p>
+            <div />
+              <div />
+                <div />
+                  <svg />
+                <div />
+                  <p>40k+ monthly traffic</p>
+                  <p>Builders, indie makers, and early adopters discovering new tools on Aura++.</p>
+            <div />
+              <div />
+                <div />
+                  <svg />
+                <div />
+                  <p>Launch + distribution</p>
+                  <p>Blog posts plus at least 1 X, LinkedIn, Bluesky, and Pinterest post on paid tiers.</p>
+        <div id=launch-plans />
+          <div />
+            <div />
+              <div />
+                <h5>Free Launch</h5>
+                <div />
+                  $0
+                  <span>/launch</span>
+                <p>Standard launch with up to 365 days scheduling window.</p>
+                <ul />
+                  <li />
+                    <svg />
+                    <span>5 slots available daily</span>
+                  <li />
+                    <svg />
+                    <span>Standard launch queue</span>
+                  <li />
+                    <svg />
+                    <span>Featured on homepage</span>
+                  <li />
+                    <svg />
+                    <span>At least 1 Pinterest post published for every Free launch</span>
+                  <li />
+                    <svg />
+                    <div />
+                      <span>Dofollow Backlink only if:</span>
+                      <div />
+                        <div>1. Top 3 daily ranking</div>
+                        <div>2. Display our badge on your site</div>
+              <div />
+                [34]<a title=Launch for Free href=/projects/submit>Launch for Free</a>
+            <div />
+              <div />
+                <div />
+                  <h5>Premium Launch</h5>
+                  <div />
+                    $ 29
+                    <span>/launch</span>
+                  <p>Priority scheduling with faster launch dates.</p>
+                  <ul />
+                    <li />
+                      <svg />
+                      <span />
+                        Guaranteed Dofollow Backlink
+                        [35]<a href=https://ahrefs.com/website-authority-checker?input=https://auraplusplus.com title=(DR )>(DR 74 )</a>
+                    <li />
+                      <svg />
+                      <span>1 -day site-wide ad on launch day</span>
+                    <li />
+                      <svg />
+                      <span>Skip Free Queue - Launch faster</span>
+                    <li />
+                      <svg />
+                      <span>10 premium slots daily</span>
+                    <li />
+                      <svg />
+                      <span>Launch blog post</span>
+                    <li />
+                      <svg />
+                      <span>At least 1 X post</span>
+                    <li />
+                      <svg />
+                      <span>1 LinkedIn post</span>
+                    <li />
+                      <svg />
+                      <span>1 Bluesky post</span>
+                    <li />
+                      <svg />
+                      <span>At least 1 Pinterest post</span>
+                    <li />
+                      <svg />
+                      <span>Up to 60 days ahead</span>
+                    <li />
+                      <svg />
+                      <span>10 re-launches (14-day cooldown)</span>
+                    <li />
+                      <svg />
+                      <span>Launch Kit</span>
+                    <li />
+                      <svg />
+                      <span>SEO & GEO optimized project page</span>
+                    <li />
+                      <svg />
+                      <span>SEO & GEO optimized launch blog post</span>
+                <div />
+                  [36]<a title=Get Premium href=/projects/submit>Get Premium</a>
+        <div />
+          <div />
+            <div />
+              <div />
+                <div />
+                  <h5>Premium Plus</h5>
+                  <div />
+                    <div>$ 69</div>
+                    <span>Includes 7 -day site-wide ad</span>
+                  <p>Spotlight launch + ads on homepage and every project page</p>
+                <div />
+                  [37]<a title=Get Premium Plus href=/projects/submit>Get Premium Plus</a>
+              <div />
+                <h6>Everything in Premium, plus:</h6>
+                <div />
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>Premium Spotlight Placement</p>
+                        <p>Most visible position on our platform</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>7 -day site-wide ad slot</p>
+                        <p>Auto-booked on launch day across homepage and all project pages</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p />
+                          Guaranteed Dofollow Backlink
+                          [38]<a href=https://ahrefs.com/website-authority-checker?input=https://auraplusplus.com title=(DR )>(DR 74 )</a>
+                        <p>Valuable SEO boost from our high-authority domain</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>3 exclusive slots per day</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>Launch blog post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>At least 1 X post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>1 LinkedIn post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>1 Bluesky post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>At least 1 Pinterest post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>Fastest launch - Up to 14 days ahead</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>10 re-launches (7-day cooldown)</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>Premium support</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p />
+                          <span>Launch Kit</span>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>SEO & GEO optimized project page</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>SEO & GEO optimized launch blog post</p>
+                  <div />
+                    <div />
+                      <svg />
+                      <div />
+                        <p>Dofollow backlink in launch blog post</p>
+                        <p>Direct dofollow link to your website in the blog content</p>
+        <section id=how-it-works />
+          <div />
+            <h2>How launching works</h2>
+            <p>From submission to homepage spotlight in four clear steps — no guesswork about what happens next.</p>
+          <div />
+            <div />
+              <div>1</div>
+              <h3>Submit your project</h3>
+              <p>Add your product details, screenshots, and categories. Auto-fill saves time if you've launched elsewhere before.</p>
+            <div />
+              <div>2</div>
+              <h3>Pick your plan & date</h3>
+              <p>Start free or choose Premium for a dofollow backlink, blog post, and faster scheduling. Pick the launch day that fits yo…</p>
+            <div />
+              <div>3</div>
+              <h3>Launch at 8 AM UTC</h3>
+              <p>Go live on the homepage, earn upvotes, get at least 1 X, LinkedIn, Bluesky, and Pinterest post, and collect a permanent …</p>
+            <div />
+              <div>4</div>
+              <h3>Re-launch & grow</h3>
+              <p>Use re-launches to stay visible, upgrade add-ons like DR Booster or Posting Dude, and compound distribution over time.</p>
+          <div />
+            [40]<a title=Start your launch href=/projects/submit />
+              Start your launch
+              [39]<svg />
+        <section id=compare />
+          <div />
+            <h2>Compare plans at a glance</h2>
+            <p>Three tiers, one goal — real visibility. Pick the depth of distribution that fits your launch.</p>
+          <div />
+            <div />
+              <div />
+                <div />
+                  <h3>Free</h3>
+                <div />
+                  <span>$0</span>
+                  <span>per launch</span>
+            <div />
+              <div />
+                <div />
+                  <h3>Premium</h3>
+                  <span>Most popular</span>
+                <div />
+                  <span>$29</span>
+                  <span>per launch</span>
+            <div />
+              <div />
+                <div />
+                  <h3>Premium Plus</h3>
+                <div />
+                  <span>$69</span>
+                  <span>per launch</span>
+  [42]<button aria-label=Send feedback />
+    [41]<svg />
+  <section aria-label=Notifications alt+T tabindex=-1 aria-live=polite />
+---
+hidden_interactive (3):
+  <a> "Launch free" ~3.3 pages below
+  <a> "Get Premium" ~3.3 pages below
+  <a> "Get Premium Plus" ~3.3 pages below
+---
+interactive: 42 | iframes: 0

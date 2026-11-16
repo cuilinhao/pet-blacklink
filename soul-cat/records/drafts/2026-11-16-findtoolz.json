@@ -1,0 +1,33 @@
+{
+  "website": "Pettenderly",
+  "source_key": "success-1104-daohang-613-final.csv::findtoolz.com::findtoolz.com",
+  "url": "https://findtoolz.com/submit-tool/",
+  "plan": "Free",
+  "state": "prepared",
+  "fields": {
+    "name": "Pettenderly",
+    "url": "https://pettenderly.com/",
+    "contact": "support@soulpaw.art",
+    "twitter": "https://x.com/soulpaw_art",
+    "launch_month": "2026-10",
+    "country": "China",
+    "tagline": "Turn pet photos into portraits worth keeping.",
+    "short": "Pettenderly turns photos of your cat or dog into downloadable AI pet portraits in watercolor, royal, studio and window-seat styles.",
+    "description": "Pettenderly is an AI pet portrait studio for cat and dog owners. Upload one to five clear photos of the same pet, choose a style, and create a digital portrait to download. Available looks include watercolor, royal portraits, studio scenes and sunny window-seat settings. You & your pet and Photo cleanup offer additional beta tools; generated faces, markings and details can vary. Pettenderly uses paid credits: one credit per successful image, with no credit charged for failed generations. The product delivers digital images, without physical printing or shipping.",
+    "pricing_model": "Paid",
+    "logo": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/logos/pettenderly-logo-512.png",
+    "screenshot": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/screenshots/pettenderly-home-en.jpg"
+  },
+  "submit_attempts": 0,
+  "status": "pending review",
+  "final_submit_attempted": true,
+  "submission_attempts": 1,
+  "product_submission_sent": true,
+  "submission_received": true,
+  "counted": true,
+  "public": false,
+  "evidence_url": "https://findtoolz.com/submit-tool/",
+  "evidence_artifact": "records/evidence/2026-11-16-findtoolz-root-cua-receipt.json",
+  "checkpoint": "Your submission was successful; no public listing URL observed.",
+  "recorded_at": "2026-11-16T21:28:43+08:00"
+}

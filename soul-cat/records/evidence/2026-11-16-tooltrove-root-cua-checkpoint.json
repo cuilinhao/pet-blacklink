@@ -1,0 +1,33 @@
+{
+  "recorded_at": "2026-11-16T21:07:23+08:00",
+  "evidence_type": "root_native_cua_checkpoint_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::tooltrove.net::tooltrove.net",
+  "platform": "tooltrove.net",
+  "original_csv_url": "https://tooltrove.net/",
+  "observed_url": "https://tooltrove.net/submit",
+  "observed_heading": "Almost there, check your email",
+  "observed_requirement": "Email confirmation required before entry into review queue",
+  "uploaded_assets": [
+    "Pettenderly logo",
+    "2 screenshots"
+  ],
+  "submission_attempts": 1,
+  "product_submission_sent": true,
+  "email_confirmation_completed": false,
+  "mailbox_check": "Root native default Gmail search in:anywhere tooltrove returned no results; support mailbox route under investigation.",
+  "status": "deferred",
+  "reason": "email_confirmation_user_reported_queue_unverified",
+  "counted": false,
+  "resume_instruction": "Confirm this existing single submission only; do not refill or resubmit.",
+  "screenshots": [],
+  "email_confirmation": "user_reported",
+  "confirmation_record": "records/runs/2026-11-16-user-confirmations.json",
+  "later_native_check": {
+    "recorded_at": "2026-11-16T21:18:26+08:00",
+    "original_submit_tab": "Still Almost there, check your email; click confirmation before review.",
+    "new_confirmation_page_in_inventory": false,
+    "queue_receipt_observed": false,
+    "interpretation": "User-reported email confirmation retained; platform review-queue state remains unverified, no count and no resubmission."
+  }
+}

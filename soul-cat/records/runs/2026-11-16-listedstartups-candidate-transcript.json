@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-11-16T21:34:19+08:00",
+  "source": "/root/new20_candidates read-only official findings; records agent did not browse.",
+  "domain": "listedstartups.com",
+  "platform_url": "https://listedstartups.com/",
+  "official_sources": [
+    "https://listedstartups.com/docs/humans",
+    "https://listedstartups.com/submit",
+    "https://listedstartups.com/docs#honesty-rules"
+  ],
+  "free_evidence": "Candidate-agent official public-flow inspection found immediate web publication without account/payment/CAPTCHA/badge fields; no fee shown. Explicit permanent-free guarantee was not found. Treat cost as requiring native UI confirmation; do not proceed through any payment. Agent publishing explicitly supported under honesty rules.",
+  "free_claim_status": "No fee observed in official publishing flow; explicit perpetual-free claim unverified.",
+  "submitted": false,
+  "counted": false
+}

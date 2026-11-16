@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-11-16T21:28:43+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "success-1104-daohang-613-final.csv::findtoolz.com::findtoolz.com",
+  "platform": "findtoolz.com",
+  "original_csv_url": "https://findtoolz.com",
+  "observed_receipt_url": "https://findtoolz.com/submit-tool/",
+  "fields_read_back": {
+    "submitter": "Sadık Yenıce",
+    "email": "support@soulpaw.art",
+    "tool": "Pettenderly",
+    "category": "AI Image Generation",
+    "Paid_checkbox": true,
+    "Free_checkbox": false,
+    "Freemium_checkbox": false,
+    "website": "https://pettenderly.com/",
+    "description": "Approximately183 characters with $4.99 for12 credits and no free generation"
+  },
+  "observed_transition": [
+    "Single Send",
+    "Disabled button",
+    "Your submission was successful."
+  ],
+  "submission_attempts": 1,
+  "account_required": false,
+  "captcha_observed": false,
+  "terms_checkbox_observed": false,
+  "directory_fee": "Free",
+  "status": "pending review",
+  "public_url_observed": false,
+  "counted": true,
+  "additional_20_index": 12,
+  "screenshots": []
+}

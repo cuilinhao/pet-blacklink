@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-11-16T21:29:26+08:00",
+  "source": "Root and /root/new20_candidates official-source research relayed to records agent; records agent did not browse.",
+  "candidates": [
+    {
+      "domain": "amplibee.com",
+      "url": "https://amplibee.com/",
+      "sources": [
+        "https://amplibee.com/launch-your-product",
+        "https://amplibee.com/terms"
+      ],
+      "free": "Official-source research reported Free to submit anonymous product launch; manual review, no badge or listing fee. Distinct from paid agency service. Terms prohibit bypassing daily checks, no general automated-submission ban.",
+      "runtime_warning": "HTML includes Turnstile Bot check and an initially disabled submit button; not CAPTCHA-free."
+    },
+    {
+      "domain": "toolpromote.com",
+      "url": "https://toolpromote.com/",
+      "sources": [
+        "https://toolpromote.com/submit",
+        "https://toolpromote.com/pricing",
+        "https://toolpromote.com/faq",
+        "https://www.toolpromote.com/terms-of-service"
+      ],
+      "free": "Official-source research reported Standard Free, manual48h review/dofollow, no account or badge; accurate-information authorization checkbox required. Terms prohibit automated data collection except permitted crawls, circumvention and spam; no ordinary authorized submission ban reported.",
+      "runtime_warning": "No CAPTCHA/Turnstile found in inspected HTML; accurate-information checkbox and truthful submitter relationship selection required."
+    }
+  ],
+  "submitted": false,
+  "counted": false
+}

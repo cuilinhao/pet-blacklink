@@ -1,0 +1,255 @@
+Window: "Launch Vault - Discover the Best Tech Products", App: Google Chrome.
+0 标准窗口 Launch Vault - Discover the Best Tech Products - Google Chrome - Sadık (guillpern@gmail.com), URL: launchvault.dev/dashboard?tab=needs-backlink, Secondary Actions: Raise
+	1 container Launch Vault - Discover the Best Tech Products - Google Chrome - Sadık (guillpern@gmail.com), URL: launchvault.dev/dashboard?tab=needs-backlink
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: launchvault.dev/dashboard?tab=needs-backlink, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 为此标签页添加书签
+				12 container
+					13 弹出式按钮 OpenCLI
+可以访问此网站
+					14 弹出式按钮 扩展程序
+				15 按钮 Sadık (guillpern@gmail.com)
+				16 弹出式按钮 Chrome
+			17 container
+				18 滚动区
+					19 HTML 内容 Launch Vault - Discover the Best Tech Products, URL: launchvault.dev/dashboard?tab=needs-backlink
+						20 container
+							21 link logo Launch Vault, Help: Launch Vault, Value: launchvault.dev/
+							22 container Main
+								23 内容列表
+									24 link Submit Project, Value: launchvault.dev/projects/submit
+									25 link Pricing, Value: launchvault.dev/pricing
+									26 link Browse Projects, Value: launchvault.dev/categories
+									27 link Alternative To, Value: launchvault.dev/alternative-to
+									28 link Teardowns, Value: launchvault.dev/teardown
+							29 按钮 Search... ⌘ K
+							30 按钮 Toggle theme
+							31 弹出式按钮 Sadık Yenıce
+								32 图像 Sadık Yenıce
+							33 标题 Dashboard, Value: 1
+								34 文本 Dashboard
+							35 container
+								36 text Welcome,  Sadık Yenıce
+							37 link Explore Launches, Value: launchvault.dev/
+							38 link Submit a Project, Value: launchvault.dev/projects/submit
+							39 文本 My Projects
+							40 文本 Manage your submitted tech projects
+							41 标签页组
+								42 标签 (settable, integer) Active (0), Value: 0
+									43 文本 Active (
+									44 文本 0
+									45 文本 )
+								46 标签 (selected) Upcoming (1), Value: 1
+									47 文本 Upcoming (
+									48 文本 1
+									49 文本 )
+								50 标签 (settable, integer) Drafts (0), Value: 0
+									51 文本 Drafts (
+									52 文本 0
+									53 文本 )
+								54 标签 (settable, integer) Past (0), Value: 0
+									55 文本 Past (
+									56 文本 0
+									57 文本 )
+							58 container Upcoming (1)
+								59 link Value: launchvault.dev/projects/pettenderly, Pettenderly Pettenderly Pettenderly is an online AI pet portrait studio that turns everyday photos into downloadable digital keepsakes. It is designed for pet owners who want to create portraits of their cats or dogs from their own reference pictures. The product focuses on personal pet imagery, with additional beta tools for shared portraits and photo cleanup.To create a standard portrait, start with one to five clear photos of the same pet. Choose pictures that show its eyes, coat markings and natural app
+								60 图像
+								61 文本 Badge verified
+								62 按钮 Upgrade to Premium
+								63 按钮 Edit
+								64 link View, Help: View project, Value: launchvault.dev/projects/pettenderly
+								65 container upcoming project pages
+									66 container
+										67 text Showing  1 – 1  of  1  · Page  1  of  1
+							68 文本 Your Feature Badge
+							69 文本 Projects you've recently launched
+							70 图像 Feature On Launch Vault
+							71 container
+								72 按钮 Copy
+								73 文本 <a href="https://www.launchvault.dev" target="_blank" title="Feature On Launch Vault">
+  <img
+    src="https://www.launchvault.dev/images/badges/launch-valut-badge.svg"
+    alt="Feature On Launch Vault"
+    style="width: 195px; height: auto;"
+  />
+</a>
+							74 文本 Recent Upvotes
+							75 文本 Projects you've recently upvoted
+							76 图像
+							77 标题 No upvotes yet, Value: 3
+								78 文本 No upvotes yet
+							79 文本 You haven't upvoted any projects yet
+							80 link Explore Projects, Value: launchvault.dev/trending
+							81 文本 Profile
+							82 文本 Your account information
+							83 图像 Sadık Yenıce
+							84 标题 Sadık Yenıce, Value: 4
+								85 文本 Sadık Yenıce
+							86 文本 karenayence@gmail.com
+							87 link Edit Profile, Value: launchvault.dev/settings
+							88 文本 Quick Actions
+							89 文本 Common tasks you can perform
+							90 link Submit a Project, Value: launchvault.dev/projects/submit
+							91 link Explore Launches, Value: launchvault.dev/
+							92 link Winners, Value: launchvault.dev/winners
+							93 link Trending Projects, Value: launchvault.dev/trending
+							94 link Explore categories, Value: launchvault.dev/categories
+							95 container Editor's picks
+								96 文本 Editor’s picks
+								97 link REA (Reverse Engineer Anything), Value: launchvault.dev/projects/rea-reverse-engineer-anything
+								98 link PhotoCraft, Value: launchvault.dev/projects/photocraft
+								99 link ArtCraft Crafting Apps, Value: launchvault.dev/projects/artcraft
+								100 link Universal Modder, Value: launchvault.dev/projects/universal-modder
+								101 link Vane, Value: launchvault.dev/projects/vane
+							102 标题 ALL CATEGORIES, Value: 3
+								103 文本 ALL CATEGORIES
+							104 link 3D & Motion Design, Value: launchvault.dev/categories/3d-motion-design
+							105 link APIs & Integrations, Value: launchvault.dev/categories/api
+							106 link AR/VR, Value: launchvault.dev/categories/ar-vr
+							107 link Artificial Intelligence, Value: launchvault.dev/categories/ai
+							108 link Blockchain & Crypto, Value: launchvault.dev/categories/blockchain
+							109 link Business Analytics, Value: launchvault.dev/categories/analytics
+							110 link CMS & No-Code, Value: launchvault.dev/categories/cms
+							111 link Data Science & Analytics, Value: launchvault.dev/categories/data-science
+							112 link Databases, Value: launchvault.dev/categories/databases
+							113 link Design Tools, Value: launchvault.dev/categories/design-tools
+							114 link Developer Tools, Value: launchvault.dev/categories/developer-tools
+							115 link DevOps & Cloud, Value: launchvault.dev/categories/devops
+							116 link E-commerce, Value: launchvault.dev/categories/ecommerce
+							117 link Education Tech, Value: launchvault.dev/categories/edtech
+							118 link Finance & FinTech, Value: launchvault.dev/categories/finance-tech
+							119 link Gaming Tech, Value: launchvault.dev/categories/gaming
+							120 link Graphics & Illustration, Value: launchvault.dev/categories/graphics
+							121 link Green Tech, Value: launchvault.dev/categories/greentech
+							122 link Hardware, Value: launchvault.dev/categories/hardware
+							123 link Health Tech, Value: launchvault.dev/categories/healthtech
+							124 link Internet of Things (IoT), Value: launchvault.dev/categories/iot
+							125 link Machine Learning, Value: launchvault.dev/categories/machine-learning
+							126 link Marketing Tools, Value: launchvault.dev/categories/marketing-tools
+							127 link Mobile Development, Value: launchvault.dev/categories/mobile-dev
+							128 link Music & Audio, Value: launchvault.dev/categories/music-audio
+							129 link Natural Language Processing, Value: launchvault.dev/categories/nlp
+							130 link Open Source, Value: launchvault.dev/categories/open-source
+							131 link Platforms, Value: launchvault.dev/categories/platform
+							132 link Productivity, Value: launchvault.dev/categories/productivity
+							133 link Project Management, Value: launchvault.dev/categories/project-management
+							134 link Prototyping, Value: launchvault.dev/categories/prototyping
+							135 link Robotics, Value: launchvault.dev/categories/robotics
+							136 link SaaS, Value: launchvault.dev/categories/saas
+							137 link Sales Tools, Value: launchvault.dev/categories/sales-tools
+							138 link Security, Value: launchvault.dev/categories/security
+							139 link SEO & Analytics, Value: launchvault.dev/categories/seo-analytics
+							140 link Serverless, Value: launchvault.dev/categories/serverless
+							141 link Testing & QA, Value: launchvault.dev/categories/testing-qa
+							142 link UI/UX, Value: launchvault.dev/categories/ui-ux
+							143 link Video & Audio Tools, Value: launchvault.dev/categories/video-audio-tools
+							144 link Wearables, Value: launchvault.dev/categories/wearables
+							145 link Web Development, Value: launchvault.dev/categories/web-dev
+							146 link Writing & Editing, Value: launchvault.dev/categories/writing-editing
+							147 container RECOMMENDED PRODUCTS
+								148 标题 RECOMMENDED PRODUCTS, Value: 3
+									149 文本 RECOMMENDED PRODUCTS
+								150 内容列表
+									151 link vectorize-image, Value: vectorize-image.app/
+									152 link BG Remove Pro, Value: bgremovepro.com/
+									153 link FluxKontext.Biz, Value: fluxkontext.biz/
+									154 link JFIF to PNG, Value: justconverter.com/jfif-to-png
+							155 link logo Launch Vault, Help: Launch Vault, Value: launchvault.dev/
+							156 container
+								157 text ©  2026  Launch Vault. All rights reserved.
+							158 文本 Analytics: Umami · Traffic estimate: SimilarWeb
+							159 link support@launchvault.dev, Help: Send us an email, Value: mailto:support@launchvault.dev?subject=Launch%20Vault%20Support%20Request&body=Hello%20Launch%20Vault%20Team%2C%0D%0A%0D%0AI%20need%20help%20with%3A%0D%0A%0D%0A
+							160 link Follow us on Twitter, Value: twitter.com/launchvaultdev
+							161 link Powered by Open-Launch, Value: open-launch.com/
+							162 标题 DISCOVER, Value: 3
+								163 文本 DISCOVER
+							164 内容列表
+								165 link Trending, Value: launchvault.dev/trending
+								166 link Categories, Value: launchvault.dev/categories
+								167 link Submit Project, Value: launchvault.dev/projects/submit
+								168 link Popular Collections, Value: launchvault.dev/popular-collections
+								169 link Agentic AI News, Value: launchvault.dev/agentic-ai-news
+							170 标题 RESOURCES, Value: 3
+								171 文本 RESOURCES
+							172 内容列表
+								173 link Pricing, Value: launchvault.dev/pricing
+								174 link Sponsors, Value: launchvault.dev/sponsors
+								175 link Blog, Value: launchvault.dev/blog
+								176 link Indie Tools, Value: launchvault.dev/indie-tools
+								177 link Links, Value: launchvault.dev/startupdirs
+							178 标题 LEGAL, Value: 3
+								179 文本 LEGAL
+							180 内容列表
+								181 link Terms of Service, Value: launchvault.dev/legal/terms
+								182 link Privacy Policy, Value: launchvault.dev/legal/privacy
+							183 标题 FREE TOOLS, Value: 3
+								184 文本 FREE TOOLS
+							185 内容列表
+								186 link Traffic Checker, Value: launchvault.dev/website-traffic-checker
+								187 link Domain Rank Checker, Value: launchvault.dev/domain-rank-checker
+								188 link AI Traffic Checker, Value: launchvault.dev/ai-traffic-checker
+								189 link Open Graph Checker, Value: launchvault.dev/open-graph-checker
+								190 link PayPal Fee Calculator, Value: launchvault.dev/paypal-fee-calculator
+								191 link Stripe Fee Calculator, Value: launchvault.dev/stripe-fee-calculator
+								192 link Customer Acquisition Cost (CAC) Calculator, Value: launchvault.dev/cac-calculator
+								193 link More tools →, Help: All free tools, Value: launchvault.dev/free-tools
+							194 文本 FEATURED ON
+							195 link Launch Vault - Featured on Startup Fame, Value: startupfa.me/s/launch-vault?utm_source=www.launchvault.dev
+							196 link Firsto Top 1 Daily Winner, Value: firsto.co/projects/launch-vault
+							197 link Listed on Turbo0, Value: turbo0.com/item/launch-vault
+							198 link Featured on MagicBox.tools, Value: magicbox.tools/ai/launchvault-dev
+							199 link Featured on findly.tools, Value: findly.tools/launch-vault?utm_source=launch-vault
+							200 link Featured on toolfame.com, Value: toolfame.com/item/launch-vault
+							201 link Featured on saasfame.com, Value: saasfame.com/item/launch-vault
+							202 link Fazier badge, Value: fazier.com/launches/www.launchvault.dev
+							203 link Featured on TheSaaSDir, Value: thesaasdir.com/product/launch-vault?ref=badge
+							204 文本 FRIEND LINKS
+							205 link SoPilot, Value: sopilot.net/
+							206 link Z-Image.win, Help: Z-Image.win - Fast & Free Online AI Image Generator, Value: z-image.win/?utm_source=launchvault&utm_medium=referral&utm_campaign=footer
+							207 link Indie.Deals, Value: indie.deals/?ref=https%3A%2F%2Fwww.launchvault.dev
+							208 container Notifications alt+T
+			209 弹出式按钮 标签页搜索
+			210 container
+				211 标签页组
+					212 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+						213 按钮 关闭
+					214 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+						215 按钮 关闭
+					216 标签 (settable, boolean) Launches | NxGn Tools | NxGn Tools - 内存用量 - 123 MB, Value: off
+						217 按钮 关闭
+					218 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+						219 按钮 关闭
+					220 标签 (settable, boolean) Submit your side project | Sidehunt - 内存用量 - 188 MB, Value: off
+						221 按钮 关闭
+					222 标签 (selected, settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 222 MB, Value: on
+						223 按钮 关闭
+					224 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 136 MB, Value: off
+						225 按钮 关闭
+					226 标签 (settable, boolean) Login | Pettenderly - AI Pet Portraits - 内存用量 - 223 MB, Value: off
+						227 按钮 关闭
+					228 标签 (settable, boolean) AI Pet Portrait Generator | Pettenderly - 内存用量 - 251 MB, Value: off
+						229 按钮 关闭
+			230 按钮 新标签页
+	231 关闭按钮
+	232 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	233 最小化按钮
+234 menu bar
+	235 Chrome
+	236 文件
+	237 编辑
+	238 显示
+	239 历史记录
+	240 书签
+	241 个人资料
+	242 标签页
+	243 窗口
+	244 帮助
+
+The focused UI element is 46 标签 (selected) Upcoming (1), Value: 1

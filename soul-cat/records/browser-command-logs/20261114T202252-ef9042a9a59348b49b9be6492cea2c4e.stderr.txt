@@ -1,0 +1,5 @@
+⚠  Chrome denied native file-input upload; using the file-data fallback.
+
+  Update available: v1.8.6 → v2.0.3
+  Run: npm install -g @jackwener/opencli
+

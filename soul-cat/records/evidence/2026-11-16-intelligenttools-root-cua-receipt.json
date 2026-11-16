@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-11-16T21:22:04+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "success-1104-daohang-613-final.csv::intelligenttools.co::intelligenttools.co",
+  "platform": "intelligenttools.co",
+  "original_csv_url": "https://intelligenttools.co/",
+  "observed_receipt_url": "https://intelligenttools.co/submit",
+  "directory_plan": "Free listing $0",
+  "fields_read_back": {
+    "name": "Pettenderly",
+    "website": "https://pettenderly.com/",
+    "short_description": "Intended66 characters, native UI showed68",
+    "description": "535 characters with $4.99 for12 credits/$9.90 monthly/no free generation",
+    "category": "Image Generation",
+    "pricing": "Paid Only",
+    "contact_email": "support@soulpaw.art"
+  },
+  "form_interaction": "Paid Only selected via Space/Down/Return after dropdown click did not open. Initial submit click outside viewport produced no change; Tab focus and Return then triggered actual submission.",
+  "ineffective_submit_clicks": 1,
+  "actual_submission_attempts": 1,
+  "observed_transition": [
+    "Submitting",
+    "H2 Submission Received!"
+  ],
+  "observed_message": "Thank you for submitting your AI tool. We'll review it and get back to you within7 days.",
+  "account_required": false,
+  "captcha_observed": false,
+  "explicit_terms_acceptance": false,
+  "accuracy_sentence_observed": true,
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 9,
+  "screenshots": []
+}

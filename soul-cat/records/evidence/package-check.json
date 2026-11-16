@@ -1,0 +1,29 @@
+{
+  "checked_on": "2026-11-06",
+  "status": "pass",
+  "active_directory": "/Users/pgy/Documents/backlink-workspace/soul-cat",
+  "brand": "Pettenderly",
+  "website_url": "https://pettenderly.com/",
+  "snippets": 16,
+  "assets": 10,
+  "screenshots": 4,
+  "platform_csvs": 7,
+  "local_links": "all resolved",
+  "active_old_domain_urls": 0,
+  "retained_pettenderly_history_rows": 40,
+  "archives": [
+    {
+      "name": "pettenderly-public-kit.zip",
+      "files": 16,
+      "bytes": 3188968,
+      "sha256": "01de9e744f9342362bb4f7d865ec838c67ac00c8bd4caa4efddb2ef6a7249e7c"
+    },
+    {
+      "name": "pettenderly-submission-assets.zip",
+      "files": 11,
+      "bytes": 3176478,
+      "sha256": "a75a58f0313105fb8080f94690d6fe16393237dad8da2b32dc7dc3360246f6c8"
+    }
+  ],
+  "new_external_submissions": 0
+}

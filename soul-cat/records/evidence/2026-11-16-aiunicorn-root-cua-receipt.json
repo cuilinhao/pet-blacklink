@@ -1,0 +1,33 @@
+{
+  "recorded_at": "2026-11-16T20:45:06+08:00",
+  "observation_date": "2026-11-16",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root first-hand native CUA observations relayed to local records subagent; text transcription, no screenshot or independent browser/network verification. Exact submission time not supplied.",
+  "source_key": "success-1104-daohang-613-final.csv::aiunicorn.lol::aiunicorn.lol",
+  "platform": "aiunicorn.lol",
+  "original_csv_url": "https://aiunicorn.lol/submit/",
+  "observed_saved_url": "https://aiunicorn.lol/submit/?go_live=2717",
+  "observed_saved_confirmation": "Pettenderly is saved",
+  "observed_action": "Stay in the free queue",
+  "observed_receipt_url": "https://aiunicorn.lol/my-tools/?owner=submitted",
+  "observed_account": "support@soulpaw.art",
+  "observed_confirmation": "Your tool is in the free queue. We review by hand within 14 days and will email you when it goes live.",
+  "observed_product_name": "Pettenderly",
+  "observed_tagline": "Turn pet photos into downloadable AI pet portraits",
+  "directory_plan": "$0 free queue, manual review within 14 days, nofollow",
+  "product_pricing": {
+    "Pricing": "Paid",
+    "Free plan": "No",
+    "Free trial": "No",
+    "Starting price": "$4.99 for 12 credits"
+  },
+  "logo_upload_verified": "512px Pettenderly logo",
+  "status": "pending review",
+  "public": false,
+  "payment_made": false,
+  "explicit_terms_checkbox_or_notice_observed": false,
+  "password_created": false,
+  "counted": true,
+  "additional_20_index": 1,
+  "screenshots": []
+}

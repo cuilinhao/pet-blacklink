@@ -1,0 +1,38 @@
+{
+  "recorded_at": "2026-11-16T21:19:16+08:00",
+  "evidence_type": "root_native_cua_checkpoint_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "success-1104-daohang-613-final.csv::apprater.net::apprater.net",
+  "platform": "apprater.net",
+  "original_csv_url": "https://apprater.net",
+  "form_url": "https://apprater.net/#submit",
+  "fields_read_back": {
+    "name": "Pettenderly",
+    "platform": "Web",
+    "availability": "Available now",
+    "website": "https://pettenderly.com/",
+    "description": "673 characters; accurate paid pricing and product facts",
+    "tags": [
+      "AI pet portraits",
+      "cats",
+      "dogs",
+      "image generation"
+    ],
+    "submitter": "Sadık Yenıce",
+    "email": "support@soulpaw.art",
+    "social": "@soulpaw_art",
+    "optional_logo": "Left empty"
+  },
+  "observed_agreement": "By submitting agree Terms and Privacy",
+  "terms_url": "https://apprater.net/terms",
+  "privacy_url": "https://apprater.net/privacy",
+  "confirmation_state": "Root requested current user confirmation; awaiting reply.",
+  "final_submit_clicked": false,
+  "product_submission_sent": false,
+  "submission_attempts": 0,
+  "status": "deferred",
+  "reason": "pending_user_terms",
+  "counted": false,
+  "resume_instruction": "After current disclosed terms confirmation, resume this exact prepared form and complete it once. No failure or timebox exhaustion inferred.",
+  "screenshots": []
+}

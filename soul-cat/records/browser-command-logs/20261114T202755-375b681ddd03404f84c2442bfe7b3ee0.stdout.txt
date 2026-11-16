@@ -1,0 +1,11 @@
+{
+  "url": "https://indiehunt.io/submit?plan=free",
+  "title": "Submit Your AI Project",
+  "selector": null,
+  "total_chars": 875,
+  "chunk_size": 875,
+  "start": 0,
+  "end": 875,
+  "next_start_char": null,
+  "content": "Step 2 of 3\n\nLaunch Plan\n\nChoose your plan and launch week\n\n1.  01\n2.  02\n3.  03\n\n01\n\n### Choose a launch plan\n\nPremium skips the free queue and includes a guaranteed dofollow. Free needs a badge and waits for open slots.\n\nPremium earliest\n\nNov 16, 2026\n\nDofollow · DR 66\n\nFree earliest\n\nMar 27, 2028\n\n71 weeks wait\n\nTime saved\n\n497 days\n\nOne-time $29\n\nNeed the full breakdown?\n\n02\n\n### Pick a launch week\n\nYour product goes live Monday 8:00 AM UTC for that week.\n\nLaunch week \\*\n\nWeek 2028-W13 · Mar 27 – Apr 3\n\nLaunches go live Monday 8:00 AM UTC · competition runs Mon–Sun\n\n4/15 free slots3 launches / week\n\nFree slots used73%\n\nYour launches this week: 0/3\n\nFree slots are booked for the next 71 weeks (**71 weeks wait** until Mar 27, 2028). to launch as soon as Nov 16, 2026 with guaranteed dofollow. [View launch calendar](/calender \"View launch calendar\").\n\nStep 2 of 3"
+}

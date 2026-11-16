@@ -1,0 +1,11 @@
+{
+  "url": "https://indiehunt.io/submit?plan=free",
+  "title": "Submit Your AI Project",
+  "selector": null,
+  "total_chars": 532,
+  "chunk_size": 532,
+  "start": 0,
+  "end": 532,
+  "next_start_char": null,
+  "content": "Step 2 of 3\n\nLaunch Plan\n\nChoose your plan and launch week\n\n1.  01\n2.  02\n3.  03\n\n01\n\n### Choose a launch plan\n\nPremium skips the free queue and includes a guaranteed dofollow. Free needs a badge and waits for open slots.\n\nPremium earliest\n\nChecking…\n\nDofollow · DR 66\n\nFree earliest\n\nChecking…\n\nChecking queue…\n\nTime saved\n\n—\n\nOne-time $29\n\nNeed the full breakdown?\n\n02\n\n### Pick a launch week\n\nYour product goes live Monday 8:00 AM UTC for that week.\n\nLaunch week \\*\n\nPremium launches are unlimited — select any week.\n\nStep 2 of 3"
+}

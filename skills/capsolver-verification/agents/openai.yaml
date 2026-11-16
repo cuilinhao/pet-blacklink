@@ -1,0 +1,4 @@
+interface:
+  display_name: "CapSolver 验证流程"
+  short_description: "在现有浏览器环境中处理已授权的验证码，并核对网站实际结果"
+  default_prompt: "使用 $capsolver-verification 处理当前已授权的验证码，并在网站确认通过后继续原任务。"

@@ -1,0 +1,4 @@
+
+  Update available: v1.8.6 → v2.0.3
+  Run: npm install -g @jackwener/opencli
+

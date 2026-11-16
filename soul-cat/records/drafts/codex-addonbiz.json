@@ -1,0 +1,10 @@
+{
+  "platform": "addonbiz.com",
+  "url": "https://addonbiz.com/add-your-listing/",
+  "status": "not_submitted",
+  "fields": {
+    "Listing Name": "Pettenderly",
+    "Contact Email/URL": "https://pettenderly.com/"
+  },
+  "blocker": "Requires new account and country-only Listing Region; true product country not confirmed; user question pending. No account created, terms not accepted."
+}

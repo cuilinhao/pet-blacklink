@@ -1,0 +1,262 @@
+URL: https://auraplusplus.com/sign-in?redirect=/projects/submit
+
+url: https://auraplusplus.com/sign-in?redirect=/projects/submit
+title: Sign In | Aura++
+viewport: 1504x757
+page_scroll: 0↑ 2.1↓
+---
+<body />
+  <div />
+    [1]<a href=/#main-content title=Skip to main content>Skip to main content</a>
+    <nav />
+      <div />
+        <div />
+          [2]<a title=Aura++ href=/ />
+            <span>Aura++</span>
+          <nav aria-label=Main />
+            <div />
+              <ul />
+                <li />
+                  [3]<button id=radix-_R_ipjdlb_-trigger-radix-_R_bipjdlb_ aria-expanded=false />
+                    <svg />
+                <li />
+                  [4]<button id=radix-_R_ipjdlb_-trigger-radix-_R_jipjdlb_ aria-expanded=false />
+                    <svg />
+                <li />
+                  [5]<a title=Bids Hot href=/bid />
+                    <span />
+                      Bids
+                      <span>Hot</span>
+                <li />
+                  [6]<a title=Launches href=/launches />
+                    <span>Launches</span>
+                <li />
+                  [7]<a title=Pricing href=/pricing />
+                    <span>Pricing</span>
+                <li />
+                  [8]<button id=radix-_R_ipjdlb_-trigger-radix-_R_1jipjdlb_ aria-expanded=false />
+                    <svg />
+        <div />
+          [9]<button aria-label=Search Aura++ />
+            <svg />
+          [10]<button />
+            <svg />
+            <svg />
+          [11]<a title=Sign in href=/sign-in>Sign in</a>
+          [12]<a title=Sign up href=/sign-up>Sign up</a>
+        <div />
+          [13]<button aria-label=Search Aura++ />
+            <svg />
+          [14]<a title=Sign up href=/sign-up>Sign up</a>
+          [16]<a title=Sign in href=/sign-in />
+            Sign in
+            [15]<svg />
+          [17]<button aria-label=Open navigation menu aria-haspopup=dialog aria-expanded=false />
+            <svg />
+    <main id=main-content />
+      <div />
+        <div />
+          <div />
+            <div />
+              <div>Welcome back</div>
+              <div>Sign in to your account to continue</div>
+            <div />
+              <form />
+                [18]<button />
+                  Login with Google
+                  <svg />
+                [19]<button />
+                  Login with GitHub
+                  <svg />
+                <div />
+                  <span>Or continue with</span>
+                <div />
+                  <div />
+                    <label for=email>Email</label>
+                    [20]<input type=email id=email placeholder=m@example.com name=email />
+                  <div />
+                    <div />
+                      <label for=password>Password</label>
+                      [21]<a title=Forgot your password? href=/forgot-password>Forgot your password?</a>
+                    [22]<input type=password id=password name=password />
+                  <button type=submit>Login</button>
+                <div />
+                  Don't have an account?
+                  [23]<a title=Sign up href=/sign-up>Sign up</a>
+          <div />
+            By clicking continue, you agree to our and .
+            [24]<a title=Terms of Service href=/legal/terms>Terms of Service</a>
+            [25]<a title=Privacy Policy href=/legal/privacy>Privacy Policy</a>
+    <footer />
+      <div />
+        <div />
+          <div />
+            <div />
+              [26]<a title=Aura++ href=/ />
+                <span>Aura++</span>
+              <p>Increase your Online Aura. Get a badge, traffic, a high quality backlink, a launch blog post, social media posts, and bo…</p>
+              <div />
+                <p>Follow us</p>
+                <div />
+                  [28]<a href=https://x.com/praneetbrar title=Twitter aria-label=Twitter />
+                    [27]<svg />
+                  [30]<a href=https://www.linkedin.com/company/auraplusplus title=LinkedIn aria-label=LinkedIn />
+                    [29]<svg />
+                  [32]<a href=https://in.pinterest.com/praneetbrar/aura title=Pinterest aria-label=Pinterest />
+                    [31]<svg />
+                  [34]<a href=https://www.youtube.com/@auraplusplus-com title=YouTube aria-label=YouTube />
+                    [33]<svg />
+                  [36]<a href=https://github.com/Praneetbrar/auraplusplus title=GitHub aria-label=GitHub />
+                    [35]<svg />
+              <div />
+                <p>Contact Us</p>
+                [37]<a href=mailto:hi@auraplusplus.com title=hi@auraplusplus.com>hi@auraplusplus.com</a>
+              <div />
+                [38]<button aria-label=Make Aura++ preferred on Google title=Add Aura++ as a preferred source in Google Search />
+                  Make us preferred on Google
+                  <svg />
+              <div />
+                [39]<a href=https://open-launch.com/projects/aura title=Open-Launch Top 1 Daily Winner />
+            <div />
+              <div />
+                <h3>Platform</h3>
+                <ul />
+                  <li />
+                    [40]<a title=Trending href=/trending />
+                      <span>Trending</span>
+                  <li />
+                    [41]<a title=Categories href=/categories />
+                      <span>Categories</span>
+                  <li />
+                    [42]<a title=Hall of Fame href=/hall-of-fame />
+                      <span>Hall of Fame</span>
+                  <li />
+                    [43]<a title=Aura++ Bids href=/bid />
+                      <span>Aura++ Bids</span>
+                  <li />
+                    [44]<a title=Launches href=/launches />
+                      <span>Launches</span>
+                  <li />
+                    [45]<a title=Founders href=/founders />
+                      <span>Founders</span>
+                  <li />
+                    [46]<a title=Submit Project href=/projects/submit />
+                      <span>Submit Project</span>
+              <div />
+                <h3>Launch & Grow</h3>
+                <ul />
+                  <li />
+                    [47]<a title=Pricing href=/pricing />
+                      <span>Pricing</span>
+                  <li />
+                    [48]<a title=Launch Guide href=/launch-guide />
+                      <span>Launch Guide</span>
+                  <li />
+                    [49]<a title=Launch Kit href=/launch-kit />
+                      <span>Launch Kit</span>
+                  <li />
+                    [50]<a title=Premium Launcher href=/premium-launcher />
+                      <span>Premium Launcher</span>
+                  <li />
+                    [51]<a title=Posting Dude href=/distribution/posting-dude />
+                      <span>Posting Dude</span>
+                  <li />
+                    [52]<a title=DR Booster href=/dr-booster />
+                      <span>DR Booster</span>
+                  <li />
+                    [53]<a title=Get Editorial Backlinks href=/get-editorial-backlinks />
+                      <span>Get Editorial Backlinks</span>
+                  <li />
+                    [54]<a title=Content Marketing href=/content-marketing />
+                      <span>Content Marketing</span>
+                  <li />
+                    [55]<a title=Ultimate Distribution href=/content-marketing/ultimate-distribution-package />
+                      <span>Ultimate Distribution</span>
+                  <li />
+                    [56]<a title=Guest Posts href=/content-marketing/guest-posts />
+                      <span>Guest Posts</span>
+                  <li />
+                    [57]<a title=Free tools href=/tools />
+                      <span>Free tools</span>
+                  <li />
+                    [58]<a title=Advertise href=/advertise />
+                      <span>Advertise</span>
+                  <li />
+                    [59]<a title=Affiliate Program href=/affiliate />
+                      <span>Affiliate Program</span>
+              <div />
+                <h3>Learn</h3>
+                <ul />
+                  <li />
+                    [60]<a title=About href=/about />
+                      <span>About</span>
+                  <li />
+                    [61]<a title=Contact href=/contact />
+                      <span>Contact</span>
+                  <li />
+                    [62]<a title=Blog href=/blog />
+                      <span>Blog</span>
+                  <li />
+                    [63]<a title=Studio href=/studio />
+                      <span>Studio</span>
+                  <li />
+                    [64]<a title=Case Studies href=/case-studies />
+                      <span>Case Studies</span>
+                  <li />
+                    [65]<a title=Testimonials href=/testimonials />
+                      <span>Testimonials</span>
+                  <li />
+                    [66]<a title=FAQ href=/faq />
+                      <span>FAQ</span>
+                  <li />
+                    [67]<a title=Privacy href=/legal/privacy />
+                      <span>Privacy</span>
+                  <li />
+                    [68]<a title=Terms href=/legal/terms />
+                      <span>Terms</span>
+                  <li />
+                    [69]<a title=Alternatives href=/alternatives />
+                      <span>Alternatives</span>
+                  <li />
+                    [70]<a title=Top Launch Platforms href=/top-startup-launch-platforms />
+                      <span>Top Launch Platforms</span>
+                  <li />
+                    [71]<a title=Partner API href=/partners/premium-submit-api />
+                      <span>Partner API</span>
+                  <li />
+                    [72]<a title=OpenAPI href=/openapi.json />
+                      <span>OpenAPI</span>
+              <div />
+                <h3>Directories</h3>
+                <ul />
+                  <li />
+                    [73]<a title=Tools href=/discover/tools />
+                      <span>Tools</span>
+                  <li />
+                    [74]<a title=Services href=/discover/services />
+                      <span>Services</span>
+                  <li />
+                    [75]<a title=Affiliate Programs href=/discover/affiliate-programs />
+                      <span>Affiliate Programs</span>
+                  <li />
+                    [77]<a href=https://bestlaunchplatforms.com/ title=Best Launch Platforms />
+                      <span>Best Launch Platforms</span>
+                      [76]<svg />
+                  <li />
+                    [79]<a href=https://producthunt-alternatives.com/ title=Product Hunt Alternatives />
+                      <span>Product Hunt Alternatives</span>
+                      [78]<svg />
+        <div />
+          <p>© 2026 Aura++. All rights reserved.</p>
+          <div />
+            [80]<a title=About href=/about>About</a>
+            [81]<a title=Contact href=/contact>Contact</a>
+            [82]<a title=Badges href=/legal/badges>Badges</a>
+            [83]<a title=Legal href=/legal>Legal</a>
+            [84]<a title=OpenAPI href=/openapi.json>OpenAPI</a>
+            [85]<a title=llms.txt href=/llms.txt>llms.txt</a>
+  [86]<button aria-label=Send feedback />
+    <svg />
+  <section aria-label=Notifications alt+T tabindex=-1 aria-live=polite />
+---
+interactive: 86 | iframes: 0

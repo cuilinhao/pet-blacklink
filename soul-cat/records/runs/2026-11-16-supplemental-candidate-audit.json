@@ -1,0 +1,608 @@
+{
+  "website": "Pettenderly",
+  "requested_date": "2026-11-16",
+  "csv": "supplemental-free-2026-11-16.csv",
+  "created_at": "2026-11-16T20:43:34+08:00",
+  "scope": "User-authorized independent supplemental priority branch for 20 new submissions after the existing Neeed baseline. Candidate research only; no external submission or count implied.",
+  "research_sha256": "3d17c8c99c0c8ec5174fa003578627a2a7ea3323fb69f154377bd86becb4c3de",
+  "research_source": "records/runs/2026-11-16-extra20-candidates.json",
+  "unprocessed_candidates_at_audit": [
+    {
+      "platform": "aisotools.com",
+      "url": "https://aisotools.com/",
+      "identity": "aisotools.com",
+      "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com",
+      "official_sources": [
+        "https://aisotools.com/submit"
+      ],
+      "free_evidence": "$0 permanent free listing; no card, trial or subscription. $99 verified optional.",
+      "publication_claim": "Officially most free submissions publish automatically within a minute; failures rechecked about 48h. Not a guarantee.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "aitoolscapital.com",
+      "url": "https://aitoolscapital.com/",
+      "identity": "aitoolscapital.com",
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolscapital.com::aitoolscapital.com",
+      "official_sources": [
+        "https://aitoolscapital.com/submit-tool/"
+      ],
+      "free_evidence": "$0 Free; $49/$129 optional.",
+      "publication_claim": "Usually reviewed within 24h.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "thenextai.com",
+      "url": "https://thenextai.com/",
+      "identity": "thenextai.com",
+      "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+      "official_sources": [
+        "https://www.thenextai.com/submit-ai-tool/"
+      ],
+      "free_evidence": "$0 forever Basic; $199 Featured optional.",
+      "publication_claim": "Manual review usually 24–48h / a few business days.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "prother.dev",
+      "url": "https://prother.dev/",
+      "identity": "prother.dev",
+      "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev",
+      "official_sources": [
+        "https://prother.dev/submit",
+        "https://prother.dev/terms"
+      ],
+      "free_evidence": "$0 permanently free.",
+      "publication_claim": "Human review usually 1–2 days, approved listings live immediately.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "launch.ignlab.net",
+      "url": "https://launch.ignlab.net/",
+      "identity": "ignlab.net",
+      "source_key": "supplemental-free-2026-11-16.csv::launch.ignlab.net::ignlab.net",
+      "official_sources": [
+        "https://launch.ignlab.net/",
+        "https://launch.ignlab.net/submit.html"
+      ],
+      "free_evidence": "Free forever; no paid listing required.",
+      "publication_claim": "Quick human review; no numeric SLA.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "tooltrove.net",
+      "url": "https://tooltrove.net/",
+      "identity": "tooltrove.net",
+      "source_key": "supplemental-free-2026-11-16.csv::tooltrove.net::tooltrove.net",
+      "official_sources": [
+        "https://tooltrove.net/submit",
+        "https://tooltrove.net/terms"
+      ],
+      "free_evidence": "Free; no pay-to-rank.",
+      "publication_claim": "Human review usually a couple of days.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "toolsbot.com",
+      "url": "https://toolsbot.com/",
+      "identity": "toolsbot.com",
+      "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com",
+      "official_sources": [
+        "https://toolsbot.com/submit",
+        "https://toolsbot.com/about/terms-conditions"
+      ],
+      "free_evidence": "Free without account; $9.90 package optional.",
+      "publication_claim": "Editorial review; no publication SLA. Support replies in 24h is not a review SLA.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "chatfreeai.com",
+      "url": "https://chatfreeai.com/",
+      "identity": "chatfreeai.com",
+      "source_key": "supplemental-free-2026-11-16.csv::chatfreeai.com::chatfreeai.com",
+      "official_sources": [
+        "https://chatfreeai.com/tools/submit"
+      ],
+      "free_evidence": "Free listing; paid priority optional.",
+      "publication_claim": "FIFO queue, live wait estimate not recovered.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "hypestar.org",
+      "url": "https://hypestar.org/",
+      "identity": "hypestar.org",
+      "source_key": "supplemental-free-2026-11-16.csv::hypestar.org::hypestar.org",
+      "official_sources": [
+        "https://hypestar.org/submit",
+        "https://hypestar.org/terms"
+      ],
+      "free_evidence": "$0 permanent basic listing; no account/card.",
+      "publication_claim": "Private until editorial facts/safety review; no SLA.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "indexof.ai",
+      "url": "https://indexof.ai/",
+      "identity": "indexof.ai",
+      "source_key": "supplemental-free-2026-11-16.csv::indexof.ai::indexof.ai",
+      "official_sources": [
+        "https://indexof.ai/submit",
+        "https://indexof.ai/auth/login",
+        "https://indexof.ai/terms"
+      ],
+      "free_evidence": "Free + Badge $0; Pro $9.99 optional.",
+      "publication_claim": "Live 7 days after badge verification.",
+      "research_file": "records/runs/2026-11-16-extra20-candidates.json",
+      "counted": false,
+      "submitted": false
+    },
+    {
+      "platform": "aiappdrop.com",
+      "url": "https://aiappdrop.com/",
+      "identity": "aiappdrop.com",
+      "source_key": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+      "official_sources": [
+        "https://aiappdrop.com/submit/",
+        "https://aiappdrop.com/terms-of-use/",
+        "https://aiappdrop.com/about/"
+      ],
+      "free_evidence": "Official Terms §Free listings: submission and approved publication are free; no featured placement or ranking boost sold. Submit page repeats free, usually a few days.",
+      "publication_claim": "Usually a few days; terms do not guarantee timeline.",
+      "research_file": "records/runs/2026-11-16-extra5-backups.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T20:59:33+08:00"
+    },
+    {
+      "platform": "productperch.com",
+      "url": "https://productperch.com/",
+      "identity": "productperch.com",
+      "source_key": "supplemental-free-2026-11-16.csv::productperch.com::productperch.com",
+      "official_sources": [
+        "https://productperch.com/submit/",
+        "https://productperch.com/terms/"
+      ],
+      "free_evidence": "Official free launch $0, next available UTC day; 12 free daily slots, 3 reserved for open-source. No mandatory badge.",
+      "publication_claim": "Next available day from tomorrow; date must be observed. Auto review then recheck day before 00:00 UTC launch; borderline manual.",
+      "research_file": "records/runs/2026-11-16-extra5-backups.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:01:51+08:00"
+    },
+    {
+      "platform": "bytaskai.com",
+      "url": "https://bytaskai.com/",
+      "identity": "bytaskai.com",
+      "source_key": "supplemental-free-2026-11-16.csv::bytaskai.com::bytaskai.com",
+      "official_sources": [
+        "https://bytaskai.com/submit/",
+        "https://bytaskai.com/terms/"
+      ],
+      "free_evidence": "Read-only candidate agent reported official Listing is free on submit page. Anonymous form; Image & Design/Paid fits.",
+      "publication_claim": "Manual review, no SLA reported.",
+      "research_file": "records/runs/2026-11-16-supplemental-extra2-research-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:22:32+08:00"
+    },
+    {
+      "platform": "shareyourstartup.com",
+      "url": "https://shareyourstartup.com/",
+      "identity": "shareyourstartup.com",
+      "source_key": "supplemental-free-2026-11-16.csv::shareyourstartup.com::shareyourstartup.com",
+      "official_sources": [
+        "https://shareyourstartup.com/submit.html",
+        "https://shareyourstartup.com/terms.html"
+      ],
+      "free_evidence": "Read-only candidate agent reported official Free / no account / no payment.",
+      "publication_claim": "Free publication within7 days reported; nofollow ugc.",
+      "research_file": "records/runs/2026-11-16-supplemental-extra2-research-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:22:32+08:00"
+    },
+    {
+      "platform": "promoteindex.com",
+      "url": "https://promoteindex.com/",
+      "identity": "promoteindex.com",
+      "source_key": "supplemental-free-2026-11-16.csv::promoteindex.com::promoteindex.com",
+      "official_sources": [
+        "https://promoteindex.com/submit",
+        "https://promoteindex.com/terms"
+      ],
+      "free_evidence": "Root relayed read-only candidate agent official-source verification: free anonymous submission, initially public nofollow ugc direct link; no votes or reciprocal link required. Terms explicitly permit representative/agent submission.",
+      "research_file": "records/runs/2026-11-16-promoteindex-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:25:30+08:00"
+    },
+    {
+      "platform": "aiagentsinfo.com",
+      "url": "https://www.aiagentsinfo.com/",
+      "identity": "aiagentsinfo.com",
+      "source_key": "supplemental-free-2026-11-16.csv::aiagentsinfo.com::aiagentsinfo.com",
+      "official_sources": [
+        "https://www.aiagentsinfo.com/submit",
+        "https://www.aiagentsinfo.com/editorial-policy",
+        "https://www.aiagentsinfo.com/terms"
+      ],
+      "free_evidence": "Candidate agent official-source research reported no account or fee; valid submissions automatically public in about2 minutes. Type AI tool and Image/Design explicitly supported, not agent-only. Accuracy authorization checkbox and Human check require runtime inspection.",
+      "research_file": "records/runs/2026-11-16-aiagentsinfo-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:27:37+08:00"
+    },
+    {
+      "platform": "amplibee.com",
+      "url": "https://amplibee.com/",
+      "identity": "amplibee.com",
+      "source_key": "supplemental-free-2026-11-16.csv::amplibee.com::amplibee.com",
+      "official_sources": [
+        "https://amplibee.com/launch-your-product",
+        "https://amplibee.com/terms"
+      ],
+      "free_evidence": "Official-source research reported Free to submit anonymous product launch; manual review, no badge or listing fee. Distinct from paid agency service. Terms prohibit bypassing daily checks, no general automated-submission ban.",
+      "research_file": "records/runs/2026-11-16-amplibee-toolpromote-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:29:26+08:00",
+      "runtime_warning": "HTML includes Turnstile Bot check and an initially disabled submit button; not CAPTCHA-free."
+    },
+    {
+      "platform": "toolpromote.com",
+      "url": "https://toolpromote.com/",
+      "identity": "toolpromote.com",
+      "source_key": "supplemental-free-2026-11-16.csv::toolpromote.com::toolpromote.com",
+      "official_sources": [
+        "https://toolpromote.com/submit",
+        "https://toolpromote.com/pricing",
+        "https://toolpromote.com/faq",
+        "https://www.toolpromote.com/terms-of-service"
+      ],
+      "free_evidence": "Official-source research reported Standard Free, manual48h review/dofollow, no account or badge; accurate-information authorization checkbox required. Terms prohibit automated data collection except permitted crawls, circumvention and spam; no ordinary authorized submission ban reported.",
+      "research_file": "records/runs/2026-11-16-amplibee-toolpromote-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:29:26+08:00",
+      "runtime_warning": "No CAPTCHA/Turnstile found in inspected HTML; accurate-information checkbox and truthful submitter relationship selection required."
+    },
+    {
+      "platform": "develif.com",
+      "url": "https://develif.com/",
+      "identity": "develif.com",
+      "source_key": "supplemental-free-2026-11-16.csv::develif.com::develif.com",
+      "official_sources": [
+        "https://develif.com/",
+        "https://develif.com/terms",
+        "https://develif.com/features"
+      ],
+      "free_evidence": "Root and candidate-agent official-source research reported homepage FAQ: permanently free/no account, accepted submission immediately public with dofollow. Only URL/email/name/description/category; no CAPTCHA/badge/terms checkbox observed in HTML. Terms/features permit legitimate agent submission. Actual receipt still required.",
+      "research_file": "records/runs/2026-11-16-develif-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:31:20+08:00"
+    },
+    {
+      "platform": "listedstartups.com",
+      "url": "https://listedstartups.com/",
+      "identity": "listedstartups.com",
+      "source_key": "supplemental-free-2026-11-16.csv::listedstartups.com::listedstartups.com",
+      "official_sources": [
+        "https://listedstartups.com/docs/humans",
+        "https://listedstartups.com/submit",
+        "https://listedstartups.com/docs#honesty-rules"
+      ],
+      "free_evidence": "Candidate-agent official public-flow inspection found immediate web publication without account/payment/CAPTCHA/badge fields; no fee shown. Explicit permanent-free guarantee was not found. Treat cost as requiring native UI confirmation; do not proceed through any payment. Agent publishing explicitly supported under honesty rules.",
+      "free_claim_status": "No fee shown; native UI must confirm; no perpetual-free claim.",
+      "research_file": "records/runs/2026-11-16-listedstartups-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:34:19+08:00"
+    },
+    {
+      "platform": "asiolaunch.com",
+      "url": "https://asiolaunch.com/",
+      "identity": "asiolaunch.com",
+      "source_key": "supplemental-free-2026-11-16.csv::asiolaunch.com::asiolaunch.com",
+      "official_sources": [
+        "https://asiolaunch.com/submit",
+        "https://asiolaunch.com/about",
+        "https://asiolaunch.com/badge"
+      ],
+      "free_evidence": "Candidate-agent official-source research reported Free / Submit for free launch; about page confirms a free permanent page and usually within7 days. Anonymous6 fields; no CAPTCHA/terms checkbox/badge required in HTML. Hidden website2 honeypot must remain empty; badge optional.",
+      "research_file": "records/runs/2026-11-16-asiolaunch-candidate-transcript.json",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:34:46+08:00"
+    },
+    {
+      "platform": "conversiongems.com",
+      "url": "https://conversiongems.com/",
+      "identity": "conversiongems.com",
+      "source_key": "supplemental-free-2026-11-16.csv::conversiongems.com::conversiongems.com",
+      "official_sources": [
+        "https://conversiongems.com/submit-your-tool",
+        "https://conversiongems.com/terms-of-service"
+      ],
+      "free_evidence": "Candidate-agent official-source research: No pay-to-list; anonymous form with no payment/CAPTCHA/badge, ordinary submitted-for-review flow; manual review no SLA. Name/URL/email required; AI Tools/Paid supported; optional marketing can remain unchecked. Terms prohibit scraping/misuse/disruption, no normal authorized-form ban reported.",
+      "research_source": "/root/new20_candidates official-source read-only report; records agent did not browse.",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:36:18+08:00"
+    },
+    {
+      "platform": "zearches.com",
+      "url": "https://zearches.com/",
+      "identity": "zearches.com",
+      "source_key": "supplemental-free-2026-11-16.csv::zearches.com::zearches.com",
+      "official_sources": [
+        "https://zearches.com/submit-website-free.php",
+        "https://zearches.com/free-website-submission.php",
+        "https://zearches.com/listing-policy.php"
+      ],
+      "free_evidence": "Candidate-agent official-source research: free/no account/payment/backlink; accepted submissions receive an immediate independent detail page, donations optional. Three-step form, no uploads/account; CAPTCHA details not yet confirmed. Listing policy prohibits spam/duplicates/false information; normal rate limits apply.",
+      "research_source": "/root/new20_candidates official-source read-only report; records agent did not browse.",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:37:06+08:00"
+    },
+    {
+      "platform": "toolgpt.co",
+      "url": "https://www.toolgpt.co/",
+      "identity": "toolgpt.co",
+      "source_key": "supplemental-free-2026-11-16.csv::toolgpt.co::toolgpt.co",
+      "official_sources": [
+        "https://www.toolgpt.co/submit",
+        "https://toolgpt.co/submit/listing"
+      ],
+      "free_evidence": "Candidate-agent official-source research: Free listing with standalone detail page and nofollow; $49 expedited optional. Anonymous form, no visible CAPTCHA/badge/terms checkbox; name/URL/tagline/about/categories/platform/email, company optional. Manual review no SLA; public Terms link not found, no ordinary automated-submission prohibition observed.",
+      "research_source": "/root/new20_candidates official-source read-only report; records agent did not browse.",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:39:42+08:00"
+    },
+    {
+      "platform": "techtools.cz",
+      "url": "https://techtools.cz/",
+      "identity": "techtools.cz",
+      "source_key": "supplemental-free-2026-11-16.csv::techtools.cz::techtools.cz",
+      "official_sources": [
+        "https://techtools.cz/tools/launchpad/"
+      ],
+      "free_evidence": "Candidate-agent official FAQ research: free submission, no paid plan/account/CAPTCHA, instant live, bots/scripts allowed. Only name/URL required; tagline/category/description optional; no badge. Read-only official lookup for pettenderly.com returned HTTP200 success:true data:[] meta.total:0 before any submission.",
+      "research_source": "/root/new20_candidates official-source read-only report; records agent did not browse.",
+      "read_only_precheck": {
+        "url": "https://techtools.cz/launchpad-api/tools?url=pettenderly.com",
+        "http_status": 200,
+        "success": true,
+        "data": [],
+        "total": 0,
+        "normalized_product_url": "https://pettenderly.com"
+      },
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:44:46+08:00"
+    },
+    {
+      "platform": "canopystack.dev",
+      "url": "https://canopystack.dev/",
+      "identity": "canopystack.dev",
+      "source_key": "supplemental-free-2026-11-16.csv::canopystack.dev::canopystack.dev",
+      "official_sources": [
+        "https://canopystack.dev/launches",
+        "https://canopystack.dev/terms"
+      ],
+      "free_evidence": "Candidate-agent official web-text research: free public directory, no account, immediate own indexable listing. Name/URL/pitch/category; leave hidden honeypot empty, no required badge/payment/terms checkbox seen. Runtime CAPTCHA unconfirmed; ordinary GET returned403, not bypassed. Native reachability and on-site duplicate state remain to verify.",
+      "research_source": "/root/new20_candidates official-source read-only report; records agent did not browse.",
+      "counted": false,
+      "submitted": false,
+      "added_at": "2026-11-16T21:46:13+08:00"
+    }
+  ],
+  "ordinary_active_csv": "success-1104-daohang-613-final.csv",
+  "ordinary_next_source_key": "success-1104-daohang-613-final.csv::somuch.com::somuch.com",
+  "canonical_history_checks": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com",
+      "canonical_identity": "aisotools.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolscapital.com::aitoolscapital.com",
+      "canonical_identity": "aitoolscapital.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+      "canonical_identity": "thenextai.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev",
+      "canonical_identity": "prother.dev",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::launch.ignlab.net::ignlab.net",
+      "canonical_identity": "ignlab.net",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::tooltrove.net::tooltrove.net",
+      "canonical_identity": "tooltrove.net",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com",
+      "canonical_identity": "toolsbot.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::chatfreeai.com::chatfreeai.com",
+      "canonical_identity": "chatfreeai.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::hypestar.org::hypestar.org",
+      "canonical_identity": "hypestar.org",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::indexof.ai::indexof.ai",
+      "canonical_identity": "indexof.ai",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+      "canonical_identity": "aiappdrop.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::productperch.com::productperch.com",
+      "canonical_identity": "productperch.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::bytaskai.com::bytaskai.com",
+      "canonical_identity": "bytaskai.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::shareyourstartup.com::shareyourstartup.com",
+      "canonical_identity": "shareyourstartup.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::promoteindex.com::promoteindex.com",
+      "canonical_identity": "promoteindex.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::aiagentsinfo.com::aiagentsinfo.com",
+      "canonical_identity": "aiagentsinfo.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::amplibee.com::amplibee.com",
+      "canonical_identity": "amplibee.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolpromote.com::toolpromote.com",
+      "canonical_identity": "toolpromote.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::develif.com::develif.com",
+      "canonical_identity": "develif.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::listedstartups.com::listedstartups.com",
+      "canonical_identity": "listedstartups.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::asiolaunch.com::asiolaunch.com",
+      "canonical_identity": "asiolaunch.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::conversiongems.com::conversiongems.com",
+      "canonical_identity": "conversiongems.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::zearches.com::zearches.com",
+      "canonical_identity": "zearches.com",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolgpt.co::toolgpt.co",
+      "canonical_identity": "toolgpt.co",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::techtools.cz::techtools.cz",
+      "canonical_identity": "techtools.cz",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::canopystack.dev::canopystack.dev",
+      "canonical_identity": "canopystack.dev",
+      "all_state_progress_matches": 0,
+      "counted_daily_matches": 0,
+      "original_7_queue_matches": 0
+    }
+  ],
+  "history_gate": "PASS",
+  "original_queue_match_method": "Conservative normalized name/domain search across every byte of all 7 original CSVs; one legacy CSV has malformed quoting and is not skipped or rewritten."
+}

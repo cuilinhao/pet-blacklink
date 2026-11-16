@@ -1,0 +1,437 @@
+URL: https://indiehunt.io/submit?plan=free
+
+url: https://indiehunt.io/submit?plan=free
+title: Submit Your AI Project
+viewport: 1280x757
+page_scroll: 1.7↑ 0.9↓
+---
+<body />
+  [2]<button aria-label=Open feedback form />
+    [1]<svg />
+    <span>Feedback</span>
+  <div />
+    <header />
+      <div />
+        <div />
+          [3]<a title=indiehunt href=/ />
+            <span>indiehunt</span>
+          <div />
+            <nav />
+              [4]<a title=Bids Hot href=/bid />
+                Bids
+                <span>Hot</span>
+              <div />
+                [6]<div />
+                  Discover
+                  [5]<svg />
+                <div />
+                  <ul />
+                    <li />
+                      [7]<a title=Launches href=/launches>Launches</a>
+                    <li />
+                      [8]<a title=Blog href=/blog>Blog</a>
+                    <li />
+                      [9]<a title=Posts href=/posts>Posts</a>
+                    <li />
+                      [10]<a title=Studio href=/studio>Studio</a>
+                    <li />
+                      [11]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                    <li />
+                      [12]<a title=Launch calendar href=/calender>Launch calendar</a>
+                    <li />
+                      [13]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                    <li />
+                      [14]<a title=Free tools href=/tools>Free tools</a>
+              <div />
+                [16]<div />
+                  Browse
+                  [15]<svg />
+                <div />
+                  <div />
+                    <div />
+                      [17]<a title=View all AI projects href=/projects>View all AI projects</a>
+                    <div />
+                      <div />
+                        <div>Other</div>
+                        <div />
+                          [20]<a title=APIs & Integrations href=/categories/apis-integrations />
+                            [18]<span />
+                            [19]<span>APIs & Integrations</span>
+                          [23]<a title=AR/VR href=/categories/ar-vr />
+                            [21]<span />
+                            [22]<span>AR/VR</span>
+                          [26]<a title=Artificial Intelligence href=/categories/artificial-intelligence />
+                            [24]<span />
+                            [25]<span>Artificial Intelligence</span>
+                          [29]<a title=Blockchain & Crypto href=/categories/blockchain-crypto />
+                            [27]<span />
+                            [28]<span>Blockchain & Crypto</span>
+                          [32]<a title=Business Analytics href=/categories/business-analytics />
+                            [30]<span />
+                            [31]<span>Business Analytics</span>
+                          [35]<a title=CMS & No-Code href=/categories/cms-no-code />
+                            [33]<span />
+                            [34]<span>CMS & No-Code</span>
+                          [38]<a title=Data Science & Analytics href=/categories/data-science-analytics />
+                            [36]<span />
+                            [37]<span>Data Science & Analytics</span>
+                          [41]<a title=Databases href=/categories/databases />
+                            [39]<span />
+                            [40]<span>Databases</span>
+                          [44]<a title=Design Tools href=/categories/design-tools />
+                            [42]<span />
+                            [43]<span>Design Tools</span>
+                          [47]<a title=Developer Tools href=/categories/developer-tools />
+                            [45]<span />
+                            [46]<span>Developer Tools</span>
+                          [50]<a title=DevOps & Cloud href=/categories/devops-cloud />
+                            [48]<span />
+                            [49]<span>DevOps & Cloud</span>
+                          [53]<a title=E-commerce href=/categories/ecommerce />
+                            [51]<span />
+                            [52]<span>E-commerce</span>
+                          [56]<a title=Education Tech href=/categories/education-tech />
+                            [54]<span />
+                            [55]<span>Education Tech</span>
+                          [59]<a title=Finance & FinTech href=/categories/finance-fintech />
+                            [57]<span />
+                            [58]<span>Finance & FinTech</span>
+                          [62]<a title=Gaming Tech href=/categories/gaming-tech />
+                            [60]<span />
+                            [61]<span>Gaming Tech</span>
+                          [65]<a title=Graphics & Illustration href=/categories/graphics-illustration />
+                            [63]<span />
+                            [64]<span>Graphics & Illustration</span>
+                          [68]<a title=Green Tech href=/categories/green-tech />
+                            [66]<span />
+                            [67]<span>Green Tech</span>
+                          [71]<a title=Hardware href=/categories/hardware />
+                            [69]<span />
+                            [70]<span>Hardware</span>
+                          [74]<a title=Health & Fitness href=/categories/health-and-fitness />
+                            [72]<span />
+                            [73]<span>Health & Fitness</span>
+                          [77]<a title=Health Tech href=/categories/health-tech />
+                            [75]<span />
+                            [76]<span>Health Tech</span>
+                          [80]<a title=Internet of Things (IoT) href=/categories/iot />
+                            [78]<span />
+                            [79]<span>Internet of Things (IoT)</span>
+                          [83]<a title=Legal href=/categories/legal />
+                            [81]<span />
+                            [82]<span>Legal</span>
+                          [86]<a title=Machine Learning href=/categories/machine-learning />
+                            [84]<span />
+                            [85]<span>Machine Learning</span>
+                          [89]<a title=Marketing Tools href=/categories/marketing-tools />
+                            [87]<span />
+                            [88]<span>Marketing Tools</span>
+                          [92]<a title=Mobile Development href=/categories/mobile-development />
+                            [90]<span />
+                            [91]<span>Mobile Development</span>
+                          [95]<a title=Natural Language Processing href=/categories/natural-language-processing />
+                            [93]<span />
+                            [94]<span>Natural Language Processing</span>
+                          [98]<a title=Open Source href=/categories/open-source />
+                            [96]<span />
+                            [97]<span>Open Source</span>
+                          [101]<a title=Other href=/categories/other />
+                            [99]<span />
+                            [100]<span>Other</span>
+                          [104]<a title=Platforms href=/categories/platforms />
+                            [102]<span />
+                            [103]<span>Platforms</span>
+                          [107]<a title=Productivity href=/categories/productivity />
+                            [105]<span />
+                            [106]<span>Productivity</span>
+                          [110]<a title=Prototyping href=/categories/prototyping />
+                            [108]<span />
+                            [109]<span>Prototyping</span>
+                          [113]<a title=Robotics href=/categories/robotics />
+                            [111]<span />
+                            [112]<span>Robotics</span>
+                          [116]<a title=SaaS href=/categories/saas />
+                            [114]<span />
+                            [115]<span>SaaS</span>
+                          [119]<a title=Sales Tools href=/categories/sales-tools />
+                            [117]<span />
+                            [118]<span>Sales Tools</span>
+                          [122]<a title=Security href=/categories/security />
+                            [120]<span />
+                            [121]<span>Security</span>
+                          [125]<a title=SEO href=/categories/seo />
+                            [123]<span />
+                            [124]<span>SEO</span>
+                          [128]<a title=Serverless href=/categories/serverless />
+                            [126]<span />
+                            [127]<span>Serverless</span>
+                          [131]<a title=Testing & QA href=/categories/testing-qa />
+                            [129]<span />
+                            [130]<span>Testing & QA</span>
+                          [134]<a title=UI/UX href=/categories/ui-ux />
+                            [132]<span />
+                            [133]<span>UI/UX</span>
+                          [137]<a title=Wearables href=/categories/wearables />
+                            [135]<span />
+                            [136]<span>Wearables</span>
+                          [140]<a title=Web Development href=/categories/web-development />
+                            [138]<span />
+                            [139]<span>Web Development</span>
+            [142]<button aria-label=Search title=Search (⌘K) />
+              [141]<svg />
+              <span>Search</span>
+              <kbd>⌘K</kbd>
+            [144]<a title=Launch href=/dashboard />
+              Launch
+              [143]<svg />
+            <div />
+              [145]<div tabindex=0 role=button />
+              [162]<ul tabindex=0 />
+                <li />
+                  [150]<a title=User karenayence@gmail.com href=/profile />
+                    [146]<svg />
+                    [149]<span />
+                      [147]<p>User</p>
+                      [148]<p>karenayence@gmail.com</p>
+                <li />
+                  [152]<a title=Dashboard href=/dashboard />
+                    Dashboard
+                    [151]<svg />
+                <li />
+                  [154]<a title=Launch Kit href=/dashboard/launch-kits />
+                    Launch Kit
+                    [153]<svg />
+                <li />
+                  [157]<a title=Content Marketing href=/dashboard/content-marketing />
+                    Content Marketing
+                    [155]<svg />
+                    [156]<span>Hot</span>
+                <li />
+                  [159]<a title=Premium Launcher href=/dashboard/bulk />
+                    Premium Launcher
+                    [158]<svg />
+                <li />
+                  [161]<button />
+                    Sign out
+                    [160]<svg />
+            [164]<button aria-label=Open menu aria-expanded=false />
+              [163]<svg />
+    <main />
+      <main />
+        <div />
+          <nav aria-label=Breadcrumb />
+            <ol />
+              <li />
+                [165]<a title=Home href=/>Home</a>
+              <li />
+                <svg />
+                <span>Submit</span>
+          <header />
+            <div />
+              <div />
+                <h1>Submit Your AI Project</h1>
+                <p>Launch your AI project to our community of makers, get valuable backlinks, and compete for weekly recognition.</p>
+              <div />
+                <svg />
+          <div />
+            <div />
+              <div />
+                <div />
+                  <div />
+                    <p>Step 3 of 3</p>
+                    <p>Backlink Verification</p>
+                    <p>Verify badge placement</p>
+                  <ol />
+                    <li title=AI Project Information />
+                      <span>01</span>
+                    <li title=Launch Plan />
+                      <span>02</span>
+                    <li title=Backlink Verification />
+                      <span>03</span>
+              <div />
+                <div />
+                  <section />
+                    <div />
+                      <div>01</div>
+                      <div />
+                        <h3>Add a link to IndieHunt</h3>
+                        <p>Free launches need a visible link to IndieHunt on your site before we can schedule the week.</p>
+                    <div />
+                      <ol />
+                        <li />
+                          <div>01</div>
+                          <p>Copy the badge code (or add any link to indiehunt.io)</p>
+                        <li />
+                          <div>02</div>
+                          <p>Paste it on your site — footer, homepage, or the URL you submitted</p>
+                        <li />
+                          <div>03</div>
+                          <p>Come back here and click Verify</p>
+                        <li />
+                          <div>04</div>
+                          <p>Once it passes, you can submit</p>
+                  <section />
+                    <div />
+                      <div>02</div>
+                      <div />
+                        <h3>Badge code</h3>
+                    <div />
+                      <div />
+                        [166]<button>Light theme</button>
+                        [167]<button>Dark theme</button>
+                      <div />
+                        |scroll|<pre /> (h:0%)
+                          <code><a href="https://indiehunt.io/project/pettenderly" target="_blank" rel="noopener"> <img src="https://indiehunt.io/badges…</code>
+                        [169]<button title=Copy code />
+                          [168]<svg />
+                      <p>You don't have to use the exact badge. Any link to indiehunt.io on your website will work.</p>
+                  <section />
+                    <div />
+                      <div>03</div>
+                      <div />
+                        <h3>Verify</h3>
+                        <p>We’ll check https://pettenderly.com/</p>
+                    <div />
+                      <div />
+                        [171]<button />
+                          Verify backlink
+                          [170]<svg />
+                        <div />
+                          [173]<button />
+                            [172]<svg />
+                            <span>Why is verification failing?</span>
+                            <span>+</span>
+                <div />
+                  <div />
+                    [175]<button />
+                      Previous
+                      [174]<svg />
+                  <div />
+                    <span>Step 3 of 3</span>
+                    [177]<button />
+                      Submit AI Project
+                      [176]<svg />
+    <div />
+      <p />
+        [178]<a href=/submit.md title=AI-friendly Markdown>AI-friendly Markdown</a>
+        <span>· structured for AI citations</span>
+    <footer />
+      <div />
+        <div />
+          <div />
+            [179]<a title=indiehunt href=/ />
+              <span>indiehunt</span>
+            <p>Weekly AI launches for indie makers. Compete for a week, get discovered, and earn dofollow backlinks.</p>
+          <div />
+            [181]<a title=Launch your project href=/submit />
+              Launch your project
+              [180]<svg />
+            [182]<a title=See pricing href=/pricing>See pricing</a>
+      <div />
+        <div />
+          <div />
+            <div />
+              <h3>Launch</h3>
+              <ul />
+                <li />
+                  [183]<a title=Submit a project href=/submit>Submit a project</a>
+                <li />
+                  [184]<a title=Pricing href=/pricing>Pricing</a>
+                <li />
+                  [185]<a title=Get Editorial Backlinks href=/get-editorial-backlinks>Get Editorial Backlinks</a>
+                <li />
+                  [186]<a title=Launch calendar href=/calender>Launch calendar</a>
+                <li />
+                  [187]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                <li />
+                  [188]<a title=Premium Launcher href=/premium-launcher>Premium Launcher</a>
+                <li />
+                  [189]<a title=IndieHunt Bids href=/bid>IndieHunt Bids</a>
+            <div />
+              <h3>Discover</h3>
+              <ul />
+                <li />
+                  [190]<a title=Browse projects href=/projects>Browse projects</a>
+                <li />
+                  [191]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                <li />
+                  [192]<a title=Launch stories href=/launches>Launch stories</a>
+                <li />
+                  [193]<a title=Blog href=/blog>Blog</a>
+                <li />
+                  [194]<a title=Content Marketing href=/content-marketing>Content Marketing</a>
+                <li />
+                  [195]<a title=Ultimate Distribution href=/content-marketing/ultimate-distribution-package>Ultimate Distribution</a>
+                <li />
+                  [196]<a title=Guest Posts href=/content-marketing/guest-posts>Guest Posts</a>
+                <li />
+                  [197]<a title=Posts href=/posts>Posts</a>
+                <li />
+                  [198]<a title=Studio href=/studio>Studio</a>
+                <li />
+                  [199]<a title=Free tools href=/tools>Free tools</a>
+            <div />
+              <h3>Guides</h3>
+              <ul />
+                <li />
+                  [200]<a title=Launch guide href=/launch-guide>Launch guide</a>
+                <li />
+                  [201]<a title=Alternatives href=/alternatives>Alternatives</a>
+                <li />
+                  [202]<a title=100+ launch places href=/100-places-to-launch-your-startup>100+ launch places</a>
+                <li />
+                  [203]<a title=FAQ href=/faq>FAQ</a>
+                <li />
+                  [204]<a title=Help center href=/help>Help center</a>
+                <li />
+                  [205]<a title=Changelog href=/changelog>Changelog</a>
+            <div />
+              <h3>Company</h3>
+              <ul />
+                <li />
+                  [206]<a title=About href=/about>About</a>
+                <li />
+                  [207]<a title=Advertising href=/advertising>Advertising</a>
+                <li />
+                  [208]<a title=Posting Dude href=/distribution/posting-dude>Posting Dude</a>
+                <li />
+                  [209]<a title=Developers href=/developers>Developers</a>
+                <li />
+                  [210]<a title=Contact href=/contact>Contact</a>
+            <div />
+              <h3>Network</h3>
+              <ul />
+                <li />
+                  [211]<a href=https://bestlaunchplatforms.com/ title=Best Launch Platforms>Best Launch Platforms</a>
+                <li />
+                  [212]<a href=https://producthunt-alternatives.com/ title=Product Hunt Alternatives>Product Hunt Alternatives</a>
+      <div />
+        <div />
+          <div />
+            <div />
+              <p>Follow</p>
+              <div />
+                [214]<a href=https://x.com/praneetbrar?utm_source=indiehunt&utm_medium=referral&utm_campaign=footer-social&ref=indiehunt title=X aria-label=X />
+                  [213]<svg />
+                [216]<a href=https://www.linkedin.com/showcase/indiehunt-io?utm_source=indiehunt&utm_medium=referral&utm_campaign… title=LinkedIn aria-label=LinkedIn />
+                  [215]<svg />
+                [218]<a href=https://in.pinterest.com/praneetbrar/indiehunt/?utm_source=indiehunt&utm_medium=referral&utm_campaig… title=Pinterest aria-label=Pinterest />
+                  [217]<svg />
+                [220]<a href=https://github.com/Praneetbrar/indiehunt?utm_source=indiehunt&utm_medium=referral&utm_campaign=foote… title=GitHub aria-label=GitHub />
+                  [219]<svg />
+            <div />
+              [222]<button aria-label=Make IndieHunt preferred on Google title=Add IndieHunt as a preferred source in Google Search />
+                Make us preferred on Google
+                [221]<svg />
+      <div />
+        <div />
+          <div />
+            <p>© 2026 IndieHunt. All rights reserved.</p>
+            <nav aria-label=Legal and policies />
+              [223]<a title=Terms href=/terms>Terms</a>
+              [224]<a title=Privacy href=/privacy>Privacy</a>
+              [225]<a title=Cookies href=/cookies>Cookies</a>
+              [226]<a title=LLMs.txt href=/llms.txt>LLMs.txt</a>
+              [227]<a title=OpenAPI href=/openapi.json>OpenAPI</a>
+---
+interactive: 227 | iframes: 0

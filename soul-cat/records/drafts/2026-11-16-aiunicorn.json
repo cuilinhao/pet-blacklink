@@ -1,0 +1,42 @@
+{
+  "name": "Pettenderly",
+  "url": "https://pettenderly.com/",
+  "contact": "support@soulpaw.art",
+  "twitter": "https://x.com/soulpaw_art",
+  "launch_month": "2026-10",
+  "country": "China",
+  "tagline": "Turn pet photos into downloadable AI pet portraits",
+  "short": "Pettenderly turns photos of your cat or dog into downloadable AI pet portraits in watercolor, royal, studio and window-seat styles.",
+  "description": "Pettenderly is an AI pet portrait studio for cat and dog owners. Upload one to five clear photos of the same pet, choose a style, and create a digital portrait to download. Styles include watercolor, royal portraits, studio scenes and sunny window-seat settings. The service uses paid credits, with no credit charged for failed generations. It delivers digital images, without physical printing or shipping. Generated faces, markings and details can vary.",
+  "pricing_model": "Paid",
+  "logo": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/logos/pettenderly-logo-512.png",
+  "screenshot": null,
+  "platform": "aiunicorn.lol",
+  "source_key": "success-1104-daohang-613-final.csv::aiunicorn.lol::aiunicorn.lol",
+  "form_url": "https://aiunicorn.lol/submit/",
+  "categories": [
+    "Photography"
+  ],
+  "status": "pending review",
+  "final_submit_attempted": true,
+  "verification": "Native CUA readback: name, tagline, 455-char description, URL, logo512, Paid, free plan No, free trial No, category, use case, Website, email and X all correct. Optional personal/financial fields empty. Free submission manually reviewed within14 days.",
+  "submission_attempts": 1,
+  "product_submission_sent": true,
+  "submission_attempts_semantics": "One product save followed by selection of the free manual-review queue; the observed queue receipt confirms accepted submission.",
+  "checkpoint": "Submitted into the free manual-review queue; wait for review email. Not yet public; no payment.",
+  "recorded_at": "2026-11-16T20:45:06+08:00",
+  "use_cases": [
+    "Image Generation"
+  ],
+  "platforms": [
+    "Website"
+  ],
+  "starting_price": "$4.99 for 12 credits",
+  "free_plan": false,
+  "free_trial": false,
+  "twitter_username": "soulpaw_art",
+  "evidence_url": "https://aiunicorn.lol/my-tools/?owner=submitted",
+  "evidence_artifact": "records/evidence/2026-11-16-aiunicorn-root-cua-receipt.json",
+  "public": false,
+  "counted": true
+}

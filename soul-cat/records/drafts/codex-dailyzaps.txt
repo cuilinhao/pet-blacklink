@@ -1,0 +1,90 @@
+Window: "Submit", App: Google Chrome.
+0 标准窗口 Submit - Google Chrome - Sadık (guillpern@gmail.com), URL: hub.dailyzaps.com/submit, Secondary Actions: Raise
+	1 container Submit - Google Chrome - Sadık (guillpern@gmail.com), URL: hub.dailyzaps.com/submit
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: hub.dailyzaps.com/submit, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 为此标签页添加书签
+				12 container
+					13 弹出式按钮 OpenCLI
+可以访问此网站
+					14 弹出式按钮 扩展程序
+				15 按钮 Sadık (guillpern@gmail.com)
+				16 弹出式按钮 Chrome
+			17 container
+				18 滚动区
+					19 HTML 内容 Submit, URL: hub.dailyzaps.com/submit
+						20 container
+							21 link Daily Zaps Picks, Value: hub.dailyzaps.com/
+							22 内容列表
+								23 link Home, Value: hub.dailyzaps.com/
+								24 link Submit, Value: hub.dailyzaps.com/submit
+								25 link SUBSCRIBE TO NEWSLETTER, Value: join.dailyzaps.com/
+						26 标题 Submit A Tool, Value: 3
+							27 文本 Submit A Tool
+						28 文本 Is there a tool missing from this site that we should know about? Share it below!
+						29 container Email Form
+							30 文本 Name
+							31 文本栏 (settable) Name, Value: Sadık Yenıce
+							32 文本 Email Address
+							33 邮箱 (settable) Email Address, Value: support@soulpaw.art
+							34 container
+								35 复选框 Subscribe to Daily Zaps Newsletter, Value: 0
+								36 文本 Subscribe to Daily Zaps Newsletter
+							37 文本 Tool/App/Website Name
+							38 文本栏 (settable) Tool/App/Website Name, Value: Pettenderly
+							39 文本 URL
+							40 文本栏 (settable) URL, Value: https://pettenderly.com/
+							41 文本 Category / Tag
+							42 弹出式按钮 Category / Tag, Value: Generative Arts
+								43 (selected) Generative Arts
+							44 文本栏 (settable) Other category name
+							45 文本 Pricing Model
+							46 弹出式按钮 Pricing Model, Value: Paid
+								47 (selected) Paid
+							48 文本 Description
+							49 文本输入区 (settable) Description, Value: Pettenderly is an online AI pet portrait studio. Upload one to five photos of the same cat or dog, choose a style such as watercolor, royal costumes or studio portraiture, and create a downloadable digital keepsake. Results can be viewed in the studio or My creations. Beta tools add portraits together with your pet and photo cleanup. The product is paid, starting at $4.99 for 12 permanent credits. Each successful image uses one credit; failed generations do not use credits. Generated details may vary. No physical printing or shipping is included.
+							50 文本 Comments
+							51 文本输入区 (settable) Comments
+							52 按钮 Submit
+						53 文本 Copyright 2023. All Rights Reserved
+			54 弹出式按钮 标签页搜索
+			55 container
+				56 标签页组
+					57 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+					58 标签 (settable, boolean) Submit New SEO Tool — findSEOtools.com - 内存用量 - 278 MB, Value: off
+					59 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+					60 标签 (settable, boolean) Thanks! - 内存用量 - 64.7 MB, Value: off
+					61 标签 (settable, boolean) Launch Your Startup Tool & Get DR Backlinks | NxGn Tools - 内存用量 - 97.0 MB, Value: off
+					62 标签 (settable, boolean) Submissions | Resource.fyi - 内存用量 - 178 MB, Value: off
+					63 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+					64 标签 (settable, boolean) Sign in or sign up | Sidehunt - 内存用量 - 469 MB, Value: off
+					65 标签 (settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 291 MB, Value: off
+					66 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 206 MB, Value: off
+					67 标签 (settable, boolean) TopFreeAITools - 内存用量 - 148 MB, Value: off
+					68 标签 (settable, boolean) Submit AI tool - 内存用量 - 479 MB, Value: off
+					69 标签 (selected, settable, boolean) Submit - 内存用量 - 98.5 MB, Value: on
+						70 按钮 关闭
+			71 按钮 新标签页
+	72 关闭按钮
+	73 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	74 最小化按钮
+75 menu bar
+	76 Chrome
+	77 文件
+	78 编辑
+	79 显示
+	80 历史记录
+	81 书签
+	82 个人资料
+	83 标签页
+	84 窗口
+	85 帮助
+
+The focused UI element is 46 弹出式按钮 Pricing Model, Value: Paid

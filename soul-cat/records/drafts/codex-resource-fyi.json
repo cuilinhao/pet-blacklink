@@ -1,0 +1,22 @@
+{
+  "platform": "resource.fyi",
+  "status": "pending review",
+  "draft_url": "https://resource.fyi/account/submit?draft=46a750b2-7566-4773-ab94-d19554f5f106",
+  "fields": {
+    "Website": "https://pettenderly.com/",
+    "Product name": "Pettenderly",
+    "Tagline": "AI pet portraits from your photos",
+    "Categories": [
+      "AI (Artificial Intelligence)",
+      "Design and creative"
+    ],
+    "Plan": "Free 0 USD",
+    "Publish date": "2026-12-13",
+    "Logo": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/logos/pettenderly-logo-512.png",
+    "Cover": "/Users/pgy/Desktop/pettenderly/public/og-pettenderly.png"
+  },
+  "description": "Pettenderly is a browser-based AI portrait studio for people who want a digital keepsake of their cat or dog. Upload one to five photos of the same pet, choose a style such as watercolor or royal portrait, and generate an image to download. The My creations area keeps completed images available for review and download.\n\nThe studio also includes two beta tools: You & your pet combines separate person and pet photos, while Photo cleanup lets users describe changes to an existing image. Generated markings and fine details can vary, so users should review results.\n\nPettenderly is a paid digital service. A starter pack costs $4.99 for 12 credits; each successful image generation uses one credit. Subscription options are also available. It does not offer physical prints or shipping.",
+  "verification": "Submitted (done), Review (in progress), Pettenderly is on the launchpad receipt; screenshot resource-fyi-submitted.png. Scheduled Dec 13 2026 12:01am Pacific, subject to review.",
+  "evidence_url": "https://resource.fyi/account/submissions?status=scheduled",
+  "receipt": "Pettenderly is on the launchpad! Submitted done; Review in progress; launch Dec 13 2026 12:01am Pacific."
+}

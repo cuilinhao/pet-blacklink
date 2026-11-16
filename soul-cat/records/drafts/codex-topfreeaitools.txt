@@ -1,0 +1,208 @@
+Window: "TopFreeAITools", App: Google Chrome.
+0 标准窗口 TopFreeAITools - Google Chrome - Sadık (guillpern@gmail.com), URL: topfreeaitools.com/profile?nav=aitool, Secondary Actions: Raise
+	1 container TopFreeAITools - Google Chrome - Sadık (guillpern@gmail.com), URL: topfreeaitools.com/profile?nav=aitool
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: topfreeaitools.com/profile?nav=aitool, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 为此标签页添加书签
+				12 container
+					13 弹出式按钮 OpenCLI
+可以访问此网站
+					14 弹出式按钮 扩展程序
+				15 按钮 Sadık (guillpern@gmail.com)
+				16 弹出式按钮 Chrome
+			17 container
+				18 滚动区
+					19 HTML 内容 TopFreeAITools, URL: topfreeaitools.com/profile?nav=aitool
+						20 container
+							21 container
+								22 文本 Profile
+								23 文本 My Tool
+							24 container
+								25 文本 Tool Preview
+								26 按钮
+							27 文本 Submit your AI Tool below
+							28 文本 Product name*
+							29 文本栏 (settable) Value: Pettenderly, Placeholder: name
+							30 文本 Website link*
+							31 文本栏 (settable) Value: https://pettenderly.com/, Placeholder: link
+							32 文本 Product tagline*
+							33 文本栏 (settable) Value: Turn pet photos into portraits worth keeping., Placeholder: 1 line about your product
+							34 文本 Product video if any (youtube video id)
+							35 文本栏 (settable) 11 characters video id (v=)
+							36 文本 Product logo*
+							37 container
+								38 未加标签的图片 /pettenderly-logo-512.png
+								39 按钮 Click to upload a logo
+								40 按钮 选择文件: 未选择任何文件, Help: https://ff65dcf08ebd5eb1c022b44dd88016ac.cdn.bubble.io/cdn-cgi/image/f=auto,w=96,h=96,fit=contain,dpr=2/f1794665091928x238097303383301600/pettenderly-logo-512.png
+							41 文本 Product image (screenshot/marketing image)*
+							42 container
+								43 未加标签的图片 /pettenderly-home-en.jpg
+								44 按钮 Click to upload an image
+								45 按钮 选择文件: 未选择任何文件, Help: https://ff65dcf08ebd5eb1c022b44dd88016ac.cdn.bubble.io/cdn-cgi/image/f=auto,w=512,h=192,fit=contain,dpr=2/f1794665113624x739093435575664900/pettenderly-home-en.jpg
+							46 文本 What does your product do?*
+							47 文本输入区 (settable) Placeholder: Brief about your product, Value: Pettenderly is an online AI pet portrait studio. Upload one to five clear photos of the same cat or dog, choose a style, and create a downloadable digital keepsake. Styles include watercolor, royal costumes and studio portraits. Results are available in the studio and My creations. Generated faces, markings and fine details may vary.
+							48 文本 Key features and benefits*
+							49 文本输入区 (settable) Placeholder: List key features and benefits of your product, Value: Create pet portraits from reference photos; choose multiple visual styles; download digital images; revisit results in My creations. Beta features include portraits together with your pet and photo cleanup using written instructions. Each successful image uses one credit; failed generations do not use credits.
+							50 文本 Use case*
+							51 文本输入区 (settable) Placeholder: Product use cases, Value: Pet owners can turn everyday cat or dog photos into digital portraits, create personal keepsakes, or explore artistic looks for a pet photo. Outputs are downloadable images; physical printing and shipping are not included.
+							52 文本 Pricing Tag*
+							53 组合框 (settable) × Paid
+								54 内容列表
+									55 container Paid
+										56 text × Paid
+									57 文本栏 (settable)
+							58 文本 Pricing Plan*
+							59 文本输入区 (settable) Placeholder: Product pricing(mention free plan & validity as well), Value: Paid, with no free plan or free trial. Starter Pack: $4.99 one time for 12 permanent credits. Pro: $9.90/month or $79/year, with 40 credits per month; monthly credits do not roll over. One successful image uses one credit.
+							60 文本 Choose your product category*
+							61 组合框 (settable) × Image
+								62 内容列表
+									63 container Image
+										64 text × Image
+									65 文本栏 (settable)
+							66 文本 Who can use your AI Tool?*
+							67 组合框 (settable) × Creator
+								68 内容列表
+									69 container Creator
+										70 text × Creator
+									71 文本栏 (settable)
+							72 文本 Social links
+							73 container
+								74 按钮
+								75 文本栏 (settable) X profile link
+							76 container
+								77 按钮
+								78 文本栏 (settable) LinkedIn profile link
+							79 container
+								80 按钮
+								81 文本栏 (settable) Facebook profile link
+							82 container
+								83 按钮
+								84 文本栏 (settable) Instagram profile link
+							85 container
+								86 按钮
+								87 文本栏 (settable) Pinterest profile link
+							88 按钮 Submit for approval
+							89 container
+								90 container
+									91 图像 TopFreeAITools
+									92 文本 TOPFREEAITOOLS
+								93 文本 Find AI Tools for every day tasks
+								94 container
+									95 按钮
+									96 按钮
+									97 按钮
+								98 文本 support@topfreeaitools.com
+								99 container
+									100 文本 No spam, Only AI Tools
+									101 邮箱 (settable) Type your email
+									102 按钮 Subscribe
+								103 文本 AI Tools Category
+								104 container
+									105 link Audio, Value: topfreeaitools.com/index/ai-audio-tools
+									106 link Animation, Value: topfreeaitools.com/index/ai-animation-tools
+									107 link Avatar, Value: topfreeaitools.com/index/ai-avatar-tools
+									108 link Branding, Value: topfreeaitools.com/index/ai-branding-tools
+									109 link Business, Value: topfreeaitools.com/index/ai-business-tools
+									110 link Career, Value: topfreeaitools.com/index/ai-career-tools
+									111 link Chatbot, Value: topfreeaitools.com/index/ai-chatbot-tools
+									112 link Coding, Value: topfreeaitools.com/index/ai-coding-tools
+									113 link Content, Value: topfreeaitools.com/index/ai-content-tools
+									114 link Copywriting, Value: topfreeaitools.com/index/ai-copywriting-tools
+									115 link Data, Value: topfreeaitools.com/index/ai-data-tools
+									116 link Design, Value: topfreeaitools.com/index/ai-design-tools
+									117 link Ecommerce, Value: topfreeaitools.com/index/ai-ecommerce-tools
+									118 link Education, Value: topfreeaitools.com/index/ai-education-tools
+									119 link Email, Value: topfreeaitools.com/index/ai-email-tools
+									120 link Feedback, Value: topfreeaitools.com/index/ai-feedback-tools
+									121 link Gaming, Value: topfreeaitools.com/index/ai-gaming-tools
+									122 link Image, Value: topfreeaitools.com/index/ai-image-tools
+									123 link Learning, Value: topfreeaitools.com/index/ai-learning-tools
+									124 link Marketing, Value: topfreeaitools.com/index/ai-marketing-tools
+									125 link Nocode, Value: topfreeaitools.com/index/ai-nocode-tools
+									126 link Productivity, Value: topfreeaitools.com/index/ai-productivity-tools
+									127 link Research, Value: topfreeaitools.com/index/ai-research-tools
+									128 link Sales, Value: topfreeaitools.com/index/ai-sales-tools
+									129 link Security, Value: topfreeaitools.com/index/ai-security-tools
+									130 link Seo, Value: topfreeaitools.com/index/ai-seo-tools
+									131 link Social, Value: topfreeaitools.com/index/ai-social-tools
+									132 link Startup, Value: topfreeaitools.com/index/ai-startup-tools
+									133 link Speech, Value: topfreeaitools.com/index/ai-speech-tools
+									134 link Support, Value: topfreeaitools.com/index/ai-support-tools
+									135 link Text, Value: topfreeaitools.com/index/ai-text-tools
+									136 link Video, Value: topfreeaitools.com/index/ai-video-tools
+								137 文本 Free AI Generators
+								138 container
+									139 link LinkedIn Post Generator, Value: topfreeaitools.com/free-ai-tools/linkedin-post-generator
+									140 link AI Text Humanizer, Value: topfreeaitools.com/free-ai-tools/ai-text-humanizer
+									141 link Reddit Post Generator, Value: topfreeaitools.com/free-ai-tools/reddit-post-generator
+									142 link TikTok Caption Generator, Value: topfreeaitools.com/free-ai-tools/tiktok-caption-generator
+									143 link Grammar Checker, Value: topfreeaitools.com/free-ai-tools/grammar-checker
+									144 link AI Content Detector, Value: topfreeaitools.com/free-ai-tools/ai-content-detector
+									145 link Business Name Generator, Value: topfreeaitools.com/free-ai-tools/business-name-generator
+									146 link Lorem Ipsum Generator, Value: topfreeaitools.com/free-ai-tools/lorem-ipsum-generator
+									147 link Paraphrasing Tool, Value: topfreeaitools.com/free-ai-tools/paraphrasing-tool
+									148 link Summarizer Tool, Value: topfreeaitools.com/free-ai-tools/summarizer-tool
+									149 link Twitter Bio Generator, Value: topfreeaitools.com/free-ai-tools/twitter-bio-generator
+									150 link Facebook Post Generator, Value: topfreeaitools.com/free-ai-tools/facebook-post-generator
+									151 link Twitch Name Generator, Value: topfreeaitools.com/free-ai-tools/twitch-name-generator
+									152 link Blog Title Generator, Value: topfreeaitools.com/free-ai-tools/blog-title-generator
+									153 link Slogan Generator, Value: topfreeaitools.com/free-ai-tools/slogan-generator
+									154 link Wedding Hashtag generator, Value: topfreeaitools.com/free-ai-tools/wedding-hashtag-generator
+						155 container
+							156 container
+								157 图像 TopFreeAITools
+							158 文本 TOPFREEAITOOLS
+							159 link FREE AI Generators, Value: topfreeaitools.com/free-ai-tools
+							160 文本 Submit Tool
+							161 container
+								162 未加标签的图片 要获取缺失的图片说明，请打开上下文菜单。
+								163 文本 Sadık Yenıce
+			164 弹出式按钮 标签页搜索
+			165 container
+				166 标签页组
+					167 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+						168 按钮 关闭
+					169 标签 (settable, boolean) Submit New SEO Tool — findSEOtools.com - 内存用量 - 278 MB, Value: off
+						170 按钮 关闭
+					171 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+						172 按钮 关闭
+					173 标签 (settable, boolean) Thanks! - 内存用量 - 64.7 MB, Value: off
+						174 按钮 关闭
+					175 标签 (settable, boolean) Launch Your Startup Tool & Get DR Backlinks | NxGn Tools - 内存用量 - 97.0 MB, Value: off
+						176 按钮 关闭
+					177 标签 (settable, boolean) Submissions | Resource.fyi - 内存用量 - 178 MB, Value: off
+						178 按钮 关闭
+					179 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+						180 按钮 关闭
+					181 标签 (settable, boolean) Sign in or sign up | Sidehunt - 内存用量 - 469 MB, Value: off
+						182 按钮 关闭
+					183 标签 (settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 291 MB, Value: off
+						184 按钮 关闭
+					185 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 206 MB, Value: off
+						186 按钮 关闭
+					187 标签 (selected, settable, boolean) TopFreeAITools - 内存用量 - 148 MB, Value: on
+						188 按钮 关闭
+			189 按钮 新标签页
+	190 关闭按钮
+	191 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	192 最小化按钮
+193 menu bar
+	194 Chrome
+	195 文件
+	196 编辑
+	197 显示
+	198 历史记录
+	199 书签
+	200 个人资料
+	201 标签页
+	202 窗口
+	203 帮助
+
+The focused UI element is 45 按钮 选择文件: 未选择任何文件, Help: https://ff65dcf08ebd5eb1c022b44dd88016ac.cdn.bubble.io/cdn-cgi/image/f=auto,w=512,h=192,fit=contain,dpr=2/f1794665113624x739093435575664900/pettenderly-home-en.jpg

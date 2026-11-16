@@ -1,0 +1,17 @@
+									75 文本 Tool name 
+									76 文本栏 (settable) Tool name, Value: Pettenderly, Placeholder: e.g. Midjourney
+									77 文本 Website URL 
+									78 网址 (settable) Website URL, Value: https://pettenderly.com/, Placeholder: https://
+									79 文本 Category 
+									80 弹出式按钮 Category, Value: Image & Design
+									82 文本 Pricing 
+									83 弹出式按钮 Pricing, Value: Paid/Premium
+									85 文本 Description 
+									86 文本输入区 (settable) Description, Placeholder: What does this tool do? Who is it for?, Value: Pettenderly turns photos of cats and dogs into downloadable AI portraits. Pet owners can upload one to five photos of the same animal, then choose styles such as watercolor, royal portraits or studio looks. Completed images are available in My creations. Beta tools also let users combine separate person and pet photos or describe edits to an existing picture. The service is paid, with a $4.99 starter pack providing 12 credits. Each successful image uses one credit. Generated markings and fine details can vary. Pettenderly creates digital images and does not ship physical prints.
+									87 文本 Tags (optional)
+									88 文本栏 (settable) Tags (optional), Value: ai-pet-portraits, image-generator, photo-editing, digital-art, Placeholder: image-generator, free-plan, api
+									90 文本 Your name (optional)
+									91 文本栏 (settable) Your name (optional), Value: Sadık Yenıce
+									92 文本 Your email (optional)
+									93 邮箱 (settable) Your email (optional), Value: support@soulpaw.art, Placeholder: you@example.com
+The focused UI element is 93 邮箱 (settable) Your email (optional), Value: support@soulpaw.art, Placeholder: you@example.com

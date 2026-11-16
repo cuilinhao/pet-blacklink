@@ -1,0 +1,12 @@
+{
+  "matches_n": 1,
+  "match_level": "exact",
+  "uploaded": true,
+  "files": 1,
+  "file_names": [
+    "pettenderly-logo-512.png"
+  ],
+  "target": "214",
+  "multiple": false,
+  "accept": "image/jpeg,image/jpg,image/png,image/webp"
+}

@@ -1,0 +1,18 @@
+{
+  "source_key": "success-1104-daohang-613-final.csv::mridul.tech::mridul.tech",
+  "target_url": "https://mridul.tech/ai/add-new",
+  "status": "submission_unknown",
+  "fields": {
+    "contact_name": "Sadık Yenıce",
+    "contact_email": "support@soulpaw.art",
+    "name": "Pettenderly",
+    "url": "https://pettenderly.com/",
+    "short_description": "Create a digital keepsake of your cat or dog with Pettenderly. Its AI studio transforms pet photos into watercolor, royal and other portrait styles.",
+    "description": "[Pettenderly](https://pettenderly.com/) is a browser-based studio for making AI portraits from pet photos. Pet owners can upload one to five clear reference photos of the same animal and choose a visual style, including watercolor, royal costumes and studio portraits. The finished result is a digital image that can be downloaded and revisited in My creations.\n\nTwo beta features extend the workflow: You & your pet combines separate person and pet photos into a shared portrait, while photo cleanup accepts a written request to change an image. Generated faces, markings and small details can vary.\n\nThe service is paid. A one-time Starter Pack costs $4.99 for 12 credits; Pro subscriptions provide 40 credits per month. Each successful generation uses one credit, and failed generations do not use credits. Portraits are delivered as digital files rather than physical prints.",
+    "pricing": "Paid",
+    "category": "Generative Art"
+  },
+  "duplicate_check": "Current platform AI search for Pettenderly returned No results found; resume gate PASS; no local prior matching outcome.",
+  "submit_clicked_at": "2026-11-14T13:29:30.737Z",
+  "observation": "One Submit Tool click; subsequent page readback retains filled form and shows neither success receipt nor validation error. Do not resubmit automatically."
+}

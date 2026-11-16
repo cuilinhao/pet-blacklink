@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-11-16T21:22:32+08:00",
+  "source": "Transcript of /root/new20_candidates official-source read-only research and root explicit admission request. Records agent did not browse.",
+  "candidates": [
+    {
+      "domain": "bytaskai.com",
+      "platform_url": "https://bytaskai.com/",
+      "official_sources": [
+        "https://bytaskai.com/submit/",
+        "https://bytaskai.com/terms/"
+      ],
+      "free_evidence": "Read-only candidate agent reported official Listing is free on submit page. Anonymous form; Image & Design/Paid fits.",
+      "publication_claim": "Manual review, no SLA reported.",
+      "constraints": [
+        "At least one logo or screenshot",
+        "No CAPTCHA script observed in read-only page; actual UI still authoritative",
+        "Terms review reported no automated-submission ban"
+      ]
+    },
+    {
+      "domain": "shareyourstartup.com",
+      "platform_url": "https://shareyourstartup.com/",
+      "official_sources": [
+        "https://shareyourstartup.com/submit.html",
+        "https://shareyourstartup.com/terms.html"
+      ],
+      "free_evidence": "Read-only candidate agent reported official Free / no account / no payment.",
+      "publication_claim": "Free publication within7 days reported; nofollow ugc.",
+      "constraints": [
+        "Turnstile quickcheck",
+        "Terms prohibit bot voting; dedicated ordinary submission route reported eligible"
+      ]
+    }
+  ],
+  "submitted": false,
+  "counted": false
+}

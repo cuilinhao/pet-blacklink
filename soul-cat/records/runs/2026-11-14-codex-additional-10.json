@@ -1,0 +1,735 @@
+{
+  "website": "Pettenderly",
+  "requested_additional_count": 10,
+  "baseline_today_count": 2,
+  "baseline_platforms": [
+    "PromptZone",
+    "Findly"
+  ],
+  "active_csv": "success-1104-daohang-613-final.csv",
+  "next_source_key": "success-1104-daohang-613-final.csv::somuch.com::somuch.com",
+  "operator": "Codex / native CUA / verified Sadık Chrome",
+  "outcomes": [
+    {
+      "source_key": "success-1104-daohang-613-final.csv::mridul.tech::mridul.tech",
+      "platform": "mridul.tech",
+      "platform_url": "https://mridul.tech",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "submission_unknown",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:30",
+      "evidence_url": "https://mridul.tech/ai/add-new",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-mridul-tech.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/mridul-unconfirmed.png",
+      "notes": "Codex Sadık native UI: AI目录搜索Pettenderly无结果；公开资料已填并逐字段读回，Generative Art/Paid。仅点击一次Submit Tool；后续观察仍保留完整表单，无成功回执亦无验证错误。结果未知，不计数且禁止自动重发。草稿records/drafts/codex-mridul-tech.json；截图records/evidence/2026-11-14-codex-10/mridul-unconfirmed.png。",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::findseotools.com::findseotools.com",
+      "platform": "findseotools.com",
+      "platform_url": "https://findseotools.com",
+      "state": "terminal",
+      "status": "submitted",
+      "result_status": "submitted",
+      "counted": true,
+      "last_attempted": "2026-11-14 22:20",
+      "evidence_url": "https://findseotools.com/submit",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-findseotools-final.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/findseotools-submitted.png",
+      "notes": "Codex additional10 #9: user confirmed X https://x.com/soulpaw_art and launch 2026-10; filled required year2026 and X. Actual final submission explicit Thank you! Your submission has been received! Content/Paid, no invented founder claim. No public listing verified. Draft codex-findseotools-final.txt + codex-findseotools-year.txt; screenshot records/evidence/2026-11-14-codex-10/findseotools-submitted.png. Earlier attempts only client validation before submission.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified.",
+      "additional_draft_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-findseotools-year.txt"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::addonbiz.com::addonbiz.com",
+      "platform": "addonbiz.com",
+      "platform_url": "https://addonbiz.com",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:36",
+      "evidence_url": "https://addonbiz.com/add-your-listing/",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-addonbiz.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/addonbiz-registration-required.png",
+      "notes": "Codex additional10: not submitted. Requires country-only Listing Region and new account; product country unconfirmed. Asked user. No terms acceptance/account created. Draft records/drafts/codex-addonbiz.json; screenshot records/evidence/2026-11-14-codex-10/addonbiz-registration-required.png.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::millionshort.com::millionshort.com",
+      "platform": "millionshort.com",
+      "platform_url": "https://millionshort.com",
+      "state": "terminal",
+      "status": "submitted",
+      "result_status": "submitted",
+      "counted": true,
+      "last_attempted": "2026-11-14 21:38",
+      "evidence_url": "https://millionshort.com/send",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-millionshort.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/millionshort-submitted.png",
+      "notes": "Codex additional10 #1: explicit receipt: Thank you! Your submission has been received. Search-engine submission accepted; public backlink/indexing not yet verified. Evidence records/evidence/2026-11-14-codex-10/millionshort-submitted.png; draft codex-millionshort.json.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::nxgntools.com::nxgntools.com",
+      "platform": "nxgntools.com",
+      "platform_url": "https://nxgntools.com/",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:23",
+      "evidence_url": "https://nxgntools.com/launches/new",
+      "draft_path": null,
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/nxgn-signin-terms.png",
+      "notes": "Codex additional10 resumed after exact user terms approval. Google signin succeeded authorized Sadık basic profile/email. Launch step1 requires upvoting another maker before launch; Continue disabled. No tool endorsement fabricated, no listing submission yet.",
+      "public_backlink_verified": false,
+      "screenshot_scope": "Historical earlier-attempt screenshot; current blocker is supported by the latest main ledger note, not asserted by this image."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::resource.fyi::resource.fyi",
+      "platform": "resource.fyi",
+      "platform_url": "https://resource.fyi",
+      "state": "terminal",
+      "status": "pending review",
+      "result_status": "pending review",
+      "counted": true,
+      "last_attempted": "2026-11-14 21:42",
+      "evidence_url": "https://resource.fyi/account/submissions?status=scheduled",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-resource-fyi.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/resource-fyi-submitted.png",
+      "notes": "Codex additional10 #2: explicit Pettenderly is on the launchpad receipt. Submitted done, Review in progress. Free plan; scheduled 2026-12-13 at 12:01am Pacific, subject to review. Public listing not yet live. Screenshot records/evidence/2026-11-14-codex-10/resource-fyi-submitted.png; draft codex-resource-fyi.json.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aitools.sh::aitools.sh",
+      "platform": "aitools.sh",
+      "platform_url": "https://aitools.sh",
+      "state": "terminal",
+      "status": "pending review",
+      "result_status": "pending review",
+      "counted": true,
+      "last_attempted": "2026-11-14 21:44",
+      "evidence_url": "https://aitools.sh/submit-a-tool/?submit=success",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-aitools-sh.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/aitools-sh-submitted.png",
+      "notes": "Codex additional10 #3: Thanks! Your tool was submitted and is pending review. Category Image & Design, Paid/Premium. Public link awaits admin approval. Evidence records/evidence/2026-11-14-codex-10/aitools-sh-submitted.png; draft records/drafts/codex-aitools-sh.txt.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::fastpedia.io::fastpedia.io",
+      "platform": "fastpedia.io",
+      "platform_url": "https://fastpedia.io",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:45",
+      "evidence_url": "https://fastpedia.io/signup?next=%2Fsubmit%2F",
+      "draft_path": null,
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/fastpedia-registration-required.png",
+      "notes": "Codex additional10: submit redirects to login. Existing password autofill unavailable. Signup inspected: email/password-only, explicit mandatory Terms/Privacy agreement; no Google/magic-link option. No account credentials entered or account created. Screenshot records/evidence/2026-11-14-codex-10/fastpedia-registration-required.png.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aitoolsguide.com::aitoolsguide.com",
+      "platform": "aitoolsguide.com",
+      "platform_url": "https://aitoolsguide.com",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:45",
+      "evidence_url": "https://aitoolsguide.com/",
+      "draft_path": null,
+      "screenshot_path": null,
+      "notes": "Codex additional10: live homepage says The directory is temporarily paused. Tool browsing, search and submissions are currently unavailable. No submission attempted.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::appsandwebsites.com::appsandwebsites.com",
+      "platform": "appsandwebsites.com",
+      "platform_url": "https://appsandwebsites.com",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:46",
+      "evidence_url": "https://landing.mycloudmedia.co.uk/apps-and-websites-submit-ai-or-saas-tool/new-submission.html",
+      "draft_path": null,
+      "screenshot_path": null,
+      "notes": "Codex additional10: official SUBMIT link leads to myCloudMedia form. Mandatory Phone and Company Name; website requires identifiable company contact info. Product has no confirmed business phone/legal company. Submission also accepts linked privacy terms. No data submitted.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::toolhunter.ai::toolhunter.ai",
+      "platform": "toolhunter.ai",
+      "platform_url": "https://toolhunter.ai",
+      "state": "terminal",
+      "status": "pending review",
+      "result_status": "pending review",
+      "counted": true,
+      "last_attempted": "2026-11-14 21:50",
+      "evidence_url": "https://toolhunter.ai/profile?tab=submissions&action=new",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-toolhunter.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/toolhunter-submitted.png",
+      "notes": "Codex additional10 #4: Thanks — we are taking a look. Pettenderly needs a quick human review before the badge step; email followup within a few days. No public listing or dofollow verified. Logo/home screenshot uploaded; relation Other. Screenshot records/evidence/2026-11-14-codex-10/toolhunter-submitted.png; draft codex-toolhunter.json.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aitoolsexplorer.com::aitoolsexplorer.com",
+      "platform": "aitoolsexplorer.com",
+      "platform_url": "https://aitoolsexplorer.com/",
+      "state": "terminal",
+      "status": "paid",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:51",
+      "evidence_url": "https://aitoolsexplorer.com/submit-ai-tool/",
+      "draft_path": null,
+      "screenshot_path": null,
+      "notes": "Codex additional10: official submission page resolves old free-source conflict: From $49 one-time, AI Visa $49 or AI Passport $129. No free option shown. No checkout or payment attempted.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::sidehunt.io::sidehunt.io",
+      "platform": "sidehunt.io",
+      "platform_url": "https://sidehunt.io",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:30",
+      "evidence_url": "https://sidehunt.io/submit",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-sidehunt-description.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/sidehunt-no-free-slots.png",
+      "notes": "已按用户确认完成默认Google登录；选择免费Nofollow无徽章方案，Step2填妥421词介绍/Paid/logo/品牌X。Step3所有显示周2026-W47至2027-W29均Week full，所有radio disabled，无可用免费排期，未提交、不计数。证据 records/evidence/2026-11-14-codex-10/sidehunt-no-free-slots.png；草稿 records/drafts/codex-sidehunt-description.txt 与 codex-sidehunt-final.txt。",
+      "public_backlink_verified": false,
+      "additional_draft_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-sidehunt-final.txt"
+      ],
+      "historical_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/sidehunt-signin-terms.png"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::humanornot.co::humanornot.co",
+      "platform": "humanornot.co",
+      "platform_url": "https://humanornot.co",
+      "state": "terminal",
+      "status": "submitted",
+      "result_status": "submitted",
+      "counted": true,
+      "last_attempted": "2026-11-14 21:53",
+      "evidence_url": "https://humanornot.co/submit-tool",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-humanornot.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/humanornot-submitted.png",
+      "notes": "Codex additional10 #5: explicit Your submission has been received; email notification when published. Free listing form with product website and public support email. No public link yet. Screenshot records/evidence/2026-11-14-codex-10/humanornot-submitted.png; draft codex-humanornot.json.",
+      "public_backlink_verified": false,
+      "count_basis": "Explicit submission receipt; public backlink not yet verified."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::make.rs::make.rs",
+      "platform": "make.rs",
+      "platform_url": "https://make.rs",
+      "state": "deferred",
+      "status": "deferred",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:54",
+      "evidence_url": "https://make.rs/sign-up",
+      "draft_path": null,
+      "screenshot_path": null,
+      "notes": "Codex additional10: existing-account magic-link login with authorized Sadık email returned This email address is invalid. Signup inspected: free email + maker username, mandatory terms acceptance, no existing Google signin. No account created or project submitted.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aieducator.tools::aieducator.tools",
+      "platform": "aieducator.tools",
+      "platform_url": "https://aieducator.tools",
+      "state": "terminal",
+      "status": "not-relevant",
+      "result_status": "not_submitted",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:54",
+      "evidence_url": "https://aieducator.tools/",
+      "draft_path": null,
+      "screenshot_path": null,
+      "notes": "Codex additional10: live directory explicitly for teachers, schools and education AI; CTA Built an AI tool for education? Pettenderly is consumer pet portraits with no verified education-specific functionality. Did not misrepresent as classroom tool or submit irrelevant listing.",
+      "public_backlink_verified": false
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::proaitools.net::proaitools.net",
+      "platform": "proaitools.net",
+      "platform_url": "https://proaitools.net",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:55",
+      "evidence_url": "https://proaitools.net/",
+      "notes": "Codex additional10: Chrome ERR_CONNECTION_CLOSED on first navigation and one bounded reload. No submission form reached, no external write. Did not modify proxy/security settings.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::itsbetterwithai.com::itsbetterwithai.com",
+      "platform": "itsbetterwithai.com",
+      "platform_url": "https://itsbetterwithai.com",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:58",
+      "evidence_url": "https://itsbetterwithai.com/submit-ai/",
+      "notes": "Codex additional10: official free submit page has Error: Contact form not found. Title Submit AI Thank You is only page title, no submission was made. Not counted.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::insidr.ai::insidr.ai",
+      "platform": "insidr.ai",
+      "platform_url": "https://insidr.ai/",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 21:59",
+      "evidence_url": "https://insidr.ai/advertise/",
+      "notes": "Codex additional10: current home and AI directory expose no free submit CTA. Advertise is sponsor placement inquiry/media kit, not submission receipt; no inquiry sent or count claimed.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::launchvault.dev::launchvault.dev",
+      "platform": "launchvault.dev",
+      "platform_url": "https://launchvault.dev",
+      "state": "terminal",
+      "status": "scheduled",
+      "counted": true,
+      "last_attempted": "2026-11-14 22:39",
+      "evidence_url": "https://launchvault.dev/dashboard?tab=upcoming",
+      "notes": "用户批准Google默认账号登录与条款；Free Launch $0。官方徽章上线并验证成功。先保存为draft，项目级验证后刷新出现Schedule launch，选择2027-06-07 16:00至06-14 16:00北京时间，点击Schedule launch；最终后台Upcoming(1)/Drafts(0)，Pettenderly及Badge verified清楚可见。未付款。项目URL https://launchvault.dev/projects/pettenderly 尚未核实公开外链。证据 records/evidence/2026-11-14-codex-10/launchvault-scheduled.png；草稿 codex-launchvault-final.txt/result.txt，官网截图 pettenderly-launchvault-badge-live.png。",
+      "public_backlink_verified": false,
+      "result_status": "scheduled",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-launchvault-final.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/launchvault-scheduled.png",
+      "count_basis": "Explicit submission receipt; public backlink not yet verified.",
+      "additional_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-launchvault-badge-live.png"
+      ],
+      "historical_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/launchvault-signin-terms.png"
+      ],
+      "scheduled_launch_window": {
+        "start": "2027-06-07 16:00",
+        "end": "2027-06-14 16:00",
+        "timezone": "Asia/Shanghai",
+        "plan": "Free $0"
+      }
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::tinystartups.com::tinystartups.com",
+      "platform": "tinystartups.com",
+      "platform_url": "https://tinystartups.com",
+      "state": "terminal",
+      "status": "paid",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:21",
+      "evidence_url": "https://tinystartups.com/submit",
+      "notes": "Codex additional10 resumed after user authorized auto-account/newsletter. Steps2-4 verified Pettenderly, support@soulpaw.art, China, October2026, revenue undisclosed. Step5 Pettenderly is saved, but mandatory disabled checked £69 Instant listing Needed to go live; only Pay £69 CTA. Saved draft is NOT live or successful submission. No payment. Screenshot records/evidence/2026-11-14-codex-10/tinystartups-paid-required.png.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-tinystartups.json",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/tinystartups-paid-required.png",
+      "historical_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/tinystartups-account-required.png"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aijourney.so::aijourney.so",
+      "platform": "aijourney.so",
+      "platform_url": "https://aijourney.so",
+      "state": "terminal",
+      "status": "paid",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:02",
+      "evidence_url": "https://aijourney.so/submit-ai-tool",
+      "notes": "Codex additional10: current official submit page offers only $29/listing and $99/listing one-time fees. No free listing; no purchase or submission.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::topfreeaitools.com::topfreeaitools.com",
+      "platform": "topfreeaitools.com",
+      "platform_url": "https://topfreeaitools.com/",
+      "state": "terminal",
+      "status": "pending review",
+      "counted": true,
+      "last_attempted": "2026-11-14 22:19",
+      "evidence_url": "https://topfreeaitools.com/profile?nav=aitool",
+      "notes": "Codex additional10 #8: submitted Pending state; required official badge deployed f0076d90 and verified real production footer. User explicitly authorized support notice; sent from authorized Sadık Google mailbox to support@topfreeaitools.com and verified matching in:sent result 22:18. Awaiting manual review; public listing not verified. Gmail Sent proves sending only, not delivery. Draft codex-topfreeaitools.txt; evidence topfreeaitools-badge-required.png, pettenderly-badges-live.png, topfreeaitools-email-sent.png under records/evidence/2026-11-14-codex-10/. 2026-11-16更正（root原生CUA邮箱观察转录）：该支持通知虽有已发送记录，但Nov14 DSN显示support@topfreeaitools.com Address not found / 550，通知退信、未成功送达；不能声称全部提交侧要求已完成。平台既有Pending提交记录仍保留，未重新提交、未重发邮件、不新增计数。Evidence: records/evidence/2026-11-16-topfreeaitools-bounce-root-cua.json.",
+      "public_backlink_verified": false,
+      "result_status": "pending review",
+      "count_basis": "Explicit submission receipt; public backlink not yet verified.",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-topfreeaitools.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/topfreeaitools-badge-required.png",
+      "additional_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-badges-live.png",
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/topfreeaitools-email-sent.png"
+      ],
+      "requirements_completed": {
+        "official_badge_deployed": true,
+        "deployment_version": "f0076d90-5811-4233-ae47-0b101c850dd5",
+        "production_badge_verified": true,
+        "authorized_review_notification_sent_and_verified": true,
+        "public_listing_verified": false,
+        "review_notification_delivery_verified": false,
+        "review_notification_delivery_state": "bounced-550-address-not-found",
+        "all_submit_side_requirements_fulfilled": false
+      }
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::toptools.ai::toptools.ai",
+      "platform": "toptools.ai",
+      "platform_url": "https://toptools.ai/",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:07",
+      "evidence_url": "https://toptools.ai/submit",
+      "notes": "Codex additional10: official page Submissions paused. Explicitly not accepting new tools during redesign. Partner paid bulk service is unrelated; not clicked. No submission.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aihustle.tools::aihustle.tools",
+      "platform": "aihustle.tools",
+      "platform_url": "https://aihustle.tools/",
+      "state": "terminal",
+      "status": "submitted",
+      "counted": true,
+      "last_attempted": "2026-11-14 22:16",
+      "evidence_url": "https://aihustle.tools/submit/",
+      "notes": "Codex additional10 #7: required official footer reciprocal link deployed Cloudflare f0076d90 and visibly verified on https://pettenderly.com/. Preserved form read back then submitted once. Tally explicit Form submitted / Thanks for completing this form! No public listing yet. Draft records/drafts/codex-aihustle.txt; screenshots records/evidence/2026-11-14-codex-10/aihustle-submitted.png and pettenderly-badges-live.png.",
+      "public_backlink_verified": false,
+      "result_status": "submitted",
+      "count_basis": "Explicit submission receipt; public backlink not yet verified.",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-aihustle.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/aihustle-submitted.png",
+      "additional_screenshot_paths": [
+        "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-badges-live.png"
+      ]
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::dailyzaps.com::dailyzaps.com",
+      "platform": "dailyzaps.com",
+      "platform_url": "https://dailyzaps.com",
+      "state": "terminal",
+      "status": "submitted",
+      "counted": true,
+      "last_attempted": "2026-11-14 22:10",
+      "evidence_url": "https://hub.dailyzaps.com/submit",
+      "notes": "Codex additional10 #6: explicit Thank you! Your submission has been received! Pettenderly, Generative Arts/Paid, public support email; optional newsletter unchecked. No public backlink verified. Draft records/drafts/codex-dailyzaps.txt; screenshot records/evidence/2026-11-14-codex-10/dailyzaps-submitted.png.",
+      "public_backlink_verified": false,
+      "result_status": "submitted",
+      "count_basis": "Explicit submission receipt; public backlink not yet verified.",
+      "draft_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/drafts/codex-dailyzaps.txt",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/dailyzaps-submitted.png"
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aijumble.com::aijumble.com",
+      "platform": "aijumble.com",
+      "platform_url": "https://aijumble.com",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:11",
+      "evidence_url": "https://aijumble.com/login",
+      "notes": "Codex additional10: free listing confirmed. Vendor signup requires company name (unconfirmed), password, Terms. Existing login Google button inspected/clicked once; explicit Google Sign-In integration requires Google OAuth setup. Site-side unfinished OAuth. No account created or listing submitted.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::infrabase.ai::infrabase.ai",
+      "platform": "infrabase.ai",
+      "platform_url": "https://infrabase.ai",
+      "state": "terminal",
+      "status": "not-relevant",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:11",
+      "evidence_url": "https://infrabase.ai/",
+      "notes": "Codex additional10: live homepage explicitly directory of AI infrastructure products for building and shipping AI applications. Categories inference APIs, agents, frameworks/stacks. Pettenderly is consumer pet-portrait application, not verified developer infrastructure; no irrelevant submission.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::tooldirectory.ai::tooldirectory.ai",
+      "platform": "tooldirectory.ai",
+      "platform_url": "https://tooldirectory.ai",
+      "state": "terminal",
+      "status": "paid",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:12",
+      "evidence_url": "https://tooldirectory.ai/submit-tool",
+      "notes": "Codex additional10: live official form says every listing carries a fee, $9.99 monthly subscription required or $150 lifetime. Free pricing radio describes product price, not free submission. No checkout or submission.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::victrays.com::victrays.com",
+      "platform": "victrays.com",
+      "platform_url": "https://victrays.com/",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:24",
+      "evidence_url": "https://victrays.com/submit-ai-tool/",
+      "notes": "Codex additional10 resumed after user privacy approval. Sign-in entry repeatedly intercepted/covered by video ad overlay; bounded close+reobserve did not yield OAuth, and UI reported user changed Chrome. No credentials, vote, payment or submission. Stopped repeated clicks, approval retained in records/runs/2026-11-14-user-confirmations.json.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/victrays-signin-privacy.png",
+      "screenshot_scope": "Historical earlier-attempt screenshot; current blocker is supported by the latest main ledger note, not asserted by this image."
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::aiwizard.ai::aiwizard.ai",
+      "platform": "aiwizard.ai",
+      "platform_url": "https://www.aiwizard.ai/submit",
+      "state": "deferred",
+      "status": "deferred",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:14",
+      "evidence_url": "https://aiwizard.ai/auth/sign-up",
+      "notes": "Codex additional10: provided submit and current Submit a tool routes require account. Login/signup inspected; no Google; signup has four steps and email/password. Protected workspace credential ledger mode600 has no aiwizard record. No new account authorization/credential provided for this site; no account or submission created.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    },
+    {
+      "source_key": "success-1104-daohang-613-final.csv::hostedsoftware.org::hostedsoftware.org",
+      "platform": "hostedsoftware.org",
+      "platform_url": "https://hostedsoftware.org",
+      "state": "terminal",
+      "status": "not-relevant",
+      "counted": false,
+      "last_attempted": "2026-11-14 22:14",
+      "evidence_url": "https://hostedsoftware.org/",
+      "notes": "Codex additional10: official site self-hosted software directory for running on users own servers. Pettenderly is hosted consumer SaaS with no self-hostable distribution. No misrepresented submission.",
+      "public_backlink_verified": false,
+      "result_status": "not_submitted",
+      "draft_path": null,
+      "screenshot_path": null
+    }
+  ],
+  "status": "completed",
+  "audit_updated_at": "2026-11-14T14:48:43.032481+00:00",
+  "additional_counted": 10,
+  "audit_note": "最终独立审计完成：32个唯一候选，10/10有效提交（5 submitted、4 pending review、1 scheduled），今日12，公开新增核实0。10条回执及草稿存在，无source_key或平台重复计数。最终版本10×10底部横排已部署并视觉确认，生产HTTP/CSS9/9及真实UI8/8通过。历史API验证与最终UI范围分开；页面退出/刷新不声称令牌重放。主CSV与日报未修改。",
+  "additional_remaining": 0,
+  "today_counted": 12,
+  "additional_public_verified": 0,
+  "snapshot_through_source_key": "success-1104-daohang-613-final.csv::hostedsoftware.org::hostedsoftware.org",
+  "not_synced_source_keys": [],
+  "artifact_audit": {
+    "all_counted_have_existing_receipt_screenshot_and_draft": true,
+    "counted_receipt_and_draft_count": 10,
+    "referenced_missing_paths": [],
+    "duplicate_source_keys": [],
+    "duplicate_counted_platforms": [],
+    "baseline_counted_again": false,
+    "counted_receipt_files": [
+      {
+        "platform": "findseotools.com",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/findseotools-submitted.png",
+        "format": "JPEG",
+        "bytes": 217004
+      },
+      {
+        "platform": "millionshort.com",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/millionshort-submitted.png",
+        "format": "JPEG",
+        "bytes": 236352
+      },
+      {
+        "platform": "resource.fyi",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/resource-fyi-submitted.png",
+        "format": "JPEG",
+        "bytes": 312878
+      },
+      {
+        "platform": "aitools.sh",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/aitools-sh-submitted.png",
+        "format": "JPEG",
+        "bytes": 372053
+      },
+      {
+        "platform": "toolhunter.ai",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/toolhunter-submitted.png",
+        "format": "JPEG",
+        "bytes": 305061
+      },
+      {
+        "platform": "humanornot.co",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/humanornot-submitted.png",
+        "format": "JPEG",
+        "bytes": 268097
+      },
+      {
+        "platform": "launchvault.dev",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/launchvault-scheduled.png",
+        "format": "JPEG",
+        "bytes": 376835
+      },
+      {
+        "platform": "topfreeaitools.com",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/topfreeaitools-badge-required.png",
+        "format": "JPEG",
+        "bytes": 459125
+      },
+      {
+        "platform": "aihustle.tools",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/aihustle-submitted.png",
+        "format": "JPEG",
+        "bytes": 334947
+      },
+      {
+        "platform": "dailyzaps.com",
+        "path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/dailyzaps-submitted.png",
+        "format": "JPEG",
+        "bytes": 214395
+      }
+    ]
+  },
+  "report_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/runs/2026-11-14-codex-additional-10-report.md",
+  "production_ui_acceptance": {
+    "status": "passed",
+    "tested_version": "9e3bf9f4-ea76-45d2-9ff3-6fdeeca95dc4",
+    "build_id": "cudGZMhSKOyWAnsklr5nq",
+    "passed": 8,
+    "total": 8,
+    "checks": [
+      {
+        "name": "page_registration_and_auto_login",
+        "result": "pass"
+      },
+      {
+        "name": "session_persistence",
+        "result": "pass"
+      },
+      {
+        "name": "logout_and_reload",
+        "result": "pass"
+      },
+      {
+        "name": "wrong_password_rejected",
+        "result": "pass"
+      },
+      {
+        "name": "password_login",
+        "result": "pass"
+      },
+      {
+        "name": "duplicate_registration_rejected",
+        "result": "pass"
+      },
+      {
+        "name": "final_signed_out",
+        "result": "pass"
+      },
+      {
+        "name": "footer_visual",
+        "result": "pass"
+      }
+    ],
+    "authorization": "User explicitly approved Terms/Privacy and dedicated QA registration/login/logout.",
+    "evidence_json": "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/ui-auth-results.json",
+    "evidence_paths": [
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/ui-signup-session.png",
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/ui-wrong-password.png",
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/ui-password-login.png",
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/ui-duplicate-registration.png",
+      "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-footer-10px-live.png"
+    ],
+    "session_end_state": "Signed out; logout and refresh checked through UI.",
+    "scope": "Final-version native Chrome page checks. UI logout does not claim token-replay verification. No real payment, paid generation or customer credentials.",
+    "historical_api_scope": "Auth API 11/11 and Google boundaries 6/6 belong to earlier f0076d90 version; not rerun or relabeled as final-version API tests."
+  },
+  "latest_deployment": {
+    "version": "9e3bf9f4-ea76-45d2-9ff3-6fdeeca95dc4",
+    "build_id": "cudGZMhSKOyWAnsklr5nq",
+    "production_url": "https://pettenderly.com/",
+    "scope": "Five 10x10 pixel image badges in horizontal row after copyright; AI Hustle text link retained.",
+    "command_exit_code": 0,
+    "production_http_checks": {
+      "passed": 9,
+      "total": 9,
+      "scope": "Read-only production HTML/CSS and BUILD_ID; not browser auth testing."
+    },
+    "evidence_paths": [
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/footer-10px-deploy.log",
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/footer-10px-deploy-result.json",
+      "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/footer-10px-production-check.json"
+    ],
+    "api_acceptance_version": "f0076d90-5811-4233-ae47-0b101c850dd5",
+    "browser_visual_acceptance": "Passed on final version: five tiny badges in horizontal footer row, confirmed by main native Chrome operator.",
+    "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-footer-10px-live.png"
+  },
+  "submission_target_met_at": "2026-11-14T14:40:43.377736+00:00",
+  "submission_goal_complete": true,
+  "prior_deployments": [
+    {
+      "version": "b4a6a46d-db56-4778-9f87-f52fd401140c",
+      "production_url": "https://pettenderly.com/",
+      "badge_visual_verification": "Main agent verified all badges including LaunchVault in native Chrome.",
+      "screenshot_path": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/evidence/2026-11-14-codex-10/pettenderly-launchvault-badge-live.png",
+      "prior_api_acceptance_version": "f0076d90-5811-4233-ae47-0b101c850dd5",
+      "build_id": "ctkK6Cy71cQjxt_YN5wjJ",
+      "command_exit_code": 0,
+      "production_http_checks": {
+        "passed": 7,
+        "total": 7,
+        "scope": "Read-only homepage HTML, official badge anchor/image, dofollow, responsive markup, prior badges and BUILD_ID; not auth or UI testing."
+      },
+      "evidence_paths": [
+        "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/launchvault-deploy.log",
+        "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/launchvault-deploy-result.json",
+        "/Users/pgy/Desktop/pettenderly/.deployment-evidence/2026-11-14-directory-badges/launchvault-production-check.json"
+      ]
+    }
+  ],
+  "completed_at": "2026-11-14T14:48:43.086927+00:00",
+  "final_scope": "10 evidence-backed submitted, pending-review or scheduled outcomes; 0 newly verified public backlinks. Final five-badge 10x10 footer deployment and 8/8 native-Chrome UI checks completed.",
+  "browser_cleanup": {
+    "closed_completed_task_tabs": 11,
+    "remaining_task_tabs": [
+      "mridul.tech unknown result",
+      "Sidehunt prepared draft",
+      "LaunchVault scheduling receipt",
+      "Pettenderly final footer"
+    ],
+    "reported_by": "Main native Chrome operator"
+  }
+}

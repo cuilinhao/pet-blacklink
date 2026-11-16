@@ -1,0 +1,11 @@
+{
+  "to": "support@topfreeaitools.com",
+  "subject": "Pettenderly — badge installed",
+  "body": "Hello TopFreeAITools team,\n\nThe TopFreeAITools badge is now installed in the footer of https://pettenderly.com/.\n\nListing: https://topfreeaitools.com/ai/pettenderly\n\nThank you.",
+  "status": "Sent but bounced; not delivered. Root observed Nov14 DSN Address not found / 550 on2026-11-16.",
+  "previous_status": "Sent verified in Gmail in:sent results at 22:18; user explicitly authorized",
+  "delivery_status": "bounced",
+  "delivered": false,
+  "bounce_evidence": "records/evidence/2026-11-16-topfreeaitools-bounce-root-cua.json",
+  "do_not_resend": true
+}

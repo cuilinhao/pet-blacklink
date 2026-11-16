@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "[REDACTED]",
+    "message": "Missing target. Pass a numeric ref/CSS selector, or semantic flags like --role button --name Submit."
+  }
+}

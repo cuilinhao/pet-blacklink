@@ -1,0 +1,478 @@
+Window: "Submit your side project | Sidehunt", App: Google Chrome.
+0 标准窗口 Submit your side project | Sidehunt - Google Chrome - Sadık (guillpern@gmail.com), URL: sidehunt.io/submit, Secondary Actions: Raise
+	1 container Submit your side project | Sidehunt - Google Chrome - Sadık (guillpern@gmail.com), URL: sidehunt.io/submit
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: sidehunt.io/submit, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 安装“Sidehunt”
+					12 按钮 为此标签页添加书签
+				13 container
+					14 弹出式按钮 OpenCLI
+可以访问此网站
+					15 弹出式按钮 扩展程序
+				16 按钮 Sadık (guillpern@gmail.com)
+				17 弹出式按钮 Chrome
+			18 container
+				19 滚动区
+					20 HTML 内容 Submit your side project | Sidehunt, URL: sidehunt.io/submit
+						21 按钮 Open feedback form
+						22 container
+							23 link Sidehunt Sidehunt, Help: Go to Sidehunt homepage, Value: sidehunt.io/
+							24 container
+								25 文本 Discover
+								26 图像
+							27 link Launch your project, Help: Go to dashboard to submit a project, Value: sidehunt.io/dashboard
+							28 按钮 karenayence@gmail.com
+						29 container
+							30 文本 LAUNCH
+							31 标题 Submit your project, Value: 1
+								32 文本 Submit your project
+							33 文本 Choose a plan, add details, pick a week, and go live with Sidehunt.
+							34 link Back to dashboard, Help: Return to your dashboard, Value: sidehunt.io/dashboard
+							35 文本 1
+							36 标题 Launch Type, Value: 3
+								37 文本 Launch Type
+							38 文本 Choose your launch type
+							39 文本 2
+							40 标题 Project details, Value: 3
+								41 文本 Project details
+							42 文本 Tell us about your product or side project
+							43 文本 3
+							44 标题 Launch Week, Value: 3
+								45 文本 Launch Week
+							46 文本 Select your launch week
+							47 标题 Choose your launch week, Value: 2
+								48 文本 Choose your launch week
+							49 文本 Nofollow launches get nofollow links always, even if you win top 3
+							50 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								51 单选按钮 (disabled) 0
+								52 标题 Week 2026-W47, Value: 3
+									53 text Week  2026-W47
+								54 文本 Nov 16-23
+								55 text 0 /3
+								56 文本 ⓘ
+								57 text Availability: Week full (0/15 free slots)
+								58 文本 Week Full
+							59 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								60 单选按钮 (disabled) 0
+								61 标题 Week 2026-W48, Value: 3
+									62 text Week  2026-W48
+								63 文本 Nov 23-30
+								64 text 0 /3
+								65 文本 ⓘ
+								66 text Availability: Week full (0/15 free slots)
+								67 文本 Week Full
+							68 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								69 单选按钮 (disabled) 0
+								70 标题 Week 2026-W49, Value: 3
+									71 text Week  2026-W49
+								72 文本 Nov 30 - Dec 7
+								73 text 0 /3
+								74 文本 ⓘ
+								75 text Availability: Week full (0/15 free slots)
+								76 文本 Week Full
+							77 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								78 单选按钮 (disabled) 0
+								79 标题 Week 2026-W50, Value: 3
+									80 text Week  2026-W50
+								81 文本 Dec 7-14
+								82 text 0 /3
+								83 文本 ⓘ
+								84 text Availability: Week full (0/15 free slots)
+								85 文本 Week Full
+							86 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								87 单选按钮 (disabled) 0
+								88 标题 Week 2026-W51, Value: 3
+									89 text Week  2026-W51
+								90 文本 Dec 14-21
+								91 text 0 /3
+								92 文本 ⓘ
+								93 text Availability: Week full (0/15 free slots)
+								94 文本 Week Full
+							95 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								96 单选按钮 (disabled) 0
+								97 标题 Week 2026-W52, Value: 3
+									98 text Week  2026-W52
+								99 文本 Dec 21-28
+								100 text 0 /3
+								101 文本 ⓘ
+								102 text Availability: Week full (0/15 free slots)
+								103 文本 Week Full
+							104 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								105 单选按钮 (disabled) 0
+								106 标题 Week 2026-W53, Value: 3
+									107 text Week  2026-W53
+								108 文本 Dec 28 - Jan 4
+								109 text 0 /3
+								110 文本 ⓘ
+								111 text Availability: Week full (0/15 free slots)
+								112 文本 Week Full
+							113 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								114 单选按钮 (disabled) 0
+								115 标题 Week 2027-W01, Value: 3
+									116 text Week  2027-W01
+								117 文本 Jan 4-11
+								118 text 0 /3
+								119 文本 ⓘ
+								120 text Availability: Week full (0/15 free slots)
+								121 文本 Week Full
+							122 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								123 单选按钮 (disabled) 0
+								124 标题 Week 2027-W02, Value: 3
+									125 text Week  2027-W02
+								126 文本 Jan 11-18
+								127 text 0 /3
+								128 文本 ⓘ
+								129 text Availability: Week full (0/15 free slots)
+								130 文本 Week Full
+							131 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								132 单选按钮 (disabled) 0
+								133 标题 Week 2027-W03, Value: 3
+									134 text Week  2027-W03
+								135 文本 Jan 18-25
+								136 text 0 /3
+								137 文本 ⓘ
+								138 text Availability: Week full (0/15 free slots)
+								139 文本 Week Full
+							140 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								141 单选按钮 (disabled) 0
+								142 标题 Week 2027-W04, Value: 3
+									143 text Week  2027-W04
+								144 文本 Jan 25 - Feb 1
+								145 text 0 /3
+								146 文本 ⓘ
+								147 text Availability: Week full (0/15 free slots)
+								148 文本 Week Full
+							149 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								150 单选按钮 (disabled) 0
+								151 标题 Week 2027-W05, Value: 3
+									152 text Week  2027-W05
+								153 文本 Feb 1-8
+								154 text 0 /3
+								155 文本 ⓘ
+								156 text Availability: Week full (0/15 free slots)
+								157 文本 Week Full
+							158 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								159 单选按钮 (disabled) 0
+								160 标题 Week 2027-W06, Value: 3
+									161 text Week  2027-W06
+								162 文本 Feb 8-15
+								163 text 0 /3
+								164 文本 ⓘ
+								165 text Availability: Week full (0/15 free slots)
+								166 文本 Week Full
+							167 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								168 单选按钮 (disabled) 0
+								169 标题 Week 2027-W07, Value: 3
+									170 text Week  2027-W07
+								171 文本 Feb 15-22
+								172 text 0 /3
+								173 文本 ⓘ
+								174 text Availability: Week full (0/15 free slots)
+								175 文本 Week Full
+							176 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								177 单选按钮 (disabled) 0
+								178 标题 Week 2027-W08, Value: 3
+									179 text Week  2027-W08
+								180 文本 Feb 22 - Mar 1
+								181 text 0 /3
+								182 文本 ⓘ
+								183 text Availability: Week full (0/15 free slots)
+								184 文本 Week Full
+							185 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								186 单选按钮 (disabled) 0
+								187 标题 Week 2027-W09, Value: 3
+									188 text Week  2027-W09
+								189 文本 Mar 1-8
+								190 text 0 /3
+								191 文本 ⓘ
+								192 text Availability: Week full (0/15 free slots)
+								193 文本 Week Full
+							194 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								195 单选按钮 (disabled) 0
+								196 标题 Week 2027-W10, Value: 3
+									197 text Week  2027-W10
+								198 文本 Mar 8-15
+								199 text 0 /3
+								200 文本 ⓘ
+								201 text Availability: Week full (0/15 free slots)
+								202 文本 Week Full
+							203 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								204 单选按钮 (disabled) 0
+								205 标题 Week 2027-W11, Value: 3
+									206 text Week  2027-W11
+								207 文本 Mar 15-22
+								208 text 0 /3
+								209 文本 ⓘ
+								210 text Availability: Week full (0/15 free slots)
+								211 文本 Week Full
+							212 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								213 单选按钮 (disabled) 0
+								214 标题 Week 2027-W12, Value: 3
+									215 text Week  2027-W12
+								216 文本 Mar 22-29
+								217 text 0 /3
+								218 文本 ⓘ
+								219 text Availability: Week full (0/15 free slots)
+								220 文本 Week Full
+							221 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								222 单选按钮 (disabled) 0
+								223 标题 Week 2027-W13, Value: 3
+									224 text Week  2027-W13
+								225 文本 Mar 29 - Apr 5
+								226 text 0 /3
+								227 文本 ⓘ
+								228 text Availability: Week full (0/15 free slots)
+								229 文本 Week Full
+							230 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								231 单选按钮 (disabled) 0
+								232 标题 Week 2027-W14, Value: 3
+									233 text Week  2027-W14
+								234 文本 Apr 5-12
+								235 text 0 /3
+								236 文本 ⓘ
+								237 text Availability: Week full (0/15 free slots)
+								238 文本 Week Full
+							239 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								240 单选按钮 (disabled) 0
+								241 标题 Week 2027-W15, Value: 3
+									242 text Week  2027-W15
+								243 文本 Apr 12-19
+								244 text 0 /3
+								245 文本 ⓘ
+								246 text Availability: Week full (0/15 free slots)
+								247 文本 Week Full
+							248 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								249 单选按钮 (disabled) 0
+								250 标题 Week 2027-W16, Value: 3
+									251 text Week  2027-W16
+								252 文本 Apr 19-26
+								253 text 0 /3
+								254 文本 ⓘ
+								255 text Availability: Week full (0/15 free slots)
+								256 文本 Week Full
+							257 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								258 单选按钮 (disabled) 0
+								259 标题 Week 2027-W17, Value: 3
+									260 text Week  2027-W17
+								261 文本 Apr 26 - May 3
+								262 text 0 /3
+								263 文本 ⓘ
+								264 text Availability: Week full (0/15 free slots)
+								265 文本 Week Full
+							266 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								267 单选按钮 (disabled) 0
+								268 标题 Week 2027-W18, Value: 3
+									269 text Week  2027-W18
+								270 文本 May 3-10
+								271 text 0 /3
+								272 文本 ⓘ
+								273 text Availability: Week full (0/15 free slots)
+								274 文本 Week Full
+							275 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								276 单选按钮 (disabled) 0
+								277 标题 Week 2027-W19, Value: 3
+									278 text Week  2027-W19
+								279 文本 May 10-17
+								280 text 0 /3
+								281 文本 ⓘ
+								282 text Availability: Week full (0/15 free slots)
+								283 文本 Week Full
+							284 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								285 单选按钮 (disabled) 0
+								286 标题 Week 2027-W20, Value: 3
+									287 text Week  2027-W20
+								288 文本 May 17-24
+								289 text 0 /3
+								290 文本 ⓘ
+								291 text Availability: Week full (0/15 free slots)
+								292 文本 Week Full
+							293 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								294 单选按钮 (disabled) 0
+								295 标题 Week 2027-W21, Value: 3
+									296 text Week  2027-W21
+								297 文本 May 24-31
+								298 text 0 /3
+								299 文本 ⓘ
+								300 text Availability: Week full (0/15 free slots)
+								301 文本 Week Full
+							302 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								303 单选按钮 (disabled) 0
+								304 标题 Week 2027-W22, Value: 3
+									305 text Week  2027-W22
+								306 文本 May 31 - Jun 7
+								307 text 0 /3
+								308 文本 ⓘ
+								309 text Availability: Week full (0/15 free slots)
+								310 文本 Week Full
+							311 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								312 单选按钮 (disabled) 0
+								313 标题 Week 2027-W23, Value: 3
+									314 text Week  2027-W23
+								315 文本 Jun 7-14
+								316 text 0 /3
+								317 文本 ⓘ
+								318 text Availability: Week full (0/15 free slots)
+								319 文本 Week Full
+							320 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								321 单选按钮 (disabled) 0
+								322 标题 Week 2027-W24, Value: 3
+									323 text Week  2027-W24
+								324 文本 Jun 14-21
+								325 text 0 /3
+								326 文本 ⓘ
+								327 text Availability: Week full (0/15 free slots)
+								328 文本 Week Full
+							329 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								330 单选按钮 (disabled) 0
+								331 标题 Week 2027-W25, Value: 3
+									332 text Week  2027-W25
+								333 文本 Jun 21-28
+								334 text 0 /3
+								335 文本 ⓘ
+								336 text Availability: Week full (0/15 free slots)
+								337 文本 Week Full
+							338 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								339 单选按钮 (disabled) 0
+								340 标题 Week 2027-W26, Value: 3
+									341 text Week  2027-W26
+								342 文本 Jun 28 - Jul 5
+								343 text 0 /3
+								344 文本 ⓘ
+								345 text Availability: Week full (0/15 free slots)
+								346 文本 Week Full
+							347 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								348 单选按钮 (disabled) 0
+								349 标题 Week 2027-W27, Value: 3
+									350 text Week  2027-W27
+								351 文本 Jul 5-12
+								352 text 0 /3
+								353 文本 ⓘ
+								354 text Availability: Week full (0/15 free slots)
+								355 文本 Week Full
+							356 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								357 单选按钮 (disabled) 0
+								358 标题 Week 2027-W28, Value: 3
+									359 text Week  2027-W28
+								360 文本 Jul 12-19
+								361 text 0 /3
+								362 文本 ⓘ
+								363 text Availability: Week full (0/15 free slots)
+								364 文本 Week Full
+							365 container You can launch up to 3 projects per week. 15 free/nofollow slots are available globally each week.
+								366 单选按钮 (disabled) 0
+								367 标题 Week 2027-W29, Value: 3
+									368 text Week  2027-W29
+								369 文本 Jul 19-26
+								370 text 0 /3
+								371 文本 ⓘ
+								372 text Availability: Week full (0/15 free slots)
+								373 文本 Week Full
+							374 图像
+							375 标题 Launch schedule, Value: 3
+								376 文本 Launch schedule
+							377 container
+								378 text • Projects launch at 8:00 AM UTC each Monday • Competition runs for the full week (Monday-Sunday) • Winners are announced and receive dofollow backlinks • Nofollow: Get nofollow links always, even if you win top 3 (no badge required)
+							379 按钮 Previous
+							380 text Step  3  of  3
+							381 按钮 Submit to Sidehunt
+							382 link AI-friendly Markdown, Help: Open AI-friendly Markdown version of this page, Value: sidehunt.io/submit.md
+							383 文本  · structured for AI citations
+						384 container
+							385 link Sidehunt Sidehunt, Help: Go to Sidehunt homepage, Value: sidehunt.io/
+							386 文本 Sidehunt is the weekly hunt for side projects and indie launches—submit yours, collect votes, and get in front of early adopters.
+							387 link Follow us on X (Twitter), Value: x.com/praneetbrar?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+							388 link View Sidehunt on GitHub, Value: github.com/Praneetbrar/sidehunt?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+							389 按钮 Make Sidehunt preferred on Google, Help: Add Sidehunt as a preferred source in Google Search
+							390 图像
+							391 标题 Stay Updated, Value: 3
+								392 文本 Stay Updated
+							393 文本 Get weekly updates on new projects, competition results, and platform news.
+							394 邮箱 (settable) your@email.com
+							395 按钮 Subscribe
+							396 标题 LAUNCH, Value: 3
+								397 文本 LAUNCH
+							398 内容列表
+								399 link Submit a project, Help: Submit your project to Sidehunt, Value: sidehunt.io/submit
+								400 link Browse projects, Help: Browse all Sidehunt projects, Value: sidehunt.io/projects
+								401 link Pricing, Help: View Sidehunt launch pricing, Value: sidehunt.io/pricing
+								402 link Get Editorial Backlinks, Help: Get free editorial backlinks, Value: sidehunt.io/get-editorial-backlinks
+								403 link Hall of Fame, Help: View weekly competition winners, Value: sidehunt.io/hall-of-fame
+								404 link Premium Launches, Help: Learn about Premium Launcher, Value: sidehunt.io/premium-launches
+							405 标题 DISCOVER, Value: 3
+								406 文本 DISCOVER
+							407 内容列表
+								408 link Blog, Help: Read the Sidehunt blog, Value: sidehunt.io/blog
+								409 link Posts, Help: Read Sidehunt SEO posts, Value: sidehunt.io/posts
+								410 link Studio, Help: Browse Sidehunt Studio, Value: sidehunt.io/studio
+								411 link Project Launches, Help: Browse project launch posts, Value: sidehunt.io/launches
+								412 link Places to Launch, Help: Browse 100+ places to launch your product, Value: sidehunt.io/places-to-launch
+								413 link Launch Guide, Help: Read the Sidehunt launch guide, Value: sidehunt.io/launch-guide
+								414 link Free tools, Help: Browse free Sidehunt tools, Value: sidehunt.io/tools
+							415 标题 COMPANY, Value: 3
+								416 文本 COMPANY
+							417 内容列表
+								418 link About, Help: About Sidehunt, Value: sidehunt.io/about
+								419 link Advertise, Help: Advertise on Sidehunt, Value: sidehunt.io/advertise
+								420 link Posting Dude, Help: Learn about Posting Dude distribution, Value: sidehunt.io/distribution/posting-dude
+								421 link FAQs, Help: Read frequently asked questions, Value: sidehunt.io/faq
+								422 link Help Center, Help: Open the Sidehunt help center, Value: sidehunt.io/help
+								423 link Changelog, Help: View Sidehunt product changelog, Value: sidehunt.io/changelog
+								424 link Testimonials, Help: Read maker testimonials, Value: sidehunt.io/testimonials
+								425 link Contact, Help: Contact Sidehunt support, Value: sidehunt.io/contact
+							426 标题 NETWORK, Value: 3
+								427 文本 NETWORK
+							428 内容列表
+								429 link Best Launch Platforms, Value: bestlaunchplatforms.com/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+								430 link Aura++, Value: auraplusplus.com/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+								431 link EarlyHunt, Value: earlyhunt.com/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+								432 link IndieHunt, Value: indiehunt.io/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+								433 link MakerHunt, Value: makerhunt.io/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+								434 link Uno Directory, Value: uno.directory/?utm_source=sidehunt&utm_medium=referral&utm_campaign=footer&ref=sidehunt
+							435 text ©  2026  Sidehunt. All rights reserved.
+							436 container Legal
+								437 link Terms, Help: Read Terms of Service, Value: sidehunt.io/terms
+								438 link Privacy, Help: Read Privacy Policy, Value: sidehunt.io/privacy
+								439 link Cookies, Help: Read Cookie Policy, Value: sidehunt.io/cookies
+								440 link llms.txt, Help: View Sidehunt llms.txt for AI crawlers, Value: sidehunt.io/llms.txt
+			441 弹出式按钮 标签页搜索
+			442 container
+				443 标签页组
+					444 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+					445 标签 (settable, boolean) Submit New SEO Tool — findSEOtools.com - 内存用量 - 268 MB, Value: off
+					446 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+					447 标签 (settable, boolean) Thanks! - 内存用量 - 64.7 MB, Value: off
+					448 标签 (settable, boolean) Launches | NxGn Tools | NxGn Tools - 内存用量 - 123 MB, Value: off
+					449 标签 (settable, boolean) Submissions | Resource.fyi - 内存用量 - 178 MB, Value: off
+					450 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+					451 标签 (selected, settable, boolean) Submit your side project | Sidehunt - 内存用量 - 188 MB, Value: on
+						452 按钮 关闭
+					453 标签 (settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 291 MB, Value: off
+					454 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 136 MB, Value: off
+					455 标签 (settable, boolean) TopFreeAITools - 内存用量 - 148 MB, Value: off
+					456 标签 (settable, boolean) Submit AI tool - 内存用量 - 479 MB, Value: off
+					457 标签 (settable, boolean) ✦ Find Ai tools for everything | Ai Prompts & Plugins | Victrays - 内存用量 - 487 MB, Value: off
+					458 标签 (settable, boolean) AI Pet Portrait Generator | Pettenderly - 内存用量 - 515 MB, Value: off
+			459 按钮 新标签页
+	460 关闭按钮
+	461 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	462 最小化按钮
+463 menu bar
+	464 Chrome
+	465 文件
+	466 编辑
+	467 显示
+	468 历史记录
+	469 书签
+	470 个人资料
+	471 标签页
+	472 窗口
+	473 帮助
+
+The focused UI element is 381 按钮 Submit to Sidehunt

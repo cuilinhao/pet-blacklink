@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-16",
+  "website": "Pettenderly",
+  "confirmations": [
+    {
+      "id": "ainave-disclosed-terms-google-login-20261116",
+      "recorded_at": "2026-11-16T20:46:13+08:00",
+      "source": "Root relayed user reply to the concrete AINave Terms/Privacy and default Google account checkpoint.",
+      "user_exact_reply": "不要再问我了以后，全部都要允许登录，接受条款",
+      "platform": "ainave.com",
+      "checkpoint_url": "https://ainave.com/submit/products",
+      "disclosed_agreements": [
+        "Terms",
+        "Privacy"
+      ],
+      "terms_url": "https://ainave.com/help/terms-of-service",
+      "privacy_url": "https://ainave.com/help/privacy-policy",
+      "legal_url_status": "Exact hrefs disclosed to user and relayed by root after confirmation.",
+      "current_authorized_scope": "Current disclosed AINave sign-in/account creation with default karenayence Google account and the same Terms/Privacy; root is continuing the Google popup.",
+      "standing_authorization": "Ordinary future login is authorized within this backlink run; user also expressed acceptance preference for terms.",
+      "tool_boundary": "Does not replace future action-time agreement confirmation when required by the active computer-use tool. No payment, extra OAuth scopes, credential/security change or anti-abuse bypass authorization inferred.",
+      "result": "Authorized Google login returned successfully; restored product form submitted once and dashboard confirms In review.",
+      "observed_google_account": "karenayence@gmail.com",
+      "observed_oauth_scopes": [
+        "name",
+        "profile picture",
+        "email address"
+      ],
+      "observed_action": "Root native CUA clicked Continue on the Google basic-profile consent screen.",
+      "submission_receipt": "records/evidence/2026-11-16-ainave-root-cua-receipt.json"
+    },
+    {
+      "id": "thenextai-current-quickcheck-submit-20261116",
+      "recorded_at": "2026-11-16T21:16:38+08:00",
+      "source": "Root relay of user confirmation; exact full user text not supplied.",
+      "platform": "thenextai.com",
+      "checkpoint_url": "https://www.thenextai.com/submit-ai-tool/",
+      "user_confirmation_summary": "User authorized the currently disclosed TheNextAI5+5 verification and submission.",
+      "authorized_scope": "Resolve this current verification checkpoint and submit the same prepared form once. Not permission for blind repeated submission or unrelated verification.",
+      "prior_checkpoint": "records/evidence/2026-11-16-thenextai-root-cua-checkpoint.json",
+      "result": "Same original prepared form submitted once after authorization; new native Tool Submitted! receipt confirms pending review.",
+      "submission_receipt": "records/evidence/2026-11-16-thenextai-root-cua-receipt.json"
+    },
+    {
+      "id": "tooltrove-user-reported-email-confirmed-20261116",
+      "recorded_at": "2026-11-16T21:16:38+08:00",
+      "source": "Root relay of user statement.",
+      "platform": "tooltrove.net",
+      "checkpoint_url": "https://tooltrove.net/submit",
+      "user_exact_reply_excerpt": "已经确认了",
+      "user_reported_action": "User says the ToolTrove email confirmation is completed.",
+      "scope": "Read-only check of existing single submission confirmation result. No refill or resubmission.",
+      "prior_checkpoint": "records/evidence/2026-11-16-tooltrove-root-cua-checkpoint.json",
+      "result": "User-reported email confirmation retained. Root read-only original submit tab still asks email confirmation and no new confirmation page was visible; queue status unverified, remains uncounted deferred."
+    },
+    {
+      "id": "apprater-disclosed-terms-submit-20261116",
+      "recorded_at": "2026-11-16T21:21:25+08:00",
+      "source": "Root relay of user reply to current concrete AppRater terms checkpoint.",
+      "user_exact_reply": "以后不要问我，所有都允许，都接受条款",
+      "platform": "apprater.net",
+      "checkpoint_url": "https://apprater.net/#submit",
+      "terms_url": "https://apprater.net/terms",
+      "privacy_url": "https://apprater.net/privacy",
+      "authorized_scope": "Current disclosed AppRater Terms/Privacy and one submission of the same prepared form.",
+      "standing_preference": "User requests ordinary future actions and terms acceptance without repeated questions; active tool mandatory future action-time requirements still apply.",
+      "prior_checkpoint": "records/evidence/2026-11-16-apprater-root-cua-checkpoint.json",
+      "result": "Same original prepared form submitted once after authorization; native Pettenderly is in the review queue receipt confirms pending review.",
+      "submission_receipt": "records/evidence/2026-11-16-apprater-root-cua-receipt.json"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+URL: https://indiehunt.io/submit?plan=free
+
+url: https://indiehunt.io/submit?plan=free
+title: Submit Your AI Project
+viewport: 1280x757
+page_scroll: 2↑ 0.9↓
+---
+<body />
+  <div />
+    <header />
+      <div />
+        <div />
+          [1]<a title=indiehunt href=/ />
+            <span>indiehunt</span>
+          <div />
+            <nav />
+              [2]<a title=Bids Hot href=/bid />
+                Bids
+                <span>Hot</span>
+              <div />
+                [4]<div />
+                  Discover
+                  [3]<svg />
+                <div />
+                  <ul />
+                    <li />
+                      [5]<a title=Launches href=/launches>Launches</a>
+                    <li />
+                      [6]<a title=Blog href=/blog>Blog</a>
+                    <li />
+                      [7]<a title=Posts href=/posts>Posts</a>
+                    <li />
+                      [8]<a title=Studio href=/studio>Studio</a>
+                    <li />
+                      [9]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                    <li />
+                      [10]<a title=Launch calendar href=/calender>Launch calendar</a>
+                    <li />
+                      [11]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                    <li />
+                      [12]<a title=Free tools href=/tools>Free tools</a>
+              <div />
+                [14]<div />
+                  Browse
+                  [13]<svg />
+                <div />
+                  <div />
+                    <div />
+                      [15]<a title=View all AI projects href=/projects>View all AI projects</a>
+                    <div />
+                      <div />
+                        <div>Other</div>
+                        <div />
+                          [18]<a title=APIs & Integrations href=/categories/apis-integrations />
+                            [16]<span />
+                            [17]<span>APIs & Integrations</span>
+                          [21]<a title=AR/VR href=/categories/ar-vr />
+                            [19]<span />
+                            [20]<span>AR/VR</span>
+                          [24]<a title=Artificial Intelligence href=/categories/artificial-intelligence />
+                            [22]<span />
+                            [23]<span>Artificial Intelligence</span>
+                          [27]<a title=Blockchain & Crypto href=/categories/blockchain-crypto />
+                            [25]<span />
+                            [26]<span>Blockchain & Crypto</span>
+                          [30]<a title=Business Analytics href=/categories/business-analytics />
+                            [28]<span />
+                            [29]<span>Business Analytics</span>
+                          [33]<a title=CMS & No-Code href=/categories/cms-no-code />
+                            [31]<span />
+                            [32]<span>CMS & No-Code</span>
+                          [36]<a title=Data Science & Analytics href=/categories/data-science-analytics />
+                            [34]<span />
+                            [35]<span>Data Science & Analytics</span>
+                          [39]<a title=Databases href=/categories/databases />
+                            [37]<span />
+                            [38]<span>Databases</span>
+                          [42]<a title=Design Tools href=/categories/design-tools />
+                            [40]<span />
+                            [41]<span>Design Tools</span>
+                          [45]<a title=Developer Tools href=/categories/developer-tools />
+                            [43]<span />
+                            [44]<span>Developer Tools</span>
+                          [48]<a title=DevOps & Cloud href=/categories/devops-cloud />
+                            [46]<span />
+                            [47]<span>DevOps & Cloud</span>
+                          [51]<a title=E-commerce href=/categories/ecommerce />
+                            [49]<span />
+                            [50]<span>E-commerce</span>
+                          [54]<a title=Education Tech href=/categories/education-tech />
+                            [52]<span />
+                            [53]<span>Education Tech</span>
+                          [57]<a title=Finance & FinTech href=/categories/finance-fintech />
+                            [55]<span />
+                            [56]<span>Finance & FinTech</span>
+                          [60]<a title=Gaming Tech href=/categories/gaming-tech />
+                            [58]<span />
+                            [59]<span>Gaming Tech</span>
+                          [63]<a title=Graphics & Illustration href=/categories/graphics-illustration />
+                            [61]<span />
+                            [62]<span>Graphics & Illustration</span>
+                          [66]<a title=Green Tech href=/categories/green-tech />
+                            [64]<span />
+                            [65]<span>Green Tech</span>
+                          [69]<a title=Hardware href=/categories/hardware />
+                            [67]<span />
+                            [68]<span>Hardware</span>
+                          [72]<a title=Health & Fitness href=/categories/health-and-fitness />
+                            [70]<span />
+                            [71]<span>Health & Fitness</span>
+                          [75]<a title=Health Tech href=/categories/health-tech />
+                            [73]<span />
+                            [74]<span>Health Tech</span>
+                          [78]<a title=Internet of Things (IoT) href=/categories/iot />
+                            [76]<span />
+                            [77]<span>Internet of Things (IoT)</span>
+                          [81]<a title=Legal href=/categories/legal />
+                            [79]<span />
+                            [80]<span>Legal</span>
+                          [84]<a title=Machine Learning href=/categories/machine-learning />
+                            [82]<span />
+                            [83]<span>Machine Learning</span>
+                          [87]<a title=Marketing Tools href=/categories/marketing-tools />
+                            [85]<span />
+                            [86]<span>Marketing Tools</span>
+                          [90]<a title=Mobile Development href=/categories/mobile-development />
+                            [88]<span />
+                            [89]<span>Mobile Development</span>
+                          [93]<a title=Natural Language Processing href=/categories/natural-language-processing />
+                            [91]<span />
+                            [92]<span>Natural Language Processing</span>
+                          [96]<a title=Open Source href=/categories/open-source />
+                            [94]<span />
+                            [95]<span>Open Source</span>
+                          [99]<a title=Other href=/categories/other />
+                            [97]<span />
+                            [98]<span>Other</span>
+                          [102]<a title=Platforms href=/categories/platforms />
+                            [100]<span />
+                            [101]<span>Platforms</span>
+                          [105]<a title=Productivity href=/categories/productivity />
+                            [103]<span />
+                            [104]<span>Productivity</span>
+                          [108]<a title=Prototyping href=/categories/prototyping />
+                            [106]<span />
+                            [107]<span>Prototyping</span>
+                          [111]<a title=Robotics href=/categories/robotics />
+                            [109]<span />
+                            [110]<span>Robotics</span>
+                          [114]<a title=SaaS href=/categories/saas />
+                            [112]<span />
+                            [113]<span>SaaS</span>
+                          [117]<a title=Sales Tools href=/categories/sales-tools />
+                            [115]<span />
+                            [116]<span>Sales Tools</span>
+                          [120]<a title=Security href=/categories/security />
+                            [118]<span />
+                            [119]<span>Security</span>
+                          [123]<a title=SEO href=/categories/seo />
+                            [121]<span />
+                            [122]<span>SEO</span>
+                          [126]<a title=Serverless href=/categories/serverless />
+                            [124]<span />
+                            [125]<span>Serverless</span>
+                          [129]<a title=Testing & QA href=/categories/testing-qa />
+                            [127]<span />
+                            [128]<span>Testing & QA</span>
+                          [132]<a title=UI/UX href=/categories/ui-ux />
+                            [130]<span />
+                            [131]<span>UI/UX</span>
+                          [135]<a title=Wearables href=/categories/wearables />
+                            [133]<span />
+                            [134]<span>Wearables</span>
+                          [138]<a title=Web Development href=/categories/web-development />
+                            [136]<span />
+                            [137]<span>Web Development</span>
+            [140]<button aria-label=Search title=Search (⌘K) />
+              [139]<svg />
+              <span>Search</span>
+              <kbd>⌘K</kbd>
+            [142]<a title=Launch href=/dashboard />
+              Launch
+              [141]<svg />
+            <div />
+              [143]<div tabindex=0 role=button />
+              [160]<ul tabindex=0 />
+                <li />
+                  [148]<a title=User karenayence@gmail.com href=/profile />
+                    [144]<svg />
+                    [147]<span />
+                      [145]<p>User</p>
+                      [146]<p>karenayence@gmail.com</p>
+                <li />
+                  [150]<a title=Dashboard href=/dashboard />
+                    Dashboard
+                    [149]<svg />
+                <li />
+                  [152]<a title=Launch Kit href=/dashboard/launch-kits />
+                    Launch Kit
+                    [151]<svg />
+                <li />
+                  [155]<a title=Content Marketing href=/dashboard/content-marketing />
+                    Content Marketing
+                    [153]<svg />
+                    [154]<span>Hot</span>
+                <li />
+                  [157]<a title=Premium Launcher href=/dashboard/bulk />
+                    Premium Launcher
+                    [156]<svg />
+                <li />
+                  [159]<button />
+                    Sign out
+                    [158]<svg />
+            [162]<button aria-label=Open menu aria-expanded=false />
+              [161]<svg />
+    <main />
+      <main />
+        <div />
+          <nav aria-label=Breadcrumb />
+            <ol />
+              <li />
+                [163]<a title=Home href=/>Home</a>
+              <li />
+                <svg />
+                <span>Submit</span>
+          <header />
+            <div />
+              <div />
+                <h1>Submit Your AI Project</h1>
+                <p>Launch your AI project to our community of makers, get valuable backlinks, and compete for weekly recognition.</p>
+              <div />
+                <svg />
+          <div />
+            <div />
+              <div />
+                <div />
+                  <div />
+                    <p>Step 2 of 3</p>
+                    <p>Launch Plan</p>
+                    <p>Choose your plan and launch week</p>
+                  <ol />
+                    <li title=AI Project Information />
+                      <span>01</span>
+                    <li title=Launch Plan />
+                      <span>02</span>
+                    <li title=Backlink Verification />
+                      <span>03</span>
+              <div />
+                <div />
+                  <section />
+                    <div />
+                      <div>01</div>
+                      <div />
+                        <h3>Choose a launch plan</h3>
+                        <p>Premium skips the free queue and includes a guaranteed dofollow. Free needs a badge and waits for open slots.</p>
+                    <div />
+                      <div />
+                        <div />
+                          <p>Premium earliest</p>
+                          <p>Nov 16, 2026</p>
+                          <p>Dofollow · DR 66</p>
+                        <div />
+                          <p>Free earliest</p>
+                          <p>Mar 27, 2028</p>
+                          <p>71 weeks wait</p>
+                        <div />
+                          <p>Time saved</p>
+                          <p>497 days</p>
+                          <p>One-time $ 29</p>
+                      <div role=radiogroup aria-label=Launch plan />
+                        [180]<button role=radio aria-checked=false />
+                          <div />
+                            <div />
+                              <span />
+                                [164]<svg />
+                              <div />
+                                <p>Premium Launch</p>
+                                <p>Recommended</p>
+                          <p />
+                            $29
+                            <span>/launch</span>
+                          <p>Skip the free queue. Launch with dofollow and a near-term week.</p>
+                          <ul />
+                            <li />
+                              [165]<svg />
+                              <span>Guaranteed dofollow (DR 66)</span>
+                            <li />
+                              [166]<svg />
+                              <span>No badge required</span>
+                            <li />
+                              [167]<svg />
+                              <span>Skip the free queue — launch sooner</span>
+                            <li />
+                              [168]<svg />
+                              <span>Live on homepage for 7 days</span>
+                            <li />
+                              [169]<svg />
+                              <span>Site-wide ad slots for the live week</span>
+                            <li />
+                              [170]<svg />
+                              <span>Launch Kit (9 PNG templates)</span>
+                            <li />
+                              [171]<svg />
+                              <span>Dedicated AI launch blog post</span>
+                            <li />
+                              [172]<svg />
+                              <span>Dofollow links in the launch blog</span>
+                            <li />
+                              [173]<svg />
+                              <span>SEO & GEO optimized pages</span>
+                            <li />
+                              [174]<svg />
+                              <span>At least 1 X post</span>
+                            <li />
+                              [175]<svg />
+                              <span>1 LinkedIn post</span>
+                            <li />
+                              [176]<svg />
+                              <span>1 Bluesky post</span>
+                            <li />
+                              [177]<svg />
+                              <span>At least 1 Pinterest post</span>
+                            <li />
+                              [178]<svg />
+                              <span>Top 3 weekly badge eligibility</span>
+                            <li />
+                              [179]<svg />
+                              <span>Priority review & scheduling</span>
+                        [185]<button role=radio aria-checked=true />
+                          <div />
+                            <div />
+                              <span />
+                                [181]<svg />
+                              <div />
+                                <p>Free Launch</p>
+                                <p>Badge required</p>
+                          <p />
+                            Free
+                            <span>/launch</span>
+                          <p>Badge required · 71 weeks wait</p>
+                          <p>Fine for a first try — free slots are booked for the next 71 weeks (71 weeks wait).</p>
+                          <ul />
+                            <li />
+                              [182]<svg />
+                              <span>Badge required on your site</span>
+                            <li />
+                              [183]<svg />
+                              <span>Nofollow by default — dofollow if top 3</span>
+                            <li />
+                              [184]<svg />
+                              <span>71 weeks wait — free slots booked for the next 71 weeks</span>
+                      <p />
+                        Need the full breakdown?
+                        [186]<button>Compare all plans</button>
+                  <section />
+                    <div />
+                      <div>02</div>
+                      <div />
+                        <h3>Pick a launch week</h3>
+                        <p>Your product goes live Monday 8:00 AM UTC for that week.</p>
+                    <div />
+                      <div />
+                        <div />
+                          <div />
+                            <label for=launch-week-select />
+                              Launch week
+                              <span>*</span>
+                          <div />
+                            <div />
+                              <div />
+                                <p>Week 2028-W13 · Mar 27 – Apr 3</p>
+                                <p>Launches go live Monday 8:00 AM UTC · competition runs Mon–Sun</p>
+                              <div />
+                                <span>4/15 free slots</span>
+                                [187]<span />
+                                  3 launches / week
+                                  <svg />
+                            <div />
+                              <div />
+                                <span>Free slots used</span>
+                                <span>73 %</span>
+                            <p />
+                              Your launches this week:
+                              <span>0 / 3</span>
+                        <p />
+                          Free slots are booked for the next 71 weeks ( until Mar 27, 2028 ). to launch as soon as Nov 16, 2026 with guaranteed do…
+                          <strong>71 weeks wait</strong>
+                          [188]<button>Switch to Premium ($29)</button>
+                          [189]<a title=View launch calendar href=/calender>View launch calendar</a>
+                <div />
+                  <div />
+                    <span>Step 2 of 3</span>
+    <div />
+      <p />
+        [190]<a href=/submit.md title=AI-friendly Markdown>AI-friendly Markdown</a>
+        <span>· structured for AI citations</span>
+    <footer />
+      <div />
+        <div />
+          <div />
+            <p>Weekly AI launches for indie makers. Compete for a week, get discovered, and earn dofollow backlinks.</p>
+      <div />
+        <div />
+          <div />
+            <div />
+              <h3>Launch</h3>
+              <ul />
+                <li />
+                  [191]<a title=Submit a project href=/submit>Submit a project</a>
+                <li />
+                  [192]<a title=Pricing href=/pricing>Pricing</a>
+                <li />
+                  [193]<a title=Get Editorial Backlinks href=/get-editorial-backlinks>Get Editorial Backlinks</a>
+                <li />
+                  [194]<a title=Launch calendar href=/calender>Launch calendar</a>
+                <li />
+                  [195]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                <li />
+                  [196]<a title=Premium Launcher href=/premium-launcher>Premium Launcher</a>
+                <li />
+                  [197]<a title=IndieHunt Bids href=/bid>IndieHunt Bids</a>
+            <div />
+              <h3>Discover</h3>
+              <ul />
+                <li />
+                  [198]<a title=Browse projects href=/projects>Browse projects</a>
+                <li />
+                  [199]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                <li />
+                  [200]<a title=Launch stories href=/launches>Launch stories</a>
+                <li />
+                  [201]<a title=Blog href=/blog>Blog</a>
+                <li />
+                  [202]<a title=Content Marketing href=/content-marketing>Content Marketing</a>
+                <li />
+                  [203]<a title=Ultimate Distribution href=/content-marketing/ultimate-distribution-package>Ultimate Distribution</a>
+                <li />
+                  [204]<a title=Guest Posts href=/content-marketing/guest-posts>Guest Posts</a>
+                <li />
+                  [205]<a title=Posts href=/posts>Posts</a>
+                <li />
+                  [206]<a title=Studio href=/studio>Studio</a>
+                <li />
+                  [207]<a title=Free tools href=/tools>Free tools</a>
+            <div />
+              <h3>Guides</h3>
+              <ul />
+                <li />
+                  [208]<a title=Launch guide href=/launch-guide>Launch guide</a>
+                <li />
+                  [209]<a title=Alternatives href=/alternatives>Alternatives</a>
+                <li />
+                  [210]<a title=100+ launch places href=/100-places-to-launch-your-startup>100+ launch places</a>
+                <li />
+                  [211]<a title=FAQ href=/faq>FAQ</a>
+                <li />
+                  [212]<a title=Help center href=/help>Help center</a>
+                <li />
+                  [213]<a title=Changelog href=/changelog>Changelog</a>
+            <div />
+              <h3>Company</h3>
+              <ul />
+                <li />
+                  [214]<a title=About href=/about>About</a>
+                <li />
+                  [215]<a title=Advertising href=/advertising>Advertising</a>
+                <li />
+                  [216]<a title=Posting Dude href=/distribution/posting-dude>Posting Dude</a>
+                <li />
+                  [217]<a title=Developers href=/developers>Developers</a>
+                <li />
+                  [218]<a title=Contact href=/contact>Contact</a>
+            <div />
+              <h3>Network</h3>
+              <ul />
+                <li />
+                  [219]<a href=https://bestlaunchplatforms.com/ title=Best Launch Platforms>Best Launch Platforms</a>
+                <li />
+                  [220]<a href=https://producthunt-alternatives.com/ title=Product Hunt Alternatives>Product Hunt Alternatives</a>
+      <div />
+        <div />
+          <div />
+            <div />
+              <p>Follow</p>
+              <div />
+                [222]<a href=https://x.com/praneetbrar?utm_source=indiehunt&utm_medium=referral&utm_campaign=footer-social&ref=indiehunt title=X aria-label=X />
+                  [221]<svg />
+                [224]<a href=https://www.linkedin.com/showcase/indiehunt-io?utm_source=indiehunt&utm_medium=referral&utm_campaign… title=LinkedIn aria-label=LinkedIn />
+                  [223]<svg />
+                [226]<a href=https://in.pinterest.com/praneetbrar/indiehunt/?utm_source=indiehunt&utm_medium=referral&utm_campaig… title=Pinterest aria-label=Pinterest />
+                  [225]<svg />
+                [228]<a href=https://github.com/Praneetbrar/indiehunt?utm_source=indiehunt&utm_medium=referral&utm_campaign=foote… title=GitHub aria-label=GitHub />
+                  [227]<svg />
+            <div />
+              [230]<button aria-label=Make IndieHunt preferred on Google title=Add IndieHunt as a preferred source in Google Search />
+                Make us preferred on Google
+                [229]<svg />
+      <div />
+        <div />
+          <div />
+            <p>© 2026 IndieHunt. All rights reserved.</p>
+            <nav aria-label=Legal and policies />
+              [231]<a title=Terms href=/terms>Terms</a>
+              [232]<a title=Privacy href=/privacy>Privacy</a>
+              [233]<a title=Cookies href=/cookies>Cookies</a>
+              [234]<a title=LLMs.txt href=/llms.txt>LLMs.txt</a>
+              [235]<a title=OpenAPI href=/openapi.json>OpenAPI</a>
+  [243]<div role=dialog />
+    [242]<div />
+      <div />
+        <div />
+          <span />
+            Before you wait 16+ months...
+            <svg />
+          [237]<button aria-label=Close />
+            [236]<svg />
+        <h2 id=premium-upsell-title>Your product is ready. Your launch date doesn't have to be.</h2>
+        <p>Free works if you're testing IndieHunt . But if you're launching for real users, SEO, and momentum — Premium is the plan…</p>
+        <div />
+          <div />
+            <p>Premium</p>
+            <p>Mon, Nov 16, 2026</p>
+            <p>$ 29 one-time</p>
+          <div />
+            <p>Free queue</p>
+            <p>Mon, Mar 27, 2028</p>
+            <p>Badge + long wait</p>
+        <div />
+          <span />
+            <svg />
+          <p />
+            Premium could get you live roughly sooner.
+            <span>497+ days</span>
+        <ul />
+          <li />
+            <span />
+              <svg />
+            <span>Guaranteed dofollow from DR 66</span>
+          <li />
+            <span />
+              <svg />
+            <span>Launch ~71 weeks sooner than the free queue</span>
+          <li />
+            <span />
+              <svg />
+            <span>Site-wide ads while live + Launch Kit + SEO blog</span>
+          <li />
+            <span />
+              <svg />
+            <span>No badge — at least 1 X, 1 LinkedIn, 1 Bluesky, at least 1 Pinterest post</span>
+      <div />
+        [239]<button />
+          Upgrade to Premium — $ 29
+          [238]<svg />
+        [241]<button />
+          Continue with free launch
+          [240]<svg />
+---
+interactive: 243 | iframes: 0

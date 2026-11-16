@@ -1,0 +1,141 @@
+{
+  "website_name": "Pettenderly",
+  "website_url": "https://pettenderly.com/",
+  "tagline": "Pet portraits from your favorite photos",
+  "one_liner": "Turn pet photos into portraits worth keeping.",
+  "short_description_en": "Pettenderly turns photos of your cat or dog into AI portraits. Choose a watercolor, royal or studio look, then download your image.",
+  "medium_description_en": "Pettenderly is an online AI pet portrait studio. Upload one to five photos of the same pet, choose a style such as watercolor or Royal Nobility, and download the result. Each successful image uses one credit. Buy a credit pack or subscribe for a monthly allowance.",
+  "long_description_en": "Pettenderly turns everyday pet photos into downloadable AI portraits. Start with one to five clear photos of the same pet, with its eyes and coat markings visible. Choose a watercolor look, a royal costume or a sunny window-seat scene. Create a portrait in the studio, then revisit My creations to download your favorites.\n\nTwo beta tools offer more ways to use your photos. You & your pet combines separate person and pet reference photos into a portrait together. Photo cleanup lets you describe a change, such as removing a cable from the background. Faces, markings and fine details can vary in generated images.\n\nEach successful image uses one credit; failed generations do not use credits. Buy a one-time Starter Pack or choose a Pro subscription for a monthly allowance. The result is a digital image you can download and keep.",
+  "short_description_cn": "Pettenderly 是在线 AI 宠物写真工具。上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像。",
+  "medium_description_cn": "Pettenderly 可以把猫狗的日常照片做成可下载的 AI 写真。上传 1–5 张能看清眼睛、毛色和花纹的照片，选择水彩、皇家或窗边场景。每张成功生成的图片消耗 1 点，点数可一次性购买，也可通过 Pro 订阅按月获得。",
+  "long_description_cn": "在 Pettenderly，你可以把手机里熟悉的宠物照做成一幅写真。选 1–5 张同一只猫或狗的清晰照片，再挑一个喜欢的风格，比如水彩、皇家肖像或阳光下的窗边场景。生成后可在工作室查看结果，并在「我的作品」下载保存。\n\n人宠合影和照片清理目前均为 Beta。前者可分别上传人物和宠物照片，生成同框画像；后者可按文字要求处理照片，例如移除背景里的一根电线。人物面部、宠物花纹和其他细节可能发生变化。\n\n每张成功生成的图片消耗 1 点，失败不扣点。可以一次性购买 Starter 点数包，也可以订阅 Pro 获得每月额度。交付内容为可下载的数字图片。",
+  "cat_description_en": "Pettenderly helps cat owners turn everyday photos into AI cat portraits. Upload one to five clear photos of the same cat, choose a watercolor, royal or window-seat style, and download a digital keepsake. Each successful image uses one credit.",
+  "cat_description_cn": "Pettenderly 可以把猫咪的日常照片做成 AI 写真。上传 1–5 张同一只猫的清晰照片，挑选水彩、皇家或窗边风格，生成后下载保存。每张成功生成的图片消耗 1 点。",
+  "target_users": [
+    "Pet owners",
+    "Cat and dog owners creating digital keepsakes",
+    "Pet lovers making a digital portrait as a gift"
+  ],
+  "categories": [
+    "AI Image Generators",
+    "Pets",
+    "Photo Editing"
+  ],
+  "tags": [
+    "ai-pet-portraits",
+    "pet-portrait-generator",
+    "cat-portraits",
+    "dog-portraits",
+    "pet-photo-editor",
+    "digital-pet-art",
+    "watercolor-pet-portrait"
+  ],
+  "languages": [
+    "English",
+    "简体中文",
+    "日本語",
+    "한국어",
+    "Français",
+    "Español"
+  ],
+  "language_note": "Six locale options are configured. Do not promise every interface or content page is fully translated.",
+  "platform": "Web",
+  "pricing_model": "Paid. One-time credit packs or a subscription.",
+  "pricing": "One successful image costs 1 credit. The $4.99 Starter Pack has 12 non-expiring credits. Pro costs $9.90/month or $79/year, with 40 credits each month on either plan. Unused monthly credits do not roll over. Currency: USD.",
+  "pricing_plans": [
+    {
+      "name": "Starter Pack",
+      "currency": "USD",
+      "price": 4.99,
+      "billing": "one-time",
+      "credits": 12,
+      "credits_expire": false
+    },
+    {
+      "name": "Pro Monthly",
+      "currency": "USD",
+      "price": 9.9,
+      "billing": "monthly",
+      "credits_per_month": 40,
+      "unused_monthly_credits_roll_over": false
+    },
+    {
+      "name": "Pro Annual",
+      "currency": "USD",
+      "price": 79,
+      "billing": "annual",
+      "credits_per_month": 40,
+      "monthly_allowance_periods": 12,
+      "unused_monthly_credits_roll_over": false
+    }
+  ],
+  "free_plan": false,
+  "signup_required": false,
+  "account_access": "A Starter Pack can be purchased as a guest; its email access link returns to credits and history. Pro subscriptions require an account. Image generation requires available credits. The signup_required field is false for the guest Starter Pack route, not a claim of anonymous free generation.",
+  "contact_email": "support@soulpaw.art",
+  "contact_url": "https://pettenderly.com/contact",
+  "github_url": null,
+  "social_links": [
+    "https://x.com/soulpaw_art"
+  ],
+  "official_x_url": "https://x.com/soulpaw_art",
+  "official_x_note": "User confirmed on 2026-11-14 as Pettenderly's official brand account. Use for product X/Twitter fields only; not the user's or founder's personal account.",
+  "source_repository": "https://github.com/junjun52166/pettenderly",
+  "source_repository_note": "User-provided development repository. Public listing or open-source status has not been confirmed; do not fill directory GitHub/open-source fields from this alone.",
+  "logo_path": "assets/logos/pettenderly-logo-512.png",
+  "logo_paths": [
+    "assets/logos/pettenderly-logo-512.png",
+    "assets/logos/pettenderly-logo-256.png",
+    "assets/logos/pettenderly-logo-128.png",
+    "assets/logos/pettenderly-logo.svg"
+  ],
+  "cover_path": "assets/covers/pettenderly-og-1200x630.png",
+  "screenshot_path": "assets/screenshots/pettenderly-home-en.jpg",
+  "screenshot_paths": [
+    "assets/screenshots/pettenderly-home-en.jpg",
+    "assets/screenshots/pettenderly-studio-en.jpg",
+    "assets/screenshots/pettenderly-home-mobile-en.jpg",
+    "assets/screenshots/pettenderly-cat-en.jpg"
+  ],
+  "example_image_path": "assets/examples/pettenderly-royal-portrait.png",
+  "landing_pages": {
+    "homepage": "https://pettenderly.com/",
+    "homepage_zh": "https://pettenderly.com/zh",
+    "studio": "https://pettenderly.com/studio",
+    "portrait_together_beta": "https://pettenderly.com/studio?mode=together",
+    "photo_editor_beta": "https://pettenderly.com/pet-photo-editor",
+    "cat_portraits": "https://pettenderly.com/cat-portrait-generator",
+    "dog_portraits": "https://pettenderly.com/dog-portrait-generator",
+    "watercolor_portraits": "https://pettenderly.com/watercolor-pet-portrait",
+    "blog": "https://pettenderly.com/blog",
+    "pricing": "https://pettenderly.com/pricing",
+    "contact": "https://pettenderly.com/contact"
+  },
+  "business_facts": {
+    "founder_name": null,
+    "founding_date": null,
+    "launch_date": "2026-10",
+    "launch_date_precision": "month",
+    "launch_date_note": "User confirmed first launch in October 2026; exact day and company founding date remain unconfirmed.",
+    "country": "China",
+    "country_code": "CN",
+    "country_note": "User confirmed product country as China; this does not establish a city, address, or legal entity.",
+    "legal_entity": null,
+    "address": null,
+    "phone": null,
+    "team_size": null,
+    "funding": null,
+    "public_product_version": null
+  },
+  "limitations": [
+    "Portraits accept one to five JPG, PNG or WebP photos of the same pet, up to 8 MB each.",
+    "You & your pet and photo cleanup are beta features. Faces, markings and fine details may change.",
+    "Downloads are digital images. The listed plans do not include physical printing or delivery.",
+    "No free plan or free-generation offer is advertised. Do not guarantee a generation time, image resolution, exact likeness, or unlimited usage.",
+    "Founder, legal entity, office, public phone, company founding date, exact launch day, team size, funding and official social profiles other than the user-confirmed Pettenderly X account are unverified. User confirmed first launch month as October 2026 and country as China.",
+    "Do not claim soulpaw.art already redirects to Pettenderly; that migration is not confirmed."
+  ],
+  "source_project": "/Users/pgy/Desktop/pettenderly",
+  "verified_at": "2026-11-06",
+  "verification_note": "Checked against current first-party implementation and public pages on 2026-11-06. Four signed-out browser screenshots captured; 14 public-page/sitemap GET checks returned HTTP 200. No purchases or paid generations were performed for this material preparation."
+}

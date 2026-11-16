@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-11-16T21:34:46+08:00",
+  "source": "/root/new20_candidates read-only official findings; records agent did not browse.",
+  "domain": "asiolaunch.com",
+  "platform_url": "https://asiolaunch.com/",
+  "official_sources": [
+    "https://asiolaunch.com/submit",
+    "https://asiolaunch.com/about",
+    "https://asiolaunch.com/badge"
+  ],
+  "free_evidence": "Candidate-agent official-source research reported Free / Submit for free launch; about page confirms a free permanent page and usually within7 days. Anonymous6 fields; no CAPTCHA/terms checkbox/badge required in HTML. Hidden website2 honeypot must remain empty; badge optional.",
+  "submitted": false,
+  "counted": false
+}

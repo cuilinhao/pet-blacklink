@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "[REDACTED]",
+    "message": "ref=209 was <label>\"Free\" but now points to <button>\"Databases\"",
+    "hint": "The page has changed since the last snapshot. Re-run `opencli browser state` to refresh."
+  }
+}

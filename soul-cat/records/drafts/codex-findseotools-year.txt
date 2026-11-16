@@ -1,0 +1,4 @@
+The following is a diff from the previous accessibility tree for Window: "Submit New SEO Tool — findSEOtools.com" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 20
+~							54 文本栏 (settable) What year was the tool launched?, Value: 2026, Placeholder: e.g. 2008
+The focused UI element is 54 文本栏 (settable) What year was the tool launched?, Value: 2026, Placeholder: e.g. 2008

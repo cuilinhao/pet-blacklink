@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-11-16T21:25:07+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::bytaskai.com::bytaskai.com",
+  "platform": "bytaskai.com",
+  "original_csv_url": "https://bytaskai.com/",
+  "observed_receipt_url": "https://bytaskai.com/submit/",
+  "observed_transition": [
+    "Single Submit",
+    "Submit disabled",
+    "Submission saved for manual review"
+  ],
+  "observed_message": "Keep your private progress link. Confirmation notification is queued; check progress for its status.",
+  "private_progress_url": "Not stored; private token remains only in the original browser tab/runtime.",
+  "fields_read_back": [
+    "Pettenderly name and website URL",
+    "66-character short description",
+    "535-character accurate paid-price description",
+    "Image & Design",
+    "Paid",
+    "support@soulpaw.art",
+    "512px PNG logo25KiB"
+  ],
+  "account_created": false,
+  "captcha_observed": false,
+  "explicit_terms_acceptance": false,
+  "payment_made": false,
+  "submission_attempts": 1,
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 11,
+  "screenshots": []
+}

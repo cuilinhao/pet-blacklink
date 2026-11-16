@@ -1,0 +1,701 @@
+URL: https://auraplusplus.com/
+
+url: https://auraplusplus.com/
+title: Aura++ | Increase Your Online Aura
+viewport: 1504x757
+page_scroll: 0↑ 5.1↓
+---
+<body />
+  <div />
+    <nav />
+      <div />
+        <div />
+          [1]<a title=Aura++ href=/ />
+            <span>Aura++</span>
+          <nav aria-label=Main />
+            <div />
+              <ul />
+                <li />
+                  [3]<button id=radix-_R_ipjdlb_-trigger-radix-_R_bipjdlb_ aria-expanded=false />
+                    <div>Browse</div>
+                    [2]<svg />
+                <li />
+                  [5]<button id=radix-_R_ipjdlb_-trigger-radix-_R_jipjdlb_ aria-expanded=false />
+                    <div>Submit</div>
+                    [4]<svg />
+                <li />
+                  [6]<a title=Bids Hot href=/bid />
+                    <span />
+                      Bids
+                      <span>Hot</span>
+                <li />
+                  [7]<a title=Launches href=/launches />
+                    <span>Launches</span>
+                <li />
+                  [8]<a title=Pricing href=/pricing />
+                    <span>Pricing</span>
+                <li />
+                  [10]<button id=radix-_R_ipjdlb_-trigger-radix-_R_1jipjdlb_ aria-expanded=false />
+                    <div>More</div>
+                    [9]<svg />
+        <div />
+          [12]<button aria-label=Search Aura++ />
+            [11]<svg />
+            <span>Search...</span>
+            <kbd />
+              K
+              <span>⌘</span>
+          [15]<button />
+            [13]<svg />
+            [14]<svg />
+          [16]<a title=Sign in href=/sign-in>Sign in</a>
+          [17]<a title=Sign up href=/sign-up>Sign up</a>
+        <div />
+          [22]<button aria-label=Search Aura++ />
+            [18]<svg />
+            [19]<span>Search...</span>
+            [21]<kbd />
+              K
+              [20]<span>⌘</span>
+          [23]<a title=Sign up href=/sign-up>Sign up</a>
+          [25]<a title=Sign in href=/sign-in />
+            Sign in
+            [24]<svg />
+          [27]<button aria-label=Open navigation menu aria-haspopup=dialog aria-expanded=false />
+            [26]<svg />
+    <main id=main-content />
+      <main />
+        <div />
+          <div />
+            <div />
+              <div />
+                <div />
+                  [29]<button />
+                    <span />
+                      🚀 Explore Latest Features
+                      [28]<svg />
+                  [30]<a href=https://frogdr.com/auraplusplus.com?utm_source=auraplusplus.com title=Visit frogdr.com (opens in new tab) />
+                  <div />
+                    <h1 />
+                      Launch in a click, and Increase your
+                      <span>Online Aura</span>
+                    <p>Submit using AI, get a badge, a high quality backlink, a launch blog post, social media posts, and boost your online pre…</p>
+                <div />
+                  <div />
+                    [31]<button />
+                      Get Editorial Backlinks
+                      <svg />
+                  [32]<button />
+                    More platforms
+                    <svg />
+          <div />
+            <div />
+              <section />
+                <div />
+                  <h2>Top Projects Launching Today</h2>
+                <div />
+                  <div />
+                    [40]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [33]<a title=1. seedance 3.0 ai href=/projects/seedance-3-0-ai />
+                                <h3>1. seedance 3.0 ai</h3>
+                              [35]<a href=https://www.seedance3ai.app/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&r… title=Visit seedance 3.0 ai website />
+                                [34]<svg />
+                            <p>Seedance 3.0 – Bytedance Seedance 3 AI Video Generator</p>
+                            <div />
+                              <span>Live today</span>
+                            <div />
+                              <span />
+                                [36]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                        <div />
+                          [38]<a title=1 comment on seedance 3.0 ai aria-label=1 comment on seedance 3.0 ai href=/projects/seedance-3-0-ai#comments />
+                            [37]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [39]<svg />
+                              <span>0</span>
+                    [50]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [41]<a title=2. FutureNote href=/projects/futurenote />
+                                <h3>2. FutureNote</h3>
+                              [43]<a href=https://futurenoteapp.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref… title=Visit FutureNote website />
+                                [42]<svg />
+                            <p>FutureNote is an iPhone app for writing notes to your future self. You write what is happening right now: what you are a…</p>
+                            <div />
+                              <span>Live today</span>
+                              <span />
+                                Premium
+                                [44]<svg />
+                            <div />
+                              <span />
+                                [45]<a title=Health Tech href=/categories?category=healthtech>Health Tech</a>
+                              <span />
+                                <span>·</span>
+                                [46]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                        <div />
+                          [48]<a title=1 comment on FutureNote aria-label=1 comment on FutureNote href=/projects/futurenote#comments />
+                            [47]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [49]<svg />
+                              <span>0</span>
+                    [61]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [51]<a title=3. Turbofy href=/projects/turbofy />
+                                <h3>3. Turbofy</h3>
+                              [53]<a href=https://turbofy.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=aurap… title=Visit Turbofy website />
+                                [52]<svg />
+                            <p>What is Turbofy AI App Builder? Turbofy AI App Builder is a platform that enables teams to create production-ready busin…</p>
+                            <div />
+                              <span>Live today</span>
+                              <span />
+                                Premium
+                                [54]<svg />
+                            <div />
+                              <span />
+                                [55]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [56]<a title=SaaS href=/categories?category=saas>SaaS</a>
+                              <span />
+                                <span>·</span>
+                                [57]<a title=Web Development href=/categories?category=web-dev>Web Development</a>
+                        <div />
+                          [59]<a title=1 comment on Turbofy aria-label=1 comment on Turbofy href=/projects/turbofy#comments />
+                            [58]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [60]<svg />
+                              <span>0</span>
+                    [70]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [62]<a title=4. Free Printable Coloring Pages Library href=/projects/free-printable-coloring-pages-library />
+                                <h3>4. Free Printable Coloring Pages Library</h3>
+                              [64]<a href=https://mintcoloring.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=… title=Visit Free Printable Coloring Pages Library website />
+                                [63]<svg />
+                            <p>The Free Printable Coloring Pages Library is a comprehensive online resource designed to provide families, teachers, car…</p>
+                            <div />
+                              <span>Live today</span>
+                            <div />
+                              <span />
+                                [65]<a title=Education Tech href=/categories?category=edtech>Education Tech</a>
+                              <span />
+                                <span>·</span>
+                                [66]<a title=UI/UX href=/categories?category=ui-ux>UI/UX</a>
+                        <div />
+                          [68]<a title=1 comment on Free Printable Coloring Pages Library aria-label=1 comment on Free Printable Coloring Pages Library href=/projects/free-printable-coloring-pages-library#comments />
+                            [67]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [69]<svg />
+                              <span>0</span>
+                    [80]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [71]<a title=5. THRIVE href=/projects/thrive />
+                                <h3>5. THRIVE</h3>
+                              [73]<a href=https://trythrive.app/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=aur… title=Visit THRIVE website />
+                                [72]<svg />
+                            <p>THRIVE is the iOS habit app for men who want to level up their testosterone naturally. The science on what actually move…</p>
+                            <div />
+                              <span>Live today</span>
+                            <div />
+                              <span />
+                                [74]<a title=Health Tech href=/categories?category=healthtech>Health Tech</a>
+                              <span />
+                                <span>·</span>
+                                [75]<a title=Mobile Development href=/categories?category=mobile-dev>Mobile Development</a>
+                              <span />
+                                <span>·</span>
+                                [76]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                        <div />
+                          [78]<a title=1 comment on THRIVE aria-label=1 comment on THRIVE href=/projects/thrive#comments />
+                            [77]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [79]<svg />
+                              <span>0</span>
+                    [91]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [81]<a title=6. Launch AI Jam href=/projects/launch-ai-jam />
+                                <h3>6. Launch AI Jam</h3>
+                              [83]<a href=https://launchaijam.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=a… title=Visit Launch AI Jam website />
+                                [82]<svg />
+                            <p>What is Launch AI Jam? Launch AI Jam is a launch platform designed for AI tools and products. It offers a way for develo…</p>
+                            <div />
+                              <div />
+                                <span title=Originally launched Jun 16, 2026 />
+                                  [84]<svg />
+                                  <span>Relaunch</span>
+                            <div />
+                              <span />
+                                [85]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [86]<a title=Developer Tools href=/categories?category=developer-tools>Developer Tools</a>
+                              <span />
+                                <span>·</span>
+                                [87]<a title=Marketing Tools href=/categories?category=marketing-tools>Marketing Tools</a>
+                        <div />
+                          [89]<a title=3 comments on Launch AI Jam aria-label=3 comments on Launch AI Jam href=/projects/launch-ai-jam#comments />
+                            [88]<svg />
+                            <span>3</span>
+                          <div />
+                            <button />
+                              [90]<svg />
+                              <span>3</span>
+                    [102]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [92]<a title=7. Guardix href=/projects/guardix />
+                                <h3>7. Guardix</h3>
+                              [94]<a href=https://guardix.io/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=aurapl… title=Visit Guardix website />
+                                [93]<svg />
+                            <p>Guardix is a smart contract security platform built for Solidity codebases running on EVM-compatible chains, including E…</p>
+                            <div />
+                              <div />
+                                <span title=Originally launched Oct 23, 2026 />
+                                  [95]<svg />
+                                  <span>Relaunch</span>
+                            <div />
+                              <span />
+                                [96]<a title=Blockchain & Crypto href=/categories?category=blockchain>Blockchain & Crypto</a>
+                              <span />
+                                <span>·</span>
+                                [97]<a title=Developer Tools href=/categories?category=developer-tools>Developer Tools</a>
+                              <span />
+                                <span>·</span>
+                                [98]<a title=Security href=/categories?category=security>Security</a>
+                        <div />
+                          [100]<a title=1 comment on Guardix aria-label=1 comment on Guardix href=/projects/guardix#comments />
+                            [99]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [101]<svg />
+                              <span>1</span>
+                    [114]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [103]<a title=8. PowerGoodies EV Rewards href=/projects/powergoodies-ev-rewards />
+                                <h3>8. PowerGoodies EV Rewards</h3>
+                              [105]<a href=https://www.powergoodies.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&… title=Visit PowerGoodies EV Rewards website />
+                                [104]<svg />
+                            <p>PowerGoodies EV Rewards is a free EV charging app for electric car drivers who want something back for the time and mone…</p>
+                            <div />
+                              <span />
+                                Premium
+                                [106]<svg />
+                              <div />
+                                <span title=Originally launched Oct 29, 2026 />
+                                  [107]<svg />
+                                  <span>Relaunch</span>
+                            <div />
+                              <span />
+                                [108]<a title=Finance & FinTech href=/categories?category=finance-tech>Finance & FinTech</a>
+                              <span />
+                                <span>·</span>
+                                [109]<a title=Green Tech href=/categories?category=greentech>Green Tech</a>
+                              <span />
+                                <span>·</span>
+                                [110]<a title=Mobile Development href=/categories?category=mobile-dev>Mobile Development</a>
+                        <div />
+                          [112]<a title=2 comments on PowerGoodies EV Rewards aria-label=2 comments on PowerGoodies EV Rewards href=/projects/powergoodies-ev-rewards#comments />
+                            [111]<svg />
+                            <span>2</span>
+                          <div />
+                            <button />
+                              [113]<svg />
+                              <span>1</span>
+              <section />
+                <div />
+                  <h2>Yesterday's Launches</h2>
+                <div />
+                  <div />
+                    [124]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [115]<a title=1. Free Video to GIF Converter href=/projects/free-video-to-gif-converter />
+                                <h3>1. Free Video to GIF Converter</h3>
+                              [117]<a href=https://videogif.app/en?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=au… title=Visit Free Video to GIF Converter website />
+                                [116]<svg />
+                            <p>Convert your videos into high-quality GIFs quickly and easily with our free online tool. Designed for users who need fas…</p>
+                            <div />
+                              <span />
+                                [118]<a title=Graphics & Illustration href=/categories?category=graphics>Graphics & Illustration</a>
+                              <span />
+                                <span>·</span>
+                                [119]<a title=Marketing Tools href=/categories?category=marketing-tools>Marketing Tools</a>
+                              <span />
+                                <span>·</span>
+                                [120]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                        <div />
+                          [122]<a title=1 comment on Free Video to GIF Converter aria-label=1 comment on Free Video to GIF Converter href=/projects/free-video-to-gif-converter#comments />
+                            [121]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [123]<svg />
+                              <span>1</span>
+                    [134]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [125]<a title=2. SkillUply: Free AI Career Tools Platform href=/projects/skilluply-free-ai-career-tools-platform />
+                                <h3>2. SkillUply: Free AI Career Tools Platform</h3>
+                              [127]<a href=https://skilluply.life/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=au… title=Visit SkillUply: Free AI Career Tools Platform website />
+                                [126]<svg />
+                            <p>SkillUply is a comprehensive online platform designed to empower professionals and job seekers with a suite of 14+ free …</p>
+                            <div />
+                              <span />
+                                [128]<a title=Education Tech href=/categories?category=edtech>Education Tech</a>
+                              <span />
+                                <span>·</span>
+                                [129]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                              <span />
+                                <span>·</span>
+                                [130]<a title=UI/UX href=/categories?category=ui-ux>UI/UX</a>
+                        <div />
+                          [132]<a title=1 comment on SkillUply: Free AI Career Tools Platform aria-label=1 comment on SkillUply: Free AI Career Tools Platform href=/projects/skilluply-free-ai-career-tools-platform#comments />
+                            [131]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [133]<svg />
+                              <span>1</span>
+                    [143]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [135]<a title=3. WebP to PNG Converter href=/projects/webp-to-png-converter />
+                                <h3>3. WebP to PNG Converter</h3>
+                              [137]<a href=https://www.wps.com/tools/webp-to-png?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=proje… title=Visit WebP to PNG Converter website />
+                                [136]<svg />
+                            <p>The WebP to PNG Converter is a powerful online tool designed to help users effortlessly convert WebP images into high-qu…</p>
+                            <div />
+                              <span />
+                                [138]<a title=Graphics & Illustration href=/categories?category=graphics>Graphics & Illustration</a>
+                              <span />
+                                <span>·</span>
+                                [139]<a title=Web Development href=/categories?category=web-dev>Web Development</a>
+                        <div />
+                          [141]<a title=1 comment on WebP to PNG Converter aria-label=1 comment on WebP to PNG Converter href=/projects/webp-to-png-converter#comments />
+                            [140]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [142]<svg />
+                              <span>1</span>
+                  <div />
+                    [144]<button>View all projects</button>
+              <section />
+                <div />
+                  <h2>Last Week's Top</h2>
+                <div />
+                  <div />
+                    [155]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [145]<a title=1. LetsDeployIt href=/projects/letsdeployit-app />
+                                <h3>1. LetsDeployIt</h3>
+                              [147]<a href=https://letsdeploy.it/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=aur… title=Visit LetsDeployIt website />
+                                [146]<svg />
+                            <p>LetsDeployIt is a done-for-you app deployment service that takes apps built with AI “vibecoding” tools and gets them app…</p>
+                            <div />
+                              <span />
+                                Premium
+                                [148]<svg />
+                            <div />
+                              <span />
+                                [149]<a title=Developer Tools href=/categories?category=developer-tools>Developer Tools</a>
+                              <span />
+                                <span>·</span>
+                                [150]<a title=Mobile Development href=/categories?category=mobile-dev>Mobile Development</a>
+                              <span />
+                                <span>·</span>
+                                [151]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                        <div />
+                          [153]<a title=2 comments on LetsDeployIt aria-label=2 comments on LetsDeployIt href=/projects/letsdeployit-app#comments />
+                            [152]<svg />
+                            <span>2</span>
+                          <div />
+                            <button />
+                              [154]<svg />
+                              <span>3</span>
+                    [165]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [156]<a title=2. Zorq AI - Fast AI Video & Image Generator href=/projects/zorq-ai-fast-ai-video-image-generator />
+                                <h3>2. Zorq AI - Fast AI Video & Image Generator</h3>
+                              [158]<a href=https://zorq-ai.net/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=aurap… title=Visit Zorq AI - Fast AI Video & Image Generator website />
+                                [157]<svg />
+                            <p>Zorq AI is an innovative platform that enables users to generate high-quality videos and images within 60 seconds, signi…</p>
+                            <div />
+                              <span />
+                                [159]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [160]<a title=Design Tools href=/categories?category=design-tools>Design Tools</a>
+                              <span />
+                                <span>·</span>
+                                [161]<a title=SaaS href=/categories?category=saas>SaaS</a>
+                        <div />
+                          [163]<a title=1 comment on Zorq AI - Fast AI Video & Image Generator aria-label=1 comment on Zorq AI - Fast AI Video & Image Generator href=/projects/zorq-ai-fast-ai-video-image-generator#comments />
+                            [162]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [164]<svg />
+                              <span>2</span>
+                    [175]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [166]<a title=3. GPT Image 2 href=/projects/gpt-image-2-tool />
+                                <h3>3. GPT Image 2</h3>
+                              [168]<a href=https://gptimage-2.pro/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=au… title=Visit GPT Image 2 website />
+                                [167]<svg />
+                            <p>GPT Image 2 is an advanced AI-powered image generation platform designed for professionals, designers, marketers, and e-…</p>
+                            <div />
+                              <span />
+                                [169]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [170]<a title=Design Tools href=/categories?category=design-tools>Design Tools</a>
+                              <span />
+                                <span>·</span>
+                                [171]<a title=Graphics & Illustration href=/categories?category=graphics>Graphics & Illustration</a>
+                        <div />
+                          [173]<a title=1 comment on GPT Image 2 aria-label=1 comment on GPT Image 2 href=/projects/gpt-image-2-tool#comments />
+                            [172]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [174]<svg />
+                              <span>2</span>
+                  <div />
+                    [176]<button>View all projects</button>
+              <section />
+                <div />
+                  <h2>Last Month's Top</h2>
+                <div />
+                  <div />
+                    [187]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [177]<a title=1. Veline AI href=/projects/ai-girlfriend-chat-platform />
+                                <h3>1. Veline AI</h3>
+                              [179]<a href=https://www.velineai.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=… title=Visit Veline AI website />
+                                [178]<svg />
+                            <p>Create her personality. Shape her world. Bring your imagination to life. Veline AI brings personalized AI companionship,…</p>
+                            <div />
+                              <span />
+                                Premium
+                                [180]<svg />
+                            <div />
+                              <span />
+                                [181]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [182]<a title=Platforms href=/categories?category=platform>Platforms</a>
+                              <span />
+                                <span>·</span>
+                                [183]<a title=Productivity href=/categories?category=productivity>Productivity</a>
+                        <div />
+                          [185]<a title=1 comment on Veline AI aria-label=1 comment on Veline AI href=/projects/ai-girlfriend-chat-platform#comments />
+                            [184]<svg />
+                            <span>1</span>
+                          <div />
+                            <button />
+                              [186]<svg />
+                              <span>7</span>
+                    [198]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [188]<a title=2. Polytender href=/projects/polytender />
+                                <h3>2. Polytender</h3>
+                              [190]<a href=https://polytender.com/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=au… title=Visit Polytender website />
+                                [189]<svg />
+                            <p>Streamline your procurement search with Polytender. Our AI-driven platform automatically matches relevant public tenders…</p>
+                            <div />
+                              <span />
+                                Premium
+                                [191]<svg />
+                            <div />
+                              <span />
+                                [192]<a title=Artificial Intelligence href=/categories?category=ai>Artificial Intelligence</a>
+                              <span />
+                                <span>·</span>
+                                [193]<a title=APIs & Integrations href=/categories?category=api>APIs & Integrations</a>
+                              <span />
+                                <span>·</span>
+                                [194]<a title=Web Development href=/categories?category=web-dev>Web Development</a>
+                        <div />
+                          [196]<a title=2 comments on Polytender aria-label=2 comments on Polytender href=/projects/polytender#comments />
+                            [195]<svg />
+                            <span>2</span>
+                          <div />
+                            <button />
+                              [197]<svg />
+                              <span>5</span>
+                    [205]<div role=button tabindex=0 />
+                      <div />
+                        <div />
+                          <div />
+                            <div />
+                              [199]<a title=3. CardShare AI href=/projects/cardshare-ai />
+                                <h3>3. CardShare AI</h3>
+                              [201]<a href=https://www.cardshare.ai/?utm_source=auraplusplus&utm_medium=homepage&utm_campaign=project_card&ref=… title=Visit CardShare AI website />
+                                [200]<svg />
+                            <p>I work on a remote team, and whenever someone had a birthday, a work anniversary or a last day, there was no good way fo…</p>
+                        <div />
+                          [203]<a title=3 comments on CardShare AI aria-label=3 comments on CardShare AI href=/projects/cardshare-ai#comments />
+                            [202]<svg />
+                            <span>3</span>
+                          <div />
+                            <button />
+                              [204]<svg />
+                              <span>3</span>
+            <aside />
+              <div />
+                <div />
+                  <h3>Upcoming</h3>
+                  <div />
+                    <div />
+                      <div />
+                        <span>NOV</span>
+                        <span>15</span>
+                      <div />
+                        <div />
+                          <p>Next launch drop</p>
+                          <p>New products go live at 8 :00 UTC. Launch on a featured day and ride extra momentum from the community.</p>
+                        <div />
+                          <span>New launches in</span>
+                          <div />
+                            <div />
+                              <span>00</span>
+                              <span>h</span>
+                            <span>:</span>
+                            <div />
+                              <span>00</span>
+                              <span>m</span>
+                            <span>:</span>
+                            <div />
+                              <span>00</span>
+                              <span>s</span>
+                <div />
+                  <h3 />
+                    Featured Projects
+                    [206]<button aria-label=About Featured Projects />
+                      <svg />
+                  <div />
+                    [208]<a title=FutureNote IPhone app for writing notes to your future self.You write what is happening right href=https://futurenoteapp.com/?utm_source=auraplusplus&utm_medium=hero_ad&utm_campaign=homepage&ref=aura… />
+                      <div />
+                        <div />
+                          <div />
+                            <h3>FutureNote</h3>
+                            [207]<svg />
+                          <p>IPhone app for writing notes to your future self.You write what is happening right</p>
+                    [209]<button />
+                          <svg />
+                            <svg />
+                <div />
+                  <div />
+                    <p>Aura++ Bids · #1</p>
+                    [210]<a title=View board href=/bid>View board</a>
+                  <div />
+                    <div />
+                      <div />
+                        <p>Posting Dude - Content Distribution & Marketing Service</p>
+                        <p>Leading at $21 · dofollow DR 74</p>
+                    <div />
+                      [211]<a href=https://postingdude.com/?utm_source=auraplusplus&utm_medium=homepage_bid&utm_campaign=aura_bids&ref=…>Website</a>
+                      [212]<a title=Listing href=/projects/content-distribution-marketing-platform>Listing</a>
+                      [213]<a title=Outbid href=/bid>Outbid</a>
+                <div />
+                  <div />
+                    <h3>Top Categories</h3>
+                    [214]<a title=View all href=/categories>View all</a>
+                  <div />
+                    [215]<a title=Artificial Intelligence 1115 projects href=/categories?category=ai />
+                      <span>Artificial Intelligence</span>
+                      <span>1115 projects</span>
+                    [216]<a title=SaaS 508 projects href=/categories?category=saas />
+                      <span>SaaS</span>
+                      <span>508 projects</span>
+                    [217]<a title=Productivity 504 projects href=/categories?category=productivity />
+                      <span>Productivity</span>
+                      <span>504 projects</span>
+                    [218]<a title=Marketing Tools 385 projects href=/categories?category=marketing-tools />
+                      <span>Marketing Tools</span>
+                      <span>385 projects</span>
+                    [219]<a title=Web Development 249 projects href=/categories?category=web-dev />
+                      <span>Web Development</span>
+                      <span>249 projects</span>
+                <div />
+                  <h3>Featured On</h3>
+                  <div />
+                    [220]<a title=Fazier href=https://fazier.com>Fazier</a>
+                    [221]<a title=Startup Fame href=https://startupfa.me>Startup Fame</a>
+                    [222]<a title=Twelve Tools href=https://twelve.tools>Twelve Tools</a>
+                    [223]<a title=Dang.ai href=https://dang.ai>Dang.ai</a>
+                    [224]<a title=MagicBox.tools href=https://magicbox.tools>MagicBox.tools</a>
+                    [225]<a title=Turbo0 href=https://turbo0.com>Turbo0</a>
+                    [226]<a title=AI Directories href=https://aidirectori.es>AI Directories</a>
+                    [227]<a title=zPlatform.ai href=https://zplatform.ai/>zPlatform.ai</a>
+                    [228]<a title=LaunchIgniter href=https://launchigniter.com>LaunchIgniter</a>
+                    [229]<a title=Nick Launches href=https://nicklaunches.com/>Nick Launches</a>
+                    [230]<a title=SaasHunt href=https://saashunt.best>SaasHunt</a>
+                    [231]<a title=Findly.tools href=https://findly.tools/aura>Findly.tools</a>
+                    [232]<a title=Indie.Deals href=https://indie.deals>Indie.Deals</a>
+                    [233]<a title=Submit AI Tools href=https://submitaitools.org>Submit AI Tools</a>
+                    [234]<a title=Wired Business href=https://wired.business>Wired Business</a>
+                    [235]<a title=SimilarLabs href=https://similarlabs.com>SimilarLabs</a>
+  [237]<button aria-label=Send feedback />
+    [236]<svg />
+  <section aria-label=Notifications alt+T tabindex=-1 aria-live=polite />
+---
+hidden_interactive (2):
+  <div> ~2.7 pages below
+  <div> ~2.7 pages below
+---
+interactive: 237 | iframes: 0

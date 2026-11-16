@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-11-16T21:25:30+08:00",
+  "source": "Root relay of candidate-agent official-source read-only findings; records agent did not browse.",
+  "domain": "promoteindex.com",
+  "platform_url": "https://promoteindex.com/",
+  "official_sources": [
+    "https://promoteindex.com/submit",
+    "https://promoteindex.com/terms"
+  ],
+  "free_evidence": "Root relayed read-only candidate agent official-source verification: free anonymous submission, initially public nofollow ugc direct link; no votes or reciprocal link required. Terms explicitly permit representative/agent submission.",
+  "submitted": false,
+  "counted": false
+}

@@ -1,0 +1,66 @@
+{
+  "tagline": {
+    "text": "Pet portraits from your favorite photos",
+    "characters": 39
+  },
+  "one_liner": {
+    "text": "Turn pet photos into portraits worth keeping.",
+    "characters": 45
+  },
+  "short_description_en": {
+    "text": "Pettenderly turns photos of your cat or dog into AI portraits. Choose a watercolor, royal or studio look, then download your image.",
+    "characters": 131
+  },
+  "medium_description_en": {
+    "text": "Pettenderly is an online AI pet portrait studio. Upload one to five photos of the same pet, choose a style such as watercolor or Royal Nobility, and download the result. Each successful image uses one credit. Buy a credit pack or subscribe for a monthly allowance.",
+    "characters": 264
+  },
+  "long_description_en": {
+    "text": "Pettenderly turns everyday pet photos into downloadable AI portraits. Start with one to five clear photos of the same pet, with its eyes and coat markings visible. Choose a watercolor look, a royal costume or a sunny window-seat scene. Create a portrait in the studio, then revisit My creations to download your favorites.\n\nTwo beta tools offer more ways to use your photos. You & your pet combines separate person and pet reference photos into a portrait together. Photo cleanup lets you describe a change, such as removing a cable from the background. Faces, markings and fine details can vary in generated images.\n\nEach successful image uses one credit; failed generations do not use credits. Buy a one-time Starter Pack or choose a Pro subscription for a monthly allowance. The result is a digital image you can download and keep.",
+    "characters": 834
+  },
+  "tagline_cn": {
+    "text": "把日常宠物照做成一幅写真",
+    "characters": 12
+  },
+  "one_liner_cn": {
+    "text": "用爱宠的照片制作水彩或皇家风格的 AI 写真，生成后即可下载。",
+    "characters": 31
+  },
+  "short_description_cn": {
+    "text": "Pettenderly 是在线 AI 宠物写真工具。上传 1–5 张同一只宠物的照片，选择水彩、皇家或影棚风格，生成并下载一幅专属画像。",
+    "characters": 68
+  },
+  "medium_description_cn": {
+    "text": "Pettenderly 可以把猫狗的日常照片做成可下载的 AI 写真。上传 1–5 张能看清眼睛、毛色和花纹的照片，选择水彩、皇家或窗边场景。每张成功生成的图片消耗 1 点，点数可一次性购买，也可通过 Pro 订阅按月获得。",
+    "characters": 112
+  },
+  "long_description_cn": {
+    "text": "在 Pettenderly，你可以把手机里熟悉的宠物照做成一幅写真。选 1–5 张同一只猫或狗的清晰照片，再挑一个喜欢的风格，比如水彩、皇家肖像或阳光下的窗边场景。生成后可在工作室查看结果，并在「我的作品」下载保存。\n\n人宠合影和照片清理目前均为 Beta。前者可分别上传人物和宠物照片，生成同框画像；后者可按文字要求处理照片，例如移除背景里的一根电线。人物面部、宠物花纹和其他细节可能发生变化。\n\n每张成功生成的图片消耗 1 点，失败不扣点。可以一次性购买 Starter 点数包，也可以订阅 Pro 获得每月额度。交付内容为可下载的数字图片。",
+    "characters": 273
+  },
+  "announcement_en": {
+    "text": "Turn a favorite pet photo into a watercolor or royal portrait with Pettenderly. Choose a style, upload clear photos, and download the result. https://pettenderly.com/",
+    "characters": 166
+  },
+  "announcement_cn": {
+    "text": "想把猫咪的日常照做成水彩，或者给狗狗做一幅皇家肖像？在 Pettenderly 选择风格，上传爱宠的照片，就能生成并下载写真。https://pettenderly.com/zh",
+    "characters": 89
+  },
+  "cat_description_en": {
+    "text": "Pettenderly helps cat owners turn everyday photos into AI cat portraits. Upload one to five clear photos of the same cat, choose a watercolor, royal or window-seat style, and download a digital keepsake. Each successful image uses one credit.",
+    "characters": 242
+  },
+  "cat_description_cn": {
+    "text": "Pettenderly 可以把猫咪的日常照片做成 AI 写真。上传 1–5 张同一只猫的清晰照片，挑选水彩、皇家或窗边风格，生成后下载保存。每张成功生成的图片消耗 1 点。",
+    "characters": 86
+  },
+  "cat_announcement_en": {
+    "text": "A watercolor keepsake or a royal portrait for your cat? Explore Pettenderly’s AI cat portrait styles: https://pettenderly.com/cat-portrait-generator",
+    "characters": 148
+  },
+  "cat_announcement_cn": {
+    "text": "给熟悉的猫咪照片换一种表达：在 Pettenderly 选择水彩、皇家或窗边风格，制作可下载的 AI 猫咪写真。https://pettenderly.com/cat-portrait-generator",
+    "characters": 102
+  }
+}

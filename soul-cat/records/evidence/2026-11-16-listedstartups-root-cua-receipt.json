@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-11-16T21:39:20+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally. Website anchor label is visible but native value truncates its full href; no full target href or rel inferred.",
+  "source_key": "supplemental-free-2026-11-16.csv::listedstartups.com::listedstartups.com",
+  "platform": "listedstartups.com",
+  "original_csv_url": "https://listedstartups.com/",
+  "observed_transition": [
+    "Single Publish product",
+    "Published — your product is live",
+    "View published listing"
+  ],
+  "observed_listing_url": "https://listedstartups.com/products/pettenderly",
+  "observed_heading": "Pettenderly",
+  "description": "Complete accurate description read back on public product page",
+  "website_link_label": "Website pettenderly.com",
+  "full_website_href_verified": false,
+  "rel_verified": false,
+  "pre_submit_duplicate_check": "Root reported official read-only searches for Pettenderly and domain both0; AI pet portraits category showed only unrelated PawCinema.",
+  "fields_read_back": [
+    "Product type",
+    "Pettenderly",
+    "slug pettenderly",
+    "website URL",
+    "description385",
+    "tagline68",
+    "AI Image Generation / AI pet portraits",
+    "Paid and accurate pricing text",
+    "launch year2026",
+    "Web",
+    "public support email"
+  ],
+  "unknown_personal_legal_fields": "No invented founder year or legal entity details",
+  "payment_made": false,
+  "submission_attempts": 1,
+  "status": "public",
+  "counted": true,
+  "additional_20_index": 15,
+  "screenshots": [],
+  "independent_read_only_check": {
+    "source": "/root/new20_candidates report",
+    "public_get_http_status": 403,
+    "web_reader_accessible": false,
+    "full_target_href_verified": false,
+    "rel_verified": false,
+    "status_basis": "Root native Published confirmation, public product page H1 and Website link; independent anonymous HTTP reachability not verified."
+  }
+}

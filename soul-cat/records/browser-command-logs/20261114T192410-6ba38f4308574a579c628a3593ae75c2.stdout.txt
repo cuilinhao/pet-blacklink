@@ -1,0 +1,8 @@
+{
+  "value": {
+    "class": "flex h-11 cursor-pointer items-center justify-center rounded-xl border text-[13px] font-medium transition-colors border-[#ED0D79] bg-[#ED0D79]/[0.06] text-[#ED0D79]",
+    "data-opencli-ref": "204"
+  },
+  "matches_n": 1,
+  "match_level": "exact"
+}

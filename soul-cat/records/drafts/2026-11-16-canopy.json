@@ -1,0 +1,45 @@
+{
+  "website": "Pettenderly",
+  "source_key": "supplemental-free-2026-11-16.csv::canopystack.dev::canopystack.dev",
+  "url": "https://canopystack.dev/launches",
+  "plan": "Free",
+  "state": "prepared",
+  "fields": {
+    "name": "Pettenderly",
+    "url": "https://pettenderly.com/",
+    "tagline": "Create downloadable AI pet portraits from photos of your cat or dog.",
+    "category": "SaaS"
+  },
+  "field_mapping": {
+    "tagline": "One-line pitch",
+    "category": "SaaS",
+    "Leave blank": "honeypot; leave empty"
+  },
+  "submit_attempts": 0,
+  "official_sources": [
+    "https://canopystack.dev/launches",
+    "https://canopystack.dev/terms"
+  ],
+  "preflight": {
+    "tagline_length": 68,
+    "public_listing_search": "Current web search found no matching Pettenderly listing; not an exhaustive duplicate gate. Root must check native directory Search before submission.",
+    "public_get": "Earlier ordinary unauthenticated GET of /launches and documented /api/launches returned403; no workaround attempted.",
+    "history_gate": "Records agent supplemental gate remains authoritative.",
+    "runtime_captcha": "No challenge in official web-readable form; runtime not confirmed.",
+    "badge": "Optional only.",
+    "terms_checkbox": "None in official web-readable form.",
+    "publication": "Official FAQ says listed immediately and separate indexable listing page."
+  },
+  "status": "public",
+  "final_submit_attempted": true,
+  "submission_attempts": 1,
+  "product_submission_sent": true,
+  "submission_received": true,
+  "counted": true,
+  "public": true,
+  "evidence_url": "https://canopystack.dev/launches/0z3e1q1z0t",
+  "evidence_artifact": "records/evidence/2026-11-16-canopy-root-cua-receipt.json",
+  "backlink_rel_verified": false,
+  "checkpoint": "You are listed confirmation; new first directory entry with detail URL and direct target Visit link observed.",
+  "recorded_at": "2026-11-16T21:54:08+08:00"
+}

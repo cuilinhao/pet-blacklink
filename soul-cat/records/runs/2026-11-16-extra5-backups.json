@@ -1,0 +1,300 @@
+{
+  "date": "2026-11-16",
+  "mode": "read-only official web research; no browser or submissions; no main ledger edits",
+  "candidates": [
+    {
+      "platform": "AIAppDrop",
+      "domain": "aiappdrop.com",
+      "platform_url": "https://aiappdrop.com/",
+      "submit_url": "https://aiappdrop.com/submit/",
+      "official_source": "https://aiappdrop.com/terms-of-use/",
+      "free_evidence": "Official Terms §Free listings: submission and approved publication are free; no featured placement or ranking boost sold. Submit page repeats free, usually a few days.",
+      "required_fields": [
+        "tool name",
+        "website URL",
+        "one-line tagline",
+        "pricing model",
+        "primary category",
+        "short description",
+        "public API yes/no",
+        "open source yes/no",
+        "your name",
+        "your email"
+      ],
+      "optional_fields": [
+        "anything else"
+      ],
+      "login": "No login shown in public form",
+      "verification": "No separate agreement checkbox or CAPTCHA shown in fetched public form; runtime may differ",
+      "terms_url": "https://aiappdrop.com/terms-of-use/",
+      "terms_review": "Terms prohibit harmful scraping, overload, misrepresentation, false endorsement. No blanket automation or ordinary one-product submission ban found. Submission confirms accurate authorized information; editors may modify/reject.",
+      "speed": "Usually a few days; terms do not guarantee timeline.",
+      "fit": "Image tools accepted; paid products explicitly allowed. Choose image generation, Paid, no public API, not open source based on product facts.",
+      "warnings": [
+        "Static HTML includes hidden Submission received panel before any action; do not treat it as a receipt.",
+        "Your name placeholder says Full name; do not invent personal identity. Use only approved submitter identity.",
+        "Thin editorial pages can be noindex until expanded."
+      ],
+      "dedupe": "All-state main platform-progress domain+known-alias search: 0 matches. Records agent canonical gate required before attempt; concurrent submissions may change history.",
+      "source_key_proposed": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+      "official_sources": [
+        "https://aiappdrop.com/submit/",
+        "https://aiappdrop.com/terms-of-use/",
+        "https://aiappdrop.com/about/"
+      ],
+      "history_matches": [],
+      "queue_matches": [
+        {
+          "csv": "supplemental-free-2026-11-16.csv",
+          "line_including_header": 12
+        }
+      ],
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+      "source_key_state": "Records agent confirmed canonical history gate PASS.",
+      "root_status_update": "Root reported actual pending receipt; new20#7. Do not resubmit."
+    },
+    {
+      "platform": "ProductPerch",
+      "domain": "productperch.com",
+      "platform_url": "https://productperch.com/",
+      "submit_url": "https://productperch.com/submit/",
+      "official_source": "https://productperch.com/submit/",
+      "free_evidence": "Official free launch $0, next available UTC day; 12 free daily slots, 3 reserved for open-source. No mandatory badge.",
+      "login": "Google or email code required",
+      "fields": [
+        "URL",
+        "AI-prefilled product name",
+        "tagline <=60",
+        "description 80–2000",
+        "category",
+        "up to 3 tags",
+        "platform",
+        "pricing",
+        "features/use cases/FAQ",
+        "logo required",
+        "optional up to 6 screenshots/demo video/social links",
+        "choose free date shown before confirmation"
+      ],
+      "terms_url": "https://productperch.com/terms/",
+      "terms_review": "Authorized makers/representatives allowed; agencies may not submit for clients. Accurate owned images/content, display and distribution license. No automation-form ban found; bans fake votes, multiaccounts, bought/traded engagement. One person one account. Autofill max10/day; free max3/30days.",
+      "fit": "Digital AI image web app fits AI/Design; product is not a physical pet service. Owner-authorized use of own account fits; do not pose as agency or invented maker.",
+      "speed": "Next available day from tomorrow; date must be observed. Auto review then recheck day before 00:00 UTC launch; borderline manual.",
+      "warnings": [
+        "Default free link nofollow; badge optional for dofollow.",
+        "Sign-in enrolls daily digest with unsubscribe; inspect actual account consent.",
+        "No instant-public claim; scheduled receipt alone is not live."
+      ],
+      "official_sources": [
+        "https://productperch.com/submit/",
+        "https://productperch.com/terms/"
+      ],
+      "source_key_proposed": "supplemental-free-2026-11-16.csv::productperch.com::productperch.com",
+      "history_matches": [],
+      "queue_matches": [],
+      "dedupe": "All-state main platform-progress domain+known-alias search: 0 matches. Records agent canonical gate required before attempt; concurrent submissions may change history.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::productperch.com::productperch.com",
+      "source_key_state": "Records agent confirmed canonical history gate PASS."
+    },
+    {
+      "platform": "ListYourTool",
+      "domain": "listyourtool.com",
+      "platform_url": "https://www.listyourtool.com/",
+      "submit_url": "https://www.listyourtool.com/submit-tool",
+      "official_source": "https://www.listyourtool.com/submit-tool",
+      "free_evidence": "Official submit text explicitly says listing completely free; human review then categorized publication.",
+      "login": "Anonymous form verified in official public page JavaScript; no sign-in component",
+      "fields": [
+        "ToolName required",
+        "Website URL required",
+        "ShortDescription required≤150",
+        "DetailedDescription required≤2000",
+        "Tags required1–3",
+        "PricingModel required: Free/Paid/Freemium/One Time Payment",
+        "Price required when notFree",
+        "Submitter full name required",
+        "SubmitterEmail required",
+        "optionalFeatures≤10",
+        "optionalHowToUse≤1000",
+        "optionalUseCases",
+        "optionalFAQ≤5"
+      ],
+      "terms_url": "https://www.listyourtool.com/terms",
+      "terms_review": "Authorized accurate tool, no harm/IP violations or security circumvention; content display/reproduction/modification license. No automated-form ban found.",
+      "fit": "Image category present, all AI products accepted",
+      "speed": "Manual review; no SLA published",
+      "warnings": [
+        "Use correct /submit-tool with www; /submit is wrong.",
+        "Choose One Time Payment and4.99 for12credits, then clarify optional9.90/month in full description. Paid default displays/month.",
+        "Screenshot automatically captured from provided website; no upload needed.",
+        "Button Submit Tool for Review; genuine post-submit success says pending review."
+      ],
+      "official_sources": [
+        "https://www.listyourtool.com/submit-tool",
+        "https://www.listyourtool.com/terms",
+        "https://www.listyourtool.com/_next/static/chunks/app/submit-tool/page-cd2712582a2c8206.js?dpl=dpl_7SxhLcjxRHnGXXiEmEG6a1WDtnzt"
+      ],
+      "source_key_proposed": "success-1104-daohang-613-final.csv::listyourtool.com::listyourtool.com",
+      "history_matches": [],
+      "queue_matches": [
+        {
+          "csv": "success-1104-daohang-613-final.csv",
+          "line_including_header": 506
+        }
+      ],
+      "dedupe": "All-state main platform-progress domain+known-alias search: 0 matches. Records agent canonical gate required before attempt; concurrent submissions may change history.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::listyourtool.com::listyourtool.com",
+      "source_key_state": "Records agent confirmed canonical history gate PASS.",
+      "verification": "Official page-specific client JS has no CAPTCHA/terms agreement/login component; actual runtime could still differ. Do not bypass challenges.",
+      "field_evidence_method": "Read-only GET official page HTML and directly referenced public JS; no browser or POST/API submit calls."
+    },
+    {
+      "platform": "Best-AI.org",
+      "domain": "best-ai.org",
+      "aliases": [
+        "best-ai-tools.org"
+      ],
+      "platform_url": "https://best-ai.org/",
+      "submit_url": "https://best-ai.org/submit-tool",
+      "official_source": "https://best-ai.org/submit-tool/guidelines",
+      "free_evidence": "Current guidelines explicitly list standard publication free; paid Fast-Track/Featured optional.",
+      "login": "Official indexed form says may require sign-in to attach submission; current dynamic initial form not exposed. Google availability unverified.",
+      "fields": [
+        "initial product URL",
+        "review AI-prefilled name/description/pricing/categories",
+        "features and assets exact interactive requirements unknown"
+      ],
+      "terms_url": "https://best-ai.org/legal#terms-of-service-anchor",
+      "terms_review": "Adult users, authorized accurate content and worldwide display/promote license. No bulk copying/mirroring to competitor or protections/rate-limit circumvention. No ordinary authorized submission ban found.",
+      "fit": "AI image product with own workflow/interface accepted; generic model-default wrapper not accepted.",
+      "speed": "Current guidelines explicitly no date promise for free. Older indexed form says1–2weeks and optional badge48h; do not rely on old timing.",
+      "warnings": [
+        "best-ai-tools.org redirects to best-ai.org; check both identities before any attempt.",
+        "Current guidelines: decisions in dashboard, no rejection email."
+      ],
+      "official_sources": [
+        "https://best-ai.org/submit-tool",
+        "https://best-ai.org/submit-tool/guidelines",
+        "https://best-ai.org/legal"
+      ],
+      "source_key_proposed": "success-1104-daohang-613-final.csv::best-ai-tools.org::best-ai-tools.org",
+      "history_matches": [],
+      "queue_matches": [
+        {
+          "csv": "success-外链网站合并去重_2026-11-05.csv",
+          "line_including_header": 118
+        },
+        {
+          "csv": "success-1104-daohang-613-final.csv",
+          "line_including_header": 427
+        },
+        {
+          "csv": "reference-platforms-2026-11-05.csv",
+          "line_including_header": 117
+        }
+      ],
+      "dedupe": "All-state main platform-progress domain+known-alias search: 0 matches. Records agent canonical gate required before attempt; concurrent submissions may change history.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::best-ai-tools.org::best-ai-tools.org",
+      "original_platform_url": "https://best-ai-tools.org/",
+      "source_key_state": "Records agent gate confirmed existing active legacy alias; do not create duplicate best-ai.org source identity."
+    },
+    {
+      "platform": "ToolScout",
+      "domain": "toolscout.ai",
+      "platform_url": "https://toolscout.ai/",
+      "submit_url": "https://toolscout.ai/submit",
+      "official_source": "https://toolscout.ai/submit",
+      "free_evidence": "Official FAQ confirms free standard listing permanently; paid Boost/Featured never required.",
+      "login": "Google or email",
+      "fields": "Protected by login. Description/categories/pricing/screenshot described as listing content; required field limits not available read-only.",
+      "terms_url": "https://toolscout.ai/tos",
+      "terms_review": "General IP/republication limits, authorized content and display/edit license. No general automated submission prohibition. Comments cannot be advertising; use dedicated tool submission, not comments.",
+      "fit": "Officially accepts live image/design AI tools and paid tools",
+      "speed": "Free human review one week or more;24–48h belongs paid only",
+      "warnings": [
+        "Badge not mandatory; avoid paid Boost/Featured.",
+        "Exact form/captcha and public link attribute require native UI verification."
+      ],
+      "official_sources": [
+        "https://toolscout.ai/submit",
+        "https://toolscout.ai/tos",
+        "https://toolscout.ai/signin?returnTo=/submit"
+      ],
+      "source_key_proposed": "success-外链网站合并去重_2026-11-05.csv::toolscout.ai::toolscout.ai",
+      "history_matches": [],
+      "queue_matches": [
+        {
+          "csv": "success-外链网站合并去重_2026-11-05.csv",
+          "line_including_header": 148
+        },
+        {
+          "csv": "reference-platforms-2026-11-05.csv",
+          "line_including_header": 147
+        }
+      ],
+      "dedupe": "All-state main platform-progress domain+known-alias search: 0 matches. Records agent canonical gate required before attempt; concurrent submissions may change history.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key_state": "Only in mergedCSV; records agent says current wrapper does not execute this branch. Research backup only until branch is explicitly supported."
+    }
+  ],
+  "excluded": [
+    {
+      "domain": "forwardfuture.com",
+      "reason": "Directory terms ban automated systems or bots without prior written permission. Existing original queue alias forwardfuture.ai.",
+      "official_source": "https://forwardfuture.com/tools/terms"
+    },
+    {
+      "domain": "vibecodepicks.com",
+      "reason": "Free but mandatory real public demo video unavailable; root instructed skip, do not create one.",
+      "official_source": "https://vibecodepicks.com/submit-ai-tool-free/"
+    },
+    {
+      "domain": "agentstackd.com",
+      "reason": "Agent/automation tools only; pet portrait app unsuitable.",
+      "official_source": "https://agentstackd.com/submit/"
+    },
+    {
+      "domain": "dynamite-ai.com",
+      "reason": "Current official submit requires $5.",
+      "official_source": "https://dynamite-ai.com/submit"
+    },
+    {
+      "domain": "aitoolshunt.com",
+      "reason": "Current official standard listing starts at $5.",
+      "official_source": "https://aitoolshunt.com/submit-ai-tool/"
+    }
+  ],
+  "history_snapshot_sha256": "a350d3ee73ee04c09a5a01b4901e71f2eb0bcffa1fdc7fa0b717f5f635ea38c8",
+  "candidate_count": 5,
+  "updated_at": "2026-11-16T21:01:03+08:00",
+  "conditional_reserves": [
+    {
+      "domain": "toolfitr.com",
+      "submit_url": "https://toolfitr.com/submit-tool/",
+      "reason": "Official free, no account/backlink. Form only opens email draft; actual send is email not normal form. Root must decide authorized email route; not one of5. Image generation/graphic design fits. Free review has no SLA."
+    },
+    {
+      "domain": "aiai.tools",
+      "submit_url": "https://aiai.tools/submit-ai-tool",
+      "form_url": "https://tally.so/embed/3NADy0",
+      "reason": "Official embedded Tally page1/2 no fee/payment; not explicit confirmed free. Required name/email/toolname/URL/public PNG-JPG screenshot URL/reciprocal Yes-No. No is allowed. No SLA/terms found; need final UI fee check. Pets category proves fit."
+    },
+    {
+      "domain": "aiagentsinfo.com",
+      "reason": "Free2min automatic official, but site is agent-focused and no confirmed image/non-agent category. Parent says skip unless fit verified; Human check also present.",
+      "sources": [
+        "https://www.aiagentsinfo.com/submit",
+        "https://www.aiagentsinfo.com/editorial-policy",
+        "https://www.aiagentsinfo.com/terms"
+      ]
+    }
+  ]
+}

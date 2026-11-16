@@ -1,0 +1,51 @@
+{
+  "recorded_at": "2026-11-16T21:32:48+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent public HTTP verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::develif.com::develif.com",
+  "platform": "develif.com",
+  "original_csv_url": "https://develif.com/",
+  "observed_transition": [
+    "Single List it free",
+    "Submitting",
+    "Public product page"
+  ],
+  "observed_listing_url": "https://develif.com/s/pettenderly",
+  "observed_heading": "Pettenderly",
+  "observed_direct_backlink": "https://pettenderly.com/",
+  "observed_added_date": "2026-11-16",
+  "observed_category": "Pets & Animals",
+  "product_pricing_description": "Accurate paid pricing",
+  "description_display_issue": "535-character draft fully read back before submission, but server-published description is truncated to500 characters ending ...digital images wit. Root reports this does not alter stated product facts; no repeat submission.",
+  "directory_fee": "Free",
+  "account_required": false,
+  "captcha_observed": false,
+  "terms_checkbox_observed": false,
+  "submission_attempts": 1,
+  "status": "public",
+  "rel_verified": true,
+  "counted": true,
+  "additional_20_index": 13,
+  "screenshots": [],
+  "independent_public_get": {
+    "source": "/root/new20_candidates read-only verification reported to records agent",
+    "recorded_at": "2026-11-16T21:33:27+08:00",
+    "url": "https://develif.com/s/pettenderly",
+    "http_status": 200,
+    "h1": "Pettenderly",
+    "link_targets": [
+      "https://pettenderly.com/",
+      "https://pettenderly.com/"
+    ],
+    "link_labels": [
+      "domain row",
+      "Visit site"
+    ],
+    "rel": "noopener noreferrer",
+    "nofollow_sponsored_ugc_present": false,
+    "canonical": "https://develif.com/s/pettenderly",
+    "robots": "index, follow",
+    "public_edit_claim_manage_entry_found": false,
+    "mutation_performed": false
+  }
+}

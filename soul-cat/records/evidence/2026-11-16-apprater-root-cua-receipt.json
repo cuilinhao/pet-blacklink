@@ -1,0 +1,31 @@
+{
+  "recorded_at": "2026-11-16T21:23:10+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "success-1104-daohang-613-final.csv::apprater.net::apprater.net",
+  "platform": "apprater.net",
+  "original_csv_url": "https://apprater.net",
+  "observed_receipt_url": "https://apprater.net/#submit",
+  "resumes_checkpoint": "records/evidence/2026-11-16-apprater-root-cua-checkpoint.json",
+  "confirmation_record": "records/runs/2026-11-16-user-confirmations.json",
+  "confirmation_id": "apprater-disclosed-terms-submit-20261116",
+  "resumed_existing_form": true,
+  "actual_final_submission_attempts": 1,
+  "observed_transition": [
+    "Submitting",
+    "SUBMISSION RECEIVED"
+  ],
+  "observed_heading": "Pettenderly is in the review queue",
+  "observed_message": "A confirmation email is on its way. Every submission is read by hand.",
+  "observed_management_option": "Sign in with the same email to edit the record while under review.",
+  "status_basis": "Explicit review-queue receipt; email is a notice, not an observed prerequisite to queue entry.",
+  "directory_plan": "Standard free",
+  "paid_promotion_selected": false,
+  "newsletter_selected": false,
+  "optional_badge_installed": false,
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 10,
+  "screenshots": []
+}

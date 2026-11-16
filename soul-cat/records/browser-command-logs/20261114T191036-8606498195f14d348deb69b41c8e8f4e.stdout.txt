@@ -1,0 +1,5 @@
+{
+  "session": "hermes-pettenderly-sadik",
+  "url": "https://indiehunt.io/submit?plan=free",
+  "title": "Submit Your AI Project"
+}

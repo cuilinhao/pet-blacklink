@@ -1,0 +1,11 @@
+{
+  "filled": true,
+  "verified": true,
+  "target": "169",
+  "text": "Turn pet photos into portraits worth keeping.",
+  "actual": "Turn pet photos into portraits worth keeping.",
+  "length": 45,
+  "matches_n": 1,
+  "match_level": "exact",
+  "mode": "input"
+}

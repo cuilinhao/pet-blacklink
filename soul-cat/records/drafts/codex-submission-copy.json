@@ -1,0 +1,57 @@
+{
+  "website": "Pettenderly",
+  "url": "https://pettenderly.com/",
+  "prepared_at": "2026-11-14T13:38:04.695782+00:00",
+  "language": "en",
+  "tagline": "Turn pet photos into portraits worth keeping.",
+  "pricing_model": "Paid",
+  "contact_email": "support@soulpaw.art",
+  "official_x_url": "https://x.com/soulpaw_art",
+  "official_x_note": "User confirmed on 2026-11-14 as Pettenderly's official brand account; not a personal user or founder identity.",
+  "first_launch_month": "2026-10",
+  "launch_year": 2026,
+  "country": "China",
+  "country_code": "CN",
+  "launch_and_country_note": "User confirmed on 2026-11-14: first launch in October 2026; product country China. Exact launch day, company founding date, city and legal entity remain unconfirmed.",
+  "descriptions": {
+    "80_words": {
+      "text": "Pettenderly turns pet photos into downloadable AI portraits. Upload one to five clear photos of the same pet, choose a style such as watercolor or royal portraiture, and create a digital keepsake. View results in the studio or My creations. Each successful image uses one credit; failed generations do not use credits. Paid options include a Starter Pack and Pro subscriptions. Beta tools add portraits together with your pet and photo cleanup. Generated faces, markings and fine details may vary.",
+      "word_count": 80
+    },
+    "150_words": {
+      "text": "Pettenderly is an online AI pet portrait studio for turning pet photos into digital keepsakes. Upload one to five clear photos of the same pet, choose a visual style, and generate a portrait. Available looks include watercolor, royal costumes and studio portraits. Results can be viewed and downloaded in the studio or revisited in My creations.\n\nTwo beta tools offer additional ways to use reference photos. You & your pet combines separate photos of a person and a pet into a shared portrait. Photo cleanup accepts a written request, such as removing a cable or background clutter. Generated faces, markings and fine details can vary.\n\nPettenderly is paid. The Starter Pack costs $4.99 for 12 credits, while Pro plans provide 40 credits each month. Each successful image uses one credit; failed generations do not use credits. The output is a downloadable digital image, with no physical printing or delivery included.",
+      "word_count": 150
+    },
+    "250_words": {
+      "text": "Pettenderly is an online AI pet portrait studio that turns photos into digital keepsakes. It is designed for pet owners who want to create portraits of their cats or dogs using their own reference images. Start with one to five clear photos of the same pet, choose a style, and generate a portrait. Available looks include watercolor, royal costumes, studio portraits and window seat scenes.\n\nClear photos with visible eyes and natural fur markings help guide the result. The studio accepts JPG, PNG and WebP files up to 8 MB each. Once a portrait is ready, users can view and download it from the studio or return to My creations to revisit their results.\n\nTwo beta tools extend the workflow. You & your pet combines a separate person photo with pet reference photos to create a portrait together. Photo cleanup lets users describe changes to an existing pet photo, such as removing a cable or background clutter. These are generative tools, so faces, coat markings and fine details may change. Users should review the result carefully.\n\nPettenderly uses paid credits. A Starter Pack costs $4.99 and includes 12 credits without an expiration date. Pro subscriptions provide 40 credits per month; unused monthly credits do not roll over. Each successful image uses one credit, while failed generations do not use credits. The finished product is a downloadable digital image. The service does not include physical printing or shipping, and there is no promise of exact likeness or a fixed generation speed.",
+      "word_count": 250
+    }
+  },
+  "word_count_method": "Whitespace-delimited words; platform counters may treat symbols or hyphenated words differently.",
+  "sources": [
+    "/Users/pgy/Documents/backlink-workspace/soul-cat/sites/Pettenderly.md",
+    "/Users/pgy/Desktop/pettenderly/PROJECT_STATUS.md",
+    "/Users/pgy/Desktop/pettenderly/src/components/soulpaw/landing.tsx",
+    "/Users/pgy/Desktop/pettenderly/src/components/soulpaw/portrait-studio.tsx",
+    "/Users/pgy/Desktop/pettenderly/src/config/soulpaw-pricing.ts",
+    "/Users/pgy/Desktop/pettenderly/src/lib/templates/presets.ts",
+    "/Users/pgy/Desktop/pettenderly/src/lib/templates/vacation.ts"
+  ],
+  "validation_scope": "Product descriptions verified against current local product files; official X, first launch month and country separately confirmed by the user on 2026-11-14. No website access or production check performed for this copy pack.",
+  "unconfirmed_fields": [
+    "official_social_accounts_other_than_x",
+    "founder",
+    "legal_entity",
+    "address",
+    "phone",
+    "founding_date",
+    "exact_launch_day",
+    "team_size"
+  ],
+  "submission_notes": [
+    "Do not describe the product as free or freemium; directory submission fee and product pricing are separate.",
+    "No invented social links, founder identity or dates.",
+    "Beta features and variable generated details remain qualified.",
+    "No physical print delivery, guaranteed exact likeness, fixed generation speed or unverified output resolution claims."
+  ]
+}

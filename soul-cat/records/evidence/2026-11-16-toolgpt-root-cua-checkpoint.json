@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-11-16T21:50:35+08:00",
+  "evidence_type": "root_native_cua_checkpoint_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot artifact fabricated or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::toolgpt.co::toolgpt.co",
+  "platform": "toolgpt.co",
+  "original_csv_url": "https://www.toolgpt.co/",
+  "form_url": "https://toolgpt.co/submit/listing",
+  "fields_read_back": [
+    "Pettenderly",
+    "https://pettenderly.com/",
+    "short68",
+    "about385",
+    "support@soulpaw.art"
+  ],
+  "visual_selections": [
+    "AI Image Generation blue selected",
+    "Web blue selected"
+  ],
+  "observed_transition": [
+    "Single Submit for review",
+    "Disabled Submitting",
+    "Error text, button reverted"
+  ],
+  "observed_error": "Something broke on our end. Email info@calbotservice.com and we will add your tool by hand.",
+  "submission_attempts": 1,
+  "retry_attempts": 0,
+  "email_sent": false,
+  "submission_received": null,
+  "success_or_public_evidence": false,
+  "status": "deferred",
+  "reason": "server_error_submission_unconfirmed",
+  "counted": false,
+  "resume_instruction": "Preserve unknown server outcome. Do not automatically resubmit or email; no successful receipt exists.",
+  "screenshots": []
+}

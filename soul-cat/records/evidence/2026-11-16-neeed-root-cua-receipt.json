@@ -1,0 +1,57 @@
+{
+  "recorded_at": "2026-11-16T20:15:16+08:00",
+  "observation_date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "source": "Root agent delegated task message: first-hand native CUA observations reported to local records subagent.",
+  "provenance_limit": "This is a text transcription of root CUA observations, not a screenshot or an independent browser/network verification. Exact submission time was not supplied.",
+  "source_key": "success-1104-daohang-613-final.csv::neeed.directory::neeed.directory",
+  "platform": "neeed.directory",
+  "original_csv_url": "https://neeed.directory",
+  "submission_url": "https://neeed.directory/submit?plan=free",
+  "observed_confirmation": "Product submitted successfully!",
+  "observed_navigation_url": "https://neeed.directory/products/pettenderly",
+  "observed_product_name": "Pettenderly",
+  "observed_visit_site_href": "https://pettenderly.com/?utm_source=neeed.directory",
+  "observed_category": "AI",
+  "observed_product_type": "Software",
+  "observed_product_pricing": "Paid",
+  "observed_assets": {
+    "logo": "Correct Pettenderly logo",
+    "cover": "Correct 1280x720 homepage cover"
+  },
+  "status": "submitted",
+  "counted": true,
+  "submission_attempts": 1,
+  "badge_dofollow_verified": true,
+  "screenshots": [],
+  "scope": "Existing Neeed success only. This records the baseline 1; additional 20 submissions completed: 0.",
+  "badge_verified": true,
+  "dofollow_rel_verified": true,
+  "badge_verification": {
+    "recorded_at": "2026-11-16T21:26:06+08:00",
+    "source": "Root native CUA",
+    "url": "https://neeed.directory/products/pettenderly",
+    "observed_transition": [
+      "Single Verify Badge click",
+      "Verifying",
+      "Badge Verified on2026年11月16日"
+    ],
+    "badge_verified": true,
+    "link_rel_observed": false,
+    "new_count": false
+  },
+  "backlink_rel": "noopener",
+  "backlink_nofollow_present": false,
+  "independent_public_get_verification": {
+    "source": "Root relay of neeed_badge agent independent read-only public GET findings.",
+    "recorded_at": "2026-11-16T21:29:26+08:00",
+    "badge_verified": true,
+    "platform_verified_checked_at": "2026-11-16 13:25:01.082Z",
+    "visit_site_href": "https://pettenderly.com/?utm_source=neeed.directory",
+    "rel": "noopener",
+    "nofollow_present": false,
+    "new_count": false,
+    "seo_limit": "Observed HTML link attributes only; no search ranking or indexing effect inferred."
+  }
+}

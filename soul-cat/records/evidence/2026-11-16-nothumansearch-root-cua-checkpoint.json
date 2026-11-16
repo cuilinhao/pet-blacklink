@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-11-16T21:55:37+08:00",
+  "evidence_type": "root_native_cua_crawl_submission_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; public indexed page not yet confirmed. No screenshot fabricated.",
+  "source_key": "success-1104-daohang-613-final.csv::nothumansearch.ai::nothumansearch.ai",
+  "platform": "nothumansearch.ai",
+  "original_csv_url": "https://nothumansearch.ai",
+  "observed_receipt_url": "https://nothumansearch.ai/#submit",
+  "submitted_website_url": "https://pettenderly.com/",
+  "observed_transition": [
+    "Single Submit",
+    "Disabled Submitting",
+    "New Submitted! We will crawl it shortly."
+  ],
+  "post_submit_url_field": "Cleared",
+  "submission_attempts": 1,
+  "crawl_queue_receipt": true,
+  "public_index_verified": false,
+  "editorial_review_receipt": false,
+  "status": "deferred",
+  "reason": "public_index_pending",
+  "counted": false,
+  "counting_rule": "Root explicitly requires an actual public indexed page/backlink for this crawl service; queue receipt alone is not the20th backlink.",
+  "resume_instruction": "Read-only check for resulting public page; no resubmission.",
+  "screenshots": []
+}

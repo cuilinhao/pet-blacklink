@@ -1,0 +1,51 @@
+{
+  "name": "Pettenderly",
+  "url": "https://pettenderly.com/",
+  "contact": "support@soulpaw.art",
+  "twitter": "https://x.com/soulpaw_art",
+  "launch_month": "2026-10",
+  "country": "China",
+  "tagline": "Turn pet photos into portraits worth keeping.",
+  "short": "Create downloadable AI pet portraits from photos of your cat or dog.",
+  "description": "Pettenderly is an AI pet portrait studio for cat and dog owners. Upload one to five clear photos of the same pet, choose a style, and create a digital portrait to download. Available looks include watercolor, royal portraits, studio scenes and sunny window-seat settings. You & your pet and Photo cleanup offer additional beta tools; generated faces, markings and details can vary. Pettenderly uses paid credits: one credit per successful image, with no credit charged for failed generations. The product delivers digital images, without physical printing or shipping.",
+  "pricing_model": "Paid",
+  "logo": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/logos/pettenderly-logo-512.png",
+  "screenshot": "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/screenshots/pettenderly-home-en.jpg",
+  "platform": "tooltrove.net",
+  "form_url": "https://tooltrove.net/submit",
+  "state": "prepared_readback_verified",
+  "plan": "Free",
+  "audience": "Cat and dog owners who want digital portraits of their pets.",
+  "problem": "Turns everyday pet photos into stylized digital portraits without requiring illustration or image-editing skills.",
+  "features": [
+    "One to five reference photos of the same cat or dog",
+    "Watercolor, royal, studio and window-seat portrait styles",
+    "Downloadable digital portraits",
+    "One credit per successful image; failed generations are not charged"
+  ],
+  "screenshots": [
+    "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/screenshots/pettenderly-studio-en.jpg",
+    "/Users/pgy/Documents/backlink-workspace/soul-cat/assets/screenshots/pettenderly-home-en.jpg"
+  ],
+  "pricing_note": "$4.99/12 credits; from $9.90/month; no free generation.",
+  "platforms": [
+    "Web"
+  ],
+  "category": "Image",
+  "verification": "Turnstile automatically showed success; no challenge interaction",
+  "media_readback": "Logo pettenderly-logo-512.png; Screenshots 2 files",
+  "status": "email_confirmation_user_reported_queue_unverified",
+  "product_submission_sent": true,
+  "final_submit_attempted": true,
+  "submission_attempts": 1,
+  "counted": false,
+  "email_confirmation_completed": null,
+  "checkpoint": "User reports email already confirmed. Native original tab still requests email confirmation; no new queue/confirmed receipt observed. Do not resend or request duplicate confirmation.",
+  "resume_instruction": "Confirm this existing single submission only; do not refill or resubmit.",
+  "evidence_artifact": "records/evidence/2026-11-16-tooltrove-root-cua-checkpoint.json",
+  "recorded_at": "2026-11-16T21:18:26+08:00",
+  "confirmation_record": "records/runs/2026-11-16-user-confirmations.json",
+  "email_confirmation_user_reported": true,
+  "email_confirmation": "user_reported",
+  "platform_queue_verified": false
+}

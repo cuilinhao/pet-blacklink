@@ -1,0 +1,570 @@
+URL: https://indiehunt.io/submit?plan=free
+
+url: https://indiehunt.io/submit?plan=free
+title: Submit Your AI Project
+viewport: 1280x757
+page_scroll: 1.6↑ 2.4↓
+---
+<body />
+  [2]<button aria-label=Open feedback form />
+    [1]<svg />
+    <span>Feedback</span>
+  <div />
+    <header />
+      <div />
+        <div />
+          [3]<a title=indiehunt href=/ />
+            <span>indiehunt</span>
+          <div />
+            <nav />
+              [4]<a title=Bids Hot href=/bid />
+                Bids
+                <span>Hot</span>
+              <div />
+                [6]<div />
+                  Discover
+                  [5]<svg />
+                <div />
+                  <ul />
+                    <li />
+                      [7]<a title=Launches href=/launches>Launches</a>
+                    <li />
+                      [8]<a title=Blog href=/blog>Blog</a>
+                    <li />
+                      [9]<a title=Posts href=/posts>Posts</a>
+                    <li />
+                      [10]<a title=Studio href=/studio>Studio</a>
+                    <li />
+                      [11]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                    <li />
+                      [12]<a title=Launch calendar href=/calender>Launch calendar</a>
+                    <li />
+                      [13]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                    <li />
+                      [14]<a title=Free tools href=/tools>Free tools</a>
+              <div />
+                [16]<div />
+                  Browse
+                  [15]<svg />
+                <div />
+                  <div />
+                    <div />
+                      [17]<a title=View all AI projects href=/projects>View all AI projects</a>
+                    <div />
+                      <div />
+                        <div>Other</div>
+                        <div />
+                          [20]<a title=APIs & Integrations href=/categories/apis-integrations />
+                            [18]<span />
+                            [19]<span>APIs & Integrations</span>
+                          [23]<a title=AR/VR href=/categories/ar-vr />
+                            [21]<span />
+                            [22]<span>AR/VR</span>
+                          [26]<a title=Artificial Intelligence href=/categories/artificial-intelligence />
+                            [24]<span />
+                            [25]<span>Artificial Intelligence</span>
+                          [29]<a title=Blockchain & Crypto href=/categories/blockchain-crypto />
+                            [27]<span />
+                            [28]<span>Blockchain & Crypto</span>
+                          [32]<a title=Business Analytics href=/categories/business-analytics />
+                            [30]<span />
+                            [31]<span>Business Analytics</span>
+                          [35]<a title=CMS & No-Code href=/categories/cms-no-code />
+                            [33]<span />
+                            [34]<span>CMS & No-Code</span>
+                          [38]<a title=Data Science & Analytics href=/categories/data-science-analytics />
+                            [36]<span />
+                            [37]<span>Data Science & Analytics</span>
+                          [41]<a title=Databases href=/categories/databases />
+                            [39]<span />
+                            [40]<span>Databases</span>
+                          [44]<a title=Design Tools href=/categories/design-tools />
+                            [42]<span />
+                            [43]<span>Design Tools</span>
+                          [47]<a title=Developer Tools href=/categories/developer-tools />
+                            [45]<span />
+                            [46]<span>Developer Tools</span>
+                          [50]<a title=DevOps & Cloud href=/categories/devops-cloud />
+                            [48]<span />
+                            [49]<span>DevOps & Cloud</span>
+                          [53]<a title=E-commerce href=/categories/ecommerce />
+                            [51]<span />
+                            [52]<span>E-commerce</span>
+                          [56]<a title=Education Tech href=/categories/education-tech />
+                            [54]<span />
+                            [55]<span>Education Tech</span>
+                          [59]<a title=Finance & FinTech href=/categories/finance-fintech />
+                            [57]<span />
+                            [58]<span>Finance & FinTech</span>
+                          [62]<a title=Gaming Tech href=/categories/gaming-tech />
+                            [60]<span />
+                            [61]<span>Gaming Tech</span>
+                          [65]<a title=Graphics & Illustration href=/categories/graphics-illustration />
+                            [63]<span />
+                            [64]<span>Graphics & Illustration</span>
+                          [68]<a title=Green Tech href=/categories/green-tech />
+                            [66]<span />
+                            [67]<span>Green Tech</span>
+                          [71]<a title=Hardware href=/categories/hardware />
+                            [69]<span />
+                            [70]<span>Hardware</span>
+                          [74]<a title=Health & Fitness href=/categories/health-and-fitness />
+                            [72]<span />
+                            [73]<span>Health & Fitness</span>
+                          [77]<a title=Health Tech href=/categories/health-tech />
+                            [75]<span />
+                            [76]<span>Health Tech</span>
+                          [80]<a title=Internet of Things (IoT) href=/categories/iot />
+                            [78]<span />
+                            [79]<span>Internet of Things (IoT)</span>
+                          [83]<a title=Legal href=/categories/legal />
+                            [81]<span />
+                            [82]<span>Legal</span>
+                          [86]<a title=Machine Learning href=/categories/machine-learning />
+                            [84]<span />
+                            [85]<span>Machine Learning</span>
+                          [89]<a title=Marketing Tools href=/categories/marketing-tools />
+                            [87]<span />
+                            [88]<span>Marketing Tools</span>
+                          [92]<a title=Mobile Development href=/categories/mobile-development />
+                            [90]<span />
+                            [91]<span>Mobile Development</span>
+                          [95]<a title=Natural Language Processing href=/categories/natural-language-processing />
+                            [93]<span />
+                            [94]<span>Natural Language Processing</span>
+                          [98]<a title=Open Source href=/categories/open-source />
+                            [96]<span />
+                            [97]<span>Open Source</span>
+                          [101]<a title=Other href=/categories/other />
+                            [99]<span />
+                            [100]<span>Other</span>
+                          [104]<a title=Platforms href=/categories/platforms />
+                            [102]<span />
+                            [103]<span>Platforms</span>
+                          [107]<a title=Productivity href=/categories/productivity />
+                            [105]<span />
+                            [106]<span>Productivity</span>
+                          [110]<a title=Prototyping href=/categories/prototyping />
+                            [108]<span />
+                            [109]<span>Prototyping</span>
+                          [113]<a title=Robotics href=/categories/robotics />
+                            [111]<span />
+                            [112]<span>Robotics</span>
+                          [116]<a title=SaaS href=/categories/saas />
+                            [114]<span />
+                            [115]<span>SaaS</span>
+                          [119]<a title=Sales Tools href=/categories/sales-tools />
+                            [117]<span />
+                            [118]<span>Sales Tools</span>
+                          [122]<a title=Security href=/categories/security />
+                            [120]<span />
+                            [121]<span>Security</span>
+                          [125]<a title=SEO href=/categories/seo />
+                            [123]<span />
+                            [124]<span>SEO</span>
+                          [128]<a title=Serverless href=/categories/serverless />
+                            [126]<span />
+                            [127]<span>Serverless</span>
+                          [131]<a title=Testing & QA href=/categories/testing-qa />
+                            [129]<span />
+                            [130]<span>Testing & QA</span>
+                          [134]<a title=UI/UX href=/categories/ui-ux />
+                            [132]<span />
+                            [133]<span>UI/UX</span>
+                          [137]<a title=Wearables href=/categories/wearables />
+                            [135]<span />
+                            [136]<span>Wearables</span>
+                          [140]<a title=Web Development href=/categories/web-development />
+                            [138]<span />
+                            [139]<span>Web Development</span>
+            [142]<button aria-label=Search title=Search (⌘K) />
+              [141]<svg />
+              <span>Search</span>
+              <kbd>⌘K</kbd>
+            [144]<a title=Launch href=/dashboard />
+              Launch
+              [143]<svg />
+            <div />
+              [145]<div tabindex=0 role=button />
+              [162]<ul tabindex=0 />
+                <li />
+                  [150]<a title=User karenayence@gmail.com href=/profile />
+                    [146]<svg />
+                    [149]<span />
+                      [147]<p>User</p>
+                      [148]<p>karenayence@gmail.com</p>
+                <li />
+                  [152]<a title=Dashboard href=/dashboard />
+                    Dashboard
+                    [151]<svg />
+                <li />
+                  [154]<a title=Launch Kit href=/dashboard/launch-kits />
+                    Launch Kit
+                    [153]<svg />
+                <li />
+                  [157]<a title=Content Marketing href=/dashboard/content-marketing />
+                    Content Marketing
+                    [155]<svg />
+                    [156]<span>Hot</span>
+                <li />
+                  [159]<a title=Premium Launcher href=/dashboard/bulk />
+                    Premium Launcher
+                    [158]<svg />
+                <li />
+                  [161]<button />
+                    Sign out
+                    [160]<svg />
+            [164]<button aria-label=Open menu aria-expanded=false />
+              [163]<svg />
+    <main />
+      <main />
+        <div />
+          <nav aria-label=Breadcrumb />
+            <ol />
+              <li />
+                [165]<a title=Home href=/>Home</a>
+              <li />
+                <svg />
+                <span>Submit</span>
+          <header />
+            <div />
+              <div />
+                <h1>Submit Your AI Project</h1>
+                <p>Launch your AI project to our community of makers, get valuable backlinks, and compete for weekly recognition.</p>
+              <div />
+                <svg />
+          <div />
+            <div />
+              <div />
+                <div />
+                  <div />
+                    <p>Step 1 of 3</p>
+                    <p>AI Project Information</p>
+                    <p>Tell us about your AI project</p>
+                  <ol />
+                    <li title=AI Project Information />
+                      <span>01</span>
+                    <li title=Launch Plan />
+                      <span>02</span>
+                    <li title=Payment />
+                      <span>03</span>
+              <div />
+                <div />
+                  <section />
+                    <div />
+                      <div>01</div>
+                      <div />
+                        <h3>Website & identity</h3>
+                        <p>Start with your live URL. Autofill can pull name, description, and logo from the site.</p>
+                    <div />
+                      <div />
+                        <div />
+                          <label for=submit-website-url />
+                            Website URL
+                            <span>*</span>
+                        <div />
+                          [166]<input id=submit-website-url placeholder=https://your-project.com type=url value=https://pettenderly.com/ />
+                          [167]<button>AI Autofill</button>
+                        <p />
+                          [168]<a href=https://sidehunt.io/tools/og-image-checker>Before you launch: check your link preview</a>
+                      <div />
+                        <div />
+                          <div />
+                            <label for=submit-name />
+                              Project name
+                              <span>*</span>
+                          [169]<input id=submit-name placeholder=e.g. Recap Raven type=text value=Pettenderly />
+                        <div />
+                          <div />
+                            <label for=submit-short-title />
+                              Short title
+                              <span>*</span>
+                            <div>45/100</div>
+                          [170]<input id=submit-short-title placeholder=A catchy one-line title maxlength=100 type=text value=Turn pet photos into portraits worth keeping. />
+                          <p>One line that appears on the homepage listing.</p>
+                      <div />
+                        <div />
+                          <div />
+                            <label for=submit-maker-name />
+                              Maker name
+                              <span>*</span>
+                          [171]<input id=submit-maker-name placeholder=Founder or company name maxlength=100 type=text value=Sadık Yenıce />
+                          <p>Shown as the founder on the project page, launch post, and socials.</p>
+                        <div />
+                          <div />
+                            <label for=submit-twitter />
+                              Twitter / X
+                              <span>(optional)</span>
+                          <div />
+                            <span>@</span>
+                            [172]<input id=submit-twitter placeholder=username type=text />
+                  <section />
+                    <div />
+                      <div>02</div>
+                      <div />
+                        <h3>Story & categories</h3>
+                        <p>This is what voters and search engines read. Aim for a clear product page, not a slogan.</p>
+                    <div />
+                      <div />
+                        <div />
+                          <label />
+                            Project description
+                            <span>*</span>
+                        <div />
+                          <div />
+                            <div />
+                              [174]<button title=Heading 2 />
+                                [173]<svg />
+                                <span>H2</span>
+                              [176]<button title=Heading 3 />
+                                [175]<svg />
+                                <span>H3</span>
+                              [178]<button title=Heading 4 />
+                                [177]<svg />
+                                <span>H4</span>
+                              [180]<button title=Bold />
+                                [179]<svg />
+                                <span>B</span>
+                              [182]<button title=Italic />
+                                [181]<svg />
+                                <span>I</span>
+                              [184]<button title=Bullet List />
+                                [183]<svg />
+                                <span>•</span>
+                              [186]<button title=Numbered List />
+                                [185]<svg />
+                                <span>1.</span>
+                              [188]<button title=Quote />
+                                [187]<svg />
+                                <span>"</span>
+                              [190]<button title=Insert image />
+                                [189]<svg />
+                                <span>Image</span>
+                              [191]<input accept=image/jpeg,image/jpg,image/png,image/webp,image/gif,image/svg+xml type=file />
+                            <div />
+                              <div />
+                                [193]<div contenteditable=true role=textbox tabindex=0 />
+                                  [192]<p>Pettenderly turns everyday pet photos into downloadable AI portraits. Start with one to five clear photos of the same pe…</p>
+                        <p>✓ 217 words (minimum met — 183 more recommended)</p>
+                      <div />
+                        <div />
+                          <span />
+                            Categories
+                            <span>*</span>
+                          <span>Up to 3</span>
+                        <div />
+                          <span />
+                            Artificial Intelligence
+                            [195]<button aria-label=Remove Artificial Intelligence />
+                              [194]<svg />
+                          <span />
+                            Design Tools
+                            [197]<button aria-label=Remove Design Tools />
+                              [196]<svg />
+                        <div />
+                          [199]<button />
+                            <span>2/3 selected</span>
+                            [198]<svg />
+                      <div />
+                        <div />
+                          <label>Pricing model</label>
+                        <div />
+                          [200]<label>Free</label>
+                          [201]<label>Freemium</label>
+                          [202]<label>Paid</label>
+                      <div />
+                        <div />
+                          <div />
+                            <label for=submit-referral-source />
+                              How did you hear about us?
+                              <span>(optional)</span>
+                          [213]<select id=submit-referral-source name=referral_source value=Select one options=[Select one|Google search|X|Reddit|Product Hunt|Indie Hackers|…4 more] />
+                            [203]<option>Select one</option>
+                            [204]<option value=google_search>Google search</option>
+                            [205]<option value=x>X</option>
+                            [206]<option value=reddit>Reddit</option>
+                            [207]<option value=product_hunt>Product Hunt</option>
+                            [208]<option value=indie_hackers>Indie Hackers</option>
+                            [209]<option value=linkedin>LinkedIn</option>
+                            [210]<option value=friend>A friend or colleague</option>
+                            [211]<option value=ai_assistant>AI assistant (ChatGPT, Claude, Perplexity)</option>
+                            [212]<option value=other>Other</option>
+                          <p>Optional. Skip it whenever you want.</p>
+                  <section />
+                    <div />
+                      <div>03</div>
+                      <div />
+                        <h3>Logo & preview</h3>
+                        <p>Square logo for listings. Optional banner for the project page.</p>
+                    <div />
+                      <div />
+                        <div />
+                          <span />
+                            Logo
+                            <span>*</span>
+                          <span>Max 1 MB</span>
+                        <div />
+                          <div />
+                            [215]<button title=Remove image />
+                              [214]<svg />
+                          [224]<div />
+                            [223]<div />
+                              [216]<input accept=image/jpeg,image/jpg,image/png,image/webp type=file files=pettenderly-logo-512.png />
+                              [222]<div />
+                                [217]<svg />
+                                [220]<div />
+                                  [218]<p>Replace image</p>
+                                  [219]<p>PNG, JPG, WebP · max 1MB · square recommended</p>
+                                [221]<button>Browse</button>
+                      <div />
+                        <div />
+                          <span />
+                            Preview image
+                            <span>(optional)</span>
+                          <span>Max 2 MB</span>
+                        <div />
+                          [233]<div />
+                            [232]<div />
+                              [225]<input accept=image/jpeg,image/jpg,image/png,image/webp type=file />
+                              [231]<div />
+                                [226]<svg />
+                                [229]<div />
+                                  [227]<p>Drag & drop or browse</p>
+                                  [228]<p>PNG, JPG, WebP · max 2MB · wide image recommended</p>
+                                [230]<button>Browse</button>
+                <div />
+                  <div />
+                    <span>Step 1 of 3</span>
+                    [235]<button />
+                      Next
+                      [234]<svg />
+    <div />
+      <p />
+        [236]<a href=/submit.md title=AI-friendly Markdown>AI-friendly Markdown</a>
+        <span>· structured for AI citations</span>
+    <footer />
+      <div />
+        <div />
+          <div />
+            [237]<a title=indiehunt href=/ />
+              <span>indiehunt</span>
+            <p>Weekly AI launches for indie makers. Compete for a week, get discovered, and earn dofollow backlinks.</p>
+          <div />
+            [239]<a title=Launch your project href=/submit />
+              Launch your project
+              [238]<svg />
+            [240]<a title=See pricing href=/pricing>See pricing</a>
+      <div />
+        <div />
+          <div />
+            <div />
+              <h3>Launch</h3>
+              <ul />
+                <li />
+                  [241]<a title=Submit a project href=/submit>Submit a project</a>
+                <li />
+                  [242]<a title=Pricing href=/pricing>Pricing</a>
+                <li />
+                  [243]<a title=Get Editorial Backlinks href=/get-editorial-backlinks>Get Editorial Backlinks</a>
+                <li />
+                  [244]<a title=Launch calendar href=/calender>Launch calendar</a>
+                <li />
+                  [245]<a title=Launch Kit href=/launch-kit>Launch Kit</a>
+                <li />
+                  [246]<a title=Premium Launcher href=/premium-launcher>Premium Launcher</a>
+                <li />
+                  [247]<a title=IndieHunt Bids href=/bid>IndieHunt Bids</a>
+            <div />
+              <h3>Discover</h3>
+              <ul />
+                <li />
+                  [248]<a title=Browse projects href=/projects>Browse projects</a>
+                <li />
+                  [249]<a title=Hall of Fame href=/hall-of-fame>Hall of Fame</a>
+                <li />
+                  [250]<a title=Launch stories href=/launches>Launch stories</a>
+                <li />
+                  [251]<a title=Blog href=/blog>Blog</a>
+                <li />
+                  [252]<a title=Content Marketing href=/content-marketing>Content Marketing</a>
+                <li />
+                  [253]<a title=Ultimate Distribution href=/content-marketing/ultimate-distribution-package>Ultimate Distribution</a>
+                <li />
+                  [254]<a title=Guest Posts href=/content-marketing/guest-posts>Guest Posts</a>
+                <li />
+                  [255]<a title=Posts href=/posts>Posts</a>
+                <li />
+                  [256]<a title=Studio href=/studio>Studio</a>
+                <li />
+                  [257]<a title=Free tools href=/tools>Free tools</a>
+            <div />
+              <h3>Guides</h3>
+              <ul />
+                <li />
+                  [258]<a title=Launch guide href=/launch-guide>Launch guide</a>
+                <li />
+                  [259]<a title=Alternatives href=/alternatives>Alternatives</a>
+                <li />
+                  [260]<a title=100+ launch places href=/100-places-to-launch-your-startup>100+ launch places</a>
+                <li />
+                  [261]<a title=FAQ href=/faq>FAQ</a>
+                <li />
+                  [262]<a title=Help center href=/help>Help center</a>
+                <li />
+                  [263]<a title=Changelog href=/changelog>Changelog</a>
+            <div />
+              <h3>Company</h3>
+              <ul />
+                <li />
+                  [264]<a title=About href=/about>About</a>
+                <li />
+                  [265]<a title=Advertising href=/advertising>Advertising</a>
+                <li />
+                  [266]<a title=Posting Dude href=/distribution/posting-dude>Posting Dude</a>
+                <li />
+                  [267]<a title=Developers href=/developers>Developers</a>
+                <li />
+                  [268]<a title=Contact href=/contact>Contact</a>
+            <div />
+              <h3>Network</h3>
+              <ul />
+                <li />
+                  [269]<a href=https://bestlaunchplatforms.com/ title=Best Launch Platforms>Best Launch Platforms</a>
+                <li />
+                  [270]<a href=https://producthunt-alternatives.com/ title=Product Hunt Alternatives>Product Hunt Alternatives</a>
+      <div />
+        <div />
+          <div />
+            <div />
+              <p>Follow</p>
+              <div />
+                [272]<a href=https://x.com/praneetbrar?utm_source=indiehunt&utm_medium=referral&utm_campaign=footer-social&ref=indiehunt title=X aria-label=X />
+                  [271]<svg />
+                [274]<a href=https://www.linkedin.com/showcase/indiehunt-io?utm_source=indiehunt&utm_medium=referral&utm_campaign… title=LinkedIn aria-label=LinkedIn />
+                  [273]<svg />
+                [276]<a href=https://in.pinterest.com/praneetbrar/indiehunt/?utm_source=indiehunt&utm_medium=referral&utm_campaig… title=Pinterest aria-label=Pinterest />
+                  [275]<svg />
+                [278]<a href=https://github.com/Praneetbrar/indiehunt?utm_source=indiehunt&utm_medium=referral&utm_campaign=foote… title=GitHub aria-label=GitHub />
+                  [277]<svg />
+            <div />
+              [280]<button aria-label=Make IndieHunt preferred on Google title=Add IndieHunt as a preferred source in Google Search />
+                Make us preferred on Google
+                [279]<svg />
+      <div />
+        <div />
+          <div />
+            <p>© 2026 IndieHunt. All rights reserved.</p>
+            <nav aria-label=Legal and policies />
+              [281]<a title=Terms href=/terms>Terms</a>
+              [282]<a title=Privacy href=/privacy>Privacy</a>
+              [283]<a title=Cookies href=/cookies>Cookies</a>
+              [284]<a title=LLMs.txt href=/llms.txt>LLMs.txt</a>
+              [285]<a title=OpenAPI href=/openapi.json>OpenAPI</a>
+---
+compounds (4):
+  [191] {"control":"file","multiple":false,"current":[],"accept":"image/jpeg,image/jpg,image/png,image/webp,image/gif,image/svg+xml"}
+  [213] {"control":"select","multiple":false,"current":"Select one","options":[{"label":"Select one","value":"","selected":true},{"label":"Google search","value":"google_search","selected":false},{"label":"X","value":"x","selected":false},{"label":"Reddit","value":"reddit","selected":false},{"label":"Product Hunt","value":"product_hunt","selected":false},{"label":"Indie Hackers","value":"indie_hackers","selected":false},{"label":"LinkedIn","value":"linkedin","selected":false},{"label":"A friend or colleague","value":"friend","selected":false},{"label":"AI assistant (ChatGPT, Claude, Perplexity)","value":"ai_assistant","selected":false},{"label":"Other","value":"other","selected":false}],"options_total":10}
+  [216] {"control":"file","multiple":false,"current":["pettenderly-logo-512.png"],"accept":"image/jpeg,image/jpg,image/png,image/webp"}
+  [225] {"control":"file","multiple":false,"current":[],"accept":"image/jpeg,image/jpg,image/png,image/webp"}
+---
+interactive: 285 | iframes: 0

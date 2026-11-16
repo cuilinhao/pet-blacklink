@@ -1,0 +1,11 @@
+{
+  "filled": true,
+  "verified": true,
+  "target": "166",
+  "text": "https://pettenderly.com/",
+  "actual": "https://pettenderly.com/",
+  "length": 24,
+  "matches_n": 1,
+  "match_level": "exact",
+  "mode": "input"
+}

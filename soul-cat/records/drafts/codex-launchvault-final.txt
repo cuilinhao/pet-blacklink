@@ -1,0 +1,374 @@
+Window: "Launch Vault - Discover the Best Tech Products", App: Google Chrome.
+0 标准窗口 Launch Vault - Discover the Best Tech Products - Google Chrome - Sadık (guillpern@gmail.com), URL: launchvault.dev/projects/submit, Secondary Actions: Raise
+	1 container Launch Vault - Discover the Best Tech Products - Google Chrome - Sadık (guillpern@gmail.com), URL: launchvault.dev/projects/submit
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: launchvault.dev/projects/submit, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 为此标签页添加书签
+				12 container
+					13 弹出式按钮 OpenCLI
+可以访问此网站
+					14 弹出式按钮 扩展程序
+				15 按钮 Sadık (guillpern@gmail.com)
+				16 弹出式按钮 Chrome
+			17 container
+				18 滚动区
+					19 HTML 内容 Launch Vault - Discover the Best Tech Products, URL: launchvault.dev/projects/submit
+						20 container
+							21 link logo Launch Vault, Help: Launch Vault, Value: launchvault.dev/
+							22 container Main
+								23 内容列表
+									24 link Submit Project, Value: launchvault.dev/projects/submit
+									25 link Pricing, Value: launchvault.dev/pricing
+									26 link Browse Projects, Value: launchvault.dev/categories
+									27 link Alternative To, Value: launchvault.dev/alternative-to
+									28 link Teardowns, Value: launchvault.dev/teardown
+							29 按钮 Search... ⌘ K
+							30 按钮 Toggle theme
+							31 弹出式按钮 Sadık Yenıce
+								32 图像 Sadık Yenıce
+						33 container
+							34 标题 Submit a Project, Value: 1
+								35 文本 Submit a Project
+							36 text Share your project with the community. Fill in the details below. 1 Project Details 2 Launch & Submit
+							37 container
+								38 图像
+								39 text Start here — paste your product URL *
+							40 文本 Paste your product URL and let AI fill in the rest — then review & edit.
+							41 网址 (settable) Start here — paste your product URL *, Value: https://pettenderly.com/, Placeholder: https://myawesomeproject.com
+							42 按钮 Auto-fill with AI
+							43 文本 BASICS
+							44 container
+								45 text Project Name  *
+							46 文本栏 (settable) Project Name *, Value: Pettenderly, Placeholder: My Awesome Project
+							47 container
+								48 text Tagline  *
+							49 文本栏 (settable) Tagline *, Value: Turn pet photos into portraits worth keeping., Placeholder: One-line pitch (e.g. The AI copilot for shipping faster)
+							50 container
+								51 text Short Description  *
+							52 container
+								53 按钮
+								54 按钮
+								55 按钮
+								56 按钮
+								57 按钮
+								58 按钮
+								59 按钮
+								60 文本输入区 (settable) Pettenderly is an online AI pet portrait studio that turns everyday photos into downloadable digital keepsakes. It is designed for pet owners who want to create portraits of their cats or dogs from their own reference pictures. The product focuses on personal pet imagery, with additional beta tools for shared portraits and photo cleanup.
+To create a standard portrait, start with one to five clear photos of the same pet. Choose pictures that show its eyes, coat markings and natural appearance. The studio accepts JPG, PNG and WebP files, with a maximum size of 8 MB per image. After uploading the references, choose a visual style and generate a portrait. You can view and download the result in the studio, or return to My creations to revisit your images.
+Available looks include watercolor, royal costumes, studio portraits and sunny window seat scenes. These styles offer different ways to turn familiar pet photos into artwork, from a painted appearance to a more composed portrait setting. The reference photos guide the result, but generated details can vary.
+The You & your pet beta offers a way to create a portrait together without requiring a shared source photograph. Upload a separate person photo alongside pet reference photos, then create a combined image. Face accuracy is still improving, and the generated faces, markings and fine details should be reviewed carefully.
+Photo cleanup is another generative beta tool. Describe a change to a pet photo, such as removing a cable, a trash can or distracting background clutter. This feature uses a written request to guide an edit. Because the process is generative, details can change beyond the intended adjustment.
+Pettenderly uses paid credits. The Starter Pack costs $4.99 and includes 12 credits that do not expire. Pro Monthly costs $9.90 per month and provides 40 monthly credits. Pro Annual costs $79 per year, with 40 credits issued each month across twelve monthly periods. Unused subscription credits do not roll over. Each successful image uses one credit; failed generations do not use credits.
+A Starter Pack can be purchased as a guest, with an email access link for returning to credits and creations. Pro subscriptions require an account. Available credits are required for generation, and the service does not offer a free generation plan.
+The finished product is a digital image to download and keep. Physical printing and shipping are not included. Pettenderly does not guarantee an exact likeness, fixed generation speed or fixed output resolution. Review each result before choosing the portrait you want to save.
+
+									61 文本 Pettenderly is an online AI pet portrait studio that turns everyday photos into downloadable digital keepsakes. It is designed for pet owners who want to create portraits of their cats or dogs from their own reference pictures. The product focuses on personal pet imagery, with additional beta tools for shared portraits and photo cleanup.
+									62 文本 To create a standard portrait, start with one to five clear photos of the same pet. Choose pictures that show its eyes, coat markings and natural appearance. The studio accepts JPG, PNG and WebP files, with a maximum size of 8 MB per image. After uploading the references, choose a visual style and generate a portrait. You can view and download the result in the studio, or return to My creations to revisit your images.
+									63 文本 Available looks include watercolor, royal costumes, studio portraits and sunny window seat scenes. These styles offer different ways to turn familiar pet photos into artwork, from a painted appearance to a more composed portrait setting. The reference photos guide the result, but generated details can vary.
+									64 文本 The You & your pet beta offers a way to create a portrait together without requiring a shared source photograph. Upload a separate person photo alongside pet reference photos, then create a combined image. Face accuracy is still improving, and the generated faces, markings and fine details should be reviewed carefully.
+									65 文本 Photo cleanup is another generative beta tool. Describe a change to a pet photo, such as removing a cable, a trash can or distracting background clutter. This feature uses a written request to guide an edit. Because the process is generative, details can change beyond the intended adjustment.
+									66 文本 Pettenderly uses paid credits. The Starter Pack costs $4.99 and includes 12 credits that do not expire. Pro Monthly costs $9.90 per month and provides 40 monthly credits. Pro Annual costs $79 per year, with 40 credits issued each month across twelve monthly periods. Unused subscription credits do not roll over. Each successful image uses one credit; failed generations do not use credits.
+									67 文本 A Starter Pack can be purchased as a guest, with an email access link for returning to credits and creations. Pro subscriptions require an account. Available credits are required for generation, and the service does not offer a free generation plan.
+									68 文本 The finished product is a digital image to download and keep. Physical printing and shipping are not included. Pettenderly does not guarantee an exact likeness, fixed generation speed or fixed output resolution. Review each result before choosing the portrait you want to save.
+							69 container
+								70 text Key features (optional · up to 5 · shown as bullets on your page)
+							71 文本栏 (settable) Key features(optional · up to 5 · shown as bullets on your page), Placeholder: Type a key feature and press Enter...
+							72 文本 3–5 short highlights (e.g. "No signup", "Works offline") — AI can pre-fill these. Press Enter or comma to add.
+							73 container
+								74 text Use cases (optional · up to 5 · shown as a checklist on your page)
+							75 文本栏 (settable) Use cases(optional · up to 5 · shown as a checklist on your page), Placeholder: Type a use case and press Enter...
+							76 文本 Concrete scenarios people use it for. Press Enter or comma to add.
+							77 container
+								78 text Best for (optional · up to 5 · shown as tags on your page)
+							79 文本栏 (settable) Best for(optional · up to 5 · shown as tags on your page), Placeholder: Who is it for? Press Enter...
+							80 文本 Audiences/personas (e.g. "Solo founders"). Press Enter or comma to add.
+							81 container
+								82 text FAQ  * (at least 3 · shown on your page + powers FAQ rich results)
+							83 文本栏 (settable) Value: Is Pettenderly free?, Placeholder: Question 1 (e.g. "Is it free?")
+							84 按钮 Remove
+							85 文本输入区 (settable) Placeholder: Answer — grounded in real facts about your product, Value: Pettenderly is a paid product. A Starter Pack costs $4.99 for 12 permanent credits. Pro costs $9.90 per month or $79 per year, with 40 credits each month. One successful generation uses one credit; failed generations do not use credits.
+							86 文本栏 (settable) Value: What photos can I upload?, Placeholder: Question 2 (e.g. "Is it free?")
+							87 按钮 Remove
+							88 文本输入区 (settable) Placeholder: Answer — grounded in real facts about your product, Value: Use one to five clear photos of the same cat or dog. The studio accepts JPG, PNG and WebP files up to 8 MB per image. Clear views of the eyes, coat markings and natural appearance make useful reference photos.
+							89 文本栏 (settable) Value: What will I receive?, Placeholder: Question 3 (e.g. "Is it free?")
+							90 按钮 Remove
+							91 文本输入区 (settable) Placeholder: Answer — grounded in real facts about your product, Value: Pettenderly creates digital pet portraits that you can view and download in the studio or My creations. Styles include watercolor, royal, studio and window-seat portraits. It does not provide physical printing or shipping. Generated faces, markings and fine details may vary and should be reviewed.
+							92 按钮 + Add FAQ
+							93 text 3  / 3 minimum
+							94 文本 Click AI auto-fill to generate these from your site. If you leave fewer than 3, we'll generate them for you on submit.
+							95 文本 CLASSIFICATION
+							96 container
+								97 text Categories  * ( 2 /3)
+							98 container
+								99 按钮 3D & Motion Design
+								100 按钮 APIs & Integrations
+								101 按钮 AR/VR
+								102 按钮 Artificial Intelligence
+								103 按钮 Blockchain & Crypto
+								104 按钮 Business Analytics
+								105 按钮 CMS & No-Code
+								106 按钮 Data Science & Analytics
+								107 按钮 Databases
+								108 按钮 Design Tools
+								109 按钮 Developer Tools
+								110 按钮 DevOps & Cloud
+								111 按钮 E-commerce
+								112 按钮 Education Tech
+								113 按钮 Finance & FinTech
+								114 按钮 Gaming Tech
+								115 按钮 Graphics & Illustration
+								116 按钮 Green Tech
+								117 按钮 Hardware
+								118 按钮 Health Tech
+								119 按钮 Internet of Things (IoT)
+								120 按钮 Machine Learning
+								121 按钮 Marketing Tools
+								122 按钮 Mobile Development
+								123 按钮 Music & Audio
+								124 按钮 Natural Language Processing
+								125 按钮 Open Source
+								126 按钮 Platforms
+								127 按钮 Productivity
+								128 按钮 Project Management
+								129 按钮 Prototyping
+								130 按钮 Robotics
+								131 按钮 SaaS
+								132 按钮 Sales Tools
+								133 按钮 Security
+								134 按钮 SEO & Analytics
+								135 按钮 Serverless
+								136 按钮 Testing & QA
+								137 按钮 UI/UX
+								138 按钮 Video & Audio Tools
+								139 按钮 Wearables
+								140 按钮 Web Development
+								141 按钮 Writing & Editing
+							142 文本 Click to select up to 3.
+							143 container
+								144 text Platforms  *
+							145 按钮 Web
+							146 按钮 Mobile
+							147 按钮 Desktop
+							148 按钮 Api
+							149 按钮 Other
+							150 container
+								151 text Pricing Model  *
+							152 container
+								153 单选按钮 Free, Value: 0
+								154 文本 Free
+							155 container
+								156 单选按钮 Freemium, Value: 0
+								157 文本 Freemium
+							158 container
+								159 单选按钮 Paid, Value: 1
+									160 图像
+								161 文本 Paid
+							162 文本 Alternative to (Optional)
+							163 弹出式按钮 Search products (e.g. Notion, Airtable)…
+							164 container
+								165 text Mark the main product yours is an alternative to. This helps users find you when searching for alternatives and boosts your SEO visibility . Pick a genuine match from the list — unrelated tags are removed during review .
+							166 container
+								167 text SPECIAL DEAL  (optional)
+							168 container
+								169 text Add a real discount users can redeem. Leave blank if there is no current offer — fill in both fields for the deal to show on your project page .
+							170 文本 Discount code
+							171 文本栏 (settable) Discount code, Placeholder: e.g. SAVE20
+							172 文本 Discount amount
+							173 文本栏 (settable) Discount amount, Placeholder: e.g. 20% off, $10 off
+							174 container
+								175 text LINKS  (optional)
+							176 文本 GitHub URL
+							177 网址 (settable) GitHub URL, Placeholder: https://github.com/user/repo
+							178 文本 Twitter URL
+							179 网址 (settable) Twitter URL, Value: https://x.com/soulpaw_art, Placeholder: https://twitter.com/username
+							180 container
+								181 text YOUR LAUNCHVAULT CARD Live preview
+								182 按钮 选择文件: 未选择任何文件
+								183 图像
+								184 文本 Upload cover (16:9)
+								185 图像 Logo preview
+								186 按钮 Remove logo
+								187 text Pettenderly Turn pet photos into portraits worth keeping. ▲ 0 Artificial Intelligence Design Tools paid
+								188 按钮 选择文件: pettenderly-logo-512.png
+								189 图像
+								190 文本 Replace logo
+								191 按钮 选择文件: 未选择任何文件
+								192 图像
+								193 text Upload cover This is your live listing card. Logo required · 1:1 ≤1MB ·
+								194 link compress, Value: bgremovepro.com/tools/image-compressor?utm_source=launchvault&utm_medium=referral
+								195 text · cover 16:9 optional LISTING READINESS 80 %
+								196 内容列表
+									197 container
+										198 图像
+										199 text Description  421 words  — long enough to get indexed
+									200 container
+										201 图像
+										202 text Tagline set  — used as your search title
+									203 container
+										204 图像
+										205 text 2  categories  — joins the alternative-to link graph
+									206 container
+										207 图像
+										208 text Logo  — richer card + social share
+									209 container
+										210 text Cover image  — boosts homepage + OG preview
+									211 container
+										212 text Launch week  — step 2
+								213 link Value: launchvault.dev/blog/how-upvotes-get-more-similar-tools-exposure, More votes can mean more exposure High-vote products can compete for reserved Similar tools slots on related product pages. Placement is competitive, not guaranteed. See how it works
+							214 按钮 (disabled) Previous
+							215 按钮 Next
+						216 container
+							217 container Editor's picks
+								218 文本 Editor’s picks
+								219 link REA (Reverse Engineer Anything), Value: launchvault.dev/projects/rea-reverse-engineer-anything
+								220 link PhotoCraft, Value: launchvault.dev/projects/photocraft
+								221 link ArtCraft Crafting Apps, Value: launchvault.dev/projects/artcraft
+								222 link Universal Modder, Value: launchvault.dev/projects/universal-modder
+								223 link Vane, Value: launchvault.dev/projects/vane
+							224 标题 ALL CATEGORIES, Value: 3
+								225 文本 ALL CATEGORIES
+							226 link 3D & Motion Design, Value: launchvault.dev/categories/3d-motion-design
+							227 link APIs & Integrations, Value: launchvault.dev/categories/api
+							228 link AR/VR, Value: launchvault.dev/categories/ar-vr
+							229 link Artificial Intelligence, Value: launchvault.dev/categories/ai
+							230 link Blockchain & Crypto, Value: launchvault.dev/categories/blockchain
+							231 link Business Analytics, Value: launchvault.dev/categories/analytics
+							232 link CMS & No-Code, Value: launchvault.dev/categories/cms
+							233 link Data Science & Analytics, Value: launchvault.dev/categories/data-science
+							234 link Databases, Value: launchvault.dev/categories/databases
+							235 link Design Tools, Value: launchvault.dev/categories/design-tools
+							236 link Developer Tools, Value: launchvault.dev/categories/developer-tools
+							237 link DevOps & Cloud, Value: launchvault.dev/categories/devops
+							238 link E-commerce, Value: launchvault.dev/categories/ecommerce
+							239 link Education Tech, Value: launchvault.dev/categories/edtech
+							240 link Finance & FinTech, Value: launchvault.dev/categories/finance-tech
+							241 link Gaming Tech, Value: launchvault.dev/categories/gaming
+							242 link Graphics & Illustration, Value: launchvault.dev/categories/graphics
+							243 link Green Tech, Value: launchvault.dev/categories/greentech
+							244 link Hardware, Value: launchvault.dev/categories/hardware
+							245 link Health Tech, Value: launchvault.dev/categories/healthtech
+							246 link Internet of Things (IoT), Value: launchvault.dev/categories/iot
+							247 link Machine Learning, Value: launchvault.dev/categories/machine-learning
+							248 link Marketing Tools, Value: launchvault.dev/categories/marketing-tools
+							249 link Mobile Development, Value: launchvault.dev/categories/mobile-dev
+							250 link Music & Audio, Value: launchvault.dev/categories/music-audio
+							251 link Natural Language Processing, Value: launchvault.dev/categories/nlp
+							252 link Open Source, Value: launchvault.dev/categories/open-source
+							253 link Platforms, Value: launchvault.dev/categories/platform
+							254 link Productivity, Value: launchvault.dev/categories/productivity
+							255 link Project Management, Value: launchvault.dev/categories/project-management
+							256 link Prototyping, Value: launchvault.dev/categories/prototyping
+							257 link Robotics, Value: launchvault.dev/categories/robotics
+							258 link SaaS, Value: launchvault.dev/categories/saas
+							259 link Sales Tools, Value: launchvault.dev/categories/sales-tools
+							260 link Security, Value: launchvault.dev/categories/security
+							261 link SEO & Analytics, Value: launchvault.dev/categories/seo-analytics
+							262 link Serverless, Value: launchvault.dev/categories/serverless
+							263 link Testing & QA, Value: launchvault.dev/categories/testing-qa
+							264 link UI/UX, Value: launchvault.dev/categories/ui-ux
+							265 link Video & Audio Tools, Value: launchvault.dev/categories/video-audio-tools
+							266 link Wearables, Value: launchvault.dev/categories/wearables
+							267 link Web Development, Value: launchvault.dev/categories/web-dev
+							268 link Writing & Editing, Value: launchvault.dev/categories/writing-editing
+							269 container RECOMMENDED PRODUCTS
+								270 标题 RECOMMENDED PRODUCTS, Value: 3
+									271 文本 RECOMMENDED PRODUCTS
+								272 内容列表
+									273 link vectorize-image, Value: vectorize-image.app/
+									274 link BG Remove Pro, Value: bgremovepro.com/
+									275 link FluxKontext.Biz, Value: fluxkontext.biz/
+									276 link JFIF to PNG, Value: justconverter.com/jfif-to-png
+							277 link logo Launch Vault, Help: Launch Vault, Value: launchvault.dev/
+							278 text ©  2026  Launch Vault. All rights reserved. Analytics: Umami · Traffic estimate: SimilarWeb
+							279 link support@launchvault.dev, Help: Send us an email, Value: mailto:support@launchvault.dev?subject=Launch%20Vault%20Support%20Request&body=Hello%20Launch%20Vault%20Team%2C%0D%0A%0D%0AI%20need%20help%20with%3A%0D%0A%0D%0A
+							280 link Follow us on Twitter, Value: twitter.com/launchvaultdev
+							281 link Powered by Open-Launch, Value: open-launch.com/
+							282 标题 DISCOVER, Value: 3
+								283 文本 DISCOVER
+							284 内容列表
+								285 link Trending, Value: launchvault.dev/trending
+								286 link Categories, Value: launchvault.dev/categories
+								287 link Submit Project, Value: launchvault.dev/projects/submit
+								288 link Popular Collections, Value: launchvault.dev/popular-collections
+								289 link Agentic AI News, Value: launchvault.dev/agentic-ai-news
+							290 标题 RESOURCES, Value: 3
+								291 文本 RESOURCES
+							292 内容列表
+								293 link Pricing, Value: launchvault.dev/pricing
+								294 link Sponsors, Value: launchvault.dev/sponsors
+								295 link Blog, Value: launchvault.dev/blog
+								296 link Indie Tools, Value: launchvault.dev/indie-tools
+								297 link Links, Value: launchvault.dev/startupdirs
+							298 标题 LEGAL, Value: 3
+								299 文本 LEGAL
+							300 内容列表
+								301 link Terms of Service, Value: launchvault.dev/legal/terms
+								302 link Privacy Policy, Value: launchvault.dev/legal/privacy
+							303 标题 FREE TOOLS, Value: 3
+								304 文本 FREE TOOLS
+							305 内容列表
+								306 link Traffic Checker, Value: launchvault.dev/website-traffic-checker
+								307 link Domain Rank Checker, Value: launchvault.dev/domain-rank-checker
+								308 link AI Traffic Checker, Value: launchvault.dev/ai-traffic-checker
+								309 link Open Graph Checker, Value: launchvault.dev/open-graph-checker
+								310 link PayPal Fee Calculator, Value: launchvault.dev/paypal-fee-calculator
+								311 link Stripe Fee Calculator, Value: launchvault.dev/stripe-fee-calculator
+								312 link Customer Acquisition Cost (CAC) Calculator, Value: launchvault.dev/cac-calculator
+								313 link More tools →, Help: All free tools, Value: launchvault.dev/free-tools
+							314 文本 FEATURED ON
+							315 link Launch Vault - Featured on Startup Fame, Value: startupfa.me/s/launch-vault?utm_source=www.launchvault.dev
+							316 link Firsto Top 1 Daily Winner, Value: firsto.co/projects/launch-vault
+							317 link Listed on Turbo0, Value: turbo0.com/item/launch-vault
+							318 link Featured on MagicBox.tools, Value: magicbox.tools/ai/launchvault-dev
+							319 link Featured on findly.tools, Value: findly.tools/launch-vault?utm_source=launch-vault
+							320 link Featured on toolfame.com, Value: toolfame.com/item/launch-vault
+							321 link Featured on saasfame.com, Value: saasfame.com/item/launch-vault
+							322 link Fazier badge, Value: fazier.com/launches/www.launchvault.dev
+							323 link Featured on TheSaaSDir, Value: thesaasdir.com/product/launch-vault?ref=badge
+							324 文本 FRIEND LINKS
+							325 link SoPilot, Value: sopilot.net/
+							326 link Z-Image.win, Help: Z-Image.win - Fast & Free Online AI Image Generator, Value: z-image.win/?utm_source=launchvault&utm_medium=referral&utm_campaign=footer
+							327 link Indie.Deals, Value: indie.deals/?ref=https%3A%2F%2Fwww.launchvault.dev
+						328 container Notifications alt+T
+			329 弹出式按钮 标签页搜索
+			330 container
+				331 标签页组
+					332 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+					333 标签 (settable, boolean) Submit New SEO Tool — findSEOtools.com - 内存用量 - 268 MB, Value: off
+					334 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+					335 标签 (settable, boolean) Thanks! - 内存用量 - 64.7 MB, Value: off
+					336 标签 (settable, boolean) Launches | NxGn Tools | NxGn Tools - 内存用量 - 123 MB, Value: off
+					337 标签 (settable, boolean) Submissions | Resource.fyi - 内存用量 - 178 MB, Value: off
+					338 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+					339 标签 (settable, boolean) Submit your side project | Sidehunt - 内存用量 - 188 MB, Value: off
+					340 标签 (selected, settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 241 MB, Value: on
+						341 按钮 关闭
+					342 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 136 MB, Value: off
+					343 标签 (settable, boolean) TopFreeAITools - 内存用量 - 148 MB, Value: off
+					344 标签 (settable, boolean) Submit AI tool - 内存用量 - 479 MB, Value: off
+					345 标签 (settable, boolean) ✦ Find Ai tools for everything | Ai Prompts & Plugins | Victrays - 内存用量 - 487 MB, Value: off
+					346 标签 (settable, boolean) AI Pet Portrait Generator | Pettenderly - 内存用量 - 515 MB, Value: off
+			347 按钮 新标签页
+	348 关闭按钮
+	349 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	350 最小化按钮
+351 menu bar
+	352 Chrome
+	353 文件
+	354 编辑
+	355 显示
+	356 历史记录
+	357 书签
+	358 个人资料
+	359 标签页
+	360 窗口
+	361 帮助
+
+The focused UI element is 188 按钮 选择文件: pettenderly-logo-512.png

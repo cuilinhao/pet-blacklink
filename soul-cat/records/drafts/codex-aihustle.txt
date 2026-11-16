@@ -1,0 +1,19 @@
+											66 标题 AI tool name, Value: 3
+												67 文本 AI tool name
+											68 文本栏 (settable) AI tool name, Value: Pettenderly
+											69 标题 Email address, Value: 3
+												70 文本 Email address
+											71 邮箱 (settable) Email address, Value: support@soulpaw.art
+											72 标题 Website, Value: 3
+											74 网址 (settable) Website, Value: https://pettenderly.com/
+											75 标题 Backlink URL, Value: 3
+												76 文本 Backlink URL
+											77 网址 (settable) Backlink URL, Value: https://pettenderly.com/
+											78 标题 Value: 3, I understand that I need to add a link to https://aihustle.tools on my website's homepage or footer, otherwise my tool will not be published.
+												79 文本 I understand that I need to add a link to 
+											82 container I understand that I need to add a link to https://aihustle.tools on my website's homepage or footer, otherwise my tool will not be published.
+												83 复选框 I understand, Value: 0
+											84 标题 Message, Value: 3
+											86 文本输入区 (settable) Message, Value: Pettenderly is an online AI pet portrait studio. Pet owners upload one to five photos of the same cat or dog, choose a watercolor, royal or studio style, and create a downloadable digital keepsake. Beta features include portraits together with your pet and photo cleanup. This is a paid product, starting at $4.99 for 12 credits; no physical printing or shipping is included. Please consider it for your Image category.
+								131 link Website, Value: …
+The focused UI element is 86 文本输入区 (settable) Message, Value: Pettenderly is an online AI pet portrait studio. Pet owners upload one to five photos of the same cat or dog, choose a watercolor, royal or studio style, and create a downloadable digital keepsake. Beta features include portraits together with your pet and photo cleanup. This is a paid product, starting at $4.99 for 12 credits; no physical printing or shipping is included. Please consider it for your Image category.

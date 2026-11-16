@@ -1,0 +1,14 @@
+{
+  "observed_at": "2026-11-10T12:58:13.609510+08:00",
+  "source_key": "success-1104-daohang-613-final.csv::aitoolboard.com::aitoolboard.com",
+  "status": "submitted_pending_review",
+  "submission_clicks": 1,
+  "listing_type": "Free Listing",
+  "confirmation": "Tool submitted successfully! It will be reviewed by our team.",
+  "confirmation_evidence": "browser_run_code tool stderr reported dismissal of this native alert",
+  "post_submit_url": "https://aitoolboard.com/my-account?tab=tools",
+  "final_url": "https://aitoolboard.com/login?redirect=/my-account",
+  "public_listing_verified": false,
+  "account_created": false,
+  "credentials_filled": false
+}

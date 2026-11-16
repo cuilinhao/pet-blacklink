@@ -1,0 +1,18 @@
+{
+  "source_key": "success-1104-daohang-613-final.csv::findseotools.com::findseotools.com",
+  "target_url": "https://findseotools.com/submit",
+  "status": "not_submitted",
+  "fields": {
+    "name": "Pettenderly",
+    "tagline": "Turn pet photos into downloadable AI portraits",
+    "category": "Content",
+    "pricing": "Paid",
+    "url": "https://pettenderly.com/",
+    "description": "Pettenderly creates downloadable AI pet portraits from one to five photos. Choose watercolor, royal or studio styles. Each successful image uses one credit. Paid plans start at $4.99 for 12 credits; generated details may vary.",
+    "contact_name": "Sadık Yenıce",
+    "contact_email": "support@soulpaw.art",
+    "contact_context": "Submitting product information on behalf of Pettenderly. Please use support@soulpaw.art for listing questions."
+  },
+  "submit_clicked_at": "2026-11-14T13:31:42.463Z",
+  "blocker": "Browser required-field validation focused empty Twitter Account; no approved official X/Twitter URL in product profile."
+}

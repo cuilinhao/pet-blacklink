@@ -1,0 +1,28 @@
+{
+  "recorded_at": "2026-11-16T21:00:47+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA first-hand observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com",
+  "platform": "toolsbot.com",
+  "original_csv_url": "https://toolsbot.com/",
+  "observed_receipt_url": "https://toolsbot.com/submit",
+  "observed_confirmation": "Your site has been submitted successfully",
+  "observed_review_notice": "Every submission is reviewed before publication. Submission does not guarantee acceptance.",
+  "observed_post_submit_form": "Cleared",
+  "submission_attempts": 1,
+  "directory_plan": "Free listing selected",
+  "optional_reciprocal_link": "Left empty",
+  "product_fields_verified": [
+    "name",
+    "website URL",
+    "email",
+    "AI Photo & Image Generator category",
+    "239-character description with accurate pricing"
+  ],
+  "introduce_field": "Initial500-character truncation corrected to a complete approximately384-character short text and read back before final submission.",
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 6,
+  "screenshots": []
+}

@@ -1,0 +1,31 @@
+{
+  "recorded_at": "2026-11-16T21:03:01+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA first-hand observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::aiappdrop.com::aiappdrop.com",
+  "platform": "aiappdrop.com",
+  "original_csv_url": "https://aiappdrop.com/",
+  "observed_receipt_url": "https://aiappdrop.com/submit/",
+  "observed_transition": [
+    "Submit for review",
+    "Submitting",
+    "New visible H1 Submission received"
+  ],
+  "observed_message": "Thanks for sharing your tool. We'll review it for quality, uniqueness, and clear pricing — then email you if it's a fit.",
+  "observed_post_submit_form": "All fields cleared",
+  "pre_submit_accessibility_state": "Submission received H1 was absent before the actual submit; confirmation is from the newly visible native UI, not pre-existing static hidden HTML.",
+  "submission_attempts": 1,
+  "fields": {
+    "product_pricing": "Paid",
+    "category": "Image Generators",
+    "public_API": "No",
+    "open_source": "No",
+    "contact_name": "Sadık",
+    "contact_email": "support@soulpaw.art"
+  },
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 7,
+  "screenshots": []
+}

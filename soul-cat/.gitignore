@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+.dev.vars
+*credentials*
+*secrets*
+records/account-credentials.md
+records/private/
+assets/drafts/
+.codex_tmp/
+
+backups/
+records/account-credentials.md

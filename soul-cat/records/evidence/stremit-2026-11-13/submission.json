@@ -1,0 +1,85 @@
+{
+  "website": "Pettenderly",
+  "website_url": "https://pettenderly.com/",
+  "platform": "stremit.io",
+  "source_key": "success-外链网站合并去重_2026-11-05.csv::stremit.io::stremit.io",
+  "recorded_at": "2026-11-13T17:38:51+08:00",
+  "observation_source": "Parent agent observed the live Chrome submission and production badge in this run.",
+  "submission_url": "https://stremit.io/submit-tool-form?plan=free&mode=manual",
+  "plan": "Manual Free",
+  "price_usd": 0,
+  "submission_count_this_run": 1,
+  "state": "terminal",
+  "status": "submitted-pending-review",
+  "public_url": null,
+  "new_public_backlinks": 0,
+  "receipt_text": [
+    "Submitted to the editor team",
+    "Pettenderly is in the review queue. We've sent a confirmation to cuilinhao2021@gmail.com.",
+    "You'll get a second email once it's reviewed — telling you it's live, or why it wasn't approved."
+  ],
+  "receipt_email_delivery": "Claimed by the submission receipt; inbox delivery not independently verified.",
+  "authorization": {
+    "login_terms_confirmed": true,
+    "badge_deployment_confirmed": true,
+    "badge_retention_while_listing_active_confirmed": true,
+    "user_response": "同意，加徽章并完成免费提交"
+  },
+  "deployment": {
+    "commit": "b5dfcf5",
+    "cloudflare_worker_version": "4f16ee8a-dab9-48e7-9fed-d17c07b26ef7",
+    "build_id": "zO0AGpo4dJRfEFd2YE7NR",
+    "indexnow": "92 URLs not confirmed received; see operations record"
+  },
+  "production_badge": {
+    "loaded": true,
+    "natural_width": 480,
+    "natural_height": 179,
+    "rendered_width": 240,
+    "rendered_height": 89.5,
+    "mobile_viewport_width": 390,
+    "mobile_horizontal_overflow": false,
+    "mobile_validation": "DOM measurements only; saved mobile screenshot is blank and not visual proof"
+  },
+  "production_authentication_regression": {
+    "status": "passed",
+    "qa_users": 1,
+    "sessions": 0,
+    "email_verified": 0,
+    "operations_record": "/Users/pgy/Desktop/pettenderly/docs/operations/2026-11-13-stremit-badge.md"
+  },
+  "evidence_files": {
+    "submission-receipt.jpg": {
+      "path": "records/evidence/stremit-2026-11-13/submission-receipt.jpg",
+      "bytes": 38933,
+      "sha256": "70ce40d2378efef3141e800f84f3344276b87e7d907ac49f4e3495086439cec9"
+    },
+    "production-badge-desktop.jpg": {
+      "path": "records/evidence/stremit-2026-11-13/production-badge-desktop.jpg",
+      "bytes": 46047,
+      "sha256": "c803895d3f0968721eb88f89709ba12b37219a2b2f40d1f35aad0be13bae737b"
+    },
+    "production-badge-mobile.jpg": {
+      "path": "records/evidence/stremit-2026-11-13/production-badge-mobile.jpg",
+      "bytes": 2274,
+      "sha256": "6248d076e982aed8a78faf96a2990bfc8da9750776fd317e15d2c03f011df1a7",
+      "usable_visual_evidence": false
+    }
+  },
+  "main_queue_cursor": "success-1104-daohang-613-final.csv::toolfame.com::toolfame.com",
+  "counting": {
+    "new_submissions_today": 1,
+    "new_public_backlinks_today": 0,
+    "existing_source_key_upserted": true
+  },
+  "resume_gate": {
+    "status": "PASS",
+    "progress_rows": 301,
+    "historical_counted_rows": 97,
+    "active_csv": "success-1104-daohang-613-final.csv",
+    "active_total_rows": 596,
+    "active_handled_rows": 142,
+    "active_remaining_rows": 454,
+    "next_source_key": "success-1104-daohang-613-final.csv::toolfame.com::toolfame.com"
+  }
+}

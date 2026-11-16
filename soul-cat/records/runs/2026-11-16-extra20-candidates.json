@@ -1,0 +1,1011 @@
+{
+  "date": "2026-11-16",
+  "created_at": "2026-11-16T12:43:04.965699+00:00",
+  "target": "Pettenderly",
+  "website_url": "https://pettenderly.com/",
+  "mode": "read-only official-web research; no browser actions; no external submissions; no main-ledger or original-CSV writes",
+  "history_snapshot_sha256": "795d72e43d851aca9f5a693946424f848ac679075556a77b6ed192c73890605c",
+  "history_check_files": [
+    "records/platform-progress.csv",
+    "records/runs/2026-11-16-candidate-audit.json",
+    "records/runs/2026-11-16-public-candidates.json",
+    "records/runs/2026-11-16-candidate-batch.json",
+    "platforms/*.csv"
+  ],
+  "candidate_count": 20,
+  "confirmed_instant_guaranteed_count": 0,
+  "fastest_candidate": "aisotools.com: official most within1 minute, exceptions about48h",
+  "candidates": [
+    {
+      "domain": "aisotools.com",
+      "platform": "AISO Tools",
+      "submit_url": "https://aisotools.com/submit",
+      "fee": "$0 permanent free listing; no card, trial or subscription. $99 verified optional.",
+      "publication": "Officially most free submissions publish automatically within a minute; failures rechecked about 48h. Not a guarantee.",
+      "login": "No account in public form.",
+      "fields": [
+        "URL",
+        "tool name",
+        "category",
+        "contact email",
+        "optional short <=120 chars/full description/pricing/features"
+      ],
+      "terms": "No agreement checkbox or Terms link observed on submission page; Privacy linked. Badge optional. Select Paid product pricing and free directory listing.",
+      "official_sources": [
+        "https://aisotools.com/submit"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Permanent nofollow direct link; do not enable monitoring trial with saved card. Public page still must be verified after submission.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "public",
+          "state": "terminal",
+          "evidence_url": "https://aisotools.com/tool/pettenderly",
+          "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com"
+        }
+      ],
+      "next_action": "EXCLUDE_ALREADY_SUBMITTED_DO_NOT_REPEAT"
+    },
+    {
+      "domain": "aitoolscapital.com",
+      "platform": "AI Tools Capital",
+      "submit_url": "https://aitoolscapital.com/submit-tool/",
+      "fee": "$0 Free; $49/$129 optional.",
+      "publication": "Usually reviewed within 24h.",
+      "login": "Anonymous public form.",
+      "fields": [
+        "your name",
+        "email",
+        "tool name",
+        "URL",
+        "category",
+        "pricing",
+        "why review: 10–500 chars",
+        "optional logo <=3MB and unique features"
+      ],
+      "terms": "Publicly usable AI/ML product; duplicates ignored. No explicit Terms agreement displayed in read-only form; Privacy linked. Optional Enter The Capital leaderboard may trigger public competition listing; no votes/reviews required.",
+      "official_sources": [
+        "https://aitoolscapital.com/submit-tool/"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Logo optional; choose Paid. Do not invent founder affiliation or testimonial. Existing source reports automatic leaderboard entry despite unchecked option; confirm actual UI.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolscapital.com::aitoolscapital.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "pending review",
+          "state": "terminal",
+          "evidence_url": "https://aitoolscapital.com/submit-tool/",
+          "source_key": "supplemental-free-2026-11-16.csv::aitoolscapital.com::aitoolscapital.com"
+        }
+      ],
+      "next_action": "EXCLUDE_ALREADY_SUBMITTED_DO_NOT_REPEAT",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "No CAPTCHA/terms checkbox visible; root completed",
+        "field_notes": "name/email/toolname/URL/category/Paid/WhyReview10–500; squarelogo optional≤3MB; unique features optional≤500; contest optional"
+      }
+    },
+    {
+      "domain": "thenextai.com",
+      "platform": "The Next AI",
+      "submit_url": "https://www.thenextai.com/submit-ai-tool/",
+      "fee": "$0 forever Basic; $199 Featured optional.",
+      "publication": "Manual review usually 24–48h / a few business days.",
+      "login": "Officially no account or card.",
+      "fields": [
+        "name",
+        "URL",
+        "category",
+        "pricing",
+        "short description <=120 chars",
+        "email",
+        "Quick check",
+        "optional full description/logo URL/tags"
+      ],
+      "terms": "Working AI tool; accurate pricing; valid email; accepts every country. No separate agreement checkbox identified in parsed form.",
+      "official_sources": [
+        "https://www.thenextai.com/submit-ai-tool/"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "HTML contains hidden success and payment panels before any submit. Never count them as a receipt. Official dofollow claim requires actual link verification.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "deferred",
+          "state": "deferred",
+          "evidence_url": "https://www.thenextai.com/submit-ai-tool/",
+          "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com"
+        }
+      ],
+      "next_action": "RESUME_EXISTING_CHECKPOINT_ONLY_IF_AUTHORIZED_NO_NEW_SUBMISSION",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "Quick check arithmetic; root existing filled form deferred for user verification. Resume same form only.",
+        "field_notes": "name/URL/category/Paid/short≤120/email required; full/logoURL/tags optional; hidden static success panel is not receipt"
+      }
+    },
+    {
+      "domain": "prother.dev",
+      "platform": "Prother",
+      "submit_url": "https://prother.dev/submit",
+      "fee": "$0 permanently free.",
+      "publication": "Human review usually 1–2 days, approved listings live immediately.",
+      "login": "Submission/status page says no account needed; wizard runtime not operated.",
+      "fields": [
+        "URL",
+        "name",
+        "tagline",
+        "category",
+        "pricing",
+        "email for status",
+        "complete honest description"
+      ],
+      "terms": "Live usable AI core product; English listing; truthful ownership/pricing. Display license; editors may edit/remove.",
+      "official_sources": [
+        "https://prother.dev/submit",
+        "https://prother.dev/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Direct terminal GET returned 403; official indexed page readable. Use ordinary UI only; do not bypass any access/security barrier.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "pending review",
+          "state": "terminal",
+          "evidence_url": "https://prother.dev/submit",
+          "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev"
+        }
+      ],
+      "next_action": "EXCLUDE_ALREADY_SUBMITTED_DO_NOT_REPEAT",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "Root reported Turnstile passed automatically, listing standards checkboxes only",
+        "field_notes": "Root completed5-step wizard; paid/generative-content/no-code; true English usable product standards"
+      }
+    },
+    {
+      "domain": "launch.ignlab.net",
+      "platform": "Ignlab Launch",
+      "submit_url": "https://launch.ignlab.net/submit.html",
+      "fee": "Free forever; no paid listing required.",
+      "publication": "Quick human review; no numeric SLA.",
+      "login": "No account required.",
+      "fields": [
+        "name",
+        "homepage URL (root/subdomain, no deep link)",
+        "tagline",
+        "description",
+        "category",
+        "pricing",
+        "challenge",
+        "optional email/tags/date/features/platform/logo URL/maker details"
+      ],
+      "terms": "Legitimate working SaaS/web tool. No explicit Terms or acceptance checkbox surfaced on submission page. Optional maker fields may be omitted.",
+      "official_sources": [
+        "https://launch.ignlab.net/",
+        "https://launch.ignlab.net/submit.html"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Do not infer submission from review wording; preserve private edit link securely if receipt generates one.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::launch.ignlab.net::ignlab.net",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "Loading challenge visible; cannot classify CAPTCHA-free",
+        "field_notes": "homepageURL/name/tagline/description/category/pricing; optional email/tags/launchdate/features/platform/logoURL/maker. Omit unknown maker fields; no Terms checkbox/link visible"
+      }
+    },
+    {
+      "domain": "altern.ai",
+      "platform": "Altern",
+      "submit_url": "https://altern.ai/submit",
+      "fee": "Free Plan: no payment or credit card.",
+      "publication": "Usually a few days, human review.",
+      "login": "Google or GitHub; use authorized Google route.",
+      "fields": [
+        "Easy: name + website",
+        "Full: description/categories/logo/screenshots and alternatives as applicable"
+      ],
+      "terms": "Login agrees Terms/Privacy. Accurate lawful content with rights; discretion to reject/remove; no scraping/bulk harvesting beyond fair use. No ordinary submission automation ban seen.",
+      "official_sources": [
+        "https://altern.ai/submit",
+        "https://altern.ai/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Pets and Image Generation categories observed. Free Plan exists despite separate $29 Base display.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::altern.ai::altern.ai",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 416,
+            "platform": "altern.ai",
+            "platform_url": "https://altern.ai/"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "Google/GitHub",
+        "verification": "OAuth agrees Terms/Privacy; runtime anti-bot unknown",
+        "field_notes": "Easy submit name+URL; Full expandsdescription/category/logo/screenshots; choose Pets/ImageGeneration if present"
+      }
+    },
+    {
+      "domain": "tooltrove.net",
+      "platform": "ToolTrove",
+      "submit_url": "https://tooltrove.net/submit",
+      "fee": "Free; no pay-to-rank.",
+      "publication": "Human review usually a couple of days.",
+      "login": "No account in public form; claim/edit separate.",
+      "fields": [
+        "name",
+        "URL",
+        "category",
+        "email",
+        "one-line description",
+        "full description >=60 words",
+        "who for",
+        "problem solved",
+        "pricing",
+        "platform",
+        "3–8 features",
+        "logo <=5MB",
+        "2–4 screenshots <=5MB each"
+      ],
+      "terms": "Authorized content and image rights; non-exclusive display license; may edit/reject/remove. No abuse or scraping at scale.",
+      "official_sources": [
+        "https://tooltrove.net/submit",
+        "https://tooltrove.net/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Badge optional for a followed link after approval; do not confuse with mandatory free submission condition.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::tooltrove.net::tooltrove.net",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "No separate agreement checkbox in fetched public form; runtime anti-bot unverified",
+        "field_notes": "name/URL/category/email/tagline/full≥60words/who/problem/Paid/Web/3–8features/logo≤5MB/2–4screenshots required; video optional. Need enough genuine approved screenshots."
+      }
+    },
+    {
+      "domain": "aiunicorn.lol",
+      "platform": "AI Unicorn",
+      "submit_url": "https://aiunicorn.lol/submit/",
+      "fee": "Free self submission; $9 followed link optional.",
+      "publication": "Root actual free-queue receipt says manual review within14days; pending review, not public.",
+      "login": "No login required on public form.",
+      "fields": [
+        "name <=40",
+        "tagline <=60",
+        "description <=5000",
+        "URL",
+        "square logo <=1024px <=5MB",
+        "email",
+        "category/use cases/audience/pricing/platform",
+        "optional screenshots/X/first comment"
+      ],
+      "terms": "Reviewed for spam/quality. No Terms link or separate checkbox seen on submission page. Optional MRR and personal socials must not be invented.",
+      "official_sources": [
+        "https://aiunicorn.lol/submit/"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Hero says dofollow, but specific free disclosure says unfollowed; report free as nofollow.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::aiunicorn.lol::aiunicorn.lol",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 404,
+            "platform": "aiunicorn.lol",
+            "platform_url": "https://aiunicorn.lol/submit/"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "pending review",
+          "state": "terminal",
+          "evidence_url": "https://aiunicorn.lol/my-tools/?owner=submitted",
+          "source_key": "success-1104-daohang-613-final.csv::aiunicorn.lol::aiunicorn.lol"
+        }
+      ],
+      "next_action": "EXCLUDE_ALREADY_SUBMITTED_DO_NOT_REPEAT"
+    },
+    {
+      "domain": "apprater.net",
+      "platform": "AppRater",
+      "submit_url": "https://apprater.net/",
+      "fee": "Standard listing free; promotion optional.",
+      "publication": "Human or automated moderation; no guaranteed publication SLA.",
+      "login": "Anonymous submission form at homepage bottom.",
+      "fields": [
+        "app name",
+        "platform Web",
+        "main URL",
+        "launch status",
+        "what makes useful",
+        "your name",
+        "email",
+        "optional tags/image URL/brand X"
+      ],
+      "terms": "Submission accepts Terms and acknowledges Privacy. Authorized accurate English software listing; grants display/edit/promotion license; may reject/remove; no publication guarantee.",
+      "official_sources": [
+        "https://apprater.net/",
+        "https://apprater.net/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Pettenderly is software generating digital portraits; do not describe as a physical-goods store.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::apprater.net::apprater.net",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 184,
+            "platform": "apprater.net",
+            "platform_url": "https://apprater.net"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "Submission itself accepts Terms/Privacy; no separate checkbox visible",
+        "field_notes": "name/platform Web/main URL/launched/description/yourname/email; tags/imageURL/X optional; no invented submitter identity"
+      }
+    },
+    {
+      "domain": "toolsbot.com",
+      "platform": "ToolsBot",
+      "submit_url": "https://toolsbot.com/submit",
+      "fee": "Free without account; $9.90 package optional.",
+      "publication": "Editorial review; no publication SLA. Support replies in 24h is not a review SLA.",
+      "login": "No account required.",
+      "fields": [
+        "free listing option",
+        "name",
+        "URL",
+        "category",
+        "email",
+        "description 10–300 chars",
+        "intro/features if required by runtime"
+      ],
+      "terms": "Must be authorized, working original AI tool/resource with verifiable details. General Terms restrict copying/reverse engineering website material; no normal submission ban found.",
+      "official_sources": [
+        "https://toolsbot.com/submit",
+        "https://toolsbot.com/about/terms-conditions"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Reciprocal link optional, may speed review. Free link is not promised dofollow.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [
+        {
+          "last_status": "pending review",
+          "state": "terminal",
+          "evidence_url": "https://toolsbot.com/submit",
+          "source_key": "supplemental-free-2026-11-16.csv::toolsbot.com::toolsbot.com"
+        }
+      ],
+      "next_action": "EXCLUDE_ALREADY_SUBMITTED_DO_NOT_REPEAT",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "No separate terms checkbox visible in fetched form; runtime anti-bot unknown",
+        "field_notes": "Select FREE explicitly; name/URL/category/email/description10–300; intro/features may be dynamic. Optional reciprocal improves speed; not mandatory."
+      }
+    },
+    {
+      "domain": "unloc.tools",
+      "platform": "Unloc",
+      "submit_url": "https://unloc.tools/submit",
+      "fee": "Free listing default; category pin and Claim #1 separately paid.",
+      "publication": "Human review, no SLA.",
+      "login": "Anonymous public form.",
+      "fields": [
+        "name",
+        "URL",
+        "description >=20 chars",
+        "category AI Image & Design",
+        "pricing",
+        "full name",
+        "email",
+        "human check"
+      ],
+      "terms": "Right to describe/list required. May edit pitch, reject misleading listings, remove. No republishing scraped directory.",
+      "official_sources": [
+        "https://unloc.tools/submit",
+        "https://unloc.tools/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Logo from favicon, no upload. Optional newsletter should remain off.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::unloc.tools::unloc.tools",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 583,
+            "platform": "unloc.tools",
+            "platform_url": "https://unloc.tools"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "Humancheck required; optional newsletter off",
+        "field_notes": "name/URL/description≥20/AI Image & Design/Paid/fullname/email; favicon fetched by site; no logo upload"
+      }
+    },
+    {
+      "domain": "showmebest.ai",
+      "platform": "ShowMeBestAI",
+      "submit_url": "https://showmebest.ai/submit",
+      "fee": "FREE Listing $0; Basic $9.99 and Pro $49.99 optional.",
+      "publication": "Free card states review in 24h.",
+      "login": "Runtime login/form behind Submit Now not verified.",
+      "fields": [
+        "Fields not exposed until runtime free-plan button; verify before acting."
+      ],
+      "terms": "General terms: content/account responsibility, harmful/illegal use prohibited, may monitor/remove; no automation prohibition seen.",
+      "official_sources": [
+        "https://showmebest.ai/submit",
+        "https://showmebest.ai/terms-of-service"
+      ],
+      "mandatory_badge": false,
+      "priority": "priority",
+      "note": "Free card includes a Dofollow bullet; actual inclusion styling/link must be verified. Terminal GET403 while official search page readable.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::showmebest.ai::showmebest.ai",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 280,
+            "platform": "showmebest.ai",
+            "platform_url": "https://showmebest.ai/"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "not established",
+        "verification": "Click FREE SubmitNow in native UI to expose form; runtime terms/captcha unknown",
+        "field_notes": "Public plan Free$0/24hreview; exact fields not available read-only. Do not claim fully preflighted anonymous form."
+      }
+    },
+    {
+      "domain": "freemiumai.net",
+      "platform": "Freemium AI",
+      "submit_url": "https://freemiumai.net/get_listed/",
+      "fee": "Standard submission free; $5 instant premium optional.",
+      "publication": "3–5 day standard review.",
+      "login": "Register at /listings-dashboard/?dashboard=register: username, email, password, repeat password. No Google option in fetched form; no terms checkbox/CAPTCHA visible in static form. Later email verification unknown.",
+      "fields": [
+        "Submission fields behind account, not verified."
+      ],
+      "terms": "Public signup/get_listed pages disclose no separate Terms link in fetched material; full terms not recovered. Free3–5days officially confirmed. Brand-domain email rule explicitly under paid/claim section, not general free rule. Native flow must check any additional policy before action.",
+      "official_sources": [
+        "https://freemiumai.net/get_listed/",
+        "https://freemiumai.net/listings-dashboard/?dashboard=register"
+      ],
+      "mandatory_badge": false,
+      "priority": "fallback",
+      "note": "Do not invent a pettenderly.com mailbox. Product pricing is Paid despite directory name.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::freemiumai.net::freemiumai.net",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 313,
+            "platform": "freemiumai.net",
+            "platform_url": "https://freemiumai.net"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "email username/password signup, no Google visible",
+        "verification": "No checkbox/CAPTCHA visible in signup HTML; verify real UI",
+        "field_notes": "Submission form afterlogin unknown. Sign-up username/email/password/repeat; free3–5days. Full terms unavailable."
+      }
+    },
+    {
+      "domain": "chatfreeai.com",
+      "platform": "Chat Free AI",
+      "submit_url": "https://chatfreeai.com/tools/submit",
+      "fee": "Free listing; paid priority optional.",
+      "publication": "FIFO queue, live wait estimate not recovered.",
+      "login": "No account shown in official indexed form.",
+      "fields": [
+        "tool name",
+        "tagline",
+        "description",
+        "URL",
+        "category",
+        "contact email",
+        "free option"
+      ],
+      "terms": "https://chatfreeai.com/terms (Nov2026): no unlawful/harmful use or security/usage-limit bypass; prohibits automated abuse of AI-generation free tier. No blanket ordinary directory-submission ban stated. Submission form direct fetch still times out; UI terms must be rechecked.",
+      "official_sources": [
+        "https://chatfreeai.com/tools/submit",
+        "https://chatfreeai.com/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "fallback",
+      "note": "Official search index is readable but direct fetch timed out; runtime availability and queue must be checked. 6/24/48/72h promises belong to paid tiers.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::chatfreeai.com::chatfreeai.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "no public accountgate in indexed form",
+        "verification": "Submit direct fetch timeout. Sitewide chat human-check text does not establish directory form challenge. UI must verify.",
+        "field_notes": "Indexed name/tagline/description/URL/category/email; free FIFO unspecifiedwait. Paid6/24/48/72hours not free."
+      }
+    },
+    {
+      "domain": "hypestar.org",
+      "platform": "Hype Star",
+      "submit_url": "https://hypestar.org/submit",
+      "fee": "$0 permanent basic listing; no account/card.",
+      "publication": "Private until editorial facts/safety review; no SLA.",
+      "login": "No registration. Email optional.",
+      "fields": [
+        "public project URL",
+        "review extracted facts",
+        "kind/category",
+        "badge on a public site page",
+        "optional email/screenshot"
+      ],
+      "terms": "English listings, authorized public facts/assets, display license. New free listings need badge. API/agent access expressly supported within documented limits; no fake engagement.",
+      "official_sources": [
+        "https://hypestar.org/submit",
+        "https://hypestar.org/terms"
+      ],
+      "mandatory_badge": true,
+      "priority": "fallback",
+      "note": "Terms earlier paragraph says supporter link not required but specific §6 and submit page require new free badge. Follow specific current checkpoint.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::hypestar.org::hypestar.org",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "none",
+        "verification": "No unknown verification guarantee",
+        "field_notes": "URL→review extracted facts→kind/category→mandatory publicbadge→review; optionalemail/screenshots. Must check paid product claims extracted correctly."
+      }
+    },
+    {
+      "domain": "indexof.ai",
+      "platform": "IndexOf.AI",
+      "submit_url": "https://indexof.ai/submit",
+      "fee": "Free + Badge $0; Pro $9.99 optional.",
+      "publication": "Live 7 days after badge verification.",
+      "login": "Google or email/password.",
+      "fields": [
+        "Full form behind login; fields not verified",
+        "badge required"
+      ],
+      "terms": "Accurate account/content, display/use license, primarily AI product. Free submissions since Nov1 can be delisted when badge removed.",
+      "official_sources": [
+        "https://indexof.ai/submit",
+        "https://indexof.ai/auth/login",
+        "https://indexof.ai/terms"
+      ],
+      "mandatory_badge": true,
+      "priority": "fallback",
+      "note": "",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "supplemental-free-2026-11-16.csv::indexof.ai::indexof.ai",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "Google/emailpassword",
+        "verification": "Badge verification mandatory for newfree; exact runtimeform unknown",
+        "field_notes": "Free+Badge$0,7days afterverified; login before full fields. Badge removaldelists."
+      }
+    },
+    {
+      "domain": "bestsky.tools",
+      "platform": "BestskyTools",
+      "submit_url": "https://bestsky.tools/submit",
+      "fee": "$0 with badge; $14.90 premium optional.",
+      "publication": "Review within 2 weeks.",
+      "login": "Google or email magic link.",
+      "fields": [
+        "Actual product form behind login; fields unverified",
+        "Featured badge"
+      ],
+      "terms": "Authorized tool representative; content display/promotion license; accurate lawful material. Automated scraping/overload/disruption prohibited; no ordinary form submission ban found.",
+      "official_sources": [
+        "https://bestsky.tools/pricing",
+        "https://bestsky.tools/auth/login",
+        "https://bestsky.tools/legal/terms"
+      ],
+      "mandatory_badge": true,
+      "priority": "fallback",
+      "note": "Free product testing access is shown under paid SEO Growth Package, not general free listing; do not assume it is required for $0.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::bestsky.tools::bestsky.tools",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 215,
+            "platform": "bestsky.tools",
+            "platform_url": "https://bestsky.tools"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "Google/magiclink",
+        "verification": "Freebadge required; runtimeform/captcha unknown",
+        "field_notes": "Free2weeksreview; protected fields not available. PaidSEO package testaccess clause does not apply free."
+      }
+    },
+    {
+      "domain": "aitooltrek.com",
+      "platform": "AI Tool Trek",
+      "submit_url": "https://aitooltrek.com/submit",
+      "fee": "Free Pack $0; paid default Fast Track must be changed.",
+      "publication": "Reviewed within72h; listed within15 days.",
+      "login": "No login shown on initial form.",
+      "fields": [
+        "website name",
+        "website URL",
+        "select Free Pack",
+        "homepage reciprocal link before submission"
+      ],
+      "terms": "https://aitooltrek.com/terms-of-service grants limited site/service use without harm; ordinary automated form submission not prohibited. Data name/email/payment/cookies; paid features are optional. Free submission-specific homepage backlink must stay or listing removed.",
+      "official_sources": [
+        "https://aitooltrek.com/submit",
+        "https://aitooltrek.com/terms-of-service"
+      ],
+      "mandatory_badge": true,
+      "priority": "fallback",
+      "note": "Read-only page default is Fast Track; explicitly select free before submitting.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::aitooltrek.com::aitooltrek.com",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 266,
+            "platform": "aitooltrek.com",
+            "platform_url": "https://aitooltrek.com/"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "initial noaccount;laterunknown",
+        "verification": "Mandatory homepagebacklink verification; defaultpaidFastTrack mustswitchFree",
+        "field_notes": "initialwebsiteName/URL; FreePack0;72h review/15daylisting; exactlaterfieldsunknown"
+      }
+    },
+    {
+      "domain": "deeplaunch.io",
+      "platform": "DeepLaunch",
+      "submit_url": "https://deeplaunch.io/submit",
+      "fee": "Free basic with retained dofollow badge.",
+      "publication": "5 free slots/day; choose date; automatic09:00 Washington DC; nearest date unknown.",
+      "login": "Initial form anonymous; later account checkpoint not verified.",
+      "fields": [
+        "URL",
+        "name",
+        "tagline <=160",
+        "Markdown description 500–3000 chars",
+        "logo <=500KB",
+        "up to3 categories",
+        "pricing",
+        "platform",
+        "optional screenshots/founded year"
+      ],
+      "terms": "Authorized truthful tool, editorial discretion, no manipulation of reviews/rankings. Required badge regularly checked; removal changes link to nofollow.",
+      "official_sources": [
+        "https://deeplaunch.io/submit",
+        "https://deeplaunch.io/pricing",
+        "https://deeplaunch.io/terms-of-service"
+      ],
+      "mandatory_badge": true,
+      "priority": "fallback",
+      "note": "Founder Twitter optional; do not put brand handle into a personal founder field unless confirmed.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::deeplaunch.io::deeplaunch.io",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 248,
+            "platform": "deeplaunch.io",
+            "platform_url": "https://deeplaunch.io"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "CANDIDATE_REQUIRES_NATIVE_UI_AND_FINAL_DUPLICATE_GATE",
+      "followup_form_audit": {
+        "account": "initialnoaccount;laterunknown",
+        "verification": "Mandatory persistent dofollowbadge; no fakevotes",
+        "field_notes": "name/URL/tagline160/markdown500–3000/logo≤500KB/categories≤3/pricing/platform; optional4screenshots andfounderTwitter. Pickavailablefree5/daydate; auto9amWashington"
+      }
+    },
+    {
+      "domain": "builtbyme.io",
+      "platform": "BuiltByMe",
+      "submit_url": "https://builtbyme.io/submit?plan=free",
+      "fee": "$0/launch; $9 instant paid launch optional.",
+      "publication": "5 free slots/week; free queue availability unknown.",
+      "login": "Google or email/password.",
+      "fields": [
+        "Product form behind login; fields unverified."
+      ],
+      "terms": "Terms §2/§5 require actual maker/core team, prohibit directory-submission services/third-party agencies, and require real individual name/personal details. Brand/company profiles removed. Current approved product metadata has no real founder profile; skip until truthful authorized personal maker identity exists. Vote/rank automation forbidden.",
+      "official_sources": [
+        "https://builtbyme.io/pricing",
+        "https://builtbyme.io/login",
+        "https://builtbyme.io/terms"
+      ],
+      "mandatory_badge": false,
+      "priority": "skip_missing_real_maker_identity",
+      "note": "Free link nofollow and permanent. Ignore pricing page misleading claim that nofollow is invisible to search engines.",
+      "submitted_by_this_research": false,
+      "counted": false,
+      "source_key": "success-1104-daohang-613-final.csv::builtbyme.io::builtbyme.io",
+      "source_key_state": "Records agent previously confirmed original or supplemental queue key; final native action gate still required.",
+      "dedupe": {
+        "progress_matches": [],
+        "queue_matches": [
+          {
+            "csv": "success-1104-daohang-613-final.csv",
+            "data_row": 436,
+            "platform": "builtbyme.io",
+            "platform_url": "https://builtbyme.io"
+          }
+        ],
+        "historical_submitted_pending_live_scheduled": false,
+        "note": "All-state domain-string search found no history; public native search still required before any submission."
+      },
+      "latest_history_observed": [],
+      "next_action": "SKIP_MISSING_REAL_MAKER_IDENTITY",
+      "followup_form_audit": {
+        "account": "Google/emailpassword",
+        "verification": "Real individual maker identity required; not approved currently",
+        "field_notes": "Skip for missingreal maker identity; no brandprofile. Free5/weeknofollow otherwise; fullfieldsprotected"
+      }
+    }
+  ],
+  "excluded_or_conditional_findings": [
+    {
+      "domain": "neeed.directory",
+      "reason": "Already completed per root instruction; exclude."
+    },
+    {
+      "domain": "ainave.com",
+      "reason": "Root active; not duplicated in this 20."
+    },
+    {
+      "domain": "yo.directory",
+      "reason": "Explicit prohibition on automated submissions in previously verified terms."
+    },
+    {
+      "domain": "uno.directory",
+      "source": "https://uno.directory/terms",
+      "reason": "§8 prohibits automated-system access without permission; not recommended for agent submission."
+    },
+    {
+      "domain": "phototoolfinder.com",
+      "source": "https://phototoolfinder.com/submit",
+      "reason": "Minimum $1.50; also requires funded test account when no free preview, so exclude free run."
+    },
+    {
+      "domain": "aitoolsaver.com",
+      "sources": [
+        "https://www.aitoolsaver.com/contact-us",
+        "https://www.aitoolsaver.com/faq",
+        "https://www.aitoolsaver.com/submit-ai-tool"
+      ],
+      "reason": "Contact copy says free but FAQ/current submit pricing only exposes $25 fast-track; free route unverified."
+    },
+    {
+      "domain": "listai.cc",
+      "source": "https://www.listai.cc/submit",
+      "reason": "Official indexed page confirms free no-account24–48h, but apex/www fresh web reads timeout and direct TLS read fails. Reserve only after normal secure UI works; not included in20."
+    },
+    {
+      "domain": "aikendra.com",
+      "source": "https://aikendra.com/submit",
+      "reason": "Free48h no-account path exists but product-domain email required; known support@soulpaw.art is different from pettenderly.com. Do not invent address."
+    },
+    {
+      "domain": "nothumansearch.ai",
+      "source": "https://nothumansearch.ai/",
+      "reason": "Previously found single-URL anonymous crawler-score directory; explicit fee/timing unverified. Not included in20 confirmed free-route candidates."
+    },
+    {
+      "domain": "forwardfuture.com",
+      "submit_url": "https://forwardfuture.com/tools/submit",
+      "reason": "Specific directory terms prohibit automated systems/bots without prior written permission; do notsubmit automatically.",
+      "source": "https://forwardfuture.com/tools/terms"
+    }
+  ],
+  "important": "Candidates are not submissions. Public launch, pending-review receipt and draft are separate. Official claims about speed/link type do not prove actual live backlink. All forms need native dedupe/terms/checkpoint verification. Newly discovered domains are not in existing seven queues and are being added by records agent only.",
+  "followup_audit": {
+    "updated_at": "2026-11-16T21:02:25+08:00",
+    "scope": "remaining candidates details/terms/freeconditions; completed root actions excluded dynamically",
+    "main_history_sha256": "a350d3ee73ee04c09a5a01b4901e71f2eb0bcffa1fdc7fa0b717f5f635ea38c8",
+    "fastest_unsubmitted_preferences": [
+      "apprater.net",
+      "tooltrove.net",
+      "showmebest.ai",
+      "aiappdrop.com",
+      "productperch.com"
+    ],
+    "additional_backup_report": "records/runs/2026-11-16-extra5-backups.json",
+    "limitations": [
+      "Read-only web/official HTML only; no browser, no form submission, no main ledger edits.",
+      "No CAPTCHA/terms checkbox visible in static HTML does not guarantee no runtime verification.",
+      "Protected/dynamic fields explicitly unresolved; native UI must read before final action.",
+      "Terms findings identify explicit bans and rules, not blanket legal assurance.",
+      "Root reports all live/pending states; research itself counts zero."
+    ]
+  }
+}

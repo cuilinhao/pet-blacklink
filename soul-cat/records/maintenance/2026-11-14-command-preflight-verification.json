@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-14",
+  "change": "Known OpenCLI 1.8.6 syntax preflight and command reference",
+  "changed_files": [
+    "SKILL.md",
+    "references/opencli-command-guide.md",
+    "references/recovery-and-checkpoints.md",
+    "references/platform-field-notes.md",
+    "scripts/browser_command.py",
+    "scripts/tests/test_browser_command.py"
+  ],
+  "tests": {
+    "passed": 49,
+    "duration_seconds": 19.689,
+    "skill_validator": "passed"
+  },
+  "preserved_checkpoints": {
+    "35d43023fa76531b1bbee2613572d8d79254270e3c73bdea893dc9f4f9d0c22a": "ecebaa846de022799c4f6870cbab80865a726180340065f165db540d0052a212",
+    "4792abde4492123c95258b3e73fc3e0cf3cdf1e4659034564e7fd9646c44e2e8": "f700ea01c0c2ffc1b7b1a862828c545b12b3f3001e94f7f9c9ef3e6d6d467ef7"
+  },
+  "resume_gate": "PASS",
+  "next_source_key": "success-1104-daohang-613-final.csv::thetoolbus.ai::thetoolbus.ai",
+  "prompt_refresh_epoch": 6,
+  "browser_actions_during_validation": 0,
+  "independent_review": {
+    "blocking_issues": 0,
+    "isolated_preflight_cases": 19,
+    "followups_fixed": [
+      "ASCII-only numeric arguments",
+      "Homebrew Python in recovery examples"
+    ]
+  }
+}

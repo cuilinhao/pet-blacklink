@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-16",
+  "target": "Pettenderly",
+  "mode": "read-only public website screening; no UI, external submission, credentials or master-ledger writes",
+  "active_csv": "success-1104-daohang-613-final.csv",
+  "history_check": {
+    "file": "records/platform-progress.csv",
+    "matched_domains": [],
+    "result": "No matches for these eight candidate domains at time of inspection."
+  },
+  "confirmed_free_immediate_public_candidates": [],
+  "submission_count": 0,
+  "candidates": [
+    {
+      "domain": "productlaunch.com.br",
+      "submit_url": "https://www.productlaunch.com.br/projetos/enviar",
+      "evidence_urls": [
+        "https://www.productlaunch.com.br/precos",
+        "https://www.productlaunch.com.br/entrar?redirect=/projetos/enviar",
+        "https://www.productlaunch.com.br/termos"
+      ],
+      "free_evidence": "Official pricing: R$ 0 per launch, five free slots daily, scheduling up to 90 days. Free backlink only if product reaches Top 3.",
+      "immediate_public": false,
+      "account": "Required; Google, GitHub, Discord, or email/password.",
+      "assets": "Form fields behind sign-in; current asset requirements not verified.",
+      "terms": "Continue indicates acceptance of Terms and Privacy. Terms updated 2026-11-07; user retains ownership and licenses platform display/use; platform can remove content.",
+      "review_wait": "Up to 90-day scheduling; no guarantee of immediate free publication.",
+      "recommendation": "Do not prioritize for immediate public backlink.",
+      "csv_line": 192
+    },
+    {
+      "domain": "gogetgpt.com",
+      "submit_url": "https://gogetgpt.com/en/publish-project",
+      "evidence_urls": [
+        "https://gogetgpt.com/en/publish-project",
+        "https://gogetgpt.com/en/page/terms-and-conditions",
+        "https://gogetgpt.com/en/page/privacy-policy"
+      ],
+      "free_evidence": "No official free submission price or immediate-public promise verified.",
+      "immediate_public": null,
+      "account": "Publish page explicitly requires login.",
+      "assets": "Submission form hidden until login; not verified.",
+      "terms": "Terms license submitted content for copying/display/editing/translation and associated name publication; no obligation to publish; discretion to remove.",
+      "review_wait": "Not verified.",
+      "recommendation": "Login checkpoint; not confirmed anonymous/free/immediate.",
+      "csv_line": 194
+    },
+    {
+      "domain": "allstartups.info",
+      "submit_url": "https://allstartups.info/Startups/Submit",
+      "evidence_urls": [
+        "https://allstartups.info/Startups/Submit"
+      ],
+      "free_evidence": "Public indexed form has no displayed fee, but an explicit first-party free pricing statement for AllStartups itself was not found. Search snippets saying free in /Startups/Listings describe other platforms.",
+      "immediate_public": false,
+      "account": "Indexed official form is publicly readable without login.",
+      "assets": "Name; pitch recommended around 150 and max 256 chars; URL; unique description; stage; launch date; image 1024x536 or 2048x1072, <=500 KB; platform types; contact name/email; optional social links.",
+      "terms": "Startup <=5 years, own domain, English content/interface, innovative tech product (not ecommerce/blog). Proceeding means acceptance; platform may decline, edit URL/pitch/description/image, or contact submitter. Form also inconsistently asks younger than 6 years below launch date.",
+      "review_wait": "Up to 60 days; unpublished after that likely declined.",
+      "reachability": "Fresh public HTTPS checks on apex and www failed because TLS certificate has expired. Web fetch also timed out/502; indexed form is not proof of current browser availability. Do not bypass browser certificate warning.",
+      "recommendation": "Not immediate; verify only through normal secure browser route if site certificate repaired.",
+      "csv_line": 196
+    },
+    {
+      "domain": "aifinderguru.com",
+      "submit_url": "https://aifinderguru.com/submit/",
+      "evidence_urls": [
+        "https://aifinderguru.com/",
+        "https://aifinderguru.com/accounts/login/?next=/submit/",
+        "https://aifinderguru.com/terms-of-service/"
+      ],
+      "free_evidence": "No explicit current official submission-price or instant-public promise verified; free/paid labels on homepage describe listed tools, not directory submission fees.",
+      "immediate_public": null,
+      "account": "Required; /submit/ redirects to login. Google offered, as well as username/password, GitHub and Twitter.",
+      "assets": "Official FAQ: name, description, URL and related tags; showcase image, logo and pricing optional.",
+      "terms": "Terms require accurate registration and rights to content; service terms include no automated/non-human access and broad rights language for contributions/submissions.",
+      "review_wait": "FAQ says submitted tool appears in dashboard and email may be sent, but does not establish public visibility or timing.",
+      "recommendation": "Potential account-based candidate only; no verified free immediate public route.",
+      "csv_line": 198
+    },
+    {
+      "domain": "tools.launchllama.co",
+      "submit_url": "https://tools.launchllama.co/submit",
+      "evidence_urls": [
+        "https://tools.launchllama.co/submit",
+        "https://tools.launchllama.co/pricing",
+        "https://tools.launchllama.co/"
+      ],
+      "free_evidence": "Official $0 forever plan: one directory listing and product page, no credit card or trial.",
+      "immediate_public": false,
+      "account": "Required; free account includes one tool.",
+      "assets": "Name, URL, tagline, description, categories and media; website prefill offered.",
+      "terms": "Parent agent verified homepage free-flow requirements: upvote five community tools; one star rating and written feedback of at least two lines/20 chars; permanent badge. These are not satisfied by this read-only research. Do not invent recommendations/votes.",
+      "review_wait": "Free listings typically reviewed in about four weeks. Instant Launch costs $39 one-time; Featured $49/week or $99/month.",
+      "recommendation": "Exclude from immediate-free-public priority; free path has community/badge requirements and review.",
+      "csv_line": 200
+    },
+    {
+      "domain": "theaigeneration.com",
+      "submit_url": null,
+      "evidence_urls": [
+        "https://www.theaigeneration.com/",
+        "https://www.theaigeneration.com/terms-of-service/"
+      ],
+      "free_evidence": "No current submit/pricing evidence recovered.",
+      "immediate_public": null,
+      "account": "Unknown.",
+      "assets": "Unknown.",
+      "terms": "Terms page indexed, but no current submission checkpoint established.",
+      "review_wait": "Unknown.",
+      "reachability": "Fresh public HTTPS requests to apex and www returned HTTP 500; web fetch inaccessible/timeout.",
+      "recommendation": "Unavailable for current read-only verification; not counted or submitted.",
+      "csv_line": 206
+    },
+    {
+      "domain": "magicbox.tools",
+      "submit_url": "https://magicbox.tools/submit",
+      "evidence_urls": [
+        "https://magicbox.tools/submit",
+        "https://magicbox.tools/pricing"
+      ],
+      "free_evidence": "Official current pricing has no free plan: Basic $15.90 once (displayed discount from $19.90), Featured $19.90 once, Sponsored $29.90/month. Daily free submissions apply only within paid memberships.",
+      "immediate_public": false,
+      "account": "First step publicly visible; account requirement after Continue not tested.",
+      "assets": "Initial form: tool name, website URL, contact email.",
+      "terms": "Footer Terms/Privacy links; payment needed under current published plans.",
+      "review_wait": "Basic 7 days; Featured 3 days. Refund if not approved. Basic has no badge-verification requirement.",
+      "recommendation": "Paid; exclude from free run.",
+      "csv_line": 207
+    },
+    {
+      "domain": "founderclub.com",
+      "submit_url": "https://www.founderclub.com/get-featured/",
+      "evidence_urls": [
+        "https://www.founderclub.com/get-featured/",
+        "https://noteforms.com/forms/get-featured-on-founder-club?notionforms=1",
+        "https://www.founderclub.com/privacy-policy/"
+      ],
+      "free_evidence": "No price or publication timing promise. Official Submit embeds interview application, not a direct product directory listing.",
+      "immediate_public": false,
+      "account": "Public NoteForms form readable without login.",
+      "assets": "Company website, name, email, interview-method preference, whether revenue may be disclosed (optional), newsletter opt-in question.",
+      "terms": "Form intro requests interview and article about story/business; revenue disclosure optional, claimed to improve clicks/placement. Privacy policy linked on parent site. Required status of newsletter option not established.",
+      "review_wait": "Editorial interview/article flow; no immediate publication promise.",
+      "reachability": "notionforms.io official iframe redirects to noteforms.com and returned HTTP 200.",
+      "recommendation": "Do not treat interview request as immediate backlink or publication receipt.",
+      "csv_line": 209
+    }
+  ]
+}

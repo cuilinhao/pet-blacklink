@@ -1,0 +1,118 @@
+{
+  "checked_at": "2026-11-06T01:21:52.521421+00:00",
+  "method": "Anonymous read-only GET of public pages; no form submissions, paid generation or payment",
+  "pages": [
+    {
+      "url": "https://pettenderly.com/",
+      "status": 200,
+      "final_url": "https://pettenderly.com/",
+      "title": "AI Pet Portrait Generator | Pettenderly",
+      "canonical": "https://pettenderly.com/",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/zh",
+      "status": 200,
+      "final_url": "https://pettenderly.com/zh",
+      "title": "AI 宠物肖像生成器 | Pettenderly",
+      "canonical": "https://pettenderly.com/zh",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/pricing",
+      "status": 200,
+      "final_url": "https://pettenderly.com/pricing",
+      "title": "Pricing | Pettenderly - AI Pet Portraits",
+      "canonical": "https://pettenderly.com/pricing",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/studio",
+      "status": 200,
+      "final_url": "https://pettenderly.com/studio",
+      "title": "Pettenderly Studio",
+      "canonical": "https://pettenderly.com/studio",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/pet-photo-editor",
+      "status": 200,
+      "final_url": "https://pettenderly.com/pet-photo-editor",
+      "title": "AI Pet Photo Editor Online - Fix &amp; Clean Up Pet Photos | Pettenderly",
+      "canonical": "https://pettenderly.com/pet-photo-editor",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/cat-portrait-generator",
+      "status": 200,
+      "final_url": "https://pettenderly.com/cat-portrait-generator",
+      "title": "Cat Portrait Generator - AI Cat Photos &amp; Portraits Online",
+      "canonical": "https://pettenderly.com/cat-portrait-generator",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/dog-portrait-generator",
+      "status": 200,
+      "final_url": "https://pettenderly.com/dog-portrait-generator",
+      "title": "Dog Portrait Generator - AI Dog Photos &amp; Portraits Online",
+      "canonical": "https://pettenderly.com/dog-portrait-generator",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/watercolor-pet-portrait",
+      "status": 200,
+      "final_url": "https://pettenderly.com/watercolor-pet-portrait",
+      "title": "Watercolor Pet Portrait – From Your Photo in 60 Seconds",
+      "canonical": "https://pettenderly.com/watercolor-pet-portrait",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/blog",
+      "status": 200,
+      "final_url": "https://pettenderly.com/blog",
+      "title": "Cat portrait guides | Pettenderly",
+      "canonical": "https://pettenderly.com/blog",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/blog/choose-cat-portrait-reference-photos",
+      "status": 200,
+      "final_url": "https://pettenderly.com/blog/choose-cat-portrait-reference-photos",
+      "title": "Choosing Cat Photos for an AI Pet Portrait | Pettenderly",
+      "canonical": "https://pettenderly.com/blog/choose-cat-portrait-reference-photos",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/contact",
+      "status": 200,
+      "final_url": "https://pettenderly.com/contact",
+      "title": "Contact | Pettenderly - AI Pet Portraits",
+      "canonical": "https://pettenderly.com/contact",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/privacy",
+      "status": 200,
+      "final_url": "https://pettenderly.com/privacy",
+      "title": "Privacy Policy",
+      "canonical": "https://pettenderly.com/privacy",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/terms",
+      "status": 200,
+      "final_url": "https://pettenderly.com/terms",
+      "title": "Terms of Service",
+      "canonical": "https://pettenderly.com/terms",
+      "robots": "index, follow"
+    },
+    {
+      "url": "https://pettenderly.com/sitemap.xml",
+      "status": 200,
+      "final_url": "https://pettenderly.com/sitemap.xml",
+      "title": null,
+      "canonical": null,
+      "robots": null
+    }
+  ]
+}

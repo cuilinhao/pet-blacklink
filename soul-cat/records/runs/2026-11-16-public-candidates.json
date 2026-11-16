@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-16",
+  "project": "Pettenderly",
+  "project_url": "https://pettenderly.com/",
+  "purpose": "只读核验 active CSV 内剩余候选的官方提交、收费与公开条件；优先免费、尽快公开。",
+  "status": "research_complete_no_submission",
+  "submissions_performed": 0,
+  "counted_backlinks": 0,
+  "browser_ui_used": false,
+  "external_writes_performed": false,
+  "ledger_changed": false,
+  "sources": {
+    "progress": "/Users/pgy/Documents/backlink-workspace/soul-cat/records/platform-progress.csv",
+    "active_csv": "/Users/pgy/Documents/backlink-workspace/soul-cat/platforms/success-1104-daohang-613-final.csv"
+  },
+  "method": [
+    "读取 Pettenderly 历史成功平台，排除已有成功 domain；提交前仍须以主台账全状态去重和现场页面为准。",
+    "免费与发布时间仅依据目录自己的页面；没有用第三方目录清单证明免费。",
+    "全程使用只读网页研究，无 Chrome/UI 操作、注册、提交、邮件、支付。",
+    "未证实 10 个免费即时公开站，不将待审核或排期写成已公开。",
+    "Neeed 的核验由另一代理负责，本报告不重复认定。",
+    "CAPTCHA 未在只读页面中观察到，不等于现场没有 CAPTCHA。"
+  ],
+  "priority": [
+    {
+      "rank": 1,
+      "domain": "yo.directory",
+      "active_row": 190,
+      "official_urls": [
+        "https://yo.directory/pricing"
+      ],
+      "free_verified": true,
+      "publication_class": "automatic_review_then_live",
+      "finding": "官方 $0 reciprocal-backlink 方案；免费和付费都自动审核，通过后即公开，免费额外核验互链。",
+      "constraints": [
+        "需要登录",
+        "Pettenderly 必须保留指向 yo.directory 的互链",
+        "免费仅 1 分类",
+        "免费不含修改 listing"
+      ],
+      "suggested_action": "优先现场核验免费入口、互链检测和重复 listing；成功后打开公共页读回目标链接。",
+      "quote": "go live as soon as they pass"
+    },
+    {
+      "rank": 2,
+      "domain": "ainave.com",
+      "active_row": 255,
+      "official_urls": [
+        "https://ainave.com/pricing",
+        "https://ainave.com/help/products-guidelines",
+        "https://ainave.com/submit/products"
+      ],
+      "free_verified": true,
+      "publication_class": "manual_review_usually_minutes",
+      "finding": "免费 $0 always 含产品页和周榜；官方审核通常几分钟，超过 30 分钟仍在审核才建议联系。不是保证即时公开。",
+      "constraints": [
+        "产品必须在线可用且资料真实",
+        "免费链接 nofollow；$5 verified/dofollow 为可选付费，不购买",
+        "登录/表单运行时要求需现场核验",
+        "可能已被其团队自动收录，先搜索避免重复"
+      ],
+      "suggested_action": "与 Yo 并列优先；提交后数分钟检查公共产品页，pending 不计公开数量。",
+      "quote": "Usually a few minutes after you submit."
+    },
+    {
+      "rank": 3,
+      "domain": "nothumansearch.ai",
+      "active_row": 516,
+      "official_urls": [
+        "https://nothumansearch.ai/",
+        "https://nothumansearch.ai/about"
+      ],
+      "free_verified": "no_charge_or_account_shown_in_public_submission_form",
+      "publication_class": "automatic_crawl_candidate_timing_unconfirmed",
+      "finding": "官方主页有单 URL 的 Submit Your Site 表单，关于页也公开提交 API；生成 agent-readiness 目录/评分记录。公开与费用未见独立 SLA，不能预先计数。",
+      "constraints": [
+        "属于网站抓取/评分目录，非完整产品介绍目录",
+        "只使用公开 homepage",
+        "提交前搜索已有域名记录",
+        "本研究未调用 POST 或触发抓取"
+      ],
+      "suggested_action": "仅在符合本轮目录范围时现场检查，验证确实产生公共页和实际外链后才计数。"
+    },
+    {
+      "rank": 4,
+      "domain": "deeplaunch.io",
+      "active_row": 248,
+      "official_urls": [
+        "https://deeplaunch.io/pricing",
+        "https://deeplaunch.io/submit"
+      ],
+      "free_verified": true,
+      "publication_class": "scheduled_automatic_publication",
+      "finding": "免费保留 dofollow 徽章；每天 5 个免费名额，可以选择发布日期，华盛顿时间 09:00 自动公开。最近可选日未核实。",
+      "constraints": [
+        "需要徽章互链且持续保留",
+        "需现场查看免费名额和可选日期",
+        "不是即刻公开"
+      ],
+      "suggested_action": "如果当天名额存在再优先，否则记录排期，不计本轮即时公开。"
+    }
+  ],
+  "free_fallbacks_not_immediate": [
+    {
+      "domain": "apprater.net",
+      "active_row": 184,
+      "official_urls": [
+        "https://apprater.net/"
+      ],
+      "finding": "官方免费标准 listing，提交表单在首页底部，人工审核后进入公开 archive；付费 priority 可选。",
+      "constraints": [
+        "表单含工具资料、姓名、email",
+        "须接受 Terms/Privacy",
+        "未发现必须先登录；现场仍应核验"
+      ],
+      "publication": "manual_review_no_sla_seen"
+    },
+    {
+      "domain": "aiunicorn.lol",
+      "active_row": 404,
+      "official_urls": [
+        "https://aiunicorn.lol/submit/"
+      ],
+      "finding": "免费自助提交、人工审核；正文澄清免费链接 nofollow，$9 followed 可选。",
+      "constraints": [
+        "Logo 必填，square ≤1024、≤5MB",
+        "产品名≤40，tagline≤60，描述≤5000",
+        "email 必填",
+        "未见先登录要求"
+      ],
+      "publication": "manual_review"
+    },
+    {
+      "domain": "uno.directory",
+      "active_row": 301,
+      "official_urls": [
+        "https://uno.directory/terms"
+      ],
+      "finding": "有免费方案，Google 或 email magic-link 登录，免费需互链；一般 1–3 个工作日审核。",
+      "constraints": [
+        "登录",
+        "互链验证",
+        "同站只提交一次"
+      ],
+      "publication": "review_1_to_3_business_days"
+    },
+    {
+      "domain": "projecthunt.me",
+      "active_row": 264,
+      "official_urls": [
+        "https://projecthunt.me/submit/",
+        "https://projecthunt.me/faq/"
+      ],
+      "finding": "免费人工编辑，3–5 个工作日；官网入口是邮件提交。",
+      "constraints": [
+        "邮件外发需遵守用户/skill已有授权",
+        "需要真实产品代表姓名与角色",
+        "本研究未发邮件"
+      ],
+      "publication": "review_3_to_5_business_days"
+    },
+    {
+      "domain": "saascity.io",
+      "active_row": 307,
+      "official_urls": [
+        "https://saascity.io/",
+        "https://saascity.io/pricing"
+      ],
+      "finding": "免费徽章方案可在 launch wizard 选可用周，免费 nofollow；首页说批准后即公开，但 pricing 明确免费在所预订周 launch，口径冲突，不认定免费24小时直出。",
+      "constraints": [
+        "徽章",
+        "免费名额与排期",
+        "人工审核",
+        "必须现场核验公共页实际状态"
+      ],
+      "publication": "scheduled_free_launch_with_conflicting_homepage_copy"
+    },
+    {
+      "domain": "saaspa.ge",
+      "active_row": 203,
+      "official_urls": [
+        "https://www.saaspa.ge/"
+      ],
+      "finding": "免费 Promote，可选下一开放周，审核后周一 launch；前三名有有时限 dofollow，其余 nofollow。",
+      "constraints": [
+        "排期",
+        "人工审核"
+      ],
+      "publication": "weekly_launch"
+    },
+    {
+      "domain": "builtbyme.io",
+      "active_row": 436,
+      "official_urls": [
+        "https://builtbyme.io/pricing"
+      ],
+      "finding": "$0 每周 5 个免费名额，永久 nofollow listing；$9 付费才 skip queue。",
+      "constraints": [
+        "免费名额",
+        "排队"
+      ],
+      "publication": "weekly_queue"
+    },
+    {
+      "domain": "bestsky.tools",
+      "active_row": 215,
+      "official_urls": [
+        "https://bestsky.tools/pricing"
+      ],
+      "finding": "$0 需徽章，官方审核最长2周；付费 $14.9 的24小时不适用于免费方案。",
+      "constraints": [
+        "徽章"
+      ],
+      "publication": "review_within_2_weeks"
+    },
+    {
+      "domain": "aitooltrek.com",
+      "active_row": 266,
+      "official_urls": [
+        "https://aitooltrek.com/submit"
+      ],
+      "finding": "Free Pack $0，需首页互链，72小时内审核、15天内列出。",
+      "constraints": [
+        "首页互链",
+        "移除互链会移除listing"
+      ],
+      "publication": "review_72h_listing_15_days"
+    },
+    {
+      "domain": "direct2app.com",
+      "active_row": 452,
+      "official_urls": [
+        "https://www.direct2app.com/pricing"
+      ],
+      "finding": "免费 $0 需互链，审核并列出最长30天；$12.99 Pro 才可立即公开。",
+      "constraints": [
+        "互链",
+        "账号/现场表单"
+      ],
+      "publication": "within_30_days"
+    },
+    {
+      "domain": "freemiumai.net",
+      "active_row": 313,
+      "official_urls": [
+        "https://freemiumai.net/get_listed/"
+      ],
+      "finding": "标准提交免费，注册后3–5天审核。$5 premium 才即时。",
+      "constraints": [
+        "注册",
+        "产品品牌邮箱明确用于claim/premium；普通免费表单要求需现场核验"
+      ],
+      "publication": "review_3_to_5_days"
+    },
+    {
+      "domain": "unloc.tools",
+      "active_row": 583,
+      "official_urls": [
+        "https://unloc.tools/submit"
+      ],
+      "finding": "免费 listing 为默认，审核后公开；匿名表单可见，无付费强制。",
+      "constraints": [
+        "Human check",
+        "姓名、email",
+        "newsletter为可选，不应默认订阅"
+      ],
+      "publication": "manual_review_no_sla_seen"
+    },
+    {
+      "domain": "thatsmy.ai",
+      "active_row": 559,
+      "official_urls": [
+        "https://thatsmy.ai/submit-tool"
+      ],
+      "finding": "免费 $0，永久产品页/外链，但等待最长90天；付费priority即时不能当免费。",
+      "constraints": [
+        "email",
+        "Logo",
+        "分类/用途"
+      ],
+      "publication": "up_to_90_days"
+    },
+    {
+      "domain": "rankmyai.com",
+      "active_row": 524,
+      "official_urls": [
+        "https://www.rankmyai.com/tool-addition",
+        "https://www.rankmyai.com/about-us/faq"
+      ],
+      "finding": "官方明确免费；表单说明审核最长21天。",
+      "constraints": [
+        "真实公司名或开发者全名必填",
+        "name/email/用途/描述"
+      ],
+      "publication": "review_up_to_21_days"
+    },
+    {
+      "domain": "aiwarehub.com",
+      "active_row": 406,
+      "official_urls": [
+        "https://aiwarehub.com/submit-tool"
+      ],
+      "finding": "公开提交表单未显示收费，但未见明确$0承诺；所有提交人工审核，因此不认定直出。",
+      "constraints": [
+        "确认产品真实可运行/安全",
+        "封面16:9"
+      ],
+      "publication": "manual_review_fee_not_explicitly_confirmed"
+    }
+  ],
+  "deprioritize_or_skip": [
+    {
+      "domain": "peerpush.net",
+      "canonical_domain": "peerpush.com",
+      "official_url": "https://peerpush.com/pricing/",
+      "reason": "免费等待付费用户后方；$39 standard 才即时。"
+    },
+    {
+      "domain": "ufind.best",
+      "official_url": "https://ufind.best/pricing",
+      "reason": "免费等待约17周，需徽章；不适合本轮尽快公开。"
+    },
+    {
+      "domain": "huzzler.so",
+      "official_url": "https://huzzler.so/submit-product",
+      "reason": "免费72天队列、badge、noindex；$29付费才即时且indexable。"
+    },
+    {
+      "domain": "devhub.best",
+      "official_url": "https://devhub.best/pricing",
+      "reason": "免费徽章+DR≥10，最长60天。"
+    },
+    {
+      "domain": "launchigniter.com",
+      "official_url": "https://launchigniter.com/pricing",
+      "reason": "免费徽章+人工审+日期无保证；付费才instant。"
+    },
+    {
+      "domain": "open-launch.com",
+      "official_url": "https://open-launch.com/pricing",
+      "reason": "官方免费位已排至2027；$12才next-day。"
+    },
+    {
+      "domain": "goodtool.online",
+      "official_url": "https://goodtool.online/pricing",
+      "reason": "免费需先upvote3工具且有限名额，标准周队列；不为解锁而伪造评价/投票。"
+    },
+    {
+      "domain": "saasfame.com",
+      "official_url": "https://saasfame.com/pricing",
+      "reason": "免费徽章+DR≥10，等待最长180天。"
+    },
+    {
+      "domain": "turbo0.com",
+      "official_url": "https://turbo0.com/pricing",
+      "reason": "免费DR>10+互链，2周审核；不是直出。"
+    },
+    {
+      "domain": "toolfio.com",
+      "official_url": "https://toolfio.com/pricing",
+      "reason": "免费DR≥20+永久badge；instant仅明确在付费方案。"
+    },
+    {
+      "domain": "awesome.tools",
+      "official_url": "https://awesome.tools/SKILL.md",
+      "reason": "免费互链+DR20+30 referring domains+200月访问或100关键词；官方明确提交不是即时公开。该网页只是研究来源，不是本地任务skill。"
+    },
+    {
+      "domain": "devtool.io",
+      "official_url": "https://devtool.io/submit-tool",
+      "reason": "仅接收开发者工具，Pettenderly不匹配；免费还需badge且最长1个月。"
+    },
+    {
+      "domain": "aidirs.best",
+      "official_url": "https://aidirs.best/pricing",
+      "reason": "免费徽章+nofollow+3–4周审核。"
+    },
+    {
+      "domain": "tinylaunchpad.com",
+      "official_url": "https://tinylaunchpad.com/pricing",
+      "reason": "免费人工审核、每周一launch，非即时。"
+    },
+    {
+      "domain": "iuu.ai",
+      "official_url": "https://iuu.ai/pricing",
+      "reason": "当前最低方案$4.9；套餐内所谓free credits不等于零付费提交。"
+    },
+    {
+      "domain": "woy.ai",
+      "official_url": "https://woy.ai/pricing",
+      "reason": "当前提交方案$29.9/月。"
+    },
+    {
+      "domain": "newaiforyou.com",
+      "official_url": "https://newaiforyou.com",
+      "reason": "标准提交$9.9一次，免费仅指浏览。"
+    },
+    {
+      "domain": "startuplist.ing",
+      "official_url": "https://startuplist.ing/",
+      "reason": "提交$4一次，付款后公开。"
+    },
+    {
+      "domain": "magicbox.tools",
+      "official_url": "https://magicbox.tools/pricing",
+      "reason": "当前Basic最低$15.9一次，非清单旧免费条件。"
+    },
+    {
+      "domain": "aimatch.pro",
+      "official_url": "https://aimatch.pro/",
+      "reason": "首页对makers报价$29；未证实免费。"
+    },
+    {
+      "domain": "opensaas.directory",
+      "official_url": "https://opensaas.directory/guidelines",
+      "reason": "必须开源可自托管且≥50 GitHub stars，Pettenderly不匹配。"
+    },
+    {
+      "domain": "ai-tools.directory",
+      "official_url": "https://ai-tools.directory/",
+      "reason": "官方FAQ明确目前不接受人工提交。"
+    },
+    {
+      "domain": "airepo.io",
+      "official_url": "https://airepo.io/",
+      "reason": "重定向GoDaddy出售停放页。"
+    },
+    {
+      "domain": "orbic.ai",
+      "official_url": "https://orbic.ai/",
+      "reason": "重定向GoDaddy出售停放页。"
+    },
+    {
+      "domain": "toolwave.io",
+      "official_url": "https://toolwave.io/",
+      "reason": "域名停放/可能出售，不再是可提交目录。"
+    },
+    {
+      "domain": "t5.tools",
+      "official_url": "https://www.t5.tools/",
+      "reason": "已经变成Star Wars Armada桌游活动站。"
+    },
+    {
+      "domain": "b4zz.com",
+      "official_url": "https://b4zz.com/",
+      "reason": "已经变成需邀请码的AI模型产品，未见目录提交。"
+    },
+    {
+      "domain": "thaka.io",
+      "official_url": "https://thaka.io/",
+      "reason": "已经变成Ryplaced职业学习平台。"
+    },
+    {
+      "domain": "aitoolsmasters.com",
+      "official_url": "https://aitoolsmasters.com/",
+      "reason": "跳转7parabian.com赌博页面，不应继续原目录工作流。"
+    }
+  ],
+  "unresolved_no_free_or_timing_claim": [
+    {
+      "domain": "producthubx.com",
+      "official_url": "https://producthubx.com/en/submit",
+      "finding": "提交转登录，callback出现内部deployment主机；收费未证实，不访问内部callback主机。"
+    },
+    {
+      "domain": "aifinderguru.com",
+      "official_url": "https://aifinderguru.com/",
+      "finding": "FAQ介绍账号内提交/管理工具，未见明确免费及公开时限。"
+    },
+    {
+      "domain": "joinly.xyz",
+      "official_url": "https://joinly.xyz/submit-startup",
+      "finding": "公开表单有name/URL/email/headline/country/图片；未见收费，但无明确免费/直出承诺，terms含营销处理授权。"
+    },
+    {
+      "domain": "whattheai.tech",
+      "official_url": "https://whattheai.tech/submit",
+      "finding": "读取到入口，但表单动态内容未在只读抓取中出现，不能认定免费直出。"
+    },
+    {
+      "domain": "aitools.xyz",
+      "official_url": "https://aitools.xyz/",
+      "finding": "有Submit入口，尚未确认费用和公开时限。"
+    },
+    {
+      "domain": "tools.launchllama.co",
+      "official_url": "https://tools.launchllama.co/",
+      "finding": "官方免费提交，但instant $39 跳过等待/upvote/badge；免费发布时间未核实，非已证实直出。"
+    }
+  ],
+  "conclusion": "明确优先 Yo.directory 与 AINave。DeepLaunch 可查最近免费排期；Not Human Search 是自动抓取目录候选但需现场证实外链。其他免费候选多待审或排期；没有凑出 10 个未经证实的即时站。",
+  "next_step": "等待用户允许连续 Sadık 浏览器操作后，由 root 按主台账全状态去重，现场执行已授权提交，并逐个验证公共证据。"
+}

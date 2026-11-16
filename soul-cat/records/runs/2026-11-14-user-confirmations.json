@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-14",
+  "source": "direct user replies in Codex",
+  "confirmed_product": {
+    "official_x": "https://x.com/soulpaw_art",
+    "first_launch_month": "2026-10",
+    "country": "China"
+  },
+  "specific_permissions": [
+    "NXGN default Sadık Google login and displayed Terms/Privacy",
+    "Sidehunt default Sadık Google login and displayed Terms/Privacy",
+    "Fastpedia support@soulpaw.art registration with unique generated password stored locally and displayed Terms/Privacy",
+    "LaunchVault default Sadık Google login and displayed Terms/Privacy",
+    "Tiny Startups support@soulpaw.art automatic account and weekly newsletter",
+    "Victrays default Sadık Google login and displayed Privacy Policy",
+    "TopFreeAITools support notification email containing website, listing URL and badge-installed notice",
+    "Addonbiz support@soulpaw.art account registration"
+  ],
+  "not_authorized": [
+    "paid purchases",
+    "extra OAuth scopes",
+    "unrelated communication",
+    "bypass security warnings"
+  ]
+}

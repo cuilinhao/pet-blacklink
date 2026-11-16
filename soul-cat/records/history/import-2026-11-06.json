@@ -1,0 +1,35 @@
+{
+  "prepared_on": "2026-11-06",
+  "website": "Pettenderly",
+  "task": "Prepare local submission materials only; no new external submissions.",
+  "history_source": "../../../pettenderly/records/platform-progress.csv",
+  "history_source_sha256": "c55bc039c52dc9e01fa578280d1889acc52dcb533d5939631a8a396d1c772af4",
+  "imported_file": "../platform-progress.csv",
+  "imported_sha256": "b5c295c9344d61c158e8fee6683bc066faab74dd69fe21d63e2310a8a3253bf5",
+  "imported_rows": 40,
+  "original_status_counts": {
+    "skipped-sister-brand-batch": 18,
+    "submitted": 20,
+    "not-relevant": 1,
+    "Duplicate": 1
+  },
+  "sanitization": {
+    "urls_with_private_query_parameters_removed": 6,
+    "notes": "Replaced with non-sensitive status summaries. Original files retained unchanged.",
+    "credentials_copied": false,
+    "private_daily_logs_copied": false
+  },
+  "last_historical_source_key": "success-1103-image-generator-blog-comment-100-2026-11-03.csv::buzzinga.ai::buzzinga.ai",
+  "active_queue": null,
+  "next_cursor": null,
+  "public_backlinks_reverified_this_task": 0,
+  "new_submissions_this_task": 0,
+  "candidate_snapshot": {
+    "source": "../../../soul-cat/backups/success-外链网站合并去重_2026-11-05_追加图片网址前备份.csv",
+    "file": "../../platforms/reference-platforms-2026-11-05.csv",
+    "source_sha256": "7d7c2adf74b505926a246db187739422c0ec1ec73576b8e8eb5d2b7882b555f4",
+    "copied_sha256": "7d7c2adf74b505926a246db187739422c0ec1ec73576b8e8eb5d2b7882b555f4",
+    "rows": 683,
+    "role": "Reference candidates only; not a successful Pettenderly backlink inventory or an active queue."
+  }
+}

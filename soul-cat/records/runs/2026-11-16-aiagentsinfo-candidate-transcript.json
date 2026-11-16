@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-11-16T21:27:37+08:00",
+  "source": "Transcript of /root/new20_candidates official-source read-only findings; records agent did not browse.",
+  "domain": "aiagentsinfo.com",
+  "platform_url": "https://www.aiagentsinfo.com/",
+  "official_sources": [
+    "https://www.aiagentsinfo.com/submit",
+    "https://www.aiagentsinfo.com/editorial-policy",
+    "https://www.aiagentsinfo.com/terms"
+  ],
+  "free_evidence": "Candidate agent official-source research reported no account or fee; valid submissions automatically public in about2 minutes. Type AI tool and Image/Design explicitly supported, not agent-only. Accuracy authorization checkbox and Human check require runtime inspection.",
+  "submitted": false,
+  "counted": false
+}

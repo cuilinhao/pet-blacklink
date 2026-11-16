@@ -1,0 +1,113 @@
+Window: "Submit New SEO Tool — findSEOtools.com", App: Google Chrome.
+0 标准窗口 Submit New SEO Tool — findSEOtools.com - Google Chrome - Sadık (guillpern@gmail.com), URL: findseotools.com/submit, Secondary Actions: Raise
+	1 container Submit New SEO Tool — findSEOtools.com - Google Chrome - Sadık (guillpern@gmail.com), URL: findseotools.com/submit
+		2 container
+			3 工具栏
+				4 按钮 返回
+				5 按钮 (disabled) 前进
+				6 按钮 重新加载
+				7 container
+					8 弹出式按钮 查看网站信息
+					9 文本栏 (settable) 地址和搜索栏, Value: findseotools.com/submit, Placeholder: 问问 Google 或输入网址
+					10 按钮 翻译
+					11 按钮 为此标签页添加书签
+				12 container
+					13 弹出式按钮 OpenCLI
+可以访问此网站
+					14 弹出式按钮 扩展程序
+				15 按钮 Sadık (guillpern@gmail.com)
+				16 弹出式按钮 Chrome
+			17 container
+				18 滚动区
+					19 HTML 内容 Submit New SEO Tool — findSEOtools.com, URL: findseotools.com/submit
+						20 container
+							21 link home, Value: findseotools.com/
+							22 内容列表
+								23 container
+									24 link Home, Value: findseotools.com/
+									25 link All Tools, Value: findseotools.com/all-tools
+									26 弹出式按钮 Tool Categories
+										27 文本 Tool Categories
+								28 container
+									29 link Contact Me, Value: findseotools.com/contact-me
+									30 link + Submit Tool, Value: findseotools.com/submit
+						31 文本 Submit a tool
+						32 container Submit Tool Form
+							33 文本 Are you submitting a new tool or requesting an update to a tool that is already published?
+							34 弹出式按钮 Are you submitting a new tool or requesting an update to a tool that is already published?, Value: New Tool
+								35 (selected) New Tool
+							36 文本 Tool name
+							37 文本栏 (settable) Tool name, Value: Pettenderly, Placeholder: e.g. Semrush
+							38 文本 Describe the tool value in 9 words or less
+							39 文本栏 (settable) Describe the tool value in 9 words or less, Value: Turn pet photos into downloadable AI portraits, Placeholder: e.g. Unveil your competitors marketing strategies & tactics
+							40 文本 Which category does the tool mostly fit into? Your tool will be reviewed to see if it fits into other categories etc.
+							41 弹出式按钮 Value: Content, Which category does the tool mostly fit into? Your tool will be reviewed to see if it fits into other categories etc.
+								42 (selected) Content
+							43 文本 What is the pricing model of the tool? Free options means there is a permanently free option (not just a free trial)
+							44 弹出式按钮 Value: Paid, What is the pricing model of the tool? Free options means there is a permanently free option (not just a free trial)
+								45 (selected) Paid
+							46 文本 Website
+							47 文本栏 (settable) Website, Value: https://pettenderly.com/, Placeholder: e.g. https://www.semrush.com/
+							48 文本 Describe the tool in one or two paragraphs starting with the tool name.
+							49 文本栏 (settable) Describe the tool in one or two paragraphs starting with the tool name., Value: Pettenderly creates downloadable AI pet portraits from one to five photos. Choose watercolor, royal or studio styles. Each successful image uses one credit. Paid plans start at $4.99 for 12 credits; generated details may vary.
+							50 文本 Twitter Account
+							51 文本栏 (settable) Twitter Account, Value: https://x.com/soulpaw_art, Placeholder: e.g. https://twitter.com/semrush
+							52 文本 What year was the tool launched?
+							53 文本栏 (settable) What year was the tool launched?, Placeholder: e.g. 2008
+							54 文本 Provide a URL for an image that represents the tool. Otherwise, a screenshot of your website will be used. Images should 1280 x 800 px or 8:5 aspect ratio.
+							55 文本栏 (settable) Provide a URL for an image that represents the tool. Otherwise, a screenshot of your website will be used. Images should 1280 x 800 px or 8:5 aspect ratio.
+							56 文本 A little bit about you...
+							57 文本 What is your name?
+							58 文本栏 (settable) What is your name?, Value: Sadık Yenıce
+							59 文本 What is your email?
+							60 邮箱 (settable) What is your email?, Value: support@soulpaw.art
+							61 文本 Are you the founder/creator of the tool? If so, we'd love to hear a little about you. Would you be interested in sharing a little more information?
+							62 文本栏 (settable) Are you the founder/creator of the tool? If so, we'd love to hear a little about you. Would you be interested in sharing a little more information?, Value: Submitting product information on behalf of Pettenderly. Please use support@soulpaw.art for listing questions.
+							63 按钮 Submit
+						64 container
+							65 文本 Curated tools for SEO's and digital marketers. Browse and discover new tools to help you deliver better SEO strategies! 🫶
+							66 container Newsletter Email Form
+								67 文本 Find out when new tools drop
+								68 邮箱 (settable) Find out when new tools drop, Placeholder: Enter your email
+								69 按钮 Subscribe
+							70 link Contact Me, Value: findseotools.com/contact-me
+							71 文本 Follow
+							72 link Twitter, Value: twitter.com/findseotools
+							73 link Privacy Policy, Value: findseotools.com/privacy-policy
+							74 link Affiliate Disclosure, Value: findseotools.com/affiliate-disclosure
+			75 弹出式按钮 标签页搜索
+			76 container
+				77 标签页组
+					78 标签 (settable, boolean) Add New AI Tool to our AI Tools Directory | Mridul.Tech | Mridul.tech - 内存用量 - 135 MB, Value: off
+					79 标签 (selected, settable, boolean) Submit New SEO Tool — findSEOtools.com - 内存用量 - 268 MB, Value: on
+						80 按钮 关闭
+					81 标签 (settable, boolean) Add Your Listing - Addonbiz - 内存用量 - 290 MB, Value: off
+					82 标签 (settable, boolean) Thanks! - 内存用量 - 64.7 MB, Value: off
+					83 标签 (settable, boolean) Launch Your Startup Tool & Get DR Backlinks | NxGn Tools - 内存用量 - 97.0 MB, Value: off
+					84 标签 (settable, boolean) Submissions | Resource.fyi - 内存用量 - 178 MB, Value: off
+					85 标签 (settable, boolean) Sign Up - FastPedia - 内存用量 - 117 MB, Value: off
+					86 标签 (settable, boolean) Sign in or sign up | Sidehunt - 内存用量 - 469 MB, Value: off
+					87 标签 (settable, boolean) Launch Vault - Discover the Best Tech Products - 内存用量 - 291 MB, Value: off
+					88 标签 (settable, boolean) Launch your startup | Tiny Startups - 内存用量 - 206 MB, Value: off
+					89 标签 (settable, boolean) TopFreeAITools - 内存用量 - 148 MB, Value: off
+					90 标签 (settable, boolean) Submit AI tool - 内存用量 - 479 MB, Value: off
+					91 标签 (settable, boolean) ✦ Find Ai tools for everything | Ai Prompts & Plugins | Victrays - 内存用量 - 487 MB, Value: off
+					92 标签 (settable, boolean) Submit Your AI Tool to Victrays | AI Tool Directory - 内存用量 - 293 MB, Value: off
+					93 标签 (settable, boolean) AI Pet Portrait Generator | Pettenderly - 内存用量 - 515 MB, Value: off
+			94 按钮 新标签页
+	95 关闭按钮
+	96 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	97 最小化按钮
+98 menu bar
+	99 Chrome
+	100 文件
+	101 编辑
+	102 显示
+	103 历史记录
+	104 书签
+	105 个人资料
+	106 标签页
+	107 窗口
+	108 帮助
+
+The focused UI element is 51 文本栏 (settable) Twitter Account, Value: https://x.com/soulpaw_art, Placeholder: e.g. https://twitter.com/semrush

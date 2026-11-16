@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-11-16T20:59:04+08:00",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA first-hand observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::prother.dev::prother.dev",
+  "platform": "prother.dev",
+  "original_csv_url": "https://prother.dev/",
+  "observed_receipt_url": "https://prother.dev/submit",
+  "observed_heading": "Queued for review",
+  "observed_confirmation": "Pettenderly is in moderation queue",
+  "observed_email": "support@soulpaw.art",
+  "observed_review_copy": [
+    "Reply typically24h",
+    "Review usually1–2 days",
+    "Free forever"
+  ],
+  "queue_number": 388,
+  "ticket": "96F82230",
+  "ticket_type": "Ordinary receipt reference, not authentication credential",
+  "product_pricing": [
+    "Paid",
+    "$4.99 for12 credits",
+    "No free generation plan"
+  ],
+  "categories": [
+    "Generative Content",
+    "no-code"
+  ],
+  "submission_steps_completed": 5,
+  "verification_observation": "Turnstile completed automatically; root performed no CAPTCHA action.",
+  "required_checkboxes": "Live product and truthful English listing standards only; no Terms acceptance checkbox observed.",
+  "status": "pending review",
+  "public": false,
+  "counted": true,
+  "additional_20_index": 5,
+  "screenshots": []
+}

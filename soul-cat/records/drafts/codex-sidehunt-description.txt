@@ -1,0 +1,15 @@
+Pettenderly is an online AI pet portrait studio that turns everyday photos into downloadable digital keepsakes. It is designed for pet owners who want to create portraits of their cats or dogs from their own reference pictures. The product focuses on personal pet imagery, with additional beta tools for shared portraits and photo cleanup.
+
+To create a standard portrait, start with one to five clear photos of the same pet. Choose pictures that show its eyes, coat markings and natural appearance. The studio accepts JPG, PNG and WebP files, with a maximum size of 8 MB per image. After uploading the references, choose a visual style and generate a portrait. You can view and download the result in the studio, or return to My creations to revisit your images.
+
+Available looks include watercolor, royal costumes, studio portraits and sunny window seat scenes. These styles offer different ways to turn familiar pet photos into artwork, from a painted appearance to a more composed portrait setting. The reference photos guide the result, but generated details can vary.
+
+The You & your pet beta offers a way to create a portrait together without requiring a shared source photograph. Upload a separate person photo alongside pet reference photos, then create a combined image. Face accuracy is still improving, and the generated faces, markings and fine details should be reviewed carefully.
+
+Photo cleanup is another generative beta tool. Describe a change to a pet photo, such as removing a cable, a trash can or distracting background clutter. This feature uses a written request to guide an edit. Because the process is generative, details can change beyond the intended adjustment.
+
+Pettenderly uses paid credits. The Starter Pack costs $4.99 and includes 12 credits that do not expire. Pro Monthly costs $9.90 per month and provides 40 monthly credits. Pro Annual costs $79 per year, with 40 credits issued each month across twelve monthly periods. Unused subscription credits do not roll over. Each successful image uses one credit; failed generations do not use credits.
+
+A Starter Pack can be purchased as a guest, with an email access link for returning to credits and creations. Pro subscriptions require an account. Available credits are required for generation, and the service does not offer a free generation plan.
+
+The finished product is a digital image to download and keep. Physical printing and shipping are not included. Pettenderly does not guarantee an exact likeness, fixed generation speed or fixed output resolution. Review each result before choosing the portrait you want to save.

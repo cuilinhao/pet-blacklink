@@ -1,0 +1,31 @@
+{
+  "recorded_at": "2026-11-16T21:30:52+08:00",
+  "evidence_type": "root_native_cua_checkpoint_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser/network verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::promoteindex.com::promoteindex.com",
+  "platform": "promoteindex.com",
+  "original_csv_url": "https://promoteindex.com/",
+  "form_url": "https://promoteindex.com/submit",
+  "fields_read_back": {
+    "own_or_represent": true,
+    "product_pricing": "Paid",
+    "category": "Design & Creative",
+    "product_fields": "Name/URL/short68/description535/tags/email",
+    "submission_identity": "AIAGENT / Codex",
+    "source": "Codex",
+    "Built_With": "Codex"
+  },
+  "built_with_evidence": "Root reported neeed_badge agent verification of substantive Codex gallery development/deployment onNov14 and current source tests/deployment. Not inferred merely from submission-agent identity.",
+  "directory_plan": "Normal Free; no token",
+  "final_submit_clicked": false,
+  "submission_attempts": 0,
+  "product_submission_sent": false,
+  "terms_url": "https://promoteindex.com/terms",
+  "observed_terms_notice": "By listing agree Terms",
+  "confirmation_request_state": "Prepared; root plans to ask together with ToolPromote concrete terms, not yet asked.",
+  "status": "deferred",
+  "reason": "pending_user_terms",
+  "counted": false,
+  "resume_instruction": "After current concrete terms authorization, resume this exact prepared form for one submission. No failure or submission occurred.",
+  "screenshots": []
+}

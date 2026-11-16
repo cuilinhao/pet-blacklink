@@ -1,0 +1,41 @@
+{
+  "recorded_at": "2026-11-16T20:50:54+08:00",
+  "observation_date": "2026-11-16",
+  "evidence_type": "root_native_cua_observation_transcript",
+  "provenance_limit": "Root native CUA first-hand observations relayed to local records subagent; no screenshot or independent anonymous HTTP verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::aisotools.com::aisotools.com",
+  "platform": "aisotools.com",
+  "original_csv_url": "https://aisotools.com/",
+  "observed_final_action": "Single Submit Tool - Free action",
+  "observed_confirmation": "Pettenderly is live",
+  "observed_message": "It cleared our automatic checks and published straight away.",
+  "observed_listing_url": "https://aisotools.com/tool/pettenderly",
+  "session_query_storage": "No receipt sid or session query captured; canonical product page retained.",
+  "observed_listing_heading": "Pettenderly",
+  "observed_product_pricing": [
+    "Paid",
+    "$4.99 for 12 credits",
+    "$9.90 monthly",
+    "No free generation plan"
+  ],
+  "observed_description": "Root verified the complete accurate product description on the listing.",
+  "observed_direct_backlink": {
+    "text": "pettenderly.com",
+    "href": "https://pettenderly.com/",
+    "rel": "nofollow"
+  },
+  "other_link": "A separate Try button uses a go redirect; direct domain link also present.",
+  "permanent_backlink_claim": "Platform states permanent backlink on its own domain; actual long-term persistence not yet verifiable.",
+  "status": "public",
+  "public_page_read_via_native_cua": true,
+  "anonymous_http_verified": false,
+  "counted": true,
+  "additional_20_index": 3,
+  "payment_made": false,
+  "card_entered": false,
+  "trial_started": false,
+  "badge_action": false,
+  "screenshots": [],
+  "anonymous_check_result": "Root reported web-tool anonymous open returned generic Internal Error / not accessible. This did not independently verify anonymous reachability.",
+  "status_basis": "Public status is based on root native CUA live confirmation, public product path and observed direct target backlink only."
+}

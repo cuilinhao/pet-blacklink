@@ -1,0 +1,63 @@
+{
+  "website": "Pettenderly",
+  "source_key": "success-1104-daohang-613-final.csv::nothumansearch.ai::nothumansearch.ai",
+  "original_platform_url": "https://nothumansearch.ai",
+  "url": "https://nothumansearch.ai/submit",
+  "resolved_submit_url": "https://nothumansearch.ai/#submit",
+  "plan": "Free organic indexing",
+  "state": "prepared",
+  "fields": {
+    "url": "https://pettenderly.com/"
+  },
+  "submit_attempts": 0,
+  "official_sources": [
+    "https://nothumansearch.ai/",
+    "https://nothumansearch.ai/llms.txt",
+    "https://nothumansearch.ai/about"
+  ],
+  "preflight": {
+    "required_fields": [
+      "Site URL"
+    ],
+    "login": "Not required by current public one-URL form.",
+    "captcha": "None in current official HTML and inline submission script.",
+    "badge": "Not required.",
+    "terms_checkbox": "None in current public form.",
+    "free_evidence": "Official llms.txt says search and canonical provider links remain free; organic membership/order unaffected by payments. The public URL submit has no fee/payment or account step.",
+    "publication": "Official docs say crawl immediately and add to index; actual form receipt says crawl shortly. Treat receipt as submitted until public listing verified.",
+    "history": "Read-only platform-progress search currently has no nothumansearch matches; final records gate authoritative.",
+    "public_duplicate_check": "Earlier official public GET /api/v1/search?q=pettenderly returned total0/results[]/accessfree; recheck in native immediately before submit if needed."
+  },
+  "verification": {
+    "expected_submit_receipt": "Submitted! We'll crawl it shortly.",
+    "public_search_url": "https://nothumansearch.ai/api/v1/search?q=pettenderly",
+    "public_page_template": "https://nothumansearch.ai/site/{domain}",
+    "expected_public_page_candidate": "https://nothumansearch.ai/site/pettenderly.com",
+    "public_page_status": "Candidate URL derived from observed official page pattern; not asserted live or requested here.",
+    "sample_verified": "https://nothumansearch.ai/site/applykoala.com returned200 with productH1, selfcanonical and direct homepage href with rel=noopener. Actual Pettenderly link attributes must be checked independently after submission.",
+    "live_requirements": [
+      "Public unauthenticated result exists for pettenderly.com",
+      "Result detail page shows Pettenderly and direct https://pettenderly.com/ or normalized equivalent link",
+      "Record actual HTTP status and actual rel, without assuming sample attributes"
+    ]
+  },
+  "notes": [
+    "Do not create provider-funded offers, monitors, paid API keys or action tickets. Only the authorized one-URL directory submission is in scope.",
+    "Do not fabricate agent/MCP/API capabilities; scorer assesses public site itself."
+  ],
+  "status": "public",
+  "product_submission_sent": true,
+  "final_submit_attempted": true,
+  "submission_attempts": 1,
+  "crawl_submission_received": true,
+  "public_index_verified": true,
+  "counted": true,
+  "checkpoint": "Independent public detail GET200 and direct target link verified; internal search still0.",
+  "resume_instruction": "Read-only check for resulting public page; no resubmission.",
+  "evidence_artifact": "records/evidence/2026-11-16-nothumansearch-public-receipt.json",
+  "recorded_at": "2026-11-16T21:58:44+08:00",
+  "public_detail_verified": true,
+  "search_api_total": 0,
+  "evidence_url": "https://nothumansearch.ai/site/pettenderly.com",
+  "resubmitted": false
+}

@@ -1,0 +1,5 @@
+{
+  "value": "<a href=\"https://indiehunt.io/project/pettenderly\" target=\"_blank\" rel=\"noopener\">\n  <img src=\"https://indiehunt.io/badges/indiehunt-badge-light.svg\" alt=\"Featured on IndieHunt\" width=\"265\" height=\"58\" />\n</a>",
+  "matches_n": 1,
+  "match_level": "exact"
+}

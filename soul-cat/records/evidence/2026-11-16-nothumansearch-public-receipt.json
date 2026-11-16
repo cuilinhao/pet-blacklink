@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-11-16T21:58:44+08:00",
+  "evidence_type": "root_native_cua_submission_plus_independent_public_get",
+  "submission_source": "Root native CUA single submission; original crawl checkpoint retained.",
+  "public_verification_source": "/root/new20_candidates ordinary unauthenticated public GET, explicitly accepted by root for final count. Records agent did not browse.",
+  "source_key": "success-1104-daohang-613-final.csv::nothumansearch.ai::nothumansearch.ai",
+  "platform": "nothumansearch.ai",
+  "original_csv_url": "https://nothumansearch.ai",
+  "resolves_checkpoint": "records/evidence/2026-11-16-nothumansearch-root-cua-checkpoint.json",
+  "submission_attempts": 1,
+  "new_submission_or_retry_performed": false,
+  "public_url": "https://nothumansearch.ai/site/pettenderly.com",
+  "http_status": 200,
+  "h1": "AI Pet Portrait Generator | Pettenderly",
+  "target_href": "https://pettenderly.com",
+  "target": "_blank",
+  "rel": "noopener",
+  "nofollow_sponsored_ugc_present": false,
+  "canonical": "https://nothumansearch.ai/site/pettenderly.com",
+  "robots_meta": "Not present",
+  "search_api_check": {
+    "url": "https://nothumansearch.ai/api/v1/search?q=pettenderly",
+    "http_status": 200,
+    "total": 0,
+    "results": [],
+    "access": "free"
+  },
+  "limit": "Public detail page and target backlink verified; internal search still0, so search/index discoverability is not claimed.",
+  "placement_type": "Public website crawl/AI-readiness profile, not editorial recommendation",
+  "status": "public",
+  "counted": true,
+  "additional_20_index": 20,
+  "screenshots": [],
+  "additional_root_native_verification": {
+    "url": "https://nothumansearch.ai/site/pettenderly.com",
+    "h1": "AI Pet Portrait Generator | Pettenderly",
+    "direct_link_label": "pettenderly.com",
+    "direct_href": "https://pettenderly.com/",
+    "score": "30/100",
+    "cua_completion_summary_reported": true
+  },
+  "upstream_metadata_mismatch": {
+    "observed_crawled_llms_claim": "Launched August2025",
+    "user_confirmed_product_launch": "2026-10",
+    "handling": "Recorded as an upstream metadata mismatch only; website not modified and no resubmission."
+  }
+}

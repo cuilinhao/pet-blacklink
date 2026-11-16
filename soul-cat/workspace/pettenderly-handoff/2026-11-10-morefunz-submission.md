@@ -1,0 +1,21 @@
+# MoreFunz — submitted, pending review
+
+- Source key: `success-1104-daohang-613-final.csv::morefunz.com::morefunz.com`
+- Observed at: 2026-11-10T15:22:02.074198+08:00
+- Current URL: https://morefunz.com/submit-url
+- Exact receipt: **Thank You. The submission is sent!**
+- Submit button clicked exactly once. Receipt confirmed. No resubmission.
+- Status: submitted / pending editorial review, not a verified public listing. FAQ says checking could take a week and results are not reported.
+- Native directory searches performed first for `Pettenderly` and `pettenderly.com`; both returned **Search result empty!** Search navigation was slow, but each result was read before proceeding; neither search was repeated.
+- Live FAQ: “Do you accept the new websites? What rules?” / “Yes. Any website can participate in our web directory.”
+- Live freeform submission form had no age field, age attestation, or mandatory >=1-year eligibility confirmation. No date or age was invented or claimed. Prior how-to/FAQ conflict remains documented in original research handoff; submission followed explicitly authorized live-form criterion.
+- Selected actual catalog: **Shopping > Visual Arts > Portraits From Photos**; displayed path `/shopping/visual-arts/portraits-from-photos/`.
+- Site name: Pettenderly
+- URL: https://pettenderly.com/
+- Exact description (264 characters): Pettenderly is an online AI pet portrait studio. Upload one to five photos of the same pet, choose a style such as watercolor or Royal Nobility, and download the result. Each successful image uses one credit. Buy a credit pack or subscribe for a monthly allowance.
+- Authorized contact name and email filled as provided in task.
+- Privacy Statement read; normal required privacy checkbox checked.
+- Optional paid-listing checkbox remained unchecked (verified before submit). All optional text fields blank. No newsletter, payment, signup, badge, reciprocal link, outreach, site edit, internal API access, or other-platform retry.
+- No captcha shown.
+- PNG: /workspace/pettenderly-handoff/2026-11-10-morefunz-evidence/submission-receipt.png
+- No ledger updates performed. Original research handoff preserved.

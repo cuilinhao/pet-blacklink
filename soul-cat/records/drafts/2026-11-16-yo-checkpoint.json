@@ -1,0 +1,16 @@
+{
+  "platform": "yo.directory",
+  "source_key": "success-1104-daohang-613-final.csv::yo.directory::yo.directory",
+  "last_observed_url": "https://yo.directory/",
+  "target_form": "https://yo.directory/submit",
+  "browser_profile": "Sadik (guillpern@gmail.com)",
+  "observations": [
+    "Verified visible Sadik Chrome profile",
+    "Searched Pettenderly; No matching tools found.",
+    "Clicked Submit navigation link; then Chrome foreground changed to LinHao SEO Agent window.",
+    "No product fields entered, no final submission, no account consent performed."
+  ],
+  "status": "waiting_browser_availability",
+  "next_action": "After user confirms computer availability, switch to Sadik using visible Chrome window/profile menu, inspect existing Yo tab actual URL and continue without a new duplicate submission.",
+  "ordinary_cursor": "success-1104-daohang-613-final.csv::somuch.com::somuch.com"
+}

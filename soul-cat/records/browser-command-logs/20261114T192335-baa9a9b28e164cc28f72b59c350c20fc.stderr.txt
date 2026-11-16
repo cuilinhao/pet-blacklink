@@ -1,0 +1,2 @@
+✖  [stale_ref] ref=193 was <div>"Pettenderly turns everyday pet" but now points to <div>
+✖  Hint: The page has changed since the last snapshot. Re-run `opencli browser state` to refresh.

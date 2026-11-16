@@ -1,0 +1,23 @@
+{
+  "platform": "toolhunter.ai",
+  "url": "https://toolhunter.ai/profile?tab=submissions&action=new",
+  "status": "pending review",
+  "fields": {
+    "name": "Pettenderly",
+    "website": "https://pettenderly.com/",
+    "one_liner": "Turn one to five photos of your cat or dog into downloadable AI portraits, with watercolor, royal and studio styles.",
+    "category": "Image Generator",
+    "pricing": "Paid",
+    "pricing_notes": "$4.99 one-time for 12 credits; Pro $9.90/month for 40 monthly credits. One successful image uses one credit.",
+    "target_audience": "Cat and dog owners who want downloadable digital portraits and pet keepsakes. The studio offers portrait styles, plus beta tools for combining person and pet photos or editing an existing image. Generated details can vary; it does not sell physical prints.",
+    "relationship": "Other",
+    "email": "support@soulpaw.art",
+    "public_contact": "support@soulpaw.art",
+    "name_contact": "Sadık Yenıce",
+    "logo": "assets/logos/pettenderly-logo-512.png",
+    "screenshot": "assets/screenshots/pettenderly-home-en.jpg",
+    "socials": "not provided; optional",
+    "affiliate": false
+  },
+  "receipt": "Thanks — we are taking a look. Pettenderly needs a quick human review before the badge step; email followup within a few days."
+}

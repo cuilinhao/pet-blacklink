@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-11-16T21:08:08+08:00",
+  "evidence_type": "root_native_cua_mailbox_observation_transcript",
+  "source_key": "success-1104-daohang-613-final.csv::topfreeaitools.com::topfreeaitools.com",
+  "observed_dsn_date": "Nov14",
+  "recipient": "support@topfreeaitools.com",
+  "observed_error": "Address not found",
+  "smtp_code": "550",
+  "notification_sent": true,
+  "notification_delivered": false,
+  "notification_delivery_state": "bounced",
+  "listing_status_retained": "pending review",
+  "no_resend_performed": true,
+  "new_count": false,
+  "screenshots": []
+}

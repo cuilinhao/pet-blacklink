@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-11-16T20:56:44+08:00",
+  "evidence_type": "root_native_cua_checkpoint_transcript",
+  "provenance_limit": "Root native CUA observations transcribed locally; no screenshot or independent browser verification.",
+  "source_key": "supplemental-free-2026-11-16.csv::thenextai.com::thenextai.com",
+  "platform": "thenextai.com",
+  "original_csv_url": "https://thenextai.com/",
+  "form_url": "https://www.thenextai.com/submit-ai-tool/",
+  "observed_fields": {
+    "category": "Image Generation",
+    "product_pricing": "Paid",
+    "directory_plan": "Free Basic"
+  },
+  "observed_checkpoint": "Quickcheck 5+5 shown; not solved. Root requested user action-time confirmation for verification.",
+  "status": "deferred",
+  "reason": "pending_user_verification",
+  "product_submission_sent": false,
+  "counted": false,
+  "resume_instruction": "Resume this exact prepared form only after the current verification checkpoint is resolved. Do not restart or blindly submit.",
+  "terms_checkbox_observed": false,
+  "screenshots": []
+}
