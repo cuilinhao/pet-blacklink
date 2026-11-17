@@ -23,7 +23,7 @@ from zoneinfo import ZoneInfo
 
 WEBSITE = "Pettenderly"
 SOURCE = "success_platform_01.csv"
-ALLOWED_CSVS = ('success-1103-image-generator-blog-comment-100-2026-11-03.csv', 'success-1104-daohang-613-final.csv', 'success-外链网站合并去重_2026-11-05.csv', 'success_platform_001.csv', 'success_platform_01.csv', 'success_platform_02.csv', 'success_platform_02_queue.csv')
+ALLOWED_CSVS = ('success-1103-image-generator-blog-comment-100-2026-11-03.csv', 'success-1104-daohang-613-final.csv', 'success-外链网站合并去重_2026-11-05.csv', 'success_platform_001.csv', 'success_platform_01.csv', 'success_platform_02.csv', 'success_platform_02_queue.csv', 'supplemental-free-2026-11-16.csv')
 HEADERS = (
     "website", "csv", "source_key", "platform", "platform_url", "state",
     "last_status", "last_attempted", "evidence_url", "notes",
