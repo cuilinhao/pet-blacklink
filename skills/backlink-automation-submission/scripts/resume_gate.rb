@@ -205,7 +205,7 @@ def platform_identity(url)
 end
 
 def load_progress_rows(progress_path, website)
-  table = CSV.read(progress_path, headers: true, encoding: "bom|utf-8")
+  table = CSV.parse(File.read(progress_path, encoding: "bom|utf-8").gsub("\r\n", "\n"), headers: true)
   headers = table.headers.compact
 
   if (CANONICAL_PROGRESS_HEADERS - headers).empty?
@@ -295,10 +295,9 @@ def normalized_row_type(value)
 end
 
 def load_active_queue(active_csv_path)
-  rows = CSV.read(
-    active_csv_path,
+  rows = CSV.parse(
+    File.read(active_csv_path, encoding: "bom|utf-8").gsub("\r\n", "\n"),
     headers: true,
-    encoding: "bom|utf-8",
     skip_lines: /\A\s*(?:表格 1|supplemental-free-2026-11-16)\s*\z/
   )
   headers = rows.headers.compact

@@ -50,6 +50,15 @@ Dir.mktmpdir("backlink-resume-gate-test-") do |workspace|
   )
   assert(stdout.include?("next_link_format=html"), "sample metadata output missing")
 
+  # Git checkout and atomic writes can leave mixed LF/CRLF on Windows.
+  original_queue = File.binread(sample_csv)
+  File.binwrite(sample_csv, original_queue.gsub(/\r?\n/, "\n").sub("\n", "\r\n"))
+  File.binwrite(progress_path, PROGRESS_HEADER.sub("\n", "\r\n"))
+  stdout, stderr, status = run_gate(workspace, "gefei0810.csv")
+  assert(status.success?, "mixed Windows line endings should pass: #{stderr}")
+  assert(stdout.include?("active_total_rows=2"), "mixed line endings changed queue rows")
+  File.binwrite(sample_csv, original_queue)
+
   File.write(
     progress_path,
     PROGRESS_HEADER +
