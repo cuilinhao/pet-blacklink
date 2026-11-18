@@ -31,17 +31,19 @@
     {
       "source_key": "supplemental-free-2026-11-16.csv::hackmd.io::hackmd.io",
       "url": "https://hackmd.io/login",
-      "tab_id": "1919365866",
-      "state": "awaiting actual user terms answer; Root already relayed; do not re-ask"
+      "state": "Actual user answer pending. Root relayed. Checkpoint saved; task tab closed. Reopen official URL only after actual answer; no re-ask, acceptance, or elapsed-time approval.",
+      "last_task_tab_id": "1919365866",
+      "task_tab_closed": true
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::gitbook.com::gitbook.com",
       "url": "https://app.gitbook.com/",
-      "tab_id": "1919365877",
-      "state": "awaiting actual user terms answer"
+      "state": "Actual user answer pending. Root relayed. Checkpoint saved; task tab closed. Reopen official URL only after actual answer; no re-ask, acceptance, or elapsed-time approval.",
+      "last_task_tab_id": "1919365877",
+      "task_tab_closed": true
     }
   ],
-  "browser_task_tabs_retained": 2,
+  "browser_task_tabs_retained": 0,
   "new_draft_queue_authorized": false,
   "gate_returncode": 2,
   "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=706\nhistorical_counted_rows=152\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
@@ -53,5 +55,8 @@
     "calameo.com"
   ],
   "real_user_hackmd_answer": "pending - Root has relayed; do not accept or re-ask",
-  "real_user_gitbook_answer": "pending - Root has relayed; do not accept or re-ask"
+  "real_user_gitbook_answer": "pending - Root has relayed; do not accept or re-ask",
+  "task_page_cleanup_verified": true,
+  "unrelated_user_tabs_closed": false,
+  "patreon_deferral_actor": "agent risk judgment, not explicit user refusal or a user-stated blanket preference"
 }

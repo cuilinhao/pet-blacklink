@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-19",
+  "target": "https://pettenderly.com/",
+  "active_csv": "supplemental-free-2026-11-16.csv",
+  "checkpoints": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::hackmd.io::hackmd.io",
+      "url": "https://hackmd.io/login",
+      "last_task_tab_id": "1919365866",
+      "terms_url": "https://hackmd.io/s/terms",
+      "privacy_url": "https://hackmd.io/s/privacy",
+      "draft": "copy/pettenderly-hackmd-guide-draft-2026-11-19.md",
+      "screenshot": "records/evidence/2026-11-19-windows/hackmd-terms-checkpoint.jpg",
+      "real_user_answer": "pending",
+      "root_relayed": true,
+      "accepted": false,
+      "submitted": false,
+      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; do not infer approval from time or re-ask same question.",
+      "task_tab_closed": true
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::gitbook.com::gitbook.com",
+      "url": "https://app.gitbook.com/",
+      "last_task_tab_id": "1919365877",
+      "terms_url": "https://policies.gitbook.com/terms",
+      "privacy_url": "https://policies.gitbook.com/privacy-and-security/statement",
+      "draft": "copy/pettenderly-gitbook-resource-draft-2026-11-19.md",
+      "screenshot": "records/evidence/2026-11-19-windows/gitbook-terms-checkpoint.jpg",
+      "real_user_answer": "pending",
+      "root_relayed": true,
+      "accepted": false,
+      "submitted": false,
+      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; Free only, no billing; do not infer approval from time or re-ask same question.",
+      "task_tab_closed": true
+    }
+  ],
+  "page_cleanup": "Verified: closed only task-owned HackMD1919365866 and GitBook1919365877 after recording; task browser tabs list is empty. No unrelated user tabs were closed. No live immediate user-only handoff was underway."
+}

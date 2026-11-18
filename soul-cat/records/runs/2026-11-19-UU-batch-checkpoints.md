@@ -60,3 +60,8 @@ TYY广告已由Root关闭；Windows确认三字段弹窗由12美元FastTrack按�
 
 
 后续3项：Taplink规则1.15排除SEO外链建设；Evernote最新No spam限制未批准商业活动/外站导流；Naya仅密码登录/注册待用户新凭据交接且发布规则待确认，照片准备指南草稿已存。Calameo已核实不重试。Root已转交HackMD和GitBook，两项真实用户答复均待；仍保留原两标签、今日5/20缺15。
+
+
+## 当前最终清理状态（覆盖此前保留活页说明）
+
+Patreon延后仅代理风险判断，非用户拒绝/永久许可一概排除偏好，已修正所有当前台账快照。三项最新结果保留。HackMD/GitBook真实答复均待，精确key/URL/协议/草稿/截图保存pending-terms-checkpoints.json；只关闭本任务两登录页，扩展任务标签为空，不动其他用户标签。收到实际答复才从官方URL恢复，旧tab id仅历史。今日5/20，缺15；gate覆盖耗尽不等于完成20。
