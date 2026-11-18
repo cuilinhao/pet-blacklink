@@ -20,3 +20,11 @@ Windows已暂停全部浏览器动作，仅保留任务标签1919365814，about:
 - AIS Hub：Root原生Chrome精确www.ais-hub.com/submit实际ERR_CONNECTION_CLOSED。Windows保存错误截图；不再重试。Root根域另见加密投资服务仅为转交的只读信息，不冒称Windows独立核实该业务。
 
 无正式新回执，今日公开0/待审1/正式接收1/排期0，累计2/20、缺18；不启用补充草案，不重投7项旧回执不明条目，不回填Nov18。
+
+
+## Root后续原生核实结果（取代上表1–5待核实状态）
+
+- Root已通过UU逐个在Windows原生地址栏核实上表1–5的准确URL，最终均ERR_CONNECTION_CLOSED；无提交。不是全网永久死站。五项不再待原生导航诊断，不再请求重复打开。
+- Toolnest及Shipyard尚未Root原生诊断，上表6–7事实保持不变。
+- Yoomark本次验证码许可已得到且Root完成，当前signin免密码邮箱入口；四项新协议尚未接受。当前真实障碍为禁止自动化投稿条款及关联Yooadv地域/赔偿等条件，不再写成缺验证码许可。详见2026-11-19-yoomark-terms-review.md，建议跳过，不再为常规验证码重复询问。
+- 当前Windows浏览器已暂停，仅保留Yoomark登录页标签1919365814，未填邮箱或Continue。Root可按真实未诊断项6–7继续正常UI诊断，不动安全/代理/证书设置。
