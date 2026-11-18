@@ -57,3 +57,6 @@ TYY广告已由Root关闭；Windows确认三字段弹窗由12美元FastTrack按�
 本批18个原CSV精确key复核，CoderLegion待审+Google Sites公开，今日5/20缺15。HackMD与GitBook新协议最终检查点各保留一个任务页，浏览器扩展能读准确URL及控件；不是原生URI故障。不再重启浏览器。Root已转交HackMD，答案仍待实际用户；GitBook问题及公开FAQ已准备。任何旧TYY/OpenPedia/Mwmbl或五站TLS问题不再重试。其他本批阻塞见product-publishing-recovery-batch.csv。
 
 当前实际标签：HackMD 1919365866；GitBook 1919365877。两页保留等待实际新协议答复，其他本批任务页已关闭。
+
+
+后续3项：Taplink规则1.15排除SEO外链建设；Evernote最新No spam限制未批准商业活动/外站导流；Naya仅密码登录/注册待用户新凭据交接且发布规则待确认，照片准备指南草稿已存。Calameo已核实不重试。Root已转交HackMD和GitBook，两项真实用户答复均待；仍保留原两标签、今日5/20缺15。
