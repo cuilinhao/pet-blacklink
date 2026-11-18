@@ -11,3 +11,7 @@
 - Git 提交标题和正文使用中文；本次只准备本地资料，不自动提交或推送。
 
 - 本目录名保留 `soul-cat`，当前推广主体为 Pettenderly。旧 SoulPaw 文案、图片、提交记录和内部资料已归档在 `backups/soulpaw-before-pettenderly-20261106-094855/`，不要把旧站历史改成新站成功记录。原有受保护账号台账保留在 `records/account-credentials.md`，不得进入公开资料包。
+
+## 本用户 Windows 接续指引
+
+- Windows本任务每次接续先读 `C:\Users\Lenovo\.codex\context\Pettenderly_Windows_Task_Guide.md`，使用本用户最新授权与减少打扰偏好；常规进展不作为确认问题，已回答同范围事项不重复询问。该本机文件不包含可继承给其他操作者的授权。
