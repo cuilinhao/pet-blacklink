@@ -28,3 +28,10 @@ Windows已暂停全部浏览器动作，仅保留任务标签1919365814，about:
 - Toolnest及Shipyard尚未Root原生诊断，上表6–7事实保持不变。
 - Yoomark本次验证码许可已得到且Root完成，当前signin免密码邮箱入口；四项新协议尚未接受。当前真实障碍为禁止自动化投稿条款及关联Yooadv地域/赔偿等条件，不再写成缺验证码许可。详见2026-11-19-yoomark-terms-review.md，建议跳过，不再为常规验证码重复询问。
 - 当前Windows浏览器已暂停，仅保留Yoomark登录页标签1919365814，未填邮箱或Continue。Root可按真实未诊断项6–7继续正常UI诊断，不动安全/代理/证书设置。
+
+
+## Toolnest / Shipyard 原生诊断已完成：最新覆盖状态
+
+- Toolnest不再是尚未原生诊断：指定账号单次点击后已进入Google基本资料授权页（toolnest-494e5.firebaseapp.com，姓名/头像/liu827274邮箱），旧Loading已解决。Root已提出本次具体授权，Continue未点。等待该答复，不重复询问或重启；保留原生popup和Toolnest页。
+- Shipyard不再是尚未原生诊断：新页进入投稿入口回login，单次Google点击90秒后仍login、按钮禁用，无chooser/callback；本次没有选择账号。Root已关闭新Shipyard页，不再重复点击。
+- Windows全部浏览器暂停，只本地日志和push。当前2/20；没有新回执。
