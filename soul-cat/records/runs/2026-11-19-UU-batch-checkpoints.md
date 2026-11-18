@@ -69,3 +69,9 @@ Patreon延后仅代理风险判断，非用户拒绝/永久许可一概排除偏
 
 ## 四站后续检查
 Magic.ly/mssg.me免费注册新协议集中待答；FC2密码/验证码/站方reCAPTCHA配额问题；TNTCode根页读取超时未确认目标资料。0新提交。全部任务页已关闭，恢复URL/草稿/截图见pending-terms-checkpoints.json。不要重复HackMD/GitBook待答问题。
+
+
+### TNTCode Root UU原生搜索补证
+
+- 精确key：`supplemental-free-2026-11-16.csv::domains.tntcode.com::tntcode.com`。补充Root转交的Windows UU原生实际观察（非本代理扩展截图）：新标签打开https://domains.tntcode.com/，正确输入pettenderly.com并单击Search一次；等待80秒仍转圈且展示旧域名列表，无目标结果、资料页或官网链接。Root仅关闭此次新诊断页，保留其所述原两页；本代理没有操作或宣称关闭这些原页，当前活页清单未另行读取。此前扩展读取超时已由此次真实UI搜索挂起补证，不能再只写未原生核实。0投稿、0回执，不重复搜索、不判全网永久失效。所有真实用户协议答复仍pending，不接受或重问。
+- 今日仍5/20：公开1、待审3、正式接收1，缺15；本次新增0。先前本代理任务标签清理为空仅是当时事实，不代表此后Root保留的两页已关闭。

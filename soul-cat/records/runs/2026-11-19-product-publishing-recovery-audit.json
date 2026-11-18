@@ -112,5 +112,18 @@
     "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
     "supplemental-free-2026-11-16.csv::fc2.com::fc2.com",
     "supplemental-free-2026-11-16.csv::domains.tntcode.com::tntcode.com"
-  ]
+  ],
+  "tntcode_native_followup": {
+    "source_key": "supplemental-free-2026-11-16.csv::domains.tntcode.com::tntcode.com",
+    "evidence_source": "Root relayed UU native observation",
+    "url": "https://domains.tntcode.com/",
+    "search_clicks": 1,
+    "wait_seconds": 80,
+    "result": "spinner and unchanged old rows; no target result/profile/link",
+    "new_submissions": 0,
+    "root_closed_only_new_diagnostic_tab": true,
+    "root_reported_original_tabs_retained": 2,
+    "current_live_tab_inventory": "not independently read this followup",
+    "all_real_user_agreement_answers": "pending"
+  }
 }
