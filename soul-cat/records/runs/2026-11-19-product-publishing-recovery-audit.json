@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-19",
+  "website": "Pettenderly",
+  "target": "https://pettenderly.com/",
+  "branch": "report-2026-11-17",
+  "previous_daily": "2026-11-18.md",
+  "previous_counted": 9,
+  "previous_new_sends": 8,
+  "previous_old_confirmation": 1,
+  "before_batch_commit": "f9bab4a",
+  "before_batch_new_count": 3,
+  "active_csv": "supplemental-free-2026-11-16.csv",
+  "saved_cursor_before": "EXHAUSTED",
+  "global_unique_source_keys": 706,
+  "queue_rows": 371,
+  "history_coverage_direct": 366,
+  "history_coverage_other_csv": 5,
+  "batch_reviewed_source_keys": 18,
+  "batch_new_submissions": 2,
+  "batch_old_confirmations": 0,
+  "today_new_count": 5,
+  "public": 1,
+  "pending_review": 3,
+  "formal_received": 1,
+  "scheduled": 0,
+  "goal": 20,
+  "gap": 15,
+  "deferred_rows": 105,
+  "next_cursor": "EXHAUSTED - coverage only, not goal complete",
+  "next_checkpoints": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::hackmd.io::hackmd.io",
+      "url": "https://hackmd.io/login",
+      "tab_id": "1919365866",
+      "state": "awaiting actual user terms answer; Root already relayed; do not re-ask"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::gitbook.com::gitbook.com",
+      "url": "https://app.gitbook.com/",
+      "tab_id": "1919365877",
+      "state": "awaiting actual user terms answer"
+    }
+  ],
+  "browser_task_tabs_retained": 2,
+  "new_draft_queue_authorized": false,
+  "gate_returncode": 2,
+  "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=706\nhistorical_counted_rows=152\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
+  "gate_stderr": "ERROR: no unprocessed candidate remains in supplemental-free-2026-11-16.csv"
+}

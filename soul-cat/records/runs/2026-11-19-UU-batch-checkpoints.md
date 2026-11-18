@@ -50,3 +50,10 @@ Root新页完整加载后收广告/滚动，精确tools/submit只剩标题和免
 ## 最新已完成检查点
 
 TYY广告已由Root关闭；Windows确认三字段弹窗由12美元FastTrack按钮打开，未填未提交，无独立免费证据，停止该付费路线并关闭任务页。OpenPedia旧免费页实际404、当前发布29美元黑五26.10，未付款。Mwmbl本轮延后为Root执行判断，不再等用户密码/条款答复；当前任务页均清理，3/20缺17。
+
+
+## 最新产品发布批次（覆盖3/20及“任务页全清”旧说明）
+
+本批18个原CSV精确key复核，CoderLegion待审+Google Sites公开，今日5/20缺15。HackMD与GitBook新协议最终检查点各保留一个任务页，浏览器扩展能读准确URL及控件；不是原生URI故障。不再重启浏览器。Root已转交HackMD，答案仍待实际用户；GitBook问题及公开FAQ已准备。任何旧TYY/OpenPedia/Mwmbl或五站TLS问题不再重试。其他本批阻塞见product-publishing-recovery-batch.csv。
+
+当前实际标签：HackMD 1919365866；GitBook 1919365877。两页保留等待实际新协议答复，其他本批任务页已关闭。
