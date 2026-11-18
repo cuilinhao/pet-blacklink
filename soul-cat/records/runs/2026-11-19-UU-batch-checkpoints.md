@@ -65,3 +65,7 @@ TYY广告已由Root关闭；Windows确认三字段弹窗由12美元FastTrack按�
 ## 当前最终清理状态（覆盖此前保留活页说明）
 
 Patreon延后仅代理风险判断，非用户拒绝/永久许可一概排除偏好，已修正所有当前台账快照。三项最新结果保留。HackMD/GitBook真实答复均待，精确key/URL/协议/草稿/截图保存pending-terms-checkpoints.json；只关闭本任务两登录页，扩展任务标签为空，不动其他用户标签。收到实际答复才从官方URL恢复，旧tab id仅历史。今日5/20，缺15；gate覆盖耗尽不等于完成20。
+
+
+## 四站后续检查
+Magic.ly/mssg.me免费注册新协议集中待答；FC2密码/验证码/站方reCAPTCHA配额问题；TNTCode根页读取超时未确认目标资料。0新提交。全部任务页已关闭，恢复URL/草稿/截图见pending-terms-checkpoints.json。不要重复HackMD/GitBook待答问题。

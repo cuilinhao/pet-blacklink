@@ -32,7 +32,37 @@
       "submitted": false,
       "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; Free only, no billing; do not infer approval from time or re-ask same question.",
       "task_tab_closed": true
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::magic.ly::magic.ly",
+      "url": "https://magic.ly/onboarding",
+      "terms_url": "https://magic.ly/terms",
+      "privacy_url": "https://magic.ly/privacy",
+      "acceptable_use_url": "https://magic.ly/acceptable-use",
+      "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
+      "screenshot": "records/evidence/2026-11-19-windows/magicly-registration-checkpoint.jpg",
+      "real_user_answer": "pending",
+      "root_relayed": false,
+      "accepted": false,
+      "submitted": false,
+      "task_tab_closed": true,
+      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
+      "url": "https://next.mssg.me/auth/signup",
+      "terms_url": "https://www.mssg.me/terms-of-use",
+      "privacy_url": "https://www.mssg.me/privacy-policy",
+      "acceptable_use_url": null,
+      "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
+      "screenshot": "records/evidence/2026-11-19-windows/mssg-registration-checkpoint.jpg",
+      "real_user_answer": "pending",
+      "root_relayed": false,
+      "accepted": false,
+      "submitted": false,
+      "task_tab_closed": true,
+      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
     }
   ],
-  "page_cleanup": "Verified: closed only task-owned HackMD1919365866 and GitBook1919365877 after recording; task browser tabs list is empty. No unrelated user tabs were closed. No live immediate user-only handoff was underway."
+  "page_cleanup": "Verified current four-site inspection ended with zero task tabs; only task-owned Magic.ly/mssg.me/FC2/TNTCode pages closed. Unrelated user tabs preserved."
 }
