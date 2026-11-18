@@ -53,3 +53,13 @@
 
 - Fundl免费项目创建成功，专属URL https://www.fundl.us/projects/pettenderly ，含官网链接；先记正式创建而非已证实匿名公开，无融资/支付/统计账号连接。今日9/20（公开1、待审3、接收4、排期1），缺11；两天有效回执17，公开外链仍2。
 - 今日尚未核对的18条已分别实际核查或明确仅台账分流；媒体未核实免费入口、工具安全策略、真实身份资料及旧回执不明仍是不同阻塞，不能笼统称全收费。详见最新current-blockers.csv。
+
+
+### 继续补足20份：两项原清单表单恢复与新候选具体草案
+
+- 今日仍9/20，缺11；公开1、待审3、正式接收4、排期1。其中8份今日新提交，ToolTrove为旧投稿今日补确认，不混为9份新发送。本轮新增0。
+- Chrome扩展正常识别directory.llmstxt.cloud/submit及sonicrun.com/freelisting.html，已重新核实表单内容。两页为仅保留的任务投稿页；未点击最终提交、SonicRun条款未勾选。当前工具要求绑定协议当场确认，已将两个具体条款检查点集中提出一次，未把展示问题视为授权。原精确source_key状态保持deferred，不制造新回执。
+- LLMS免费nofollow，1–3个月审核，llms.txt须有效，法国法/波尔多法院；SonicRun免费约30天，需邮件确认，并自动提供可退订的FreeWebMonitoring免费账户/订阅。两份可复查截图llmstxt-current-ready.jpg与sonicrun-current-ready.jpg已保存。
+- 按用户最新指示独立准备 records/runs/2026-11-18-new-candidates-DRAFT.csv 和同名.md：优先6站NavTools、Best of AI、ShowMeBest、Altern、YAATD、AI Kaptan有官方免费说明；6站条件未解决，3站明确排除。EveryAI命中全局历史而排除，GPTBot/AIDust当前官方收费而排除，不能照旧免费目录盲投。
+- 草案未改原CSV，未写正式投稿台账，未对新候选填表或发送。已将6站具体新增范围集中询问一次，等待用户确认才可执行。706唯一source_key及现有soul-cat/platforms可用CSV检查未见这6站；合伙人未同步认领未知，不作保证。付款、强制徽章、身份缺失继续排除，AI Kaptan普通免费外链属性仍需现场核实。
+- git fetch确认当前原分支与origin一致；没有机械重试371行、没有重投不明回执、没有把候选草案当成功。目标20尚未完成，现存两项绑定协议和补充范围待回答，不空转重试。
