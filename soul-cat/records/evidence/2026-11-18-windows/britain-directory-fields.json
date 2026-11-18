@@ -1,0 +1,57 @@
+[
+  {
+    "checked": false,
+    "name": "LINK_TYPE",
+    "value": "featured"
+  },
+  {
+    "checked": true,
+    "name": "LINK_TYPE",
+    "value": "normal"
+  },
+  {
+    "checked": false,
+    "name": "LINK_TYPE",
+    "value": "reciprocal"
+  },
+  {
+    "checked": false,
+    "name": "TITLE",
+    "value": "Pettenderly"
+  },
+  {
+    "checked": false,
+    "name": "URL",
+    "value": "https://pettenderly.com/"
+  },
+  {
+    "checked": false,
+    "name": "DESCRIPTION",
+    "value": "Pettenderly is an online AI pet portrait studio for cat and dog owners. Upload one to five photos of the same pet, choose a watercolor, royal or studio style, and download a digital portrait. The Starter Pack costs $4.99 for 12 non-expiring credits. Each successful image uses one credit. Failed generations do not consume credits. Beta features include portraits together and photo cleanup. Results may vary; physical prints are not included."
+  },
+  {
+    "checked": false,
+    "name": "META_KEYWORDS",
+    "value": "AI pet portraits, cat portraits, dog portraits"
+  },
+  {
+    "checked": false,
+    "name": "META_DESCRIPTION",
+    "value": "Create downloadable AI pet portraits from cat or dog photos with Pettenderly."
+  },
+  {
+    "checked": false,
+    "name": "OWNER_NAME",
+    "value": "Pettenderly"
+  },
+  {
+    "checked": false,
+    "name": "OWNER_EMAIL",
+    "value": "<redacted>"
+  },
+  {
+    "checked": false,
+    "name": "CATEGORY_ID",
+    "value": "390"
+  }
+]
