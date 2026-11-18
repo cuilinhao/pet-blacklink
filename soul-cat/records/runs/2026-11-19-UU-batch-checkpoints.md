@@ -35,3 +35,8 @@ Windows已暂停全部浏览器动作，仅保留任务标签1919365814，about:
 - Toolnest不再是尚未原生诊断：指定账号单次点击后已进入Google基本资料授权页（toolnest-494e5.firebaseapp.com，姓名/头像/liu827274邮箱），旧Loading已解决。Root已提出本次具体授权，Continue未点。等待该答复，不重复询问或重启；保留原生popup和Toolnest页。
 - Shipyard不再是尚未原生诊断：新页进入投稿入口回login，单次Google点击90秒后仍login、按钮禁用，无chooser/callback；本次没有选择账号。Root已关闭新Shipyard页，不再重复点击。
 - Windows全部浏览器暂停，只本地日志和push。当前2/20；没有新回执。
+
+
+## Toolnest已完成：不要继续登录诊断
+
+Root按当前具体许可Continue后登录成功；Windows核对My Tools无旧工具，免费单次提交已获3–5天审核回执，计Nov19第3份。旧Toolnest授权待答复/登录故障段落均为历史，不再有效。完成页已关闭，禁止重投。当前3/20、缺17。
