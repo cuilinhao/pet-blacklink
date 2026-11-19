@@ -53,17 +53,21 @@
         "https://alternativeto.net/about/privacy/",
         "https://alternativeto.net/about/cookie-policy/"
       ],
-      "accepted": false,
+      "accepted": true,
       "submitted": false,
-      "task_tab_closed": false,
+      "task_tab_closed": true,
       "user_terms_confirmed": true,
       "basic_google_confirmed": true,
-      "current_gate": "Root UU visible checkbox click required; browser paused",
+      "current_gate": "Agent eligibility judgment: insufficient evidence satisfying current FAQ differentiation criteria; no product submission",
       "current_url": "https://alternativeto.net/login/",
       "current_tab_id": "1919365930",
       "captcha_user_confirmed": true,
-      "captcha_completed": false
+      "captcha_completed": true,
+      "google_basic_completed": true,
+      "email_verified": true,
+      "brand_username": "pettenderly",
+      "user_reply_pending": false
     }
   ],
-  "latest_decision": "Current user approved AlternativeTo disclosed terms/basic Google only; ExactSeek/F6S skip this run; Krain eligibility unknown. New AlternativeTo CAPTCHA reply pending."
+  "latest_decision": "AlternativeTo authorization completed including Root CF, Google basic and visible Gmail; no product submitted due current FAQ eligibility agent judgment. ExactSeek/F6S user skipped this run; Krain eligibility unknown."
 }
