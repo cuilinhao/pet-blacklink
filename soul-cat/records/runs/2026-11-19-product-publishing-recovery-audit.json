@@ -16,16 +16,16 @@
   "history_coverage_direct": 367,
   "history_coverage_other_csv": 4,
   "batch_reviewed_source_keys": 29,
-  "batch_new_submissions": 5,
+  "batch_new_submissions": 6,
   "batch_old_confirmations": 0,
-  "today_new_count": 8,
-  "public": 4,
+  "today_new_count": 9,
+  "public": 5,
   "pending_review": 3,
   "formal_received": 1,
   "scheduled": 0,
   "goal": 20,
-  "gap": 12,
-  "deferred_rows": 107,
+  "gap": 11,
+  "deferred_rows": 106,
   "next_cursor": "EXHAUSTED - coverage only, not goal complete",
   "next_checkpoints": [
     {
@@ -75,16 +75,17 @@
       "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
       "accepted": true,
-      "submitted": false,
-      "task_tab_closed": false,
-      "resume_instruction": "Root requested native typing of this existing article; browser paused. No new article; no counting until real substantive body persists.",
-      "result": "Root UU用Tab/Return选择指定Google及仅基本姓名头像邮箱Continue后正常返回Choose your link，旧弹窗点击故障已解决，不再记登录失败或缺协议。Windows完成品牌pettenderly/App类别/80字符简介，跳过位置，并上传批准512品牌标志替换Google头像。官网链接及免费Article创建一次返回链接添加成功，然而真实公开文章正文只有空p/br，不能把空壳算实质外链。只编辑原linkId修复：fill与正常clipboard粘贴显示文本但保存后仍空；一次普通键盘pressSequentially操作超时、未将部分文字保存，不再重复同路。原文章https://magicly.bio/pettenderly/How-to-prepare-cat-and-dog-photos-for-Pettenderly-portraits；当前原编辑页标签1919365920保留供Root新原生输入路线，Windows已暂停全部浏览器动作。0有效新增，禁止新建文章/重复投/按profile链接凑数。截图magicly-native-article-edit-checkpoint.jpg、magicly-article-body-persistence-failure.jpg。",
+      "submitted": true,
+      "task_tab_closed": true,
+      "resume_instruction": "Completed counted public resource, do not resubmit or create another article. Previous login and body persistence blockers resolved.",
+      "result": "Completed: native input persisted by one Save Post, public article complete and resource hub has official clickable target link. Counted Nov19 once.",
       "actual_registration_url": "https://magicly.bio/onboarding",
       "last_task_tab_id": "1919365920",
       "google_popup_tab_id": null,
       "registered": true,
       "article_url": "https://magicly.bio/pettenderly/How-to-prepare-cat-and-dog-photos-for-Pettenderly-portraits",
-      "edit_url": "https://magicly.bio/pettenderly/edit-link?linkId=27ac30c0-e3c3-11f1-8859-193bf15de2f3"
+      "edit_url": "https://magicly.bio/pettenderly/edit-link?linkId=27ac30c0-e3c3-11f1-8859-193bf15de2f3",
+      "public_url": "https://magicly.bio/pettenderly"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
@@ -104,10 +105,10 @@
       "public_url": "https://7o4mj.mssg.me/"
     }
   ],
-  "browser_task_tabs_retained": 1,
+  "browser_task_tabs_retained": 0,
   "new_draft_queue_authorized": false,
   "gate_returncode": 2,
-  "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=707\nhistorical_counted_rows=155\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
+  "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=707\nhistorical_counted_rows=156\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
   "gate_stderr": "ERROR: no unprocessed candidate remains in supplemental-free-2026-11-16.csv",
   "followup_start_commit": "c1b2bfc",
   "followup_reviewed_source_keys": 3,
@@ -141,7 +142,7 @@
     "current_live_tab_inventory": "not independently read this followup",
     "all_real_user_agreement_answers": "pending"
   },
-  "current_four_checkpoint_new_count": 3,
+  "current_four_checkpoint_new_count": 4,
   "gitbook_public_not_counted": 0,
-  "browser_handoff": "Root requested native typing exact original Magic article; Windows paused"
+  "browser_handoff": "completed - Magic public body persisted, zero task tabs"
 }

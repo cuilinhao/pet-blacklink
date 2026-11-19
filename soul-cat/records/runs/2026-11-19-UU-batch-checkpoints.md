@@ -83,3 +83,10 @@ Root已明确接手，Windows暂停浏览器。1919365910 https://magicly.bio/on
 
 ## 当前原文章原生输入交接
 Magic Google已由Root解决。只保留1919365920，https://magicly.bio/pettenderly/edit-link?linkId=27ac30c0-e3c3-11f1-8859-193bf15de2f3 。公开文章空p/br，扩展fill/粘贴不持久化、普通键盘输入超时。Root要求原生键盘新路线，Windows全部浏览器暂停；禁止新建文章。当前8/20缺12，GitBookBasic免费已闭环。ExactSeek/F6S/Krain/AlternativeTo仅stage，不接受新条款；五站TLS无新恢复。
+
+
+### Magic原文章正文恢复完成
+
+- Root原生reload/当前页英文视图粘贴完整1.9KB正文后交回未保存状态。Windows核对完整公开产品事实，仅Save Post一次。打开原文章实际完整正文已持久化，资源主页含文章真实摘要/全文入口及可点击https://pettenderly.com/；文章内官网为文本，不混称超链接。计同域实质资源页一次，无新建/重投/付款。证据magicly-public-article-complete.jpg、magicly-public-resource-hub-complete.jpg。
+- 当前今日9/20：公开5、待审3、接收1、排期0，缺11；四项已确认检查点全部真实恢复，Magic旧登录/正文故障解决。ExactSeek/F6S/Krain/AlternativeTo仍只stage、新条款未接受，不自动沿用四项确认。
+- 已关闭原Magic任务页，扩展任务标签清单核实为空，保留用户其他会话。707唯一key，371/371历史覆盖不等于20，deferred106按具体条件恢复。
