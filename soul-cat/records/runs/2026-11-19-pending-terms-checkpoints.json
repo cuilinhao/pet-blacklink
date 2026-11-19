@@ -60,10 +60,12 @@
       "screenshot": "records/evidence/2026-11-19-windows/mssg-registration-checkpoint.jpg",
       "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
-      "accepted": false,
-      "submitted": false,
+      "accepted": true,
+      "submitted": true,
       "task_tab_closed": true,
-      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan."
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
+      "result": "public substantive guide",
+      "public_url": "https://7o4mj.mssg.me/"
     }
   ],
   "page_cleanup": "Verified current four-site inspection ended with zero task tabs; only task-owned Magic.ly/mssg.me/FC2/TNTCode pages closed. Unrelated user tabs preserved."
