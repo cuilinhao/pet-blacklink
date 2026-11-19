@@ -193,3 +193,13 @@
 - 原CSV范围保持，既有免费/无强制反链条件保持；付费、强制徽章、无关推广与历史重复不计数。
 - 已确认过的同一协议不重复询问；新协议仅保留当前工具必需的那一次确认。
 - 相关邮箱可自动核对；验证码、本人新密码、未提供的真实资料与明确安全拦截不是可以凭空补齐的内容。
+
+
+## Windows本轮具体复核：Blogarama、Naver（0新增）
+
+- Blogarama：官方首页明确免费博客收录；add-a-site/跳转app.blogarama.com/members后Windows Tabbit实际ERR_TIMED_OUT，仅一次，不再重复。截图records/evidence/2026-11-19-windows/blogarama-free-route-timeout.png。旧非目录排除已纠正为导航故障待恢复，未注册/未提交。
+- Naver：官方博客有宠物及产品评测类别，Google基本登录已推进真实注册ID页面；尚未Sign up或接受Naver协议。官方条款https://policy.naver.com/policy/service_en.html明确未经许可禁止自动化注册、登录及发帖，因此代理判断停止本轮，不归因于用户拒绝。隐私https://policy.naver.com/policy-mobile/privacy_en.html。未创建账号/发帖，0计数；任务页已关闭，用户Tabbit其他会话保留。
+- Amplibee：用户最新明确本轮跳过；先前Google400真实错误保留，许可已收到，不再列待答。
+- 今日仍10/20（公开6、待审3、接收1），缺10；没有新回执。全局707唯一key，原CSV371行覆盖；覆盖完不等于完成20。
+
+本轮更新后原CSV deferred实际100条；此前99为上轮快照，非可操作名额。
