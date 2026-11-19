@@ -11,12 +11,14 @@
       "privacy_url": "https://hackmd.io/s/privacy",
       "draft": "copy/pettenderly-hackmd-guide-draft-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/hackmd-terms-checkpoint.jpg",
-      "real_user_answer": "pending",
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
-      "accepted": false,
-      "submitted": false,
-      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; do not infer approval from time or re-ask same question.",
-      "task_tab_closed": true
+      "accepted": true,
+      "submitted": true,
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
+      "task_tab_closed": true,
+      "result": "public readable guide; not community feed",
+      "public_url": "https://hackmd.io/@pettenderly/B1qea0oAzg"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::gitbook.com::gitbook.com",
@@ -26,11 +28,11 @@
       "privacy_url": "https://policies.gitbook.com/privacy-and-security/statement",
       "draft": "copy/pettenderly-gitbook-resource-draft-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/gitbook-terms-checkpoint.jpg",
-      "real_user_answer": "pending",
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
       "accepted": false,
       "submitted": false,
-      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; Free only, no billing; do not infer approval from time or re-ask same question.",
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
       "task_tab_closed": true
     },
     {
@@ -41,12 +43,12 @@
       "acceptable_use_url": "https://magic.ly/acceptable-use",
       "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/magicly-registration-checkpoint.jpg",
-      "real_user_answer": "pending",
-      "root_relayed": false,
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
+      "root_relayed": true,
       "accepted": false,
       "submitted": false,
       "task_tab_closed": true,
-      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan."
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
@@ -56,12 +58,12 @@
       "acceptable_use_url": null,
       "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/mssg-registration-checkpoint.jpg",
-      "real_user_answer": "pending",
-      "root_relayed": false,
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
+      "root_relayed": true,
       "accepted": false,
       "submitted": false,
       "task_tab_closed": true,
-      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan."
     }
   ],
   "page_cleanup": "Verified current four-site inspection ended with zero task tabs; only task-owned Magic.ly/mssg.me/FC2/TNTCode pages closed. Unrelated user tabs preserved."
