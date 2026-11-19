@@ -19,13 +19,13 @@
   "batch_new_submissions": 7,
   "batch_old_confirmations": 0,
   "today_new_count": 10,
-  "public": 6,
-  "pending_review": 3,
+  "public": 7,
+  "pending_review": 2,
   "formal_received": 1,
   "scheduled": 0,
   "goal": 20,
   "gap": 10,
-  "deferred_rows": 103,
+  "deferred_rows": 100,
   "next_cursor": "EXHAUSTED - coverage only, not goal complete",
   "next_checkpoints": [
     {

@@ -203,3 +203,15 @@
 - 今日仍10/20（公开6、待审3、接收1），缺10；没有新回执。全局707唯一key，原CSV371行覆盖；覆盖完不等于完成20。
 
 本轮更新后原CSV deferred实际100条；此前99为上轮快照，非可操作名额。
+
+
+## Windows本轮原CSV持续恢复批次（8项，0新增回执）
+
+- 先核对b481af8、707唯一source_key及今日10/20；Shipyard精确key重开后resume_gate PASS，核实后已恢复deferred检查点，未留下unprocessed。
+- CoderLegion原今日待审投稿已在未登录Tabbit实页确认完整公开，两个链接均准确https://pettenderly.com/；截图coderlegion-public-confirmed.png。仅状态升级，不新增计数：今日10/20＝公开7、待审2、接收1，缺10。
+- AI Toolhouse实际submit→get-featured仍80美元；AIForEveryone实际submit-ai→submittool.ai/listing/aiforeveryone仍80/120美元，无免费档，未付款/提交。
+- HDRobots官方正式页仍9美元，公开details表不等于免费；AI Tools Club官方Promotion仍790/1200/2100美元月费。这两站为官方公开网页只读复核，未假称Windows浏览器访问。
+- AIG123真实站内搜索没有内容，不足证明旧发送失败；IAHunt真实Search AIs填产品名后要求登录，无法核对。两项继续unconfirmed，未重发，0新增。AIG123截图aig123-old-search-no-result.png。
+- Shipyard主页明确免费产品收录，Tabbit正式入口正常到登录；新条款/隐私已读并集中提交一次实际确认，尚无真实答复，不接受、不注册、不计数。保留唯一Shipyard任务页，其他核对页已关闭。截图shipyard-tabbit-login-ready.png，精确恢复见2026-11-19-shipyard-current-terms-checkpoint.json。
+- ChatFreeAI既有Root条款答复仍待，不另问；ShareYourStartup当前Root真人验证检查点与Windows旧故障区分。其余同故障、费用、徽章、身份缺失、工具安全阻止及旧不明回执不机械重试。原371行覆盖不等于达到20，未扩清单。
+- 澄清：Blogarama仅后端ERR_TIMED_OUT，并无证据表明识别/拦截自动化；Naver停止是代理依据官方自动化禁令作出的判断。
