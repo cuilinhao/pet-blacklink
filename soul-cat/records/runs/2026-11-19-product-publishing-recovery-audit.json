@@ -144,5 +144,14 @@
   },
   "current_four_checkpoint_new_count": 4,
   "gitbook_public_not_counted": 0,
-  "browser_handoff": "completed - Magic public body persisted, zero task tabs"
+  "browser_handoff": "completed - Magic public body persisted, zero task tabs",
+  "nov18_connection_recheck": "2026-11-19-nov18-connection-readonly-recheck.json",
+  "gitbook_official_research_actor": "Root, not end user",
+  "current_unaccepted_terms": [
+    "AlternativeTo",
+    "ExactSeek",
+    "F6S"
+  ],
+  "krain_eligibility": "unknown; no acceptance",
+  "task_tabs_open": 0
 }
