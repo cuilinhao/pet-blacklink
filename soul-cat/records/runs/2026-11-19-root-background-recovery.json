@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-19",
+  "observed_at_beijing": "2026-11-19 15:28",
+  "actor": "Root",
+  "browser": "ego-browser Mac background task space13; no activation or desktop input",
+  "csv": "supplemental-free-2026-11-16.csv",
+  "new_submissions": 0,
+  "today_total": 9,
+  "public": 5,
+  "pending_review": 3,
+  "formal_received": 1,
+  "gap": 11,
+  "observations": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::app.kit.com::kit.com",
+      "official_url": "https://app.kit.com/users/signup?plan=1k",
+      "status": "human-verification-required",
+      "counted": false,
+      "notes": "Root于Mac后台ego-browser任务专属空间单次检查官方signup?plan=1k。实际Turnstile iframe可见且持续正在验证，未出现注册字段；未点击/解决挑战、填表、注册或投稿。与Windows旧缺控件记录区分：这次有可见验证iframe，仍未通过。0新增。"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::leasedadspace.com::leasedadspace.com",
+      "official_url": "https://leasedadspace.com/adblog/",
+      "status": "spam-promotion-network",
+      "counted": false,
+      "notes": "Root于Mac后台ego-browser已实际恢复官方主页、register.php和/adblog/，纠正仅连接失败的旧结论。注册需真实名姓、邮箱、新密码确认及Human Test，无Google路线；未填任何字段。公开AdBlog主要为流量交换/点击积分/佣金与自动赚钱推广，本代理按白帽相关性与质量要求排除该推广网络；不是用户拒绝或站点永久故障。未注册/发文/付款，0新增。"
+    }
+  ],
+  "cleanup": "Task space13 finished with keep[]; no retained task tabs",
+  "calameo": "Latest Windows commit61b8269 records approved terms and prepared PDF, but native URL-confidence forced stop, zero upload/submission. No Root UI operation after stop instruction. No alternate tool used to evade this restriction.",
+  "scope": "Original CSV only; candidate research does not authorize new platforms. No new-platform forms or emails sent.",
+  "candidate_dedup_correction": {
+    "excluded_partner_csv": [
+      "navtools.ai",
+      "bestofai.io",
+      "showmebest.ai",
+      "altern.ai",
+      "yaatd.com",
+      "peerpush.net -> peerpush.com"
+    ],
+    "excluded_history": [
+      "aitools.inc"
+    ],
+    "note": "Exact domain plus known redirect alias checked against current local CSVs; partner unpublished work unknown. Do not execute the earlier six-site draft without rechecking allocation."
+  }
+}
