@@ -8,9 +8,9 @@
   "gap": 10,
   "results": {
     "amplibee.com": [
-      "legal-confirmation-required",
+      "google-oauth-bad-request",
       "https://amplibee.com/sign-in",
-      "本轮已获用户正常接管Tabbit范围，检查不同浏览器现有会话：未登录，指定邮箱填入后密码空；水合后真实Continue with Google出现，纠正旧email-password-only。Google当前真实弹窗window162534102账号选择可见指定邮箱，未选择/注册/继续。官方/terms和/privacy更新2026-10-10已完整读取；结果估计无排名收入保证、2次每日free checks不可绕限/骚扰；账号姓名邮箱投稿保留到请求删除，bot-check和邮件服务，Google资料邮箱姓名；隐私正文无analytics/cookies与Cookie横幅optional analytics/marketing不一致，已Reject all非必要cookie。官方launch免费人工审核链接已读；新协议本次工具强制确认已集中提出待真实答复，不沿用Calameo许可，不包含未来验证码。主Tabbit68822+Google162534102保留。证据amplibee-tabbit-google-ready.png，0新增。"
+      "本次用户在具体条款隐私披露后明确同意Amplibee terms/privacy+指定Google免费投稿，许可已收到，不再待答。Windows在保留Tabbit Google弹窗162534102真实选liu827274@gmail.com一次后，官方Google返回400 Bad Request：The server cannot process the request because it is malformed. It should not be retried. 没有到继续分享确认/平台登录/投稿表提交；本次0新增。未重放同请求、未改OAuth参数/换凭据/新密码/重置/付款，不把注册许可算回执。证据amplibee-google-400.png。仅关闭本任务Google弹窗和Amplibee页，原用户其余Tabbit标签保留；fresh AX确认无Amplibee/Calameo任务页。Root/用户许可保持有效，后续只能有明确新正常恢复条件才继续，当前不是缺同意。"
     ],
     "welcome.ai": [
       "existing-credential-unavailable",
@@ -34,9 +34,14 @@
     "https://amplibee.com/terms",
     "https://amplibee.com/privacy"
   ],
-  "amplibee_user_response_pending": true,
-  "amplibee_account_selected": false,
+  "amplibee_user_response_pending": false,
+  "amplibee_account_selected": true,
   "amplibee_submitted": false,
   "calameo_task_pages_closed": true,
-  "incidental_navigation": "Tabbit Ctrl+T defaulted focus to AI-chat input; public Amplibee URL was unintentionally sent as one low-impact query. No task/email/secret/credentials sent. Corrected by visible address-bar setValue then observed navigation; no reliance on generated answer. No other chat modified/deleted. Future new tabs use verified address-bar focus."
+  "incidental_navigation": "Tabbit Ctrl+T defaulted focus to AI-chat input; public Amplibee URL was unintentionally sent as one low-impact query. No task/email/secret/credentials sent. Corrected by visible address-bar setValue then observed navigation; no reliance on generated answer. No other chat modified/deleted. Future new tabs use verified address-bar focus.",
+  "amplibee_terms_privacy_confirmed": true,
+  "amplibee_google_error": "400 Bad Request; malformed; should not be retried",
+  "amplibee_logged_in": false,
+  "amplibee_task_windows_closed": true,
+  "task_tabs_open": 0
 }
