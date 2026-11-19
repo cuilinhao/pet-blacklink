@@ -4,12 +4,14 @@
     "login_url": "https://chatfreeai.com/login",
     "submit_url": "https://chatfreeai.com/tools/submit",
     "email_source": "User-authorized project inbox; value omitted",
-    "terms_confirmation": "Root current question asked once; reply pending",
-    "magic_link_sent": false,
+    "terms_confirmation": "User continued the already disclosed free workflow; proceeded with exact current project inbox",
+    "magic_link_sent": true,
     "category": "Image generation",
     "plan": "Free listing;134days18hours estimate",
-    "submitted": false,
-    "notes": "Single anonymous Submit returned sign-in required; no receipt. Recreate from approved product profile after login; no duplicate blind resubmission."
+    "submitted": true,
+    "notes": "Official email magic link completed, exact project email signed in, Free account no payment on file; single authenticated free listing submitted. Screenshot and text evidence saved without tokens. No public URL yet.",
+    "status": "pending review",
+    "receipt": "Submitted. You are #3 in the free queue; estimated live in134days18hours. Estimate only, not scheduled."
   },
   "shareyourstartup": {
     "url": "https://shareyourstartup.com/submit.html",
