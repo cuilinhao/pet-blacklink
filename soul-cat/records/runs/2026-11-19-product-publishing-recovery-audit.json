@@ -16,16 +16,16 @@
   "history_coverage_direct": 366,
   "history_coverage_other_csv": 5,
   "batch_reviewed_source_keys": 25,
-  "batch_new_submissions": 2,
+  "batch_new_submissions": 4,
   "batch_old_confirmations": 0,
-  "today_new_count": 5,
-  "public": 1,
+  "today_new_count": 7,
+  "public": 3,
   "pending_review": 3,
   "formal_received": 1,
   "scheduled": 0,
   "goal": 20,
-  "gap": 15,
-  "deferred_rows": 109,
+  "gap": 13,
+  "deferred_rows": 107,
   "next_cursor": "EXHAUSTED - coverage only, not goal complete",
   "next_checkpoints": [
     {
@@ -36,12 +36,14 @@
       "privacy_url": "https://hackmd.io/s/privacy",
       "draft": "copy/pettenderly-hackmd-guide-draft-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/hackmd-terms-checkpoint.jpg",
-      "real_user_answer": "pending",
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
-      "accepted": false,
-      "submitted": false,
-      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; do not infer approval from time or re-ask same question.",
-      "task_tab_closed": true
+      "accepted": true,
+      "submitted": true,
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
+      "task_tab_closed": true,
+      "result": "public readable guide; not community feed",
+      "public_url": "https://hackmd.io/@pettenderly/B1qea0oAzg"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::gitbook.com::gitbook.com",
@@ -51,12 +53,16 @@
       "privacy_url": "https://policies.gitbook.com/privacy-and-security/statement",
       "draft": "copy/pettenderly-gitbook-resource-draft-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/gitbook-terms-checkpoint.jpg",
-      "real_user_answer": "pending",
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
-      "accepted": false,
-      "submitted": false,
-      "resume_instruction": "Reopen exact official login page only after actual answer; inspect current UI/terms and dedup; Free only, no billing; do not infer approval from time or re-ask same question.",
-      "task_tab_closed": true
+      "accepted": true,
+      "submitted": true,
+      "resume_instruction": "Do not register/import/publish again. Inspect existing organization Free account + Basic plan only; no payment, card or paid subscription. Current public page is real, but trial/free qualification unresolved.",
+      "task_tab_closed": true,
+      "login_state": "Email magic-link login completed with specified project inbox. Normal Google popup input failed, then official email alternative succeeded.",
+      "site_url": "https://app.gitbook.com/o/BZAWXyQoYxEF4rsiE2y1/sites/site_oMAFM",
+      "result": "Published substantive guide, not counted pending durable free plan verification",
+      "public_url": "https://pettenderly.gitbook.io/pettenderly-docs/"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::magic.ly::magic.ly",
@@ -66,12 +72,16 @@
       "acceptable_use_url": "https://magic.ly/acceptable-use",
       "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/magicly-registration-checkpoint.jpg",
-      "real_user_answer": "pending",
-      "root_relayed": false,
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
+      "root_relayed": true,
       "accepted": false,
       "submitted": false,
-      "task_tab_closed": true,
-      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
+      "task_tab_closed": false,
+      "resume_instruction": "Browser paused while Root controls UU. Existing disclosed terms confirmation valid. No repeated login, no password entry, no new scope/CAPTCHA acceptance. Resume only when Root returns actual result.",
+      "result": "Root UU has taken paused browser for normal keyboard diagnosis; awaiting return",
+      "actual_registration_url": "https://magicly.bio/onboarding",
+      "last_task_tab_id": "1919365910",
+      "google_popup_tab_id": "1919365912"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
@@ -81,18 +91,20 @@
       "acceptable_use_url": null,
       "draft": "copy/pettenderly-photo-preparation-guide-DRAFT-2026-11-19.md",
       "screenshot": "records/evidence/2026-11-19-windows/mssg-registration-checkpoint.jpg",
-      "real_user_answer": "pending",
-      "root_relayed": false,
-      "accepted": false,
-      "submitted": false,
+      "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
+      "root_relayed": true,
+      "accepted": true,
+      "submitted": true,
       "task_tab_closed": true,
-      "resume_instruction": "Await actual answer to combined concrete terms checkpoint; no elapsed approval. Free substantive resource only; verify content capacity after login, no payment, billing or empty link profile."
+      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
+      "result": "public substantive guide",
+      "public_url": "https://7o4mj.mssg.me/"
     }
   ],
-  "browser_task_tabs_retained": 0,
+  "browser_task_tabs_retained": 2,
   "new_draft_queue_authorized": false,
   "gate_returncode": 2,
-  "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=706\nhistorical_counted_rows=152\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
+  "gate_stdout": "RESUME_GATE=FAIL\nwebsite=Pettenderly\nactive_csv=supplemental-free-2026-11-16.csv\nqueue_mode=standard-platform\nprogress_schema=canonical\nprogress_rows=706\nhistorical_counted_rows=154\nactive_total_rows=371\nactive_handled_rows=371\nactive_remaining_rows=0",
   "gate_stderr": "ERROR: no unprocessed candidate remains in supplemental-free-2026-11-16.csv",
   "followup_start_commit": "c1b2bfc",
   "followup_reviewed_source_keys": 3,
@@ -100,8 +112,8 @@
   "followup_skipped_already_checked": [
     "calameo.com"
   ],
-  "real_user_hackmd_answer": "pending - Root has relayed; do not accept or re-ask",
-  "real_user_gitbook_answer": "pending - Root has relayed; do not accept or re-ask",
+  "real_user_hackmd_answer": "confirmed current disclosed checkpoint; completed public guide",
+  "real_user_gitbook_answer": "confirmed current disclosed checkpoint; public trial free status unresolved",
   "task_page_cleanup_verified": true,
   "unrelated_user_tabs_closed": false,
   "patreon_deferral_actor": "agent risk judgment, not explicit user refusal or a user-stated blanket preference",
@@ -125,5 +137,8 @@
     "root_reported_original_tabs_retained": 2,
     "current_live_tab_inventory": "not independently read this followup",
     "all_real_user_agreement_answers": "pending"
-  }
+  },
+  "current_four_checkpoint_new_count": 2,
+  "gitbook_public_not_counted": 1,
+  "browser_handoff": "Root explicitly took Magic.ly paused browser; awaiting return"
 }

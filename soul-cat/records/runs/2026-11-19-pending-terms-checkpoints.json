@@ -30,10 +30,14 @@
       "screenshot": "records/evidence/2026-11-19-windows/gitbook-terms-checkpoint.jpg",
       "real_user_answer": "confirmed for this disclosed free checkpoint - Root relayed current user reply to continue all 20 after four terms disclosure",
       "root_relayed": true,
-      "accepted": false,
-      "submitted": false,
-      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan.",
-      "task_tab_closed": true
+      "accepted": true,
+      "submitted": true,
+      "resume_instruction": "Do not register/import/publish again. Inspect existing organization Free account + Basic plan only; no payment, card or paid subscription. Current public page is real, but trial/free qualification unresolved.",
+      "task_tab_closed": true,
+      "login_state": "Email magic-link login completed with specified project inbox. Normal Google popup input failed, then official email alternative succeeded.",
+      "site_url": "https://app.gitbook.com/o/BZAWXyQoYxEF4rsiE2y1/sites/site_oMAFM",
+      "result": "Published substantive guide, not counted pending durable free plan verification",
+      "public_url": "https://pettenderly.gitbook.io/pettenderly-docs/"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::magic.ly::magic.ly",
@@ -47,8 +51,12 @@
       "root_relayed": true,
       "accepted": false,
       "submitted": false,
-      "task_tab_closed": true,
-      "resume_instruction": "User confirmed this current disclosed free checkpoint; restore normal login and substantive guide, no repeated terms question. Verify no material new scopes/terms, dedup before publishing, no paid plan."
+      "task_tab_closed": false,
+      "resume_instruction": "Browser paused while Root controls UU. Existing disclosed terms confirmation valid. No repeated login, no password entry, no new scope/CAPTCHA acceptance. Resume only when Root returns actual result.",
+      "result": "Root UU has taken paused browser for normal keyboard diagnosis; awaiting return",
+      "actual_registration_url": "https://magicly.bio/onboarding",
+      "last_task_tab_id": "1919365910",
+      "google_popup_tab_id": "1919365912"
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::mssg.me::mssg.me",
@@ -68,5 +76,5 @@
       "public_url": "https://7o4mj.mssg.me/"
     }
   ],
-  "page_cleanup": "Verified current four-site inspection ended with zero task tabs; only task-owned Magic.ly/mssg.me/FC2/TNTCode pages closed. Unrelated user tabs preserved."
+  "page_cleanup": "HackMD/mssg/GitBook task pages closed after evidence. Exactly Magic.ly1919365910+Google1919365912 retained for immediate Root UU handoff; Root has taken control, Windows browser paused. Unrelated user tabs preserved."
 }

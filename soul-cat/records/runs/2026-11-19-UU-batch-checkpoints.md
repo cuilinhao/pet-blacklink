@@ -75,3 +75,7 @@ Magic.ly/mssg.me免费注册新协议集中待答；FC2密码/验证码/站方re
 
 - 精确key：`supplemental-free-2026-11-16.csv::domains.tntcode.com::tntcode.com`。补充Root转交的Windows UU原生实际观察（非本代理扩展截图）：新标签打开https://domains.tntcode.com/，正确输入pettenderly.com并单击Search一次；等待80秒仍转圈且展示旧域名列表，无目标结果、资料页或官网链接。Root仅关闭此次新诊断页，保留其所述原两页；本代理没有操作或宣称关闭这些原页，当前活页清单未另行读取。此前扩展读取超时已由此次真实UI搜索挂起补证，不能再只写未原生核实。0投稿、0回执，不重复搜索、不判全网永久失效。所有真实用户协议答复仍pending，不接受或重问。
 - 今日仍5/20：公开1、待审3、正式接收1，缺15；本次新增0。先前本代理任务标签清理为空仅是当时事实，不代表此后Root保留的两页已关闭。
+
+
+## Magic.ly即时UU交接（当前）
+Root已明确接手，Windows暂停浏览器。1919365910 https://magicly.bio/onboarding；1919365912 Google账号选择弹窗，客户端magic-6ba4b.firebaseapp.com。只正常指定liu827274@gmail.com基本资料登录，当前同范围四项协议已确认；新权限/验证码/安全警告停。无新密码。GitBook已邮件登录且指南发布，不要再登录/导入；仅需后续核实永久免费计划，当前Basic报价仍含成员费，未付款不计数。今日7/20缺13。
