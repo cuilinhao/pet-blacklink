@@ -161,6 +161,8 @@
     "platform": "AlternativeTo",
     "url": "https://alternativeto.net/login/",
     "tab_id": "1919365930",
-    "confirmed": false
+    "confirmed": true,
+    "completed": false,
+    "gate": "visible UI handoff to Root; no browser actions until returned"
   }
 }
