@@ -1,0 +1,72 @@
+{
+  "method": "system DNS plus direct TCP443 and certificate-verified TLS; no proxy, DNS, certificate or security settings changed; no page fetch or submission",
+  "results": [
+    {
+      "host": "dailybaileyai.com",
+      "dns_ipv4": [
+        "198.18.10.164"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "aiagentlink.ai",
+      "dns_ipv4": [
+        "198.18.10.175"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "www.insanelycooltools.com",
+      "dns_ipv4": [
+        "198.18.10.176"
+      ],
+      "tcp443": "connected",
+      "tls_error": "TimeoutError: _ssl.c:983: The handshake operation timed out"
+    },
+    {
+      "host": "www.hiaix.cn",
+      "dns_ipv4": [
+        "198.18.10.177"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "ainavnav.com",
+      "dns_ipv4": [
+        "198.18.10.178"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "pettenderly.com",
+      "dns_ipv4": [
+        "198.18.10.191"
+      ],
+      "tcp443": "connected",
+      "tls": "TLSv1.3",
+      "certificate_verified": true
+    }
+  ],
+  "windows_network_settings": {
+    "manual_proxy_enabled": false,
+    "configured_but_disabled_proxy": "127.0.0.1:7897",
+    "PAC": "not configured",
+    "winhttp": "direct",
+    "dns_interfaces": {
+      "Mihomo": [
+        "198.18.0.2"
+      ],
+      "WLAN": [
+        "202.96.209.5"
+      ],
+      "Ethernet": [
+        "9.9.0.1"
+      ]
+    }
+  },
+  "interpretation": "All six hosts resolve through same 198.18.10.* prefix. Five target TCP443 connections succeed then TLS fails; Pettenderly control certificate-verified TLS succeeds. Consistent with a local routing/upstream path difference, but insufficient to distinguish remote service failure from routing/upstream interference. No configuration changed."
+}

@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-19",
+  "method": "User requested single recheck of same five domains plus target control; system DNS, TCP443, certificate verified TLS; no HTTP page fetch, proxy/DNS/security/certificate changes",
+  "results": [
+    {
+      "host": "dailybaileyai.com",
+      "dns_ipv4": [
+        "198.18.10.164"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "aiagentlink.ai",
+      "dns_ipv4": [
+        "198.18.10.175"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "www.insanelycooltools.com",
+      "dns_ipv4": [
+        "198.18.10.176"
+      ],
+      "tcp443": "connected",
+      "tls_error": "TimeoutError: _ssl.c:983: The handshake operation timed out"
+    },
+    {
+      "host": "www.hiaix.cn",
+      "dns_ipv4": [
+        "198.18.10.177"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "ainavnav.com",
+      "dns_ipv4": [
+        "198.18.10.178"
+      ],
+      "tcp443": "connected",
+      "tls_error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)"
+    },
+    {
+      "host": "pettenderly.com",
+      "dns_ipv4": [
+        "198.18.10.191"
+      ],
+      "tcp443": "connected",
+      "tls": "TLSv1.3",
+      "certificate_verified": true
+    }
+  ],
+  "interpretation": "Same five failures unchanged: four TLS EOF, one handshake timeout; Pettenderly TLSv1.3 certificate-verified. No newly working route, no browser reopening. No configuration changed or global outage claim."
+}

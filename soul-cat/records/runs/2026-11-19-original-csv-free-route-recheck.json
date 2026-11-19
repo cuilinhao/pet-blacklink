@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-19",
+  "website": "Pettenderly",
+  "active_csv": "supplemental-free-2026-11-16.csv",
+  "run_start_head": "b481af8",
+  "previous_daily": "2026-11-18.md",
+  "previous_saved_cursor": "EXHAUSTED",
+  "global_source_keys": 707,
+  "global_unique_source_keys": 707,
+  "original_csv_rows": 371,
+  "covered_rows": 371,
+  "unprocessed_remaining": 0,
+  "retry_gate": {
+    "source_key": "supplemental-free-2026-11-16.csv::shipyardhq.dev::shipyardhq.dev",
+    "result": "PASS after explicit reopen, restored deferred checkpoint after inspection"
+  },
+  "today_new_before": 10,
+  "batch_new_receipts": 0,
+  "status_upgrade_without_new_count": [
+    "coderlegion.com pending review to public, actual logged-out Tabbit view and direct target link"
+  ],
+  "today_new_after": 10,
+  "public": 7,
+  "pending_review": 2,
+  "formal_received": 1,
+  "scheduled": 0,
+  "gap": 10,
+  "old_confirmation_today": 1,
+  "next_cursor": "EXHAUSTED is coverage only, goal NOT complete",
+  "outcomes": [
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolhouse.com::aitoolhouse.com",
+      "platform": "aitoolhouse.com",
+      "platform_url": "https://www.aitoolhouse.com/",
+      "state": "terminal",
+      "last_status": "paid",
+      "last_attempted": "2026-11-19 18:34",
+      "evidence_url": "https://www.aitoolhouse.com/get-featured",
+      "notes": "本轮Windows Tabbit实际submit按钮仍指向get-featured，当前明确80 USD及Purchase or Request the Package，未见免费正式档；无付款/注册/提交。不是被识别自动化。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::coderlegion.com::coderlegion.com",
+      "platform": "coderlegion.com",
+      "platform_url": "https://coderlegion.com/",
+      "state": "terminal",
+      "last_status": "public",
+      "last_attempted": "2026-11-19 18:32",
+      "evidence_url": "https://coderlegion.com/35247/pettenderly",
+      "notes": "Nov19原单次Publish待审投稿现补核公开：Windows Tabbit页面右上Log In，未登录状态完整产品正文，Paid真实定价，两个可见官网链接href均为https://pettenderly.com/。截图records/evidence/2026-11-19-windows/coderlegion-public-confirmed.png。只更新原今日投稿状态为公开，绝不重发或重复计数；今日总数仍10，公开7待审2接收1。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::shipyardhq.dev::shipyardhq.dev",
+      "platform": "shipyardhq.dev",
+      "platform_url": "https://shipyardhq.dev/",
+      "state": "deferred",
+      "last_status": "legal-confirmation-required",
+      "last_attempted": "2026-11-19 18:34",
+      "evidence_url": "https://shipyardhq.dev/legal/terms",
+      "notes": "本轮Windows Tabbit真实主页明确List your product free；正式member/products/add正常回登录页，Google控件可见。Root不同客户端已恢复Google跳转，此次不重试旧Chrome按钮故障。新协议terms和privacy-policy完整只读核对后已集中询问本次具体确认，真实答复仍待，尚未点击Google/注册/提交。仅保留此任务登录页，截图shipyard-tabbit-login-ready.png。0新增，不是缺Google密码或站点永久登录失败。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::aig123.com::aig123.com",
+      "platform": "aig123.com",
+      "platform_url": "https://aig123.com/",
+      "state": "deferred",
+      "last_status": "unconfirmed",
+      "last_attempted": "2026-11-19 18:35",
+      "evidence_url": "https://www.aig123.com/?post_type=sites&s=Pettenderly",
+      "notes": "Windows Tabbit本轮只读站内搜索Pettenderly实际返回没有内容；截图aig123-old-search-no-result.png。只能证明公开搜索无条目，不证明旧投稿失败/不存在，保留unconfirmed不重发，0新增。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::iahunt.com::iahunt.com",
+      "platform": "iahunt.com",
+      "platform_url": "https://iahunt.com/",
+      "state": "deferred",
+      "last_status": "unconfirmed",
+      "last_attempted": "2026-11-19 18:35",
+      "evidence_url": "https://www.iahunt.com/en",
+      "notes": "Windows Tabbit本轮正常首页Search AIs填Pettenderly一次，实际弹Sign in or create an account to continue，无法取得公开搜索结果；未填密码、注册、接受新条款或发送。旧回执仍不明，保留unconfirmed不重投，0新增。查询页关闭。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::aiforeveryone.org::aiforeveryone.org",
+      "platform": "aiforeveryone.org",
+      "platform_url": "https://aiforeveryone.org/",
+      "state": "terminal",
+      "last_status": "paid",
+      "last_attempted": "2026-11-19 18:34",
+      "evidence_url": "https://submittool.ai/listing/aiforeveryone",
+      "notes": "本轮Windows Tabbit官方submit-ai真实跳转submittool.ai/listing/aiforeveryone；Standard80美元、Featured120美元、Buy now/Add to cart，无免费档。首页free指所收录工具不是免费投稿。未付款/发送。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::aitoolsclub.com::aitoolsclub.com",
+      "platform": "aitoolsclub.com",
+      "platform_url": "https://aitoolsclub.com/",
+      "state": "terminal",
+      "last_status": "paid",
+      "last_attempted": "2026-11-19 18:34",
+      "evidence_url": "https://aitoolsclub.com/partnership-sponsorship/",
+      "notes": "本轮仅官方公开网页只读核实（非Windows浏览器访问）：Promotion仍790/1200/2100美元月费，仅预约咨询；无免费正式产品表单。第三方free描述不是官方现有免费证据，未注册或预约。"
+    },
+    {
+      "website": "Pettenderly",
+      "csv": "supplemental-free-2026-11-16.csv",
+      "source_key": "supplemental-free-2026-11-16.csv::hdrobots.com::hdrobots.com",
+      "platform": "hdrobots.com",
+      "platform_url": "https://hdrobots.com/",
+      "state": "terminal",
+      "last_status": "paid",
+      "last_attempted": "2026-11-19 18:34",
+      "evidence_url": "https://hdrobots.com/submit-ai-tool",
+      "notes": "本轮仅官方公开网页只读核实（非Windows浏览器访问）：正式submit-ai-tool明确9美元；submit-ai-tool-details虽公开可打开且标题Thank you，不证明免费资格/付款成功，未绕过付费步骤填详情表。0发送。"
+    }
+  ],
+  "next_checkpoint": "Shipyard current exact terms question pending; do not accept before actual response. ChatFreeAI prior Root question remains pending, do not re-ask.",
+  "cleanup": "Only Shipyard login task page retained for immediate pending answer. Prior query page closed; unrelated Tabbit tabs untouched."
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "checked": false,
+    "id": "submit-name",
+    "type": "text",
+    "value": "Pettenderly"
+  },
+  {
+    "checked": false,
+    "id": "submit-url",
+    "type": "url",
+    "value": "https://pettenderly.com/"
+  },
+  {
+    "checked": false,
+    "id": "submit-appStoreUrl",
+    "type": "url",
+    "value": ""
+  },
+  {
+    "checked": false,
+    "id": "submit-googlePlayUrl",
+    "type": "url",
+    "value": ""
+  },
+  {
+    "checked": false,
+    "id": "submit-tagline",
+    "type": "text",
+    "value": "Turn pet photos into portraits worth keeping."
+  },
+  {
+    "checked": false,
+    "id": "submit-category",
+    "type": "select-one",
+    "value": "design"
+  },
+  {
+    "checked": false,
+    "id": "submit-pricing",
+    "type": "radio",
+    "value": "free"
+  },
+  {
+    "checked": false,
+    "id": "submit-builtWith",
+    "type": "checkbox",
+    "value": "on"
+  },
+  {
+    "checked": false,
+    "id": "submit-description",
+    "type": "textarea",
+    "value": "Pettenderly is an online AI pet portrait studio. Upload one to five photos of the same cat or dog, choose a watercolor, royal or studio style, and download a digital keepsake. Each successful image uses one credit. Buy a one-time credit pack or subscribe for a monthly allowance. You & your pet and photo cleanup are beta features."
+  },
+  {
+    "checked": false,
+    "id": "submit-tags",
+    "type": "text",
+    "value": "ai-pet-portraits,pet-portrait-generator,cat-portraits,dog-portraits,pet-photo-editor"
+  },
+  {
+    "checked": true,
+    "id": "submit-accent",
+    "type": "radio",
+    "value": "on"
+  },
+  {
+    "checked": false,
+    "id": "submit-accent-picker",
+    "type": "color",
+    "value": "#00cbea"
+  },
+  {
+    "checked": false,
+    "id": "submit-accent-hex",
+    "type": "text",
+    "value": "#00CBEA"
+  },
+  {
+    "checked": false,
+    "id": "submit-logoUrl",
+    "type": "url",
+    "value": ""
+  },
+  {
+    "checked": false,
+    "id": "submit-repoUrl",
+    "type": "url",
+    "value": ""
+  },
+  {
+    "checked": false,
+    "id": "submit-contactEmail",
+    "type": "email",
+    "value": "<redacted>"
+  },
+  {
+    "checked": false,
+    "id": "submit-submittedBy",
+    "type": "radio",
+    "value": "on"
+  },
+  {
+    "checked": false,
+    "id": "submit-agent",
+    "type": "select-one",
+    "value": "codex"
+  },
+  {
+    "checked": false,
+    "id": "submit-agentName",
+    "type": "text",
+    "value": ""
+  },
+  {
+    "checked": false,
+    "id": "submit-heardAbout",
+    "type": "select-one",
+    "value": "not-sure"
+  }
+]

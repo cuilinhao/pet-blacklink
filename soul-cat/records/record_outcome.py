@@ -7,9 +7,12 @@ inspection/submission, with the exact source key printed by resume_gate.rb.
 
 import argparse
 import csv
-import fcntl
 import io
 import os
+if os.name == "nt":
+    import msvcrt
+else:
+    import fcntl
 import re
 import shutil
 import subprocess
@@ -23,7 +26,7 @@ from zoneinfo import ZoneInfo
 
 WEBSITE = "Pettenderly"
 SOURCE = "success_platform_01.csv"
-ALLOWED_CSVS = ('success-1103-image-generator-blog-comment-100-2026-11-03.csv', 'success-1104-daohang-613-final.csv', 'success-外链网站合并去重_2026-11-05.csv', 'success_platform_001.csv', 'success_platform_01.csv', 'success_platform_02.csv', 'success_platform_02_queue.csv')
+ALLOWED_CSVS = ('success-1103-image-generator-blog-comment-100-2026-11-03.csv', 'success-1104-daohang-613-final.csv', 'success-外链网站合并去重_2026-11-05.csv', 'success_platform_001.csv', 'success_platform_01.csv', 'success_platform_02.csv', 'success_platform_02_queue.csv', 'supplemental-free-2026-11-16.csv')
 HEADERS = (
     "website", "csv", "source_key", "platform", "platform_url", "state",
     "last_status", "last_attempted", "evidence_url", "notes",
@@ -34,7 +37,7 @@ COUNTED = {
 }
 GATE = Path(__file__).resolve().parents[2] / "skills" / "backlink-automation-submission" / "scripts" / "resume_gate.rb"
 BREW_RUBY = Path("/opt/homebrew/opt/ruby/bin/ruby")
-RUBY = str(BREW_RUBY) if BREW_RUBY.is_file() else "ruby"
+RUBY = os.environ.get("PETTENDERLY_RUBY") or (str(BREW_RUBY) if BREW_RUBY.is_file() else "ruby")
 
 
 def parse_args():
@@ -74,7 +77,8 @@ def gate(workspace, active_csv, today, allow_exhausted=False, expect_next=None):
     ]
     if expect_next:
         command += ["--expect-next-source-key", expect_next]
-    process = subprocess.run(command, text=True, capture_output=True)
+    process = subprocess.run(command, text=True, encoding="utf-8", capture_output=True,
+                             env={**os.environ, "RUBYOPT": "-EUTF-8"})
     result = dict(line.split("=", 1) for line in process.stdout.splitlines() if "=" in line)
     if process.returncode == 0 and result.get("RESUME_GATE") == "PASS":
         return result
@@ -102,7 +106,7 @@ def read_progress(path):
 
 def render_progress(rows):
     output = io.StringIO(newline="")
-    writer = csv.DictWriter(output, fieldnames=HEADERS, lineterminator="\r\n")
+    writer = csv.DictWriter(output, fieldnames=HEADERS, lineterminator="\n")
     writer.writeheader()
     writer.writerows(rows)
     return output.getvalue().encode("utf-8")
@@ -199,7 +203,9 @@ def stage_gate(workspace, progress_bytes, active_csv, today):
     with tempfile.TemporaryDirectory(prefix="soulpaw-record-stage-") as temporary:
         staged = Path(temporary)
         (staged / "records" / "daily").mkdir(parents=True)
-        (staged / "platforms").symlink_to(workspace / "platforms", target_is_directory=True)
+        # Windows symlink creation can require privileges; stage only the active queue.
+        (staged / "platforms").mkdir()
+        shutil.copy2(workspace / "platforms" / active_csv, staged / "platforms" / active_csv)
         for daily in (workspace / "records" / "daily").glob("*.md"):
             shutil.copy2(daily, staged / "records" / "daily" / daily.name)
         (staged / "records" / "platform-progress.csv").write_bytes(progress_bytes)
@@ -239,7 +245,15 @@ def main():
 
     # Stable lock file: the progress file itself is replaced atomically below.
     with (workspace / "records" / ".record_outcome.lock").open("a+b") as lock:
-        fcntl.flock(lock, fcntl.LOCK_EX)
+        if os.name == "nt":
+            lock.seek(0, os.SEEK_END)
+            if lock.tell() == 0:
+                lock.write(b"\0")
+                lock.flush()
+            lock.seek(0)
+            msvcrt.locking(lock.fileno(), msvcrt.LK_LOCK, 1)
+        else:
+            fcntl.flock(lock, fcntl.LOCK_EX)
         rows = read_progress(progress_path)
         matches = [i for i, row in enumerate(rows)
                    if row["website"] == WEBSITE and row["source_key"] == args.source_key]

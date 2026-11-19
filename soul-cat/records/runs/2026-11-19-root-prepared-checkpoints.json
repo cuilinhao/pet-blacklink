@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-19",
+  "chatfreeai": {
+    "login_url": "https://chatfreeai.com/login",
+    "submit_url": "https://chatfreeai.com/tools/submit",
+    "email_source": "User-authorized project inbox; value omitted",
+    "terms_confirmation": "Root current question asked once; reply pending",
+    "magic_link_sent": false,
+    "category": "Image generation",
+    "plan": "Free listing;134days18hours estimate",
+    "submitted": false,
+    "notes": "Single anonymous Submit returned sign-in required; no receipt. Recreate from approved product profile after login; no duplicate blind resubmission."
+  },
+  "shareyourstartup": {
+    "url": "https://shareyourstartup.com/submit.html",
+    "page": "p3",
+    "ego_space": 16,
+    "public_fields": {
+      "name": "Pettenderly",
+      "url": "https://pettenderly.com/",
+      "pitch": "AI pet portraits from photos of your cat or dog",
+      "category": "AI tool",
+      "details": "Pettenderly turns photos of cats and dogs into downloadable AI portraits. Upload one to five photos of the same pet and choose a watercolor, royal or window-seat style. Review faces, coat markings and fine details before downloading. Each successful image uses one credit; failed generations do not consume credits. Paid credit packs and Pro subscriptions are available. Human-and-pet portraits and photo cleanup are beta features."
+    },
+    "email_source": "User-authorized project inbox; value omitted",
+    "optional_marketing": false,
+    "all_fields_valid": true,
+    "verification_completed": false,
+    "submitted": false,
+    "notes": "Current visible Turnstile needs user action in browser; Post it disabled. No force-enable. This is distinct from older Windows green-verification callback failure."
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "name",
+    "value": "Pettenderly"
+  },
+  {
+    "id": "url",
+    "value": "https://pettenderly.com/"
+  },
+  {
+    "id": "category",
+    "value": "AI"
+  },
+  {
+    "id": "email",
+    "value": "<redacted>"
+  },
+  {
+    "id": "notes",
+    "value": "Pettenderly is an AI pet portrait website. Public llms.txt: https://pettenderly.com/llms.txt . Please review the existing file for directory inclusion."
+  }
+]

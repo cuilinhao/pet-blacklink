@@ -1,0 +1,262 @@
+{
+  "date": "2026-11-19",
+  "scope": "Original CSV Nov18 connection failures only; today-tested, certificate/policy, paused/sale, unconfirmed excluded",
+  "results": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::ziniao.ai::ziniao.ai",
+      "platform": "ziniao.ai",
+      "url": "https://www.ziniao.ai/submit",
+      "host": "www.ziniao.ai",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.102"
+      ],
+      "tcp443": "connected",
+      "tls": "TLSv1.3",
+      "recovered_transport": true,
+      "browser_observation": "Windows扩展实际打开准确https://www.ziniao.ai/submit仍为ERR_EMPTY_RESPONSE、未发送任何数据；TLS通过不等于表单恢复。0投稿。"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::phpcms9.com::phpcms9.com",
+      "platform": "phpcms9.com",
+      "url": "https://phpcms9.com/",
+      "host": "phpcms9.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.101"
+      ],
+      "tcp443": "connected",
+      "error": "SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::m3elem.com::m3elem.com",
+      "platform": "m3elem.com",
+      "url": "https://m3elem.com/",
+      "host": "m3elem.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.104"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::producthub.com::producthub.com",
+      "platform": "producthub.com",
+      "url": "https://producthub.com/",
+      "host": "producthub.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.100"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::band.us::band.us",
+      "platform": "band.us",
+      "url": "https://band.us/",
+      "host": "band.us",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.99"
+      ],
+      "tcp443": "connected",
+      "tls": "TLSv1.3",
+      "recovered_transport": true,
+      "browser_observation": "Windows扩展实际首页恢复：免费团队社群，可公开帖子；官方/policy/operating允许公开社群曝光，但禁反复垃圾推广，商业交易须披露卖家资料。条款页初Loading后真实加载成功，纠正暂时加载故障。邮箱注册https://auth.band.us/email_sign_up需邮箱、新密码、姓名、出生日期，并注册即接受条款/隐私及服务活动提示；未填任何字段/未注册。缺真实身份与新凭据，按既有指示放置，不新增常规确认。证据band-registration-real-fields.jpg。"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::sublov.com::sublov.com",
+      "platform": "sublov.com",
+      "url": "https://sublov.com/",
+      "host": "sublov.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.103"
+      ],
+      "tcp443": "connected",
+      "error": "SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::connectively.com::connectively.com",
+      "platform": "connectively.com",
+      "url": "https://connectively.com/",
+      "host": "connectively.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.105"
+      ],
+      "tcp443": "connected",
+      "error": "TimeoutError: _ssl.c:983: The handshake operation timed out",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::advertise.aitoptools.com::aitoptools.com",
+      "platform": "advertise.aitoptools.com",
+      "url": "https://advertise.aitoptools.com/",
+      "host": "advertise.aitoptools.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.106"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::topal.tools::topal.tools",
+      "platform": "topal.tools",
+      "url": "https://topal.tools/",
+      "host": "topal.tools",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.107"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolspedia.ai::toolspedia.ai",
+      "platform": "toolspedia.ai",
+      "url": "https://toolspedia.ai/",
+      "host": "toolspedia.ai",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.108"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::artai.tools::artai.tools",
+      "platform": "artai.tools",
+      "url": "https://artai.tools/",
+      "host": "artai.tools",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.109"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::tools4.us::tools4.us",
+      "platform": "tools4.us",
+      "url": "https://tools4.us/",
+      "host": "tools4.us",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.110"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::allaboutai.com::allaboutai.com",
+      "platform": "allaboutai.com",
+      "url": "https://www.wordpress-1619263-6386384.cloudwaysapps.com/media-kit/",
+      "host": "www.wordpress-1619263-6386384.cloudwaysapps.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.111"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::today.tools::today.tools",
+      "platform": "today.tools",
+      "url": "https://today.tools/submit",
+      "host": "today.tools",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.112"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::nuoniphp.cn::nuoniphp.cn",
+      "platform": "nuoniphp.cn",
+      "url": "https://www.nuoniphp.cn/",
+      "host": "www.nuoniphp.cn",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.113"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::toolroad.ai::toolroad.ai",
+      "platform": "toolroad.ai",
+      "url": "https://toolroad.ai/submit",
+      "host": "toolroad.ai",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.114"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::leasedadspace.com::leasedadspace.com",
+      "platform": "leasedadspace.com",
+      "url": "https://leasedadspace.com/",
+      "host": "leasedadspace.com",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.115"
+      ],
+      "tcp443": "connected",
+      "tls": "TLSv1.3",
+      "recovered_transport": true,
+      "browser_observation": "Windows扩展准确官方根导航一次超时，随后实际URL仍about:blank、DOM空；TLS握手虽通过但网页未恢复，0投稿，不重复导航。"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::motot.net::motot.net",
+      "platform": "motot.net",
+      "url": "https://www.motot.net/",
+      "host": "www.motot.net",
+      "method": "single system DNS/TCP443/certificate-verified TLS; read-only, no HTTP fetch or config changes",
+      "submitted": false,
+      "dns_ipv4": [
+        "198.18.12.116"
+      ],
+      "tcp443": "connected",
+      "error": "SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)",
+      "recovered_transport": false
+    }
+  ],
+  "new_receipts": 0
+}

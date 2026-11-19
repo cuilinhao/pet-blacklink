@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-19",
+  "source_csv": "supplemental-free-2026-11-16.csv",
+  "today_new": 10,
+  "public": 6,
+  "pending": 3,
+  "received": 1,
+  "gap": 10,
+  "results": {
+    "amplibee.com": [
+      "google-oauth-bad-request",
+      "https://amplibee.com/sign-in",
+      "本次用户在具体条款隐私披露后明确同意Amplibee terms/privacy+指定Google免费投稿，许可已收到，不再待答。Windows在保留Tabbit Google弹窗162534102真实选liu827274@gmail.com一次后，官方Google返回400 Bad Request：The server cannot process the request because it is malformed. It should not be retried. 没有到继续分享确认/平台登录/投稿表提交；本次0新增。未重放同请求、未改OAuth参数/换凭据/新密码/重置/付款，不把注册许可算回执。证据amplibee-google-400.png。仅关闭本任务Google弹窗和Amplibee页，原用户其余Tabbit标签保留；fresh AX确认无Amplibee/Calameo任务页。Root/用户许可保持有效，后续只能有明确新正常恢复条件才继续，当前不是缺同意。"
+    ],
+    "welcome.ai": [
+      "existing-credential-unavailable",
+      "https://www.welcome.ai/auth",
+      "本轮不同Tabbit现有会话恢复，官方/auth仍显示Sign In邮箱密码，指定项目邮箱填入后密码为空、无现有自动填充值，没有magic link/Google；未提交空密码、未注册/重置/新密码。与之前Chrome独立检查区分，不把无历史邮件说成无账号。0新增。"
+    ],
+    "vidu-studio.com": [
+      "existing-credential-unavailable",
+      "https://vidu-studio.com/submit-a-tool/",
+      "本轮不同Tabbit现有会话检查仍GUEST；真实LOG IN用户名/邮箱+密码，指定项目邮箱填后密码空、无现有自动填充或magic link。未新密码/重置或空密码登录测试，未投稿。0新增。"
+    ],
+    "naya.com.np": [
+      "existing-credential-unavailable",
+      "https://naya.com.np/login",
+      "本轮不同Tabbit现有会话仍username/password+Forgot/Register，无magic link/Google；指定邮箱作标识填入后密码空，没有当前用户可用自动填充，未新建/重置/提交空密码。0新增。"
+    ]
+  },
+  "amplibee_main_window": 68822,
+  "amplibee_google_window": 162534102,
+  "amplibee_agreement_links": [
+    "https://amplibee.com/terms",
+    "https://amplibee.com/privacy"
+  ],
+  "amplibee_user_response_pending": false,
+  "amplibee_account_selected": true,
+  "amplibee_submitted": false,
+  "calameo_task_pages_closed": true,
+  "incidental_navigation": "Tabbit Ctrl+T defaulted focus to AI-chat input; public Amplibee URL was unintentionally sent as one low-impact query. No task/email/secret/credentials sent. Corrected by visible address-bar setValue then observed navigation; no reliance on generated answer. No other chat modified/deleted. Future new tabs use verified address-bar focus.",
+  "amplibee_terms_privacy_confirmed": true,
+  "amplibee_google_error": "400 Bad Request; malformed; should not be retried",
+  "amplibee_logged_in": false,
+  "amplibee_task_windows_closed": true,
+  "task_tabs_open": 0
+}

@@ -1,0 +1,15 @@
+{
+  "source_key": "supplemental-free-2026-11-16.csv::shipyardhq.dev::shipyardhq.dev",
+  "date": "2026-11-19",
+  "official_free_evidence": "https://shipyardhq.dev/",
+  "login": "https://shipyardhq.dev/login",
+  "terms": "https://shipyardhq.dev/legal/terms",
+  "privacy": "https://shipyardhq.dev/legal/privacy-policy",
+  "account": "liu827274@gmail.com",
+  "state": "pending-current-user-confirmation",
+  "accepted": false,
+  "submitted": false,
+  "counted": false,
+  "notes": "Tabbit真实正常登录表单可见Google，尚未点击Google或注册。新条款确认已集中提出，待实际答复。内容授权可转让转授权、服务无保证、Clerk资料处理及跨境；只免费不付款。不同客户端恢复证据不再笼统永久登录失败。",
+  "screenshot": "records/evidence/2026-11-19-windows/shipyard-tabbit-login-ready.png"
+}

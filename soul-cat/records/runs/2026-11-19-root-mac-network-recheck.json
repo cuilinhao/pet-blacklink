@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-19",
+  "method": "Mac standard HTTPS GET, normal certificate validation; no auth/config change/submission",
+  "results": [
+    {
+      "platform": "ziniao.ai",
+      "source_key": "supplemental-free-2026-11-16.csv::ziniao.ai::ziniao.ai",
+      "requested_url": "https://www.ziniao.ai/submit",
+      "error": "RemoteDisconnected: Remote end closed connection without response"
+    },
+    {
+      "platform": "dailybaileyai.com",
+      "source_key": "supplemental-free-2026-11-16.csv::dailybaileyai.com::dailybaileyai.com",
+      "requested_url": "https://dailybaileyai.com/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "m3elem.com",
+      "source_key": "supplemental-free-2026-11-16.csv::m3elem.com::m3elem.com",
+      "requested_url": "https://m3elem.com/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "producthub.com",
+      "source_key": "supplemental-free-2026-11-16.csv::producthub.com::producthub.com",
+      "requested_url": "https://producthub.com/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "aiagentlink.ai",
+      "source_key": "supplemental-free-2026-11-16.csv::aiagentlink.ai::aiagentlink.ai",
+      "requested_url": "https://aiagentlink.ai/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "insanelycooltools.com",
+      "source_key": "supplemental-free-2026-11-16.csv::insanelycooltools.com::insanelycooltools.com",
+      "requested_url": "https://www.insanelycooltools.com/submit",
+      "error": "URLError: <urlopen error _ssl.c:1114: The handshake operation timed out>"
+    },
+    {
+      "platform": "advertise.aitoptools.com",
+      "source_key": "supplemental-free-2026-11-16.csv::advertise.aitoptools.com::aitoptools.com",
+      "requested_url": "https://advertise.aitoptools.com/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "topal.tools",
+      "source_key": "supplemental-free-2026-11-16.csv::topal.tools::topal.tools",
+      "requested_url": "https://topal.tools/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "toolspedia.ai",
+      "source_key": "supplemental-free-2026-11-16.csv::toolspedia.ai::toolspedia.ai",
+      "requested_url": "https://toolspedia.ai/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "hiaix.cn",
+      "source_key": "supplemental-free-2026-11-16.csv::hiaix.cn::hiaix.cn",
+      "requested_url": "https://www.hiaix.cn/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "artai.tools",
+      "source_key": "supplemental-free-2026-11-16.csv::artai.tools::artai.tools",
+      "requested_url": "https://artai.tools/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "tools4.us",
+      "source_key": "supplemental-free-2026-11-16.csv::tools4.us::tools4.us",
+      "requested_url": "https://tools4.us/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "allaboutai.com",
+      "source_key": "supplemental-free-2026-11-16.csv::allaboutai.com::allaboutai.com",
+      "requested_url": "https://allaboutai.com/",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "platform": "ainavnav.com",
+      "source_key": "supplemental-free-2026-11-16.csv::ainavnav.com::ainavnav.com",
+      "requested_url": "https://ainavnav.com/dashboard/submit-nav",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "today.tools",
+      "source_key": "supplemental-free-2026-11-16.csv::today.tools::today.tools",
+      "requested_url": "https://today.tools/submit",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "nuoniphp.cn",
+      "source_key": "supplemental-free-2026-11-16.csv::nuoniphp.cn::nuoniphp.cn",
+      "requested_url": "https://www.nuoniphp.cn/",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    },
+    {
+      "platform": "toolroad.ai",
+      "source_key": "supplemental-free-2026-11-16.csv::toolroad.ai::toolroad.ai",
+      "requested_url": "https://toolroad.ai/submit",
+      "error": "URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1131)>"
+    }
+  ]
+}

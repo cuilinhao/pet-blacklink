@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-19",
+  "scope": "User limited existing session/autofill/official magic link; no reset/new password",
+  "results": [
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::amplibee.com::amplibee.com",
+      "url": "https://amplibee.com/sign-in",
+      "status": "existing-credential-unavailable",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。实际免费launch页未登录；正式/sign-in邮箱密码仅Forgot password/Create account，无magic link。仅填指定邮箱观察已有自动填充，密码空且无autofill；不点Forgot/reset/注册。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据amplibee-existing-account-check.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/amplibee-existing-account-check.jpg"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::domainrank.app::domainrank.app",
+      "url": "https://domainrank.app/submit",
+      "status": "google-route-outside-current-check",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。SSR初始Email/Password随后水合为仅Sign in with Google，纠正旧email/password-only结论。无当前会话/可用自动填充或magic link；本轮严格限现有账号会话/autofill/magic link，未点新的Google流程/未接受新协议，免费资格仍未核。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据domainrank-current-google-only-login.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/domainrank-current-google-only-login.jpg"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::welcome.ai::welcome.ai",
+      "url": "https://www.welcome.ai/submit",
+      "status": "existing-credential-unavailable",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。当前Account步骤未登录；点Already have account切换真实Sign in to continue，只有邮箱密码，无magic link。仅填指定邮箱检查，密码空无autofill；未Sign In空密码测试，不注册/重置。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据welcome-existing-account-check.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/welcome-existing-account-check.jpg"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::vidu-studio.com::vidu-studio.com",
+      "url": "https://vidu-studio.com/submit-a-tool/",
+      "status": "existing-credential-unavailable",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。当前正式提交仍明确Free但GUEST；打开LOG IN仅username/email+password及Create account，无magic link。指定邮箱已填检查，密码空无autofill；未登录空密码测试，不新建或重置。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据vidu-existing-account-check.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/vidu-existing-account-check.jpg"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::calameo.com::calameo.com",
+      "url": "https://www.calameo.com/#login",
+      "status": "google-route-outside-current-check",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。当前未登录，打开现有login modal填指定邮箱，密码空无autofill，无magic link，Forgot是找回不点。初始仅Facebook/LinkedIn，水合后官方Google iframe Sign in with Google实际出现，纠正此前无Google结论；本轮仅现有会话/autofill/magic link，未点Google新授权或接受注册条款。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据calameo-existing-account-check.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/calameo-existing-account-check.jpg"
+    },
+    {
+      "source_key": "supplemental-free-2026-11-16.csv::naya.com.np::naya.com.np",
+      "url": "https://naya.com.np/login",
+      "status": "existing-credential-unavailable",
+      "notes": "本用户本次限定重查existing account路径，且仅指定邮箱session/autofill/官方magic link，不重置/不新密码。当前仅username/password及Forgot password/Register，无magic link或已有会话。用指定邮箱作登录标识检查，密码空无autofill；未送空密码、不猜用户名/密码、不重置/注册。 Root邮箱无历史邮件不证明无账号；本次结论仅当前未获得可用登录状态。未读取或导出密码值，仅检查非空/autofill布尔。0提交/0回执；证据naya-existing-account-check.jpg。",
+      "submitted": false,
+      "evidence": "records/evidence/2026-11-19-windows/naya-existing-account-check.jpg"
+    }
+  ],
+  "new_receipts": 0,
+  "today": 9,
+  "goal": 20,
+  "gap": 11,
+  "task_tabs_open": 0
+}
