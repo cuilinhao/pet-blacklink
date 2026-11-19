@@ -13,7 +13,9 @@
       ],
       "accepted": false,
       "submitted": false,
-      "task_tab_closed": true
+      "task_tab_closed": true,
+      "decision": "user skipped this run",
+      "pending_answer": false
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::airdrop.krain.ai::krain.ai",
@@ -38,7 +40,9 @@
       ],
       "accepted": false,
       "submitted": false,
-      "task_tab_closed": true
+      "task_tab_closed": true,
+      "decision": "user skipped this run",
+      "pending_answer": false
     },
     {
       "source_key": "supplemental-free-2026-11-16.csv::alternativeto.net::alternativeto.net",
@@ -51,7 +55,13 @@
       ],
       "accepted": false,
       "submitted": false,
-      "task_tab_closed": true
+      "task_tab_closed": false,
+      "user_terms_confirmed": true,
+      "basic_google_confirmed": true,
+      "current_gate": "Cloudflare action-time confirmation pending",
+      "current_url": "https://alternativeto.net/login/",
+      "current_tab_id": "1919365930"
     }
-  ]
+  ],
+  "latest_decision": "Current user approved AlternativeTo disclosed terms/basic Google only; ExactSeek/F6S skip this run; Krain eligibility unknown. New AlternativeTo CAPTCHA reply pending."
 }
