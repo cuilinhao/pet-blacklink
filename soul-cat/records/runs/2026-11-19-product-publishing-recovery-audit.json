@@ -147,9 +147,7 @@
   "browser_handoff": "completed - Magic public body persisted, zero task tabs",
   "nov18_connection_recheck": "2026-11-19-nov18-connection-readonly-recheck.json",
   "gitbook_official_research_actor": "Root, not end user",
-  "current_unaccepted_terms": [
-    "Calameo Basic terms/privacy"
-  ],
+  "current_unaccepted_terms": [],
   "krain_eligibility": "unknown; no acceptance",
   "task_tabs_open": 2,
   "current_user_approved_terms": [
@@ -162,5 +160,7 @@
   "current_verification_checkpoint": null,
   "alternative_to_result": "current account created/email verified/search no match; no submission, agent eligibility judgment from current official FAQ",
   "existing_accounts_six_recheck": "2026-11-19-existing-accounts-six.json",
-  "calameo_checkpoint": "2026-11-19-calameo-basic-terms-checkpoint.json"
+  "calameo_checkpoint": "2026-11-19-calameo-basic-terms-checkpoint.json",
+  "calameo_user_confirmed": true,
+  "current_browser_gate": "Root UU Calameo Google Continue; not missing permission"
 }
