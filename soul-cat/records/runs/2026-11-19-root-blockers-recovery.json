@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-19",
+  "source_csv": "supplemental-free-2026-11-16.csv",
+  "new_submissions_root": 0,
+  "new_total_latest_verified": 10,
+  "old_confirmations_today_this_batch": 1,
+  "old_confirmation_platform": "viesearch.com",
+  "old_confirmation_not_in_daily_new_count": true,
+  "uu_operations": 0,
+  "browsing": "ego-browser background task space16",
+  "chatfreeai": "Form hydrated; one free Submit returned Sign in required. Current login terms action-time question asked once; reply pending. No receipt.",
+  "shipyardhq": "Google redirect works in this client. No current signed-in project Google session; no credentials entered.",
+  "shareyourstartup": "All ordinary fields valid; current interactive Turnstile unsolved and button disabled. No submit.",
+  "incompatible_integrations": [
+    "discord.com",
+    "monday.com",
+    "rapidapi.com"
+  ],
+  "network_recheck": "17 original network failures checked once from different Mac environment;16 transport errors/closed connection and1HTTP403, no restored eligible form; normal certificate verification, no config edits",
+  "viesearch_public": false,
+  "viesearch_receipt_url": "https://viesearch.com/2ay8g/pettenderly-ai-pet-portraits",
+  "viesearch_receipt": "Plan Selected; submission in review queue. PENDING, owner-only until review. Origin submitted2daysago.",
+  "cleanup": "Only ShareYourStartup p3 kept in ego space16, handed to user for current CAPTCHA; other3 task pages closed. No finish() after handOff.",
+  "retained_task_tabs": 1,
+  "root_uu_operations": 0,
+  "amplibee_latest": "Windows b84ea91: this-site terms/privacy permission received; Google400 malformed request, no platform login/submission. Do not repeat same OAuth or request same consent."
+}
