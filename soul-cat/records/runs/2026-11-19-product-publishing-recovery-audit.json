@@ -25,7 +25,7 @@
   "scheduled": 0,
   "goal": 20,
   "gap": 10,
-  "deferred_rows": 105,
+  "deferred_rows": 103,
   "next_cursor": "EXHAUSTED - coverage only, not goal complete",
   "next_checkpoints": [
     {
@@ -147,9 +147,11 @@
   "browser_handoff": "completed - Magic public body persisted, zero task tabs",
   "nov18_connection_recheck": "2026-11-19-nov18-connection-readonly-recheck.json",
   "gitbook_official_research_actor": "Root, not end user",
-  "current_unaccepted_terms": [],
+  "current_unaccepted_terms": [
+    "Amplibee current terms/privacy and basic Google"
+  ],
   "krain_eligibility": "unknown; no acceptance",
-  "task_tabs_open": 1,
+  "task_tabs_open": 2,
   "current_user_approved_terms": [
     "AlternativeTo"
   ],
@@ -162,7 +164,8 @@
   "existing_accounts_six_recheck": "2026-11-19-existing-accounts-six.json",
   "calameo_checkpoint": "2026-11-19-calameo-basic-terms-checkpoint.json",
   "calameo_user_confirmed": true,
-  "current_browser_gate": null,
+  "current_browser_gate": "Amplibee actual new agreement reply pending; not Calameo",
   "task_tab_cleanup_verified": false,
-  "calameo_public_url": "https://www.calameo.com/read/008345597addc853eb14e"
+  "calameo_public_url": "https://www.calameo.com/read/008345597addc853eb14e",
+  "current_browser": "Tabbit native window68822; Google162534102"
 }

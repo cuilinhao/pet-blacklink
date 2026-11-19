@@ -31,10 +31,12 @@
     "1919365942",
     "1919365944"
   ],
-  "cleanup_verified": false,
+  "cleanup_verified": true,
   "public": true,
   "browser": "Tabbit native window68822",
   "public_url": "https://www.calameo.com/read/008345597addc853eb14e",
   "details_url": "https://www.calameo.com/books/008345597addc853eb14e",
-  "outbound_link_clicked_verified": "https://pettenderly.com"
+  "outbound_link_clicked_verified": "https://pettenderly.com",
+  "task_page_closed": true,
+  "outbound_verification_tab_closed": true
 }

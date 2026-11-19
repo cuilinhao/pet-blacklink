@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-19",
+  "source_csv": "supplemental-free-2026-11-16.csv",
+  "today_new": 10,
+  "public": 6,
+  "pending": 3,
+  "received": 1,
+  "gap": 10,
+  "results": {
+    "amplibee.com": [
+      "legal-confirmation-required",
+      "https://amplibee.com/sign-in",
+      "本轮已获用户正常接管Tabbit范围，检查不同浏览器现有会话：未登录，指定邮箱填入后密码空；水合后真实Continue with Google出现，纠正旧email-password-only。Google当前真实弹窗window162534102账号选择可见指定邮箱，未选择/注册/继续。官方/terms和/privacy更新2026-10-10已完整读取；结果估计无排名收入保证、2次每日free checks不可绕限/骚扰；账号姓名邮箱投稿保留到请求删除，bot-check和邮件服务，Google资料邮箱姓名；隐私正文无analytics/cookies与Cookie横幅optional analytics/marketing不一致，已Reject all非必要cookie。官方launch免费人工审核链接已读；新协议本次工具强制确认已集中提出待真实答复，不沿用Calameo许可，不包含未来验证码。主Tabbit68822+Google162534102保留。证据amplibee-tabbit-google-ready.png，0新增。"
+    ],
+    "welcome.ai": [
+      "existing-credential-unavailable",
+      "https://www.welcome.ai/auth",
+      "本轮不同Tabbit现有会话恢复，官方/auth仍显示Sign In邮箱密码，指定项目邮箱填入后密码为空、无现有自动填充值，没有magic link/Google；未提交空密码、未注册/重置/新密码。与之前Chrome独立检查区分，不把无历史邮件说成无账号。0新增。"
+    ],
+    "vidu-studio.com": [
+      "existing-credential-unavailable",
+      "https://vidu-studio.com/submit-a-tool/",
+      "本轮不同Tabbit现有会话检查仍GUEST；真实LOG IN用户名/邮箱+密码，指定项目邮箱填后密码空、无现有自动填充或magic link。未新密码/重置或空密码登录测试，未投稿。0新增。"
+    ],
+    "naya.com.np": [
+      "existing-credential-unavailable",
+      "https://naya.com.np/login",
+      "本轮不同Tabbit现有会话仍username/password+Forgot/Register，无magic link/Google；指定邮箱作标识填入后密码空，没有当前用户可用自动填充，未新建/重置/提交空密码。0新增。"
+    ]
+  },
+  "amplibee_main_window": 68822,
+  "amplibee_google_window": 162534102,
+  "amplibee_agreement_links": [
+    "https://amplibee.com/terms",
+    "https://amplibee.com/privacy"
+  ],
+  "amplibee_user_response_pending": true,
+  "amplibee_account_selected": false,
+  "amplibee_submitted": false,
+  "calameo_task_pages_closed": true,
+  "incidental_navigation": "Tabbit Ctrl+T defaulted focus to AI-chat input; public Amplibee URL was unintentionally sent as one low-impact query. No task/email/secret/credentials sent. Corrected by visible address-bar setValue then observed navigation; no reliance on generated answer. No other chat modified/deleted. Future new tabs use verified address-bar focus."
+}
