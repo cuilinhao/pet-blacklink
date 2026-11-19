@@ -16,15 +16,15 @@
   "history_coverage_direct": 367,
   "history_coverage_other_csv": 4,
   "batch_reviewed_source_keys": 29,
-  "batch_new_submissions": 6,
+  "batch_new_submissions": 7,
   "batch_old_confirmations": 0,
-  "today_new_count": 9,
-  "public": 5,
+  "today_new_count": 10,
+  "public": 6,
   "pending_review": 3,
   "formal_received": 1,
   "scheduled": 0,
   "goal": 20,
-  "gap": 11,
+  "gap": 10,
   "deferred_rows": 105,
   "next_cursor": "EXHAUSTED - coverage only, not goal complete",
   "next_checkpoints": [
@@ -149,7 +149,7 @@
   "gitbook_official_research_actor": "Root, not end user",
   "current_unaccepted_terms": [],
   "krain_eligibility": "unknown; no acceptance",
-  "task_tabs_open": 2,
+  "task_tabs_open": 1,
   "current_user_approved_terms": [
     "AlternativeTo"
   ],
@@ -162,6 +162,7 @@
   "existing_accounts_six_recheck": "2026-11-19-existing-accounts-six.json",
   "calameo_checkpoint": "2026-11-19-calameo-basic-terms-checkpoint.json",
   "calameo_user_confirmed": true,
-  "current_browser_gate": "Windows native URL/URI-confidence forced stop; no browser actions",
-  "task_tab_cleanup_verified": false
+  "current_browser_gate": null,
+  "task_tab_cleanup_verified": false,
+  "calameo_public_url": "https://www.calameo.com/read/008345597addc853eb14e"
 }
