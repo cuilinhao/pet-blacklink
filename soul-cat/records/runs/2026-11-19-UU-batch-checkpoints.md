@@ -79,3 +79,7 @@ Magic.ly/mssg.me免费注册新协议集中待答；FC2密码/验证码/站方re
 
 ## Magic.ly即时UU交接（当前）
 Root已明确接手，Windows暂停浏览器。1919365910 https://magicly.bio/onboarding；1919365912 Google账号选择弹窗，客户端magic-6ba4b.firebaseapp.com。只正常指定liu827274@gmail.com基本资料登录，当前同范围四项协议已确认；新权限/验证码/安全警告停。无新密码。GitBook已邮件登录且指南发布，不要再登录/导入；仅需后续核实永久免费计划，当前Basic报价仍含成员费，未付款不计数。今日7/20缺13。
+
+
+## 当前原文章原生输入交接
+Magic Google已由Root解决。只保留1919365920，https://magicly.bio/pettenderly/edit-link?linkId=27ac30c0-e3c3-11f1-8859-193bf15de2f3 。公开文章空p/br，扩展fill/粘贴不持久化、普通键盘输入超时。Root要求原生键盘新路线，Windows全部浏览器暂停；禁止新建文章。当前8/20缺12，GitBookBasic免费已闭环。ExactSeek/F6S/Krain/AlternativeTo仅stage，不接受新条款；五站TLS无新恢复。
