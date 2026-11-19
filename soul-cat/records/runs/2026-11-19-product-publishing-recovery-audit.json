@@ -158,5 +158,6 @@
     "F6S"
   ],
   "current_verification_checkpoint": null,
-  "alternative_to_result": "current account created/email verified/search no match; no submission, agent eligibility judgment from current official FAQ"
+  "alternative_to_result": "current account created/email verified/search no match; no submission, agent eligibility judgment from current official FAQ",
+  "existing_accounts_six_recheck": "2026-11-19-existing-accounts-six.json"
 }
