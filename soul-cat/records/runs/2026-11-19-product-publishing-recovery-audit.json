@@ -162,5 +162,6 @@
   "existing_accounts_six_recheck": "2026-11-19-existing-accounts-six.json",
   "calameo_checkpoint": "2026-11-19-calameo-basic-terms-checkpoint.json",
   "calameo_user_confirmed": true,
-  "current_browser_gate": "Root UU Calameo Google Continue; not missing permission"
+  "current_browser_gate": "Windows native URL/URI-confidence forced stop; no browser actions",
+  "task_tab_cleanup_verified": false
 }

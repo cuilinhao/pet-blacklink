@@ -2,10 +2,10 @@
   "date": "2026-11-19",
   "source_key": "supplemental-free-2026-11-16.csv::calameo.com::calameo.com",
   "login_url": "https://www.calameo.com/#login",
-  "main_tab_id": "1919365942",
-  "google_tab_id": "1919365944",
+  "main_tab_id": "1919365948",
+  "google_tab_id": "1919365949",
   "google_scope": "basic name/avatar/liu827274@gmail.com only",
-  "google_user_selected": true,
+  "google_user_selected": false,
   "agreement_links": [
     "https://www.calameo.com/terms",
     "https://www.calameo.com/privacy"
@@ -22,9 +22,14 @@
   "user_terms_privacy_confirmed": true,
   "google_basic_scope_verified": true,
   "google_continue_completed": false,
-  "current_gate": "Root UU Continue once; extension mouse timeout and Enter only focused",
+  "current_gate": "Windows native tool forced URL/URI-confidence stop; all UI stopped",
   "content_pdf": "output/pdf/pettenderly-photo-preparation-guide.pdf",
   "pdf_visual_checked": true,
   "pdf_clickable_target_annotation_verified": true,
-  "uploaded": false
+  "uploaded": false,
+  "old_tabs_no_longer_exist": [
+    "1919365942",
+    "1919365944"
+  ],
+  "cleanup_verified": false
 }
